@@ -1,0 +1,4 @@
+---
+title: "Up'N'Smoke"
+url: /fort-collins/upnsmoke/
+---
