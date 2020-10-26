@@ -1,4 +1,4 @@
 ---
-title: "Loaf N' Jug"
+title: "Loaf 'N Jug"
 url: /dinosaur/loaf-n-jug/
 ---

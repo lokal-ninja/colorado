@@ -1,4 +1,4 @@
 ---
-title: "JOANN Fabrics and Crafts"
+title: "Joann Fabrics and Crafts"
 url: /boulder/joann-fabrics-and-crafts/
 ---

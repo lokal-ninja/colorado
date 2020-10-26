@@ -1,6 +1,6 @@
 ---
 title: Lakewood
 url: /lakewood/
-latitude: 39.7086577
-longitude: -105.08464550000001
+latitude: 39.7085736
+longitude: -105.08466940000001
 ---

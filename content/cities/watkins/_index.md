@@ -1,6 +1,6 @@
 ---
 title: Watkins
 url: /watkins/
-latitude: 39.745264500000005
-longitude: -104.6074665
+latitude: 39.7443406
+longitude: -104.60319860000001
 ---
