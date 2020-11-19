@@ -1,4 +1,4 @@
 ---
-title: "Local Product Of Colorado Marijuana"
+title: "Local Product of Colorado Marijuana"
 url: /denver/local-product-of-colorado-marijuana/
 ---

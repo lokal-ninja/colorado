@@ -1,12 +1,12 @@
 id: 6517553830
 type: node
 shop: charity
-latitude: 40.1902224
-longitude: -105.1008618
+latitude: 40.1904222
+longitude: -105.1009946
 postcode: "80501"
 city: Longmont
 street: "Main Street"
 housenumber: 1750
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-19:00"
+website: "https://www.goodwilldenver.org"

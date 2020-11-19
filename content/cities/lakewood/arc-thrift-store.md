@@ -1,4 +1,4 @@
 ---
-title: "ARC Thrift Store"
+title: "Arc Thrift Store"
 url: /lakewood/arc-thrift-store/
 ---
