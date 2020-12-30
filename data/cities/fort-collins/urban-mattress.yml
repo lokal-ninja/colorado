@@ -1,12 +1,12 @@
-id: 6409413022
-type: node
+id: 106992461
+type: way
 shop: bed
-latitude: 40.549876700000006
-longitude: -105.07757740000001
-postcode: "80525-2160"
+latitude: 40.548097500000004
+longitude: -105.0763845
+postcode: "80525"
 city: Fort Collins
 street: "South College Avenue"
-housenumber: 2721
+housenumber: 2830
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://fortcollins.urbanmattress.com/"

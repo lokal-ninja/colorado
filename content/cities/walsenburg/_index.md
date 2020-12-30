@@ -1,6 +1,6 @@
 ---
 title: Walsenburg
 url: /walsenburg/
-latitude: 37.624532800000004
-longitude: -104.7803262
+latitude: 37.6235234
+longitude: -104.78099510000001
 ---
