@@ -1,6 +1,5 @@
 id: 564835927
 type: node
-shop: supermarket
 latitude: 40.0240242
 longitude: -105.255938
 postcode: "80301"
@@ -8,5 +7,5 @@ city: Boulder
 street: "Pearl Street"
 housenumber: 2905
 phone: ""
-opening_hours: "7:00-10:00"
+opening_hours: "7:00-22:00"
 website: "https://www.wholefoodsmarket.com/stores/boulder"

@@ -1,12 +1,11 @@
-id: 239702097
-type: way
-shop: mobile phone
-latitude: 40.5793781
-longitude: -105.0767763
-postcode: "80524-3004"
+id: 6422043266
+type: node
+latitude: 40.5413615
+longitude: -105.076407
+postcode: ""
 city: Fort Collins
 street: "South College Avenue"
-housenumber: 616
+housenumber: 
 phone: ""
 opening_hours: ""
 website: ""

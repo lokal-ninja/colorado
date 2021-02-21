@@ -1,4 +1,5 @@
 ---
 title: "Chapman's Produce"
 url: /windsor/chapmans-produce/
+shop: farm
 ---

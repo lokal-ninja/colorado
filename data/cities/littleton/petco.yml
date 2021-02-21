@@ -1,6 +1,5 @@
 id: 6543623470
 type: node
-shop: pet
 latitude: 39.6172841
 longitude: -105.0883041
 postcode: "80123"
@@ -8,5 +7,5 @@ city: Littleton
 street: "West Crestline Avenue"
 housenumber: 8100
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:30-19:30; Su 10:30-19:00"
 website: ""

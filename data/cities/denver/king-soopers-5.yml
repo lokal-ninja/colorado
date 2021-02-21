@@ -1,12 +1,11 @@
-id: 78431417
-type: way
-shop: supermarket
-latitude: 39.756928200000004
-longitude: -104.9010262
-postcode: "80207"
+id: 5312865909
+type: node
+latitude: 39.7024373
+longitude: -104.94154
+postcode: "80246"
 city: Denver
-street: "Quebec Street"
-housenumber: 2810
-phone: "(303) 333-3837"
+street: "South Colorado Boulevard"
+housenumber: 825
+phone: ""
 opening_hours: ""
-website: "https://www.kingsoopers.com/stores/details/620/00093?cid=loc_62000093_gmb"
+website: ""

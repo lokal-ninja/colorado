@@ -1,6 +1,5 @@
 id: 194528226
 type: way
-shop: car
 latitude: 38.813036600000004
 longitude: -104.82600500000001
 postcode: "80905"
@@ -9,4 +8,4 @@ street: "East Motor Way"
 housenumber: 15
 phone: "(719) 471-3100"
 opening_hours: "Mo-Sa 08:00-20:00, Su closed"
-website: "http://www.toyotaofcoloradosprings.com"
+website: "https://www.toyotaofcoloradosprings.com/"
