@@ -1,6 +1,6 @@
 ---
 title: Crested Butte
 url: /crested-butte/
-latitude: 38.869748
-longitude: -106.98411100000001
+latitude: 38.869820100000005
+longitude: -106.9840437
 ---
