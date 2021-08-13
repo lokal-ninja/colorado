@@ -1,5 +1,5 @@
 ---
 title: "Secrets"
 url: /denver/secrets/
-shop: shop
+shop: erotic
 ---

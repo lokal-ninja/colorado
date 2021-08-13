@@ -1,6 +1,6 @@
 ---
 title: Highlands Ranch
 url: /highlands-ranch/
-latitude: 39.5538771
-longitude: -104.9694264
+latitude: 39.5497243
+longitude: -104.9695655
 ---
