@@ -1,5 +1,5 @@
 ---
-title: "Save a Lot"
+title: "Save-A-Lot"
 url: /pueblo/save-a-lot/
 shop: supermarket
 ---
