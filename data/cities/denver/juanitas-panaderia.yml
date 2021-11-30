@@ -7,5 +7,5 @@ city: Denver
 street: "East 46th Avenue"
 housenumber: 2322
 phone: "+1-303-298-8234"
-opening_hours: "Mo-Fr 07:00-15:00; Mo-Fr 17:00-20:00"
+opening_hours: "Mo-Fr 07:00-15:00,17:00-20:00"
 website: ""

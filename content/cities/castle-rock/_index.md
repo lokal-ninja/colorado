@@ -1,6 +1,6 @@
 ---
 title: Castle Rock
 url: /castle-rock/
-latitude: 39.3723341
-longitude: -104.8586643
+latitude: 39.372255200000005
+longitude: -104.85868260000001
 ---

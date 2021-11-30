@@ -1,5 +1,5 @@
 ---
-title: "GREEN MOUNTAIN SPORTS"
+title: "Green Mountain Sports"
 url: /lakewood/green-mountain-sports/
 shop: sports
 ---
