@@ -1,5 +1,5 @@
 ---
-title: "Arc Thrift Store"
+title: "arc Thrift Store"
 url: /northglenn/arc-thrift-store/
 shop: charity
 ---
