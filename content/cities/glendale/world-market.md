@@ -1,5 +1,5 @@
 ---
 title: "World Market"
-url: /denver/world-market/
+url: /glendale/world-market/
 shop: interior decoration
 ---
