@@ -1,6 +1,6 @@
 ---
 title: Olney Springs
 url: /olney-springs/
-latitude: 38.166116200000005
-longitude: -103.94467920000001
+latitude: 38.166
+longitude: -103.943
 ---

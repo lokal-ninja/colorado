@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /castle-rock/zales/
-shop: jewelry
+shop: Schmuck
 ---

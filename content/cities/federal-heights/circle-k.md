@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /federal-heights/circle-k/
-shop: convenience
+shop: Lebensmittel
 ---

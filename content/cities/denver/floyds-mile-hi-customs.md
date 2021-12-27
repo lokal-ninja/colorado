@@ -1,5 +1,5 @@
 ---
 title: "Floyds Mile Hi Customs"
 url: /denver/floyds-mile-hi-customs/
-shop: car parts
+shop: Autoteile
 ---

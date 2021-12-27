@@ -1,5 +1,5 @@
 ---
 title: "Kitchens At The Denver"
 url: /denver/kitchens-at-the-denver/
-shop: kitchen
+shop: Küchen
 ---

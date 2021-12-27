@@ -1,6 +1,6 @@
 ---
 title: Orchard Mesa
 url: /orchard-mesa/
-latitude: 39.0433444
-longitude: -108.55257150000001
+latitude: 39.041
+longitude: -108.542
 ---

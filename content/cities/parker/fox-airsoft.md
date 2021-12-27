@@ -1,5 +1,5 @@
 ---
 title: "Fox Airsoft"
 url: /parker/fox-airsoft/
-shop: sports
+shop: Sport
 ---

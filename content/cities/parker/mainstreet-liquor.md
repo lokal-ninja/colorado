@@ -1,5 +1,5 @@
 ---
 title: "Mainstreet Liquor"
 url: /parker/mainstreet-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Paonia
 url: /paonia/
-latitude: 38.8683205
-longitude: -107.5920018
+latitude: 38.845
+longitude: -107.589
 ---

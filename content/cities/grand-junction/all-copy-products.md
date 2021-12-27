@@ -1,5 +1,5 @@
 ---
 title: "All Copy Products"
 url: /grand-junction/all-copy-products/
-shop: copyshop
+shop: Kopieren
 ---

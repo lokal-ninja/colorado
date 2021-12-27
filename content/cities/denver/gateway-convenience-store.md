@@ -1,5 +1,5 @@
 ---
 title: "Gateway Convenience Store"
 url: /denver/gateway-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

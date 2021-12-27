@@ -1,5 +1,5 @@
 ---
 title: "More Flowers"
 url: /denver/more-flowers/
-shop: florist
+shop: Blumen
 ---

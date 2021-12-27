@@ -1,6 +1,6 @@
 ---
 title: Arvada
 url: /arvada/
-latitude: 
-longitude: 
+latitude: 39.8
+longitude: -105.056
 ---

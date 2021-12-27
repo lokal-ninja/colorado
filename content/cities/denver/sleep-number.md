@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /denver/sleep-number/
-shop: bed
+shop: Betten
 ---

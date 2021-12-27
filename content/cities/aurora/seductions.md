@@ -1,5 +1,5 @@
 ---
 title: "Seductions"
 url: /aurora/seductions/
-shop: erotic
+shop: Erotik
 ---

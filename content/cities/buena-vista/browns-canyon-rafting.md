@@ -1,5 +1,5 @@
 ---
 title: "Browns Canyon Rafting"
 url: /buena-vista/browns-canyon-rafting/
-shop: shop
+shop: Allgemein
 ---

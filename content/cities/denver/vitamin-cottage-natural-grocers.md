@@ -1,5 +1,5 @@
 ---
 title: "Vitamin Cottage Natural Grocers"
 url: /denver/vitamin-cottage-natural-grocers/
-shop: supermarket
+shop: Supermarkt
 ---

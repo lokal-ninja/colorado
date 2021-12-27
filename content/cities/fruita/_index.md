@@ -1,6 +1,6 @@
 ---
 title: Fruita
 url: /fruita/
-latitude: 39.158869700000004
-longitude: -108.728988
+latitude: 39.159
+longitude: -108.732
 ---

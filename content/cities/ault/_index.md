@@ -1,6 +1,6 @@
 ---
 title: Ault
 url: /ault/
-latitude: 40.5824804
-longitude: -104.73191120000001
+latitude: 40.582
+longitude: -104.734
 ---

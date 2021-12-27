@@ -1,5 +1,5 @@
 ---
 title: "Saguache Town Market"
 url: /saguache/saguache-town-market/
-shop: supermarket
+shop: Supermarkt
 ---

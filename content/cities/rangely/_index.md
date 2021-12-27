@@ -1,6 +1,6 @@
 ---
 title: Rangely
 url: /rangely/
-latitude: 40.0874759
-longitude: -108.8048292
+latitude: 40.088
+longitude: -108.804
 ---

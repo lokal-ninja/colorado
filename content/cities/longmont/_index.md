@@ -1,6 +1,6 @@
 ---
 title: Longmont
 url: /longmont/
-latitude: 40.1672117
-longitude: -105.1019287
+latitude: 40.154
+longitude: -105.097
 ---

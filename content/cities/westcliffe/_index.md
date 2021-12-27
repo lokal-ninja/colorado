@@ -1,6 +1,6 @@
 ---
 title: Westcliffe
 url: /westcliffe/
-latitude: 38.134722000000004
-longitude: -105.46583530000001
+latitude: 38.136
+longitude: -105.466
 ---

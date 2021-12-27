@@ -1,5 +1,5 @@
 ---
 title: "Wild Country Keepsakes"
 url: /crawford/wild-country-keepsakes/
-shop: gift
+shop: Andenken
 ---

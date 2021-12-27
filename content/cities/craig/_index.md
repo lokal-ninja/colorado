@@ -1,6 +1,6 @@
 ---
 title: Craig
 url: /craig/
-latitude: 40.515249100000005
-longitude: -107.5464541
+latitude: 40.532
+longitude: -107.448
 ---

@@ -1,6 +1,6 @@
 ---
 title: La Junta
 url: /la-junta/
-latitude: 37.9850091
-longitude: -103.5438321
+latitude: 37.987
+longitude: -103.548
 ---

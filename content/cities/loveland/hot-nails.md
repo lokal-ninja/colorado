@@ -1,5 +1,5 @@
 ---
 title: "Hot Nails"
 url: /loveland/hot-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jerry's Market"
 url: /denver/jerrys-market/
-shop: convenience
+shop: Lebensmittel
 ---

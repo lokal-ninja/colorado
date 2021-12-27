@@ -1,5 +1,5 @@
 ---
 title: "Puppies N Stuff"
 url: /northglenn/puppies-n-stuff/
-shop: pet
+shop: Tiere
 ---

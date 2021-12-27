@@ -1,5 +1,5 @@
 ---
 title: "Wish Boutique"
 url: /denver/wish-boutique/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Basalt
 url: /basalt/
-latitude: 39.3688731
-longitude: -107.03282420000001
+latitude: 39.387
+longitude: -107.083
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spin Creative Studio"
 url: /denver/spin-creative-studio/
-shop: video
+shop: Videothek
 ---

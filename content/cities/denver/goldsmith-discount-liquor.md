@@ -1,5 +1,5 @@
 ---
 title: "Goldsmith Discount Liquor"
 url: /denver/goldsmith-discount-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

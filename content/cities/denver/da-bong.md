@@ -1,5 +1,5 @@
 ---
 title: "Da Bong"
 url: /denver/da-bong/
-shop: cannabis
+shop: Hanf
 ---

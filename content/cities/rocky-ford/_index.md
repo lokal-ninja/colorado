@@ -1,6 +1,6 @@
 ---
 title: Rocky Ford
 url: /rocky-ford/
-latitude: 38.052508
-longitude: -103.72022740000001
+latitude: 38.052
+longitude: -103.714
 ---

@@ -1,6 +1,6 @@
 ---
 title: Idaho Springs
 url: /idaho-springs/
-latitude: 39.7426079
-longitude: -105.509268
+latitude: 39.742
+longitude: -105.516
 ---

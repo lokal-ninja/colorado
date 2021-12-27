@@ -1,6 +1,6 @@
 ---
 title: Parker
 url: /parker/
-latitude: 39.518451400000004
-longitude: -104.76126380000001
+latitude: 39.509
+longitude: -104.764
 ---

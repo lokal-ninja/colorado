@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /denver/conoco-2/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mile High Kutz"
 url: /denver/mile-high-kutz/
-shop: hairdresser
+shop: Friseur
 ---

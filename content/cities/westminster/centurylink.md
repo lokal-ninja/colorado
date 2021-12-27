@@ -1,5 +1,5 @@
 ---
 title: "CenturyLink"
 url: /westminster/centurylink/
-shop: shop
+shop: Allgemein
 ---

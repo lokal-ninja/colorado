@@ -1,5 +1,5 @@
 ---
 title: "Bouquets"
 url: /denver/bouquets/
-shop: florist
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "American Furniture Warehouse"
 url: /pueblo/american-furniture-warehouse/
-shop: furniture
+shop: Möbel
 ---

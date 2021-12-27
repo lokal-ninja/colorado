@@ -1,5 +1,5 @@
 ---
 title: "Thoughts In Bloom"
 url: /lamar/thoughts-in-bloom/
-shop: florist
+shop: Blumen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Carbondale
 url: /carbondale/
-latitude: 39.4022054
-longitude: -107.21116280000001
+latitude: 39.408
+longitude: -107.222
 ---

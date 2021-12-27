@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /thornton/costco/
-shop: wholesale
+shop: Großhandel
 ---

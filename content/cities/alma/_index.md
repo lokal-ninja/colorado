@@ -1,6 +1,6 @@
 ---
 title: Alma
 url: /alma/
-latitude: 39.2839036
-longitude: -106.062617
+latitude: 39.284
+longitude: -106.063
 ---

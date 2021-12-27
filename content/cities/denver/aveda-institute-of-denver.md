@@ -1,5 +1,5 @@
 ---
 title: "Aveda Institute of Denver"
 url: /denver/aveda-institute-of-denver/
-shop: hairdresser
+shop: Friseur
 ---

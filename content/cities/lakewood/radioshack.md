@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /lakewood/radioshack/
-shop: electronics
+shop: Elektronik
 ---

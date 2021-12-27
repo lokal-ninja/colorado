@@ -1,5 +1,5 @@
 ---
 title: "California Concept Salon"
 url: /fort-collins/california-concept-salon/
-shop: hairdresser
+shop: Friseur
 ---

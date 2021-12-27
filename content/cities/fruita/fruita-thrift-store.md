@@ -1,5 +1,5 @@
 ---
 title: "Fruita Thrift Store"
 url: /fruita/fruita-thrift-store/
-shop: charity
+shop: Gebrauchtwaren
 ---

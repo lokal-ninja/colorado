@@ -1,6 +1,6 @@
 ---
 title: Julesburg
 url: /julesburg/
-latitude: 40.988326
-longitude: -102.264352
+latitude: 40.987
+longitude: -102.263
 ---

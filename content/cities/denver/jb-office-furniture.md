@@ -1,5 +1,5 @@
 ---
 title: "JB Office Furniture"
 url: /denver/jb-office-furniture/
-shop: furniture
+shop: Möbel
 ---

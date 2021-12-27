@@ -1,6 +1,6 @@
 ---
 title: Pueblo
 url: /pueblo/
-latitude: 38.187635
-longitude: -104.5350145
+latitude: 38.272
+longitude: -104.614
 ---

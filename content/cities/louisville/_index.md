@@ -1,6 +1,6 @@
 ---
 title: Louisville
 url: /louisville/
-latitude: 39.977763
-longitude: -105.1319296
+latitude: 39.987
+longitude: -105.133
 ---

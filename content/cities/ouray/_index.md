@@ -1,6 +1,6 @@
 ---
 title: Ouray
 url: /ouray/
-latitude: 38.146044
-longitude: -107.7414887
+latitude: 38.023
+longitude: -107.671
 ---

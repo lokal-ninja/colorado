@@ -1,6 +1,6 @@
 ---
 title: Kersey
 url: /kersey/
-latitude: 40.387481
-longitude: -104.56162560000001
+latitude: 40.392
+longitude: -104.564
 ---

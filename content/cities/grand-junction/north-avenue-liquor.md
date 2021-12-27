@@ -1,5 +1,5 @@
 ---
 title: "North Avenue Liquor"
 url: /grand-junction/north-avenue-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

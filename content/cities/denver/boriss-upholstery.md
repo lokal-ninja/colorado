@@ -1,5 +1,5 @@
 ---
 title: "Boris's Upholstery"
 url: /denver/boriss-upholstery/
-shop: fabric
+shop: Textil
 ---

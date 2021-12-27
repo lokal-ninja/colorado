@@ -1,6 +1,6 @@
 ---
 title: Limon
 url: /limon/
-latitude: 39.264854500000006
-longitude: -103.6931237
+latitude: 39.265
+longitude: -103.671
 ---

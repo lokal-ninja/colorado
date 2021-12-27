@@ -1,6 +1,6 @@
 ---
 title: Colroado Springs
 url: /colroado-springs/
-latitude: 
-longitude: 
+latitude: 38.819
+longitude: -104.827
 ---

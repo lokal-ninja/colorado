@@ -1,5 +1,5 @@
 ---
 title: "McDonald Volvo Cars"
 url: /littleton/mcdonald-volvo-cars/
-shop: car
+shop: Autohaus
 ---

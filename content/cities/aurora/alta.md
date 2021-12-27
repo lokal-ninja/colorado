@@ -1,5 +1,5 @@
 ---
 title: "Alta"
 url: /aurora/alta/
-shop: convenience
+shop: Lebensmittel
 ---

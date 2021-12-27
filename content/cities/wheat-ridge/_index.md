@@ -1,6 +1,6 @@
 ---
 title: Wheat Ridge
 url: /wheat-ridge/
-latitude: 39.766098
-longitude: -105.0772063
+latitude: 39.764
+longitude: -105.141
 ---

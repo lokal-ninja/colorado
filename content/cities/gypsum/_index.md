@@ -1,6 +1,6 @@
 ---
 title: Gypsum
 url: /gypsum/
-latitude: 39.646929400000005
-longitude: -106.951711
+latitude: 39.645
+longitude: -106.882
 ---

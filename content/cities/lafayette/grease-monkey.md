@@ -1,5 +1,5 @@
 ---
 title: "Grease Monkey"
 url: /lafayette/grease-monkey/
-shop: car repair
+shop: Autowerkstatt
 ---

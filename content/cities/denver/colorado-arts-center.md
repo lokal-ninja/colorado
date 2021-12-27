@@ -1,5 +1,5 @@
 ---
 title: "Colorado Arts Center"
 url: /denver/colorado-arts-center/
-shop: art
+shop: Kunst
 ---

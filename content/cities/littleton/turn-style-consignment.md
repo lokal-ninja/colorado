@@ -1,5 +1,5 @@
 ---
 title: "Turn Style Consignment"
 url: /littleton/turn-style-consignment/
-shop: charity
+shop: Gebrauchtwaren
 ---

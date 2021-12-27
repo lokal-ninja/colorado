@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /lamar/conoco/
-shop: convenience
+shop: Lebensmittel
 ---

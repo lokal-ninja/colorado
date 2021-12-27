@@ -1,6 +1,6 @@
 ---
 title: Frederick
 url: /frederick/
-latitude: 40.0991506
-longitude: -104.937199
+latitude: 40.081
+longitude: -104.985
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eaton
 url: /eaton/
-latitude: 40.530258200000006
-longitude: -104.7113542
+latitude: 40.545
+longitude: -104.793
 ---

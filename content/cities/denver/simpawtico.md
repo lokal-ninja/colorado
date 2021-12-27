@@ -1,5 +1,5 @@
 ---
 title: "Simpawtico"
 url: /denver/simpawtico/
-shop: pet
+shop: Tiere
 ---

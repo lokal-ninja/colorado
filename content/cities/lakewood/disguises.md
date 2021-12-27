@@ -1,5 +1,5 @@
 ---
 title: "Disguises"
 url: /lakewood/disguises/
-shop: shop
+shop: Allgemein
 ---

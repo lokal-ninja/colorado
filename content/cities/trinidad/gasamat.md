@@ -1,5 +1,5 @@
 ---
 title: "Gasamat"
 url: /trinidad/gasamat/
-shop: convenience
+shop: Lebensmittel
 ---

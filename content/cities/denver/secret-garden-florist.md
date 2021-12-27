@@ -1,5 +1,5 @@
 ---
 title: "Secret Garden Florist"
 url: /denver/secret-garden-florist/
-shop: florist
+shop: Blumen
 ---

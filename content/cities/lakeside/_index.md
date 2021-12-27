@@ -1,6 +1,6 @@
 ---
 title: Lakeside
 url: /lakeside/
-latitude: 
-longitude: 
+latitude: 39.778
+longitude: -105.06
 ---

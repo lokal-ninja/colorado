@@ -1,5 +1,5 @@
 ---
 title: "Victoria Marie Jewelers"
 url: /parker/victoria-marie-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

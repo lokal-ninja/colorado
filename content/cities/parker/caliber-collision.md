@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /parker/caliber-collision/
-shop: car repair
+shop: Autowerkstatt
 ---

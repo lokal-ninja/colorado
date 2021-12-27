@@ -1,5 +1,5 @@
 ---
 title: "True Value"
 url: /poncha-springs/true-value/
-shop: hardware
+shop: Eisenwaren
 ---

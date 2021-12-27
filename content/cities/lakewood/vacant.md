@@ -1,5 +1,5 @@
 ---
 title: "Vacant"
 url: /lakewood/vacant/
-shop: shop
+shop: Allgemein
 ---

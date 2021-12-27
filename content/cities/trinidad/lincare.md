@@ -1,5 +1,5 @@
 ---
 title: "Lincare"
 url: /trinidad/lincare/
-shop: medical supply
+shop: Sanitätshaus
 ---

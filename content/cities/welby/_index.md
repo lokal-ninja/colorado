@@ -1,6 +1,6 @@
 ---
 title: Welby
 url: /welby/
-latitude: 39.8382208
-longitude: -104.95926870000001
+latitude: 39.856
+longitude: -104.956
 ---

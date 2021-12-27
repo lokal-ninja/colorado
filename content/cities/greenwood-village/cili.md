@@ -1,5 +1,5 @@
 ---
 title: "Cili"
 url: /greenwood-village/cili/
-shop: hairdresser
+shop: Friseur
 ---

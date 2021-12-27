@@ -1,5 +1,5 @@
 ---
 title: "Tires Plus"
 url: /thornton/tires-plus/
-shop: tyres
+shop: Reifen
 ---

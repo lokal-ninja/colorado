@@ -1,6 +1,6 @@
 ---
 title: Arriba
 url: /arriba/
-latitude: 39.2860997
-longitude: -103.2754955
+latitude: 39.286
+longitude: -103.268
 ---

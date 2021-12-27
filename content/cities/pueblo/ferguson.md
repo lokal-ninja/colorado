@@ -1,5 +1,5 @@
 ---
 title: "Ferguson"
 url: /pueblo/ferguson/
-shop: doityourself
+shop: Baumarkt
 ---

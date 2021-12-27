@@ -1,5 +1,5 @@
 ---
 title: "The Singing Cook"
 url: /louisville/the-singing-cook/
-shop: houseware
+shop: Haushaltsartikel
 ---

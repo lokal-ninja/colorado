@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /northglenn/petco/
-shop: pet
+shop: Tiere
 ---

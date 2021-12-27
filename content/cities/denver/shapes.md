@@ -1,5 +1,5 @@
 ---
 title: "Shapes"
 url: /denver/shapes/
-shop: hairdresser
+shop: Friseur
 ---

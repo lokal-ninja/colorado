@@ -1,5 +1,5 @@
 ---
 title: "Bradley"
 url: /centennial/bradley/
-shop: convenience
+shop: Lebensmittel
 ---

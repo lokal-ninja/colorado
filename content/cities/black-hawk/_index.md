@@ -1,6 +1,6 @@
 ---
 title: Black Hawk
 url: /black-hawk/
-latitude: 
-longitude: 
+latitude: 39.868
+longitude: -105.466
 ---

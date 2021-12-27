@@ -1,5 +1,5 @@
 ---
 title: "Gina's Puppy Love Salon"
 url: /aurora/ginas-puppy-love-salon/
-shop: pet grooming
+shop: Tiersalon
 ---

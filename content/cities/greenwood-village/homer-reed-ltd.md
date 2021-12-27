@@ -1,5 +1,5 @@
 ---
 title: "Homer Reed Ltd"
 url: /greenwood-village/homer-reed-ltd/
-shop: tailor
+shop: Schneiderei
 ---

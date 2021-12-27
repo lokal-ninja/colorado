@@ -1,5 +1,5 @@
 ---
 title: "Alameda Liquor Mart"
 url: /denver/alameda-liquor-mart/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MD Fashion"
 url: /aurora/md-fashion/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pierce
 url: /pierce/
-latitude: 40.635536
-longitude: -104.75524580000001
+latitude: 40.635
+longitude: -104.763
 ---

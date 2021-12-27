@@ -1,5 +1,5 @@
 ---
 title: "TANfastic"
 url: /grand-junction/tanfastic/
-shop: beauty
+shop: Kosmetik
 ---

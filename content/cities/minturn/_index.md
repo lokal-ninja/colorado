@@ -1,6 +1,6 @@
 ---
 title: Minturn
 url: /minturn/
-latitude: 39.5863749
-longitude: -106.43086310000001
+latitude: 39.589
+longitude: -106.432
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Little Jewel"
 url: /boulder/the-little-jewel/
-shop: jewelry
+shop: Schmuck
 ---

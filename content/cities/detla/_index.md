@@ -1,6 +1,6 @@
 ---
 title: Detla
 url: /detla/
-latitude: 
-longitude: 
+latitude: 38.751
+longitude: -108.055
 ---

@@ -1,6 +1,6 @@
 ---
 title: Evans
 url: /evans/
-latitude: 40.3763701
-longitude: -104.69218740000001
+latitude: 40.368
+longitude: -104.704
 ---

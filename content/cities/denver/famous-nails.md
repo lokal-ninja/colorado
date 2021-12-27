@@ -1,5 +1,5 @@
 ---
 title: "Famous Nails"
 url: /denver/famous-nails/
-shop: beauty
+shop: Kosmetik
 ---

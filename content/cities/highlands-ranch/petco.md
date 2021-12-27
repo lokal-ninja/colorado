@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /highlands-ranch/petco/
-shop: pet
+shop: Tiere
 ---

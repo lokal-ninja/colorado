@@ -1,6 +1,6 @@
 ---
 title: Estes Park
 url: /estes-park/
-latitude: 40.3771926
-longitude: -105.523216
+latitude: 40.37
+longitude: -105.529
 ---

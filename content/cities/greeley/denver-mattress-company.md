@@ -1,5 +1,5 @@
 ---
 title: "Denver Mattress Company"
 url: /greeley/denver-mattress-company/
-shop: bed
+shop: Betten
 ---

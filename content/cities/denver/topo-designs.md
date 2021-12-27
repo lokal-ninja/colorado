@@ -1,5 +1,5 @@
 ---
 title: "Topo Designs"
 url: /denver/topo-designs/
-shop: clothes
+shop: Kleidung
 ---

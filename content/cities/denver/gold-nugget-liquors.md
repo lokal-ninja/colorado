@@ -1,5 +1,5 @@
 ---
 title: "Gold Nugget Liquors"
 url: /denver/gold-nugget-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

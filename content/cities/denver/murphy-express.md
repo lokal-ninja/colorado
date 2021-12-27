@@ -1,5 +1,5 @@
 ---
 title: "Murphy Express"
 url: /denver/murphy-express/
-shop: convenience
+shop: Lebensmittel
 ---

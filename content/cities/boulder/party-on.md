@@ -1,5 +1,5 @@
 ---
 title: "Party On!"
 url: /boulder/party-on/
-shop: party
+shop: Partyzubehör
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blue Ribbon Farm"
 url: /longmont/blue-ribbon-farm/
-shop: garden centre
+shop: Garten-Center
 ---

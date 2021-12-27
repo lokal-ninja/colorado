@@ -1,5 +1,5 @@
 ---
 title: "Clayton Homes"
 url: /grand-junction/clayton-homes/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The North Face"
 url: /castle-rock/the-north-face/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plantorium"
 url: /fort-collins/plantorium/
-shop: garden centre
+shop: Garten-Center
 ---

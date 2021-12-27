@@ -1,6 +1,6 @@
 ---
 title: Castle Pines
 url: /castle-pines/
-latitude: 39.4580448
-longitude: -104.8960911
+latitude: 39.469
+longitude: -104.88
 ---

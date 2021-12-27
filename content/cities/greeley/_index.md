@@ -1,6 +1,6 @@
 ---
 title: greeley
 url: /greeley/
-latitude: 
-longitude: 
+latitude: 40.393
+longitude: -104.715
 ---

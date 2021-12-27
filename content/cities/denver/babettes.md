@@ -1,5 +1,5 @@
 ---
 title: "Babettes"
 url: /denver/babettes/
-shop: bakery
+shop: Bäckerei
 ---

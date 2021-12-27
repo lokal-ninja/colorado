@@ -1,5 +1,5 @@
 ---
 title: "Dolce"
 url: /telluride/dolce/
-shop: jewelry
+shop: Schmuck
 ---

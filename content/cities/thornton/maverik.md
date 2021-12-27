@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /thornton/maverik/
-shop: convenience
+shop: Lebensmittel
 ---

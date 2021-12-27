@@ -1,5 +1,5 @@
 ---
 title: "Hair Color Express"
 url: /aurora/hair-color-express/
-shop: beauty
+shop: Kosmetik
 ---

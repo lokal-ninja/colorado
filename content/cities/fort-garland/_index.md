@@ -1,6 +1,6 @@
 ---
 title: Fort Garland
 url: /fort-garland/
-latitude: 37.4289592
-longitude: -105.43276700000001
+latitude: 37.427
+longitude: -105.431
 ---

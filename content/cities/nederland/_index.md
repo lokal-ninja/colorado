@@ -1,6 +1,6 @@
 ---
 title: Nederland
 url: /nederland/
-latitude: 39.9613759
-longitude: -105.51083100000001
+latitude: 39.962
+longitude: -105.511
 ---

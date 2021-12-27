@@ -1,5 +1,5 @@
 ---
 title: "Cinnabon"
 url: /aurora/cinnabon/
-shop: bakery
+shop: Bäckerei
 ---

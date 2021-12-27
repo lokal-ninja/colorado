@@ -1,5 +1,5 @@
 ---
 title: "Cresco"
 url: /aurora/cresco/
-shop: shop
+shop: Allgemein
 ---

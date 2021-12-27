@@ -1,5 +1,5 @@
 ---
 title: "5280 Motorsports"
 url: /denver/5280-motorsports/
-shop: car repair
+shop: Autowerkstatt
 ---

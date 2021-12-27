@@ -1,6 +1,6 @@
 ---
 title: Sargents
 url: /sargents/
-latitude: 38.404163000000004
-longitude: -106.415028
+latitude: 38.406
+longitude: -106.416
 ---

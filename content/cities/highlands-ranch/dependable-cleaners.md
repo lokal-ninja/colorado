@@ -1,5 +1,5 @@
 ---
 title: "Dependable Cleaners"
 url: /highlands-ranch/dependable-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

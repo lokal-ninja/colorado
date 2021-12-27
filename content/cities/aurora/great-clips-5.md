@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /aurora/great-clips-5/
-shop: hairdresser
+shop: Friseur
 ---

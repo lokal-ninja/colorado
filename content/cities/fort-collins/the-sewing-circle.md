@@ -1,5 +1,5 @@
 ---
 title: "The Sewing Circle"
 url: /fort-collins/the-sewing-circle/
-shop: sewing
+shop: Nähzubehör
 ---

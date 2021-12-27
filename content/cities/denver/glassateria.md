@@ -1,5 +1,5 @@
 ---
 title: "Glassateria"
 url: /denver/glassateria/
-shop: art
+shop: Kunst
 ---

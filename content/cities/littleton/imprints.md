@@ -1,5 +1,5 @@
 ---
 title: "Imprints"
 url: /littleton/imprints/
-shop: art
+shop: Kunst
 ---

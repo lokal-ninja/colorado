@@ -1,6 +1,6 @@
 ---
 title: Berthoud
 url: /berthoud/
-latitude: 40.3083174
-longitude: -105.0810924
+latitude: 40.305
+longitude: -105.077
 ---

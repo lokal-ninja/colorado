@@ -1,5 +1,5 @@
 ---
 title: "Campus Cycles"
 url: /lakewood/campus-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

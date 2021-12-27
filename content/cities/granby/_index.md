@@ -1,6 +1,6 @@
 ---
 title: Granby
 url: /granby/
-latitude: 40.0860969
-longitude: -105.9394597
+latitude: 40.063
+longitude: -105.93
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /highlands-ranch/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

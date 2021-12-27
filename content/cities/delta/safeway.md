@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /delta/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

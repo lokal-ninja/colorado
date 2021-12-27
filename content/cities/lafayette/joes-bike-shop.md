@@ -1,5 +1,5 @@
 ---
 title: "Joe's Bike Shop"
 url: /lafayette/joes-bike-shop/
-shop: bicycle
+shop: Fahrrad
 ---

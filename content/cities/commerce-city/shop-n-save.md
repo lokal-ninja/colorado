@@ -1,5 +1,5 @@
 ---
 title: "Shop N Save"
 url: /commerce-city/shop-n-save/
-shop: convenience
+shop: Lebensmittel
 ---

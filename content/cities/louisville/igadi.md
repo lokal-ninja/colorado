@@ -1,5 +1,5 @@
 ---
 title: "Igadi"
 url: /louisville/igadi/
-shop: cannabis
+shop: Hanf
 ---

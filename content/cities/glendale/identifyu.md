@@ -1,5 +1,5 @@
 ---
 title: "identifyu"
 url: /glendale/identifyu/
-shop: hairdresser
+shop: Friseur
 ---

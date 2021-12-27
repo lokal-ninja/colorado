@@ -1,6 +1,6 @@
 ---
 title: Salida
 url: /salida/
-latitude: 38.5347193
-longitude: -105.998902
+latitude: 38.537
+longitude: -105.992
 ---

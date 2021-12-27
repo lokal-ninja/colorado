@@ -1,5 +1,5 @@
 ---
 title: "Junior's Old School Barbershop"
 url: /denver/juniors-old-school-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

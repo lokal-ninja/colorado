@@ -1,5 +1,5 @@
 ---
 title: "DenCo"
 url: /denver/denco/
-shop: cannabis
+shop: Hanf
 ---

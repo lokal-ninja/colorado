@@ -1,5 +1,5 @@
 ---
 title: "Look"
 url: /grand-junction/look/
-shop: optician
+shop: Optiker
 ---

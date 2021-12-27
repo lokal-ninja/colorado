@@ -1,6 +1,6 @@
 ---
 title: Timnath
 url: /timnath/
-latitude: 40.5294388
-longitude: -104.9820861
+latitude: 40.527
+longitude: -104.991
 ---

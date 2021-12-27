@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /thornton/shell/
-shop: convenience
+shop: Lebensmittel
 ---

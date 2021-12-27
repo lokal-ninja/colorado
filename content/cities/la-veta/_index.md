@@ -1,6 +1,6 @@
 ---
 title: La Veta
 url: /la-veta/
-latitude: 37.505011800000005
-longitude: -105.00777470000001
+latitude: 37.5
+longitude: -105.013
 ---

@@ -1,6 +1,6 @@
 ---
 title: Colorado Springs
 url: /colorado-springs/
-latitude: 38.8339578
-longitude: -104.8253485
+latitude: 38.928
+longitude: -104.815
 ---

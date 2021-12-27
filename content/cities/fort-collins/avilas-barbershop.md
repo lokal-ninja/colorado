@@ -1,5 +1,5 @@
 ---
 title: "Avila's Barbershop"
 url: /fort-collins/avilas-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

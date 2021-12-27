@@ -1,6 +1,6 @@
 ---
 title: Peyton
 url: /peyton/
-latitude: 39.028880900000004
-longitude: -104.48302380000001
+latitude: 38.94
+longitude: -104.609
 ---

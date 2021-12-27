@@ -1,5 +1,5 @@
 ---
 title: "Looking Good Salon"
 url: /avon/looking-good-salon/
-shop: hairdresser
+shop: Friseur
 ---

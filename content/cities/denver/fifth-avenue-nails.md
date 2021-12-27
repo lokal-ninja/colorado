@@ -1,5 +1,5 @@
 ---
 title: "Fifth Avenue Nails"
 url: /denver/fifth-avenue-nails/
-shop: beauty
+shop: Kosmetik
 ---

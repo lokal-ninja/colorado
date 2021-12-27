@@ -1,6 +1,6 @@
 ---
 title: Masonville
 url: /masonville/
-latitude: 40.4865835
-longitude: -105.21035690000001
+latitude: 40.487
+longitude: -105.21
 ---

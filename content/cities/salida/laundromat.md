@@ -1,5 +1,5 @@
 ---
 title: "Laundromat"
 url: /salida/laundromat/
-shop: laundry
+shop: Wäscherei
 ---

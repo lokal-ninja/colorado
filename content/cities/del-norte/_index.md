@@ -1,6 +1,6 @@
 ---
 title: Del Norte
 url: /del-norte/
-latitude: 37.6788919
-longitude: -106.35336840000001
+latitude: 37.68
+longitude: -106.362
 ---

@@ -1,6 +1,6 @@
 ---
 title: Superior
 url: /superior/
-latitude: 39.9527634
-longitude: -105.1685977
+latitude: 39.96
+longitude: -105.175
 ---

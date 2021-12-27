@@ -1,6 +1,6 @@
 ---
 title: Monument
 url: /monument/
-latitude: 39.0916586
-longitude: -104.872758
+latitude: 39.067
+longitude: -104.855
 ---

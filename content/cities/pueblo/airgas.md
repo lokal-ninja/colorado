@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /pueblo/airgas/
-shop: gas
+shop: Gasflaschen
 ---
