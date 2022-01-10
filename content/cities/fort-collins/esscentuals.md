@@ -1,5 +1,5 @@
 ---
 title: "EsScentuals"
 url: /fort-collins/esscentuals/
-shop: Andenken
+shop: gift
 ---

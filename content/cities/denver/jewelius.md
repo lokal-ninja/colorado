@@ -1,5 +1,5 @@
 ---
 title: "Jewelius"
 url: /denver/jewelius/
-shop: Schmuck
+shop: jewelry
 ---

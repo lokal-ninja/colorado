@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /lakewood/sprint/
-shop: Handy
+shop: mobile phone
 ---

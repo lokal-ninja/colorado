@@ -1,5 +1,5 @@
 ---
 title: "Colorado Seat Treat"
 url: /denver/colorado-seat-treat/
-shop: Autowerkstatt
+shop: car repair
 ---

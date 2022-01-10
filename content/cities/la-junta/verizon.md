@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /la-junta/verizon/
-shop: Handy
+shop: mobile phone
 ---

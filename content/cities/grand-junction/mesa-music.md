@@ -1,5 +1,5 @@
 ---
 title: "Mesa Music"
 url: /grand-junction/mesa-music/
-shop: Instrumente
+shop: musical instrument
 ---

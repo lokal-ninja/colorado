@@ -1,5 +1,5 @@
 ---
 title: "Mattress King"
 url: /denver/mattress-king/
-shop: Möbel
+shop: furniture
 ---

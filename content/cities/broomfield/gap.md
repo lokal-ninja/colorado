@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /broomfield/gap/
-shop: Kleidung
+shop: clothes
 ---

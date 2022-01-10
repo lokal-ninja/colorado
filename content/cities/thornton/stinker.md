@@ -1,5 +1,5 @@
 ---
 title: "Stinker"
 url: /thornton/stinker/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bud's Warehouse"
 url: /aurora/buds-warehouse/
-shop: Baumarkt
+shop: doityourself
 ---

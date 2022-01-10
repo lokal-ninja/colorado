@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /glenwood-springs/walmart/
-shop: Warenhaus
+shop: department store
 ---

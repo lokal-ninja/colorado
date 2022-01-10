@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /broomfield/autozone/
-shop: Autoteile
+shop: car parts
 ---

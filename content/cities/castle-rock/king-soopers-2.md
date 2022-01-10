@@ -1,5 +1,5 @@
 ---
 title: "King Soopers"
 url: /castle-rock/king-soopers-2/
-shop: Supermarkt
+shop: supermarket
 ---

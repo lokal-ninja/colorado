@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /colorado-springs/autozone/
-shop: Autoteile
+shop: car parts
 ---

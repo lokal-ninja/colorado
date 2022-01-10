@@ -1,5 +1,5 @@
 ---
 title: "Europtics"
 url: /littleton/europtics/
-shop: Optiker
+shop: optician
 ---

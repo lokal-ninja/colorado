@@ -1,5 +1,5 @@
 ---
 title: "Zephyr"
 url: /grand-junction/zephyr/
-shop: Kleidung
+shop: clothes
 ---

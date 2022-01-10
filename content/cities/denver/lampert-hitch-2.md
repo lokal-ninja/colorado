@@ -1,5 +1,5 @@
 ---
 title: "Lampert Hitch"
 url: /denver/lampert-hitch-2/
-shop: Autoteile
+shop: car parts
 ---

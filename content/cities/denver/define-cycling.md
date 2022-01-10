@@ -1,5 +1,5 @@
 ---
 title: "Define Cycling"
 url: /denver/define-cycling/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vogue Day Spa"
 url: /aurora/vogue-day-spa/
-shop: Friseur
+shop: hairdresser
 ---

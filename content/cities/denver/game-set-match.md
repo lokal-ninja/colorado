@@ -1,5 +1,5 @@
 ---
 title: "Game Set Match"
 url: /denver/game-set-match/
-shop: Sport
+shop: sports
 ---

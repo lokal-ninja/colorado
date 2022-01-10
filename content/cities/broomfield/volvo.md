@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /broomfield/volvo/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVJ Axles Inc"
 url: /denver/cvj-axles-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

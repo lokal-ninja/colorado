@@ -1,5 +1,5 @@
 ---
 title: "City Bakery Cafe"
 url: /denver/city-bakery-cafe/
-shop: Bäckerei
+shop: bakery
 ---

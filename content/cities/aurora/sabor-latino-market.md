@@ -1,5 +1,5 @@
 ---
 title: "Sabor Latino Market"
 url: /aurora/sabor-latino-market/
-shop: Metzgerei
+shop: butcher
 ---

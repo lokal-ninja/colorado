@@ -1,5 +1,5 @@
 ---
 title: "King Soopers"
 url: /pueblo/king-soopers/
-shop: Supermarkt
+shop: supermarket
 ---

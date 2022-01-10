@@ -1,5 +1,5 @@
 ---
 title: "Sandwich Board"
 url: /denver/sandwich-board/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /boulder/target/
-shop: Warenhaus
+shop: department store
 ---

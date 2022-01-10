@@ -1,5 +1,5 @@
 ---
 title: "AMCH Recreational Marijuana"
 url: /denver/amch-recreational-marijuana/
-shop: Hanf
+shop: cannabis
 ---

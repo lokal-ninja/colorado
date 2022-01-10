@@ -1,5 +1,5 @@
 ---
 title: "American Battery Corporation"
 url: /pueblo/american-battery-corporation/
-shop: Autowerkstatt
+shop: car repair
 ---

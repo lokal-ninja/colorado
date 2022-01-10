@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /sheridan/michaels/
-shop: Basteln
+shop: craft
 ---

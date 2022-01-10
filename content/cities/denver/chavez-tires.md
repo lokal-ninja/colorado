@@ -1,5 +1,5 @@
 ---
 title: "Chavez Tires"
 url: /denver/chavez-tires/
-shop: Reifen
+shop: tyres
 ---

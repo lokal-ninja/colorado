@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /broomfield/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

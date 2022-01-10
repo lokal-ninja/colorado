@@ -1,5 +1,5 @@
 ---
 title: "M Mart"
 url: /aurora/m-mart/
-shop: Supermarkt
+shop: supermarket
 ---

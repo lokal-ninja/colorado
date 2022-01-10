@@ -1,5 +1,5 @@
 ---
 title: "Quik Cash"
 url: /grand-junction/quik-cash/
-shop: Leiher
+shop: pawnbroker
 ---

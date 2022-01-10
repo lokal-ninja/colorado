@@ -1,5 +1,5 @@
 ---
 title: "Dry Cleaning"
 url: /grand-junction/dry-cleaning/
-shop: Wäscherei
+shop: laundry
 ---

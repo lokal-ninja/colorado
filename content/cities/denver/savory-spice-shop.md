@@ -1,5 +1,5 @@
 ---
 title: "Savory Spice Shop"
 url: /denver/savory-spice-shop/
-shop: Kräuter
+shop: herbalist
 ---

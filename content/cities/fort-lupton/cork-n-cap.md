@@ -1,5 +1,5 @@
 ---
 title: "Cork 'n Cap"
 url: /fort-lupton/cork-n-cap/
-shop: Spirituosen
+shop: alcohol
 ---

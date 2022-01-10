@@ -1,5 +1,5 @@
 ---
 title: "T-bar"
 url: /crested-butte/t-bar/
-shop: Tee
+shop: tea
 ---

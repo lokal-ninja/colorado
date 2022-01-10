@@ -1,5 +1,5 @@
 ---
 title: "Scot's Sporting Goods"
 url: /estes-park/scots-sporting-goods/
-shop: Sport
+shop: sports
 ---

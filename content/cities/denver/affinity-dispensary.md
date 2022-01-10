@@ -1,5 +1,5 @@
 ---
 title: "Affinity Dispensary"
 url: /denver/affinity-dispensary/
-shop: Drogerie
+shop: chemist
 ---

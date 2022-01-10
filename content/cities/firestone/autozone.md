@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /firestone/autozone/
-shop: Autoteile
+shop: car parts
 ---

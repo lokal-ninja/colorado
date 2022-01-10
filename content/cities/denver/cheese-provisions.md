@@ -1,5 +1,5 @@
 ---
 title: "Cheese+Provisions"
 url: /denver/cheese-provisions/
-shop: Käse
+shop: cheese
 ---

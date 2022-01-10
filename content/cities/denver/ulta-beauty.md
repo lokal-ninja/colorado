@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /denver/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

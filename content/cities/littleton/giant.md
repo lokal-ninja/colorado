@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /littleton/giant/
-shop: Fahrrad
+shop: bicycle
 ---

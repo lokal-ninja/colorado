@@ -1,5 +1,5 @@
 ---
 title: "REI - Recreational Equipment Inc."
 url: /denver/rei-recreational-equipment-inc/
-shop: Outdoor
+shop: outdoor
 ---

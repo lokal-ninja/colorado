@@ -1,5 +1,5 @@
 ---
 title: "Little B's"
 url: /denver/little-bs/
-shop: Friseur
+shop: hairdresser
 ---

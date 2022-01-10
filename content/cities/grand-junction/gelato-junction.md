@@ -1,5 +1,5 @@
 ---
 title: "Gelato Junction"
 url: /grand-junction/gelato-junction/
-shop: Eisprodukte
+shop: ice cream
 ---

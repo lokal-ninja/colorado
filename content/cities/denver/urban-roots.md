@@ -1,5 +1,5 @@
 ---
 title: "Urban Roots"
 url: /denver/urban-roots/
-shop: Garten-Center
+shop: garden centre
 ---

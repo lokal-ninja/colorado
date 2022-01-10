@@ -1,5 +1,5 @@
 ---
 title: "Cabela's"
 url: /lone-tree/cabelas/
-shop: Outdoor
+shop: outdoor
 ---

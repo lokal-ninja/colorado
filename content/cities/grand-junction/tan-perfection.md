@@ -1,5 +1,5 @@
 ---
 title: "Tan Perfection"
 url: /grand-junction/tan-perfection/
-shop: Kosmetik
+shop: beauty
 ---

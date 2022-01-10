@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /dolores/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

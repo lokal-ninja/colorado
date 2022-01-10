@@ -1,5 +1,5 @@
 ---
 title: "Bitfactory Studios"
 url: /denver/bitfactory-studios/
-shop: Kunst
+shop: art
 ---

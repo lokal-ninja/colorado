@@ -1,5 +1,5 @@
 ---
 title: "Greenwood Floral"
 url: /greenwood-village/greenwood-floral/
-shop: Blumen
+shop: florist
 ---

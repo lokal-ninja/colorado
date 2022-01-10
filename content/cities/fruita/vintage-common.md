@@ -1,5 +1,5 @@
 ---
 title: "Vintage Common"
 url: /fruita/vintage-common/
-shop: Kramladen
+shop: variety store
 ---

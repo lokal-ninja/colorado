@@ -1,5 +1,5 @@
 ---
 title: "EMSL Analytical"
 url: /denver/emsl-analytical/
-shop: Sanitätshaus
+shop: medical supply
 ---

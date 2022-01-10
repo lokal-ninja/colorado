@@ -1,5 +1,5 @@
 ---
 title: "Duluth Trading Company"
 url: /golden/duluth-trading-company/
-shop: Kleidung
+shop: clothes
 ---

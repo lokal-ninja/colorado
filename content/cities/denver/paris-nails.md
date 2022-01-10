@@ -1,5 +1,5 @@
 ---
 title: "Paris Nails"
 url: /denver/paris-nails/
-shop: Kosmetik
+shop: beauty
 ---

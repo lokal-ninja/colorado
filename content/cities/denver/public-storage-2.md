@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /denver/public-storage-2/
-shop: Baumarkt
+shop: doityourself
 ---

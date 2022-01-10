@@ -1,5 +1,5 @@
 ---
 title: "ABC Imaging"
 url: /denver/abc-imaging/
-shop: Kopieren
+shop: copyshop
 ---

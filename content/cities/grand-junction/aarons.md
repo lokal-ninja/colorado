@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /grand-junction/aarons/
-shop: Mieten
+shop: storage rental
 ---

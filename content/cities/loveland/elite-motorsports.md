@@ -1,5 +1,5 @@
 ---
 title: "Elite Motorsports"
 url: /loveland/elite-motorsports/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miss Kayla Anne"
 url: /denver/miss-kayla-anne/
-shop: Kosmetik
+shop: beauty
 ---

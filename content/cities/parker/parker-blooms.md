@@ -1,5 +1,5 @@
 ---
 title: "Parker Blooms"
 url: /parker/parker-blooms/
-shop: Blumen
+shop: florist
 ---

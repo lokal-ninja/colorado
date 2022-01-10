@@ -1,5 +1,5 @@
 ---
 title: "El Guapo Tuxedo"
 url: /denver/el-guapo-tuxedo/
-shop: Kleidung
+shop: clothes
 ---

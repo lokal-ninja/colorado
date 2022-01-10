@@ -1,5 +1,5 @@
 ---
 title: "Corner Store"
 url: /lakewood/corner-store/
-shop: Lebensmittel
+shop: convenience
 ---

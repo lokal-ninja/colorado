@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /fort-collins/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

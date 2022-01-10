@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /longmont/target/
-shop: Warenhaus
+shop: department store
 ---

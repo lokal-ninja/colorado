@@ -1,5 +1,5 @@
 ---
 title: "Precision Auto Body"
 url: /aurora/precision-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

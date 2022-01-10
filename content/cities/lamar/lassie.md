@@ -1,5 +1,5 @@
 ---
 title: "Lassie"
 url: /lamar/lassie/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EZ Mart"
 url: /aurora/ez-mart/
-shop: Warenhaus
+shop: department store
 ---

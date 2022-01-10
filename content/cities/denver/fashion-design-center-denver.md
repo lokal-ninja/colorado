@@ -1,5 +1,5 @@
 ---
 title: "Fashion Design Center Denver"
 url: /denver/fashion-design-center-denver/
-shop: Kleidung
+shop: clothes
 ---

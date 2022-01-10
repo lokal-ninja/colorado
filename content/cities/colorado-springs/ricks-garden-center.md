@@ -1,5 +1,5 @@
 ---
 title: "Rick's Garden Center"
 url: /colorado-springs/ricks-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

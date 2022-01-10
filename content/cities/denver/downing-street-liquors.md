@@ -1,5 +1,5 @@
 ---
 title: "Downing Street Liquors"
 url: /denver/downing-street-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

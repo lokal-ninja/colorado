@@ -1,5 +1,5 @@
 ---
 title: "Dollar Store"
 url: /julesburg/dollar-store/
-shop: Kramladen
+shop: variety store
 ---

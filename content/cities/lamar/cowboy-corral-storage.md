@@ -1,5 +1,5 @@
 ---
 title: "Cowboy Corral Storage"
 url: /lamar/cowboy-corral-storage/
-shop: Mieten
+shop: storage rental
 ---

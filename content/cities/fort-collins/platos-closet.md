@@ -1,5 +1,5 @@
 ---
 title: "Plato's Closet"
 url: /fort-collins/platos-closet/
-shop: Kleidung
+shop: clothes
 ---

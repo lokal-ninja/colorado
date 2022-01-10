@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /thornton/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

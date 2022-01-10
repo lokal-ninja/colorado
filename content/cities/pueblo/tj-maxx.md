@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /pueblo/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

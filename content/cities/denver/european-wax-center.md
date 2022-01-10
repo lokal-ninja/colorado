@@ -1,5 +1,5 @@
 ---
 title: "European Wax Center"
 url: /denver/european-wax-center/
-shop: Kosmetik
+shop: beauty
 ---

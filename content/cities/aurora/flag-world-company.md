@@ -1,5 +1,5 @@
 ---
 title: "Flag World Company"
 url: /aurora/flag-world-company/
-shop: Allgemein
+shop: shop
 ---

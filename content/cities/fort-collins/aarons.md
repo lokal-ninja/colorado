@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /fort-collins/aarons/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /greenwood-village/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

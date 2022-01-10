@@ -1,5 +1,5 @@
 ---
 title: "Breeze Ski Rentals"
 url: /dumont/breeze-ski-rentals/
-shop: Mieten
+shop: storage rental
 ---

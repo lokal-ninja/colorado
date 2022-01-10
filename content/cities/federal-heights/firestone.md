@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /federal-heights/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

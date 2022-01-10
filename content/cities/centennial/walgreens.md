@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /centennial/walgreens/
-shop: Drogerie
+shop: chemist
 ---

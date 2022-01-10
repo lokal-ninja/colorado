@@ -1,5 +1,5 @@
 ---
 title: "AutoSource"
 url: /windsor/autosource/
-shop: Autohaus
+shop: car
 ---

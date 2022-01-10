@@ -1,5 +1,5 @@
 ---
 title: "Oreck"
 url: /aurora/oreck/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

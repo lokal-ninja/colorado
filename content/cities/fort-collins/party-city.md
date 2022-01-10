@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /fort-collins/party-city/
-shop: Partyzubehör
+shop: party
 ---

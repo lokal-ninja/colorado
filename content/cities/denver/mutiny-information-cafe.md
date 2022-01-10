@@ -1,5 +1,5 @@
 ---
 title: "Mutiny Information Cafe"
 url: /denver/mutiny-information-cafe/
-shop: Musik
+shop: music
 ---

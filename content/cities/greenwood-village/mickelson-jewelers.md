@@ -1,5 +1,5 @@
 ---
 title: "Mickelson Jewelers"
 url: /greenwood-village/mickelson-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buchtel Motors"
 url: /denver/buchtel-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

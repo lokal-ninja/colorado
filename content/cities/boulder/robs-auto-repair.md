@@ -1,5 +1,5 @@
 ---
 title: "Rob's Auto Repair"
 url: /boulder/robs-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

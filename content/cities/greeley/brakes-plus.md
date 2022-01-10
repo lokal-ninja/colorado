@@ -1,5 +1,5 @@
 ---
 title: "Brakes Plus"
 url: /greeley/brakes-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

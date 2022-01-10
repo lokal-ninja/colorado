@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /northglenn/autozone/
-shop: Autoteile
+shop: car parts
 ---

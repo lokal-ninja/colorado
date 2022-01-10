@@ -1,5 +1,5 @@
 ---
 title: "Lakewood Auto Electric"
 url: /lakewood/lakewood-auto-electric/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /grand-junction/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

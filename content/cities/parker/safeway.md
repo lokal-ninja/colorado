@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /parker/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

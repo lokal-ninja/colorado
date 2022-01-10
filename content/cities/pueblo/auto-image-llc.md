@@ -1,5 +1,5 @@
 ---
 title: "Auto Image LLC"
 url: /pueblo/auto-image-llc/
-shop: Allgemein
+shop: shop
 ---

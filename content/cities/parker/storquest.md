@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /parker/storquest/
-shop: Mieten
+shop: storage rental
 ---

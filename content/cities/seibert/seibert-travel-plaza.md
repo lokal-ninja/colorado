@@ -1,5 +1,5 @@
 ---
 title: "Seibert Travel Plaza"
 url: /seibert/seibert-travel-plaza/
-shop: Autowerkstatt
+shop: car repair
 ---

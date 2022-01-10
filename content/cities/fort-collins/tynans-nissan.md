@@ -1,5 +1,5 @@
 ---
 title: "Tynan's Nissan"
 url: /fort-collins/tynans-nissan/
-shop: Autohaus
+shop: car
 ---

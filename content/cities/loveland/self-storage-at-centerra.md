@@ -1,5 +1,5 @@
 ---
 title: "Self Storage at Centerra"
 url: /loveland/self-storage-at-centerra/
-shop: Mieten
+shop: storage rental
 ---

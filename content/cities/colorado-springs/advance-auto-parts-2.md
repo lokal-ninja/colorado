@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /colorado-springs/advance-auto-parts-2/
-shop: Autoteile
+shop: car parts
 ---

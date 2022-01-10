@@ -1,5 +1,5 @@
 ---
 title: "bgood Englewood"
 url: /englewood/bgood-englewood/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /longmont/sherwin-williams/
-shop: Farben
+shop: paint
 ---

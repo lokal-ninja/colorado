@@ -1,5 +1,5 @@
 ---
 title: "British Airways"
 url: /denver/british-airways/
-shop: Tickets
+shop: ticket
 ---

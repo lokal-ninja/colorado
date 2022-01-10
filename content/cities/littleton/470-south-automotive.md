@@ -1,5 +1,5 @@
 ---
 title: "470 South Automotive"
 url: /littleton/470-south-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

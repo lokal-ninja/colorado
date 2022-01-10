@@ -1,5 +1,5 @@
 ---
 title: "Durango Party Rental"
 url: /durango/durango-party-rental/
-shop: Allgemein
+shop: shop
 ---

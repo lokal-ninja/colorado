@@ -1,5 +1,5 @@
 ---
 title: "Bones du Jour"
 url: /fort-collins/bones-du-jour/
-shop: Tierfutter
+shop: pet food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papoose Place"
 url: /brighton/papoose-place/
-shop: Süßwaren
+shop: confectionery
 ---

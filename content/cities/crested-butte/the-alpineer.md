@@ -1,5 +1,5 @@
 ---
 title: "The Alpineer"
 url: /crested-butte/the-alpineer/
-shop: Outdoor
+shop: outdoor
 ---

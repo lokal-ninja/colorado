@@ -1,5 +1,5 @@
 ---
 title: "Sinclair"
 url: /clifton/sinclair/
-shop: Lebensmittel
+shop: convenience
 ---

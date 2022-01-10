@@ -1,5 +1,5 @@
 ---
 title: "Keene Floral"
 url: /keenesburg/keene-floral/
-shop: Blumen
+shop: florist
 ---

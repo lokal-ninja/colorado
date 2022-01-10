@@ -1,5 +1,5 @@
 ---
 title: "Rocket Fizz"
 url: /fort-collins/rocket-fizz/
-shop: Süßwaren
+shop: confectionery
 ---

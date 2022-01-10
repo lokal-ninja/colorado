@@ -1,5 +1,5 @@
 ---
 title: "Herb Ives Garage"
 url: /denver/herb-ives-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

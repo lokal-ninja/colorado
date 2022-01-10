@@ -1,5 +1,5 @@
 ---
 title: "Alta"
 url: /center/alta/
-shop: Lebensmittel
+shop: convenience
 ---

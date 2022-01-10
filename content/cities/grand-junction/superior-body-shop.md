@@ -1,5 +1,5 @@
 ---
 title: "Superior Body Shop"
 url: /grand-junction/superior-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

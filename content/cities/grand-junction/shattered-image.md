@@ -1,5 +1,5 @@
 ---
 title: "Shattered Image"
 url: /grand-junction/shattered-image/
-shop: Handy
+shop: mobile phone
 ---

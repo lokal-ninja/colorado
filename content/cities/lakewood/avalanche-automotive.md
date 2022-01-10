@@ -1,5 +1,5 @@
 ---
 title: "Avalanche Automotive"
 url: /lakewood/avalanche-automotive/
-shop: Autohaus
+shop: car
 ---

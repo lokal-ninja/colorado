@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /aurora/circle-k-3/
-shop: Lebensmittel
+shop: convenience
 ---

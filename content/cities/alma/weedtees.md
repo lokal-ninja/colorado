@@ -1,5 +1,5 @@
 ---
 title: "weedtees"
 url: /alma/weedtees/
-shop: Kleidung
+shop: clothes
 ---

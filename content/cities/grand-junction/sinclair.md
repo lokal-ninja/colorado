@@ -1,5 +1,5 @@
 ---
 title: "Sinclair"
 url: /grand-junction/sinclair/
-shop: Lebensmittel
+shop: convenience
 ---

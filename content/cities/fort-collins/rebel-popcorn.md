@@ -1,5 +1,5 @@
 ---
 title: "Rebel Popcorn"
 url: /fort-collins/rebel-popcorn/
-shop: Lebensmittel
+shop: convenience
 ---

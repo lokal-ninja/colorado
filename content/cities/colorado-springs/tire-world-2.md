@@ -1,5 +1,5 @@
 ---
 title: "Tire World"
 url: /colorado-springs/tire-world-2/
-shop: Autowerkstatt
+shop: car repair
 ---

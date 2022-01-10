@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /lamar/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mac Daddy Motorworx"
 url: /grand-junction/mac-daddy-motorworx/
-shop: Autowerkstatt
+shop: car repair
 ---

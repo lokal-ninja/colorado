@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /silverthorne/verizon/
-shop: Handy
+shop: mobile phone
 ---

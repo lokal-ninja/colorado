@@ -1,5 +1,5 @@
 ---
 title: "Regis 66"
 url: /denver/regis-66/
-shop: Autowerkstatt
+shop: car repair
 ---

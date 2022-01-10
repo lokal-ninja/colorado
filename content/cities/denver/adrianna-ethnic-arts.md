@@ -1,5 +1,5 @@
 ---
 title: "Adrianna Ethnic Arts"
 url: /denver/adrianna-ethnic-arts/
-shop: Schreibwaren
+shop: office supplies
 ---

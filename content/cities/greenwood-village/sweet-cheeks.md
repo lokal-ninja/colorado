@@ -1,5 +1,5 @@
 ---
 title: "Sweet Cheeks"
 url: /greenwood-village/sweet-cheeks/
-shop: Modehaus
+shop: boutique
 ---

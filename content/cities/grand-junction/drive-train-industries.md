@@ -1,5 +1,5 @@
 ---
 title: "Drive Train Industries"
 url: /grand-junction/drive-train-industries/
-shop: Autowerkstatt
+shop: car repair
 ---

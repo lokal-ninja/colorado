@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /aurora/u-haul-4/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GlassTek"
 url: /aurora/glasstek/
-shop: Baumarkt
+shop: doityourself
 ---

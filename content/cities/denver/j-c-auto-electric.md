@@ -1,5 +1,5 @@
 ---
 title: "J C Auto Electric"
 url: /denver/j-c-auto-electric/
-shop: Autowerkstatt
+shop: car repair
 ---

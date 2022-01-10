@@ -1,5 +1,5 @@
 ---
 title: "Quick Appliance Repair"
 url: /fort-collins/quick-appliance-repair/
-shop: Allgemein
+shop: shop
 ---

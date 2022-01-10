@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /fort-lupton/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

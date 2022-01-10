@@ -1,5 +1,5 @@
 ---
 title: "Stevinson Toyota East"
 url: /aurora/stevinson-toyota-east/
-shop: Autohaus
+shop: car
 ---

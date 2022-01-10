@@ -1,5 +1,5 @@
 ---
 title: "Storage Star"
 url: /fort-collins/storage-star/
-shop: Mieten
+shop: storage rental
 ---

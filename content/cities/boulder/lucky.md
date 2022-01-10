@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
 url: /boulder/lucky/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AmeriGas"
 url: /fort-collins/amerigas/
-shop: Gasflaschen
+shop: gas
 ---

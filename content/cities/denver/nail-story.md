@@ -1,5 +1,5 @@
 ---
 title: "Nail Story"
 url: /denver/nail-story/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parker Funeral Home and Crematory"
 url: /parker/parker-funeral-home-and-crematory/
-shop: Bestattungen
+shop: funeral directors
 ---

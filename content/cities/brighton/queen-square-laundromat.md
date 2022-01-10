@@ -1,5 +1,5 @@
 ---
 title: "Queen Square Laundromat"
 url: /brighton/queen-square-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

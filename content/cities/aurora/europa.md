@@ -1,5 +1,5 @@
 ---
 title: "Europa"
 url: /aurora/europa/
-shop: Supermarkt
+shop: supermarket
 ---

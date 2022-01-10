@@ -1,5 +1,5 @@
 ---
 title: "arc Thrift Store"
 url: /aurora/arc-thrift-store-4/
-shop: Gebrauchtwaren
+shop: charity
 ---

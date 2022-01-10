@@ -1,5 +1,5 @@
 ---
 title: "BesTires"
 url: /lakewood/bestires/
-shop: Autowerkstatt
+shop: car repair
 ---

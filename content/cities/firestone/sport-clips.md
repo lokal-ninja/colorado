@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /firestone/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

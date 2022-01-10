@@ -1,5 +1,5 @@
 ---
 title: "Villa Park Liquors"
 url: /denver/villa-park-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

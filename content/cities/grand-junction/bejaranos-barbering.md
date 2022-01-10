@@ -1,5 +1,5 @@
 ---
 title: "Bejarano's Barbering"
 url: /grand-junction/bejaranos-barbering/
-shop: Friseur
+shop: hairdresser
 ---

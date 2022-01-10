@@ -1,5 +1,5 @@
 ---
 title: "Sears Grand"
 url: /thornton/sears-grand/
-shop: Warenhaus
+shop: department store
 ---

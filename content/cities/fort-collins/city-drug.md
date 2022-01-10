@@ -1,5 +1,5 @@
 ---
 title: "City Drug"
 url: /fort-collins/city-drug/
-shop: Lebensmittel
+shop: convenience
 ---

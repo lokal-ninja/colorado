@@ -1,5 +1,5 @@
 ---
 title: "Elroy's Son Alignment and Brake"
 url: /lakewood/elroys-son-alignment-and-brake/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Laundromat"
 url: /grand-junction/the-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

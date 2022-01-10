@@ -1,5 +1,5 @@
 ---
 title: "Perry Market"
 url: /denver/perry-market/
-shop: Lebensmittel
+shop: convenience
 ---

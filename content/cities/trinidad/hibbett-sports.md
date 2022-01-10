@@ -1,5 +1,5 @@
 ---
 title: "Hibbett Sports"
 url: /trinidad/hibbett-sports/
-shop: Sport
+shop: sports
 ---

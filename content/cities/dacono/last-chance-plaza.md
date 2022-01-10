@@ -1,5 +1,5 @@
 ---
 title: "Last Chance Plaza"
 url: /dacono/last-chance-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

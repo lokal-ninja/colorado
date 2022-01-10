@@ -1,5 +1,5 @@
 ---
 title: "Fancy Nails Spa"
 url: /colorado-springs/fancy-nails-spa/
-shop: Kosmetik
+shop: beauty
 ---

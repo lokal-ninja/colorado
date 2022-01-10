@@ -1,5 +1,5 @@
 ---
 title: "Every Day"
 url: /parker/every-day/
-shop: Lebensmittel
+shop: convenience
 ---

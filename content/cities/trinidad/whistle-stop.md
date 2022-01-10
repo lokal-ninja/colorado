@@ -1,5 +1,5 @@
 ---
 title: "Whistle Stop"
 url: /trinidad/whistle-stop/
-shop: Lebensmittel
+shop: convenience
 ---

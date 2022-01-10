@@ -1,5 +1,5 @@
 ---
 title: "AC Transmission"
 url: /denver/ac-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

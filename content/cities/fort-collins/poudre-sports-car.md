@@ -1,5 +1,5 @@
 ---
 title: "Poudre Sports Car"
 url: /fort-collins/poudre-sports-car/
-shop: Autohaus
+shop: car
 ---

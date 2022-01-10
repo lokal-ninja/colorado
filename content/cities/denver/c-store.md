@@ -1,5 +1,5 @@
 ---
 title: "C Store"
 url: /denver/c-store/
-shop: Lebensmittel
+shop: convenience
 ---

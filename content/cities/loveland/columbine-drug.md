@@ -1,5 +1,5 @@
 ---
 title: "Columbine Drug"
 url: /loveland/columbine-drug/
-shop: Drogerie
+shop: chemist
 ---

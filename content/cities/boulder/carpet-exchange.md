@@ -1,5 +1,5 @@
 ---
 title: "Carpet Exchange"
 url: /boulder/carpet-exchange/
-shop: Teppiche
+shop: carpet
 ---

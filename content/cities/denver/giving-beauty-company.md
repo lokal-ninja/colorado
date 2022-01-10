@@ -1,5 +1,5 @@
 ---
 title: "Giving Beauty Company"
 url: /denver/giving-beauty-company/
-shop: Kosmetik
+shop: beauty
 ---

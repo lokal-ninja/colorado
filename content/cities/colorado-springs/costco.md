@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /colorado-springs/costco/
-shop: Großhandel
+shop: wholesale
 ---

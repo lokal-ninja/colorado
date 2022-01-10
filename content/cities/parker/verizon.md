@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /parker/verizon/
-shop: Handy
+shop: mobile phone
 ---

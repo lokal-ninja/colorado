@@ -1,5 +1,5 @@
 ---
 title: "Ann's Nails"
 url: /northglenn/anns-nails/
-shop: Kosmetik
+shop: beauty
 ---

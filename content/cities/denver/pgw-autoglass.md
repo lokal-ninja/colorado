@@ -1,5 +1,5 @@
 ---
 title: "PGW Autoglass"
 url: /denver/pgw-autoglass/
-shop: Autowerkstatt
+shop: car repair
 ---

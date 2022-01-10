@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /denver/walgreens-3/
-shop: Allgemein
+shop: shop
 ---

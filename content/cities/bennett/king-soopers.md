@@ -1,5 +1,5 @@
 ---
 title: "King Soopers"
 url: /bennett/king-soopers/
-shop: Supermarkt
+shop: supermarket
 ---

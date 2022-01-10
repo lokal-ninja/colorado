@@ -1,5 +1,5 @@
 ---
 title: "Best Wireless"
 url: /aurora/best-wireless/
-shop: Handy
+shop: mobile phone
 ---

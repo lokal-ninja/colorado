@@ -1,5 +1,5 @@
 ---
 title: "Freddy's Barbershop"
 url: /thornton/freddys-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

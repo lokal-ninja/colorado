@@ -1,5 +1,5 @@
 ---
 title: "MakeUpMania"
 url: /denver/makeupmania/
-shop: Kosmetik
+shop: beauty
 ---

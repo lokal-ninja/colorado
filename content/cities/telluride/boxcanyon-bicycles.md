@@ -1,5 +1,5 @@
 ---
 title: "BoxCanyon Bicycles"
 url: /telluride/boxcanyon-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /aurora/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

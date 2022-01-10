@@ -1,5 +1,5 @@
 ---
 title: "Buckley Square Liquor"
 url: /aurora/buckley-square-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

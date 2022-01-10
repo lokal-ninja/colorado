@@ -1,5 +1,5 @@
 ---
 title: "Harley-Davidson"
 url: /thornton/harley-davidson/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hoosier Daddy Liquors"
 url: /alma/hoosier-daddy-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

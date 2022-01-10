@@ -1,5 +1,5 @@
 ---
 title: "Terps Dispensary"
 url: /pueblo/terps-dispensary/
-shop: Hanf
+shop: cannabis
 ---

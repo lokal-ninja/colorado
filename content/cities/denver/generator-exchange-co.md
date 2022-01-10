@@ -1,5 +1,5 @@
 ---
 title: "Generator Exchange Co"
 url: /denver/generator-exchange-co/
-shop: Autowerkstatt
+shop: car repair
 ---

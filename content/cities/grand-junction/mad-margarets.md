@@ -1,5 +1,5 @@
 ---
 title: "Mad Margaret's"
 url: /grand-junction/mad-margarets/
-shop: Kleidung
+shop: clothes
 ---

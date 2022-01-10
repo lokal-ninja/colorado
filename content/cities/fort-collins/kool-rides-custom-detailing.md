@@ -1,5 +1,5 @@
 ---
 title: "Kool Rides Custom Detailing"
 url: /fort-collins/kool-rides-custom-detailing/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Car Connection"
 url: /denver/car-connection/
-shop: Autohaus
+shop: car
 ---

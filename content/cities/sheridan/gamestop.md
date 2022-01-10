@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /sheridan/gamestop/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mister Money"
 url: /colorado-springs/mister-money/
-shop: Leiher
+shop: pawnbroker
 ---

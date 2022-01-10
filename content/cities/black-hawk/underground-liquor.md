@@ -1,5 +1,5 @@
 ---
 title: "Underground Liquor"
 url: /black-hawk/underground-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

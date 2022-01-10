@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /greenwood-village/rebel/
-shop: Kleidung
+shop: clothes
 ---

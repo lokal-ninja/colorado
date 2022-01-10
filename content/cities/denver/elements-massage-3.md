@@ -1,5 +1,5 @@
 ---
 title: "Elements Massage"
 url: /denver/elements-massage-3/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rocky Mountain Driveline"
 url: /denver/rocky-mountain-driveline/
-shop: Autoteile
+shop: car parts
 ---

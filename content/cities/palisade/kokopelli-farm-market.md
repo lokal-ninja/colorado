@@ -1,5 +1,5 @@
 ---
 title: "Kokopelli Farm Market"
 url: /palisade/kokopelli-farm-market/
-shop: Hofladen
+shop: farm
 ---

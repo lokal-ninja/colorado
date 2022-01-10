@@ -1,5 +1,5 @@
 ---
 title: "Jordan Wine and Spirits"
 url: /parker/jordan-wine-and-spirits/
-shop: Spirituosen
+shop: alcohol
 ---

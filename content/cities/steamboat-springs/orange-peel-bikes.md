@@ -1,5 +1,5 @@
 ---
 title: "Orange Peel Bikes"
 url: /steamboat-springs/orange-peel-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

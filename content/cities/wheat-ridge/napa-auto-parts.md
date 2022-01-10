@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /wheat-ridge/napa-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

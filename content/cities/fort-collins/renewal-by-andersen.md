@@ -1,5 +1,5 @@
 ---
 title: "Renewal by Andersen"
 url: /fort-collins/renewal-by-andersen/
-shop: Türen
+shop: doors
 ---

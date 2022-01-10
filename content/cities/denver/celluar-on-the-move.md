@@ -1,5 +1,5 @@
 ---
 title: "Celluar On The Move"
 url: /denver/celluar-on-the-move/
-shop: Handy
+shop: mobile phone
 ---

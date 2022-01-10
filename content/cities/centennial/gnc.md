@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /centennial/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

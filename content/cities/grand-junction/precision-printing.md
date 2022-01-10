@@ -1,5 +1,5 @@
 ---
 title: "Precision Printing"
 url: /grand-junction/precision-printing/
-shop: Kopieren
+shop: copyshop
 ---

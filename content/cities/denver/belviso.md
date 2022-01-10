@@ -1,5 +1,5 @@
 ---
 title: "BelViso"
 url: /denver/belviso/
-shop: Kosmetik
+shop: beauty
 ---

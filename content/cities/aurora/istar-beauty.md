@@ -1,5 +1,5 @@
 ---
 title: "Istar Beauty"
 url: /aurora/istar-beauty/
-shop: Kosmetik
+shop: beauty
 ---

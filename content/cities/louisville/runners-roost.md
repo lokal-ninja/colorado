@@ -1,5 +1,5 @@
 ---
 title: "Runners Roost"
 url: /louisville/runners-roost/
-shop: Allgemein
+shop: shop
 ---

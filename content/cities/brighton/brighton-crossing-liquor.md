@@ -1,5 +1,5 @@
 ---
 title: "Brighton Crossing Liquor"
 url: /brighton/brighton-crossing-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

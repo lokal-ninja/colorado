@@ -1,5 +1,5 @@
 ---
 title: "Diz's Daisys Flower Shop"
 url: /denver/dizs-daisys-flower-shop/
-shop: Blumen
+shop: florist
 ---

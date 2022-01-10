@@ -1,5 +1,5 @@
 ---
 title: "Allnut Funeral Services"
 url: /loveland/allnut-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

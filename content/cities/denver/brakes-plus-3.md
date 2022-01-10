@@ -1,5 +1,5 @@
 ---
 title: "Brakes Plus"
 url: /denver/brakes-plus-3/
-shop: Autowerkstatt
+shop: car repair
 ---

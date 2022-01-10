@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /brighton/autozone/
-shop: Autoteile
+shop: car parts
 ---

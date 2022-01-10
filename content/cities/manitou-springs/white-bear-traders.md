@@ -1,5 +1,5 @@
 ---
 title: "White Bear Traders"
 url: /manitou-springs/white-bear-traders/
-shop: Kunst
+shop: art
 ---

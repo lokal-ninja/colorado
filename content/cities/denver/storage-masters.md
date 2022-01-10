@@ -1,5 +1,5 @@
 ---
 title: "Storage Masters"
 url: /denver/storage-masters/
-shop: Baumarkt
+shop: doityourself
 ---

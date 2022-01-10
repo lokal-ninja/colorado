@@ -1,5 +1,5 @@
 ---
 title: "Alchemy Works"
 url: /denver/alchemy-works/
-shop: Andenken
+shop: gift
 ---

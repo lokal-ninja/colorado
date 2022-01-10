@@ -1,5 +1,5 @@
 ---
 title: "Hello! Furniture Company"
 url: /fort-collins/hello-furniture-company/
-shop: Möbel
+shop: furniture
 ---

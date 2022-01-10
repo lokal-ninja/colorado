@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /lakewood/conoco/
-shop: Lebensmittel
+shop: convenience
 ---

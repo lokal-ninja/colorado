@@ -1,5 +1,5 @@
 ---
 title: "Casper's Electronics"
 url: /loveland/caspers-electronics/
-shop: Autoteile
+shop: car parts
 ---

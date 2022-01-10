@@ -1,5 +1,5 @@
 ---
 title: "Holistic Bodyworks"
 url: /denver/holistic-bodyworks/
-shop: Massage
+shop: massage
 ---

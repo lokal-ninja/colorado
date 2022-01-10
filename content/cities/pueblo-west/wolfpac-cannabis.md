@@ -1,5 +1,5 @@
 ---
 title: "WolfPac Cannabis"
 url: /pueblo-west/wolfpac-cannabis/
-shop: Hanf
+shop: cannabis
 ---

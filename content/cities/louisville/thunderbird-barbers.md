@@ -1,5 +1,5 @@
 ---
 title: "Thunderbird Barbers"
 url: /louisville/thunderbird-barbers/
-shop: Friseur
+shop: hairdresser
 ---

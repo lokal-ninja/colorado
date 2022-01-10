@@ -1,5 +1,5 @@
 ---
 title: "Grand Valley Auto"
 url: /grand-junction/grand-valley-auto/
-shop: Autohaus
+shop: car
 ---

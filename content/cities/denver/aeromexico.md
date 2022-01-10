@@ -1,5 +1,5 @@
 ---
 title: "Aeromexico"
 url: /denver/aeromexico/
-shop: Tickets
+shop: ticket
 ---

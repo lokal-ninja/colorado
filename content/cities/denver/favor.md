@@ -1,5 +1,5 @@
 ---
 title: "Favor"
 url: /denver/favor/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /greenwood-village/sprint/
-shop: Handy
+shop: mobile phone
 ---

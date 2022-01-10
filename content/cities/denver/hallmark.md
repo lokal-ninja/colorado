@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /denver/hallmark/
-shop: Andenken
+shop: gift
 ---

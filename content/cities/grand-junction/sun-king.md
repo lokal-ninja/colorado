@@ -1,5 +1,5 @@
 ---
 title: "Sun King"
 url: /grand-junction/sun-king/
-shop: Baustoffe
+shop: trade
 ---

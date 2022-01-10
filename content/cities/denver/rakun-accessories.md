@@ -1,5 +1,5 @@
 ---
 title: "Rakun Accessories"
 url: /denver/rakun-accessories/
-shop: Kleidung
+shop: clothes
 ---

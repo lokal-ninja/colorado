@@ -1,5 +1,5 @@
 ---
 title: "Rausch Auto Repair"
 url: /parker/rausch-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /arvada/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

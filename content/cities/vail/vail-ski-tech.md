@@ -1,5 +1,5 @@
 ---
 title: "Vail Ski Tech"
 url: /vail/vail-ski-tech/
-shop: Sport
+shop: sports
 ---

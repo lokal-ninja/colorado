@@ -1,5 +1,5 @@
 ---
 title: "TSC Ford Specialist"
 url: /englewood/tsc-ford-specialist/
-shop: Autowerkstatt
+shop: car repair
 ---

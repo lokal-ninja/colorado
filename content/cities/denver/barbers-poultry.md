@@ -1,5 +1,5 @@
 ---
 title: "Barber's Poultry"
 url: /denver/barbers-poultry/
-shop: Metzgerei
+shop: butcher
 ---

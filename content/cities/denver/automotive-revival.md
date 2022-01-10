@@ -1,5 +1,5 @@
 ---
 title: "Automotive Revival"
 url: /denver/automotive-revival/
-shop: Autowerkstatt
+shop: car repair
 ---

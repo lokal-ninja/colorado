@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /denver/cleaners/
-shop: Wäscherei
+shop: laundry
 ---

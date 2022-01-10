@@ -1,5 +1,5 @@
 ---
 title: "Advantage Wireless"
 url: /denver/advantage-wireless/
-shop: Handy
+shop: mobile phone
 ---

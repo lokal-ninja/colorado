@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /aurora/conoco/
-shop: Lebensmittel
+shop: convenience
 ---

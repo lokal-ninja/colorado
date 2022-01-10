@@ -1,5 +1,5 @@
 ---
 title: "King Soopers"
 url: /castle-pines/king-soopers/
-shop: Supermarkt
+shop: supermarket
 ---

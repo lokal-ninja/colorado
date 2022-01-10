@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /fort-collins/autozone/
-shop: Autoteile
+shop: car parts
 ---

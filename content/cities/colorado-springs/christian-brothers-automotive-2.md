@@ -1,5 +1,5 @@
 ---
 title: "Christian Brothers Automotive"
 url: /colorado-springs/christian-brothers-automotive-2/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pak Mail"
 url: /littleton/pak-mail/
-shop: Kramladen
+shop: variety store
 ---

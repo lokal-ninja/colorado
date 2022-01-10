@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /parker/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

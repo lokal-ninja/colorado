@@ -1,5 +1,5 @@
 ---
 title: "Alivio Massage Therapy"
 url: /denver/alivio-massage-therapy/
-shop: Massage
+shop: massage
 ---

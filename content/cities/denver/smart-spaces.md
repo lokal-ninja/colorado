@@ -1,5 +1,5 @@
 ---
 title: "Smart Spaces"
 url: /denver/smart-spaces/
-shop: Betten
+shop: bed
 ---

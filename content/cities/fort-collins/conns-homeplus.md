@@ -1,5 +1,5 @@
 ---
 title: "Conn's HomePlus"
 url: /fort-collins/conns-homeplus/
-shop: Warenhaus
+shop: department store
 ---

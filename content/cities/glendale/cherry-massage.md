@@ -1,5 +1,5 @@
 ---
 title: "Cherry Massage"
 url: /glendale/cherry-massage/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /fort-collins/caliber-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

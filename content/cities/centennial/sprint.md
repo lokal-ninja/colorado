@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /centennial/sprint/
-shop: Handy
+shop: mobile phone
 ---

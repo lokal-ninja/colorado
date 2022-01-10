@@ -1,5 +1,5 @@
 ---
 title: "Stitches"
 url: /loveland/stitches/
-shop: Basteln
+shop: craft
 ---

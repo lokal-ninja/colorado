@@ -1,5 +1,5 @@
 ---
 title: "David Castle Studio"
 url: /denver/david-castle-studio/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "King Soopers"
 url: /broomfield/king-soopers/
-shop: Lebensmittel
+shop: convenience
 ---

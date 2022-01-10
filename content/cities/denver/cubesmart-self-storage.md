@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart Self Storage"
 url: /denver/cubesmart-self-storage/
-shop: Baumarkt
+shop: doityourself
 ---

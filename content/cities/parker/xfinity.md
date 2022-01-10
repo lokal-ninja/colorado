@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /parker/xfinity/
-shop: Handy
+shop: mobile phone
 ---

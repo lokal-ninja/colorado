@@ -1,5 +1,5 @@
 ---
 title: "Wild Flowers"
 url: /denver/wild-flowers/
-shop: Blumen
+shop: florist
 ---

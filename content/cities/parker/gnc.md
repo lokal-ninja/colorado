@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /parker/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

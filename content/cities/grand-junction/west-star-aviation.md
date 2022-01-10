@@ -1,5 +1,5 @@
 ---
 title: "West Star Aviation"
 url: /grand-junction/west-star-aviation/
-shop: Elektronik
+shop: electronics
 ---

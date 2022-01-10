@@ -1,5 +1,5 @@
 ---
 title: "Bender Menders"
 url: /elizabeth/bender-menders/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Riverside Imports"
 url: /fort-collins/riverside-imports/
-shop: Autohaus
+shop: car
 ---

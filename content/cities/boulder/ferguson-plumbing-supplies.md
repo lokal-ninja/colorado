@@ -1,5 +1,5 @@
 ---
 title: "Ferguson Plumbing Supplies"
 url: /boulder/ferguson-plumbing-supplies/
-shop: Eisenwaren
+shop: hardware
 ---

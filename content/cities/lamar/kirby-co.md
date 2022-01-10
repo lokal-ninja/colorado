@@ -1,5 +1,5 @@
 ---
 title: "Kirby Co."
 url: /lamar/kirby-co/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

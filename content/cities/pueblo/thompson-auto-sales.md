@@ -1,5 +1,5 @@
 ---
 title: "Thompson Auto Sales"
 url: /pueblo/thompson-auto-sales/
-shop: Autohaus
+shop: car
 ---

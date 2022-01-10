@@ -1,5 +1,5 @@
 ---
 title: "Enviro Gas"
 url: /brighton/enviro-gas/
-shop: Gasflaschen
+shop: gas
 ---

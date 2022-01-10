@@ -1,5 +1,5 @@
 ---
 title: "Fast Break"
 url: /colorado-city/fast-break/
-shop: Lebensmittel
+shop: convenience
 ---

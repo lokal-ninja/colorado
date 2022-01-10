@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /superior/target/
-shop: Supermarkt
+shop: supermarket
 ---

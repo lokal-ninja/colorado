@@ -1,5 +1,5 @@
 ---
 title: "SuperQwik Stop"
 url: /sherrelwood/superqwik-stop/
-shop: Lebensmittel
+shop: convenience
 ---

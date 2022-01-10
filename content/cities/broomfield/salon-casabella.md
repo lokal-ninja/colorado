@@ -1,5 +1,5 @@
 ---
 title: "Salon Casabella"
 url: /broomfield/salon-casabella/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dependable Cleaners"
 url: /denver/dependable-cleaners-2/
-shop: Wäscherei
+shop: laundry
 ---

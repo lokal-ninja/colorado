@@ -1,5 +1,5 @@
 ---
 title: "Royal Nails"
 url: /denver/royal-nails/
-shop: Kosmetik
+shop: beauty
 ---

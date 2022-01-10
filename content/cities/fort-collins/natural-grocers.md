@@ -1,5 +1,5 @@
 ---
 title: "Natural Grocers"
 url: /fort-collins/natural-grocers/
-shop: Supermarkt
+shop: supermarket
 ---

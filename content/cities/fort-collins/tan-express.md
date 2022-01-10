@@ -1,5 +1,5 @@
 ---
 title: "Tan Express"
 url: /fort-collins/tan-express/
-shop: Kosmetik
+shop: beauty
 ---

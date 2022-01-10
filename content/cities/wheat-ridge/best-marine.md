@@ -1,5 +1,5 @@
 ---
 title: "Best Marine"
 url: /wheat-ridge/best-marine/
-shop: Boot
+shop: boat
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /fort-collins/carquest/
-shop: Autoteile
+shop: car parts
 ---

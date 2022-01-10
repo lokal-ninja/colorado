@@ -1,5 +1,5 @@
 ---
 title: "Brakes Plus"
 url: /aurora/brakes-plus-2/
-shop: Autowerkstatt
+shop: car repair
 ---

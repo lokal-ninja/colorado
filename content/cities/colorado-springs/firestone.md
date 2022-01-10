@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /colorado-springs/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---
