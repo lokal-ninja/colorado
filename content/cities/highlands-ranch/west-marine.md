@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /highlands-ranch/west-marine/
-shop: sports
+shop: boat
 ---
