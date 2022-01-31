@@ -1,6 +1,6 @@
 ---
 title: Silverthorne
 url: /silverthorne/
-latitude: 39.629
-longitude: -106.07
+latitude: 39.63
+longitude: -106.071
 ---

@@ -1,6 +1,6 @@
 ---
 title: Durango
 url: /durango/
-latitude: 37.247
-longitude: -107.876
+latitude: 37.27
+longitude: -107.882
 ---
