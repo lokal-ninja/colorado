@@ -1,6 +1,6 @@
 ---
 title: Grand Junction
 url: /grand-junction/
-latitude: 39.078
-longitude: -108.529
+latitude: 39.083
+longitude: -108.589
 ---

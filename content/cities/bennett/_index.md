@@ -1,6 +1,6 @@
 ---
 title: Bennett
 url: /bennett/
-latitude: 39.737
-longitude: -104.435
+latitude: 39.744
+longitude: -104.436
 ---
