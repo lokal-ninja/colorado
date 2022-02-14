@@ -1,5 +1,5 @@
 ---
-title: "Arc Thrift Store"
+title: "arc Thrift Store"
 url: /denver/arc-thrift-store-3/
 shop: charity
 ---
