@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
-url: /centennial/public-storage/
+url: /northglenn/public-storage-2/
 shop: storage rental
 ---

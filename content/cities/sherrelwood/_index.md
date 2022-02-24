@@ -2,5 +2,5 @@
 title: Sherrelwood
 url: /sherrelwood/
 latitude: 39.849
-longitude: -105.006
+longitude: -104.99
 ---
