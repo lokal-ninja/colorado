@@ -1,5 +1,5 @@
 ---
-title: "Stop n Save"
+title: "Stop 'n Save"
 url: /erie/stop-n-save/
 shop: convenience
 ---

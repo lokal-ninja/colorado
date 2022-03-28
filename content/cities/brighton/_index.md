@@ -1,6 +1,6 @@
 ---
 title: Brighton
 url: /brighton/
-latitude: 39.972
-longitude: -104.773
+latitude: 39.987
+longitude: -104.82
 ---
