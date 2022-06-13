@@ -1,6 +1,6 @@
 ---
 title: Leadville
 url: /leadville/
-latitude: 39.26
-longitude: -106.293
+latitude: 39.25
+longitude: -106.292
 ---
