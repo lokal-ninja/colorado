@@ -1,6 +1,6 @@
 ---
 title: Severance
 url: /severance/
-latitude: 40.548
-longitude: -104.848
+latitude: 40.524
+longitude: -104.872
 ---
