@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
-url: /longmont/nothing-bundt-cakes/
+url: /grand-junction/nothing-bundt-cakes/
 shop: pastry
 ---
