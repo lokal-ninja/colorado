@@ -1,6 +1,6 @@
 ---
 title: Fort Lupton
 url: /fort-lupton/
-latitude: 40.08
-longitude: -104.818
+latitude: 40.13
+longitude: -104.81
 ---
