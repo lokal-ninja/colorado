@@ -7,5 +7,5 @@ city: Aurora
 street: "East Florida Avenue"
 housenumber: 14632
 phone: "+17203400086"
-opening_hours: "Mo-Tu Closed, Wed 11am-5pm, Thur 9am-3pm, Fri 2pm-8pm, Sat 12pm-6pm"
+opening_hours: "Mo,Tu off; We 11:00-17:00; Th 09:00-15:00; Fr 14:00-20:00; Sa 12:00-18:00"
 website: ""
