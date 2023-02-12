@@ -1,5 +1,5 @@
 ---
 title: "Loaf 'N Jug"
-url: /colorado-springs/loaf-n-jug-2/
+url: /colorado-springs/loaf-n-jug/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Center Pit Stop"
-url: /center/center-pit-stop-2/
+url: /center/center-pit-stop/
 shop: car repair
 ---
