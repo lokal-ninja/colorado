@@ -1,5 +1,5 @@
 ---
-title: "The Hog and The Hen"
+title: "The Hog & The Hen"
 url: /grand-junction/the-hog-and-the-hen/
-shop: butcher
+shop: deli
 ---
