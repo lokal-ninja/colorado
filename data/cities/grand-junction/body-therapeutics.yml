@@ -1,11 +1,11 @@
 id: 3160181359
 type: node
-latitude: 39.07811
-longitude: -108.52876
-postcode: "81501"
+latitude: 39.06616
+longitude: -108.58898
+postcode: "81501;81507"
 city: Grand Junction
-street: "28¼ Road"
-housenumber: 514
-phone: ""
-opening_hours: ""
-website: "www.BodyTMM.com"
+street: "Broadway"
+housenumber: 2500
+phone: "+1 970 644 5255"
+opening_hours: "Mo-Sa 08:30-22:00; Su 10:30-17:30"
+website: "https://www.bodytmm.com/"
