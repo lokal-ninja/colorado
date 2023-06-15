@@ -1,6 +1,6 @@
 ---
-title: Canon City
+title: Cañon City
 url: /canon-city/
-latitude: 38.449
-longitude: -105.192
+latitude: 38.441
+longitude: -105.236
 ---
