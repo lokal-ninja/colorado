@@ -1,6 +1,6 @@
 ---
 title: Dinosaur
 url: /dinosaur/
-latitude: 40.244
-longitude: -109.01
+latitude: 40.245
+longitude: -109.005
 ---
