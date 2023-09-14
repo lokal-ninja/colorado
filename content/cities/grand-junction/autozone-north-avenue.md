@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /grand-junction/autozone/
+url: /grand-junction/autozone-north-avenue/
 shop: car parts
 ---

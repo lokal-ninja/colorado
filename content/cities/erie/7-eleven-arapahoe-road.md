@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /erie/7-eleven/
+url: /erie/7-eleven-arapahoe-road/
 shop: convenience
 ---

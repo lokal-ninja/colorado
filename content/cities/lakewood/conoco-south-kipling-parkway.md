@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
-url: /lakewood/conoco/
+url: /lakewood/conoco-south-kipling-parkway/
 shop: convenience
 ---

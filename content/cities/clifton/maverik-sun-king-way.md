@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
-url: /clifton/maverik/
+url: /clifton/maverik-sun-king-way/
 shop: convenience
 ---

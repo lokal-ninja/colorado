@@ -1,5 +1,5 @@
 ---
 title: "Alta Convenience"
-url: /thornton/alta-convenience/
+url: /thornton/alta-convenience-huron-street/
 shop: convenience
 ---

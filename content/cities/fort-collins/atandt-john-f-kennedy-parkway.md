@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /fort-collins/atandt/
+url: /fort-collins/atandt-john-f-kennedy-parkway/
 shop: mobile phone
 ---

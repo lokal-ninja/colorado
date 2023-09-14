@@ -1,5 +1,5 @@
 ---
 title: "Native Roots"
-url: /denver/native-roots/
+url: /denver/native-roots-south-colorado-boulevard/
 shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /littleton/circle-k/
+url: /littleton/circle-k-south-kipling-street/
 shop: convenience
 ---

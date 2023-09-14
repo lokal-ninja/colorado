@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /denver/target/
+url: /denver/target-northfield-boulevard/
 shop: supermarket
 ---

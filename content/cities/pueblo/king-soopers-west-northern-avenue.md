@@ -1,5 +1,5 @@
 ---
 title: "King Soopers"
-url: /pueblo/king-soopers/
+url: /pueblo/king-soopers-west-northern-avenue/
 shop: supermarket
 ---

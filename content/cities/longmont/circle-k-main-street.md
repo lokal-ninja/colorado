@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /longmont/circle-k/
+url: /longmont/circle-k-main-street/
 shop: convenience
 ---

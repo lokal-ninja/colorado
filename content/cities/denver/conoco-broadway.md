@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
-url: /denver/conoco/
+url: /denver/conoco-broadway/
 shop: convenience
 ---

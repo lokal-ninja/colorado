@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /denver/safeway/
+url: /denver/safeway-corona-street/
 shop: supermarket
 ---

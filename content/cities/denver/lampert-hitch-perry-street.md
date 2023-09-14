@@ -1,5 +1,5 @@
 ---
 title: "Lampert Hitch"
-url: /denver/lampert-hitch/
+url: /denver/lampert-hitch-perry-street/
 shop: car parts
 ---

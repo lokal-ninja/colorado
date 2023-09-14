@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /boulder/circle-k/
+url: /boulder/circle-k-canyon-boulevard/
 shop: convenience
 ---

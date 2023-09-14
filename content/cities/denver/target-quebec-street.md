@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /denver/target/
+url: /denver/target-quebec-street/
 shop: supermarket
 ---

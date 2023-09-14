@@ -1,5 +1,5 @@
 ---
 title: "Petco"
-url: /denver/petco/
+url: /denver/petco-east-mexico-avenue/
 shop: pet
 ---

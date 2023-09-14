@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /denver/circle-k/
+url: /denver/circle-k-west-colfax-avenue/
 shop: convenience
 ---

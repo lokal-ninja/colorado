@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
-url: /lamar/conoco/
+url: /lamar/conoco-main-street/
 shop: convenience
 ---

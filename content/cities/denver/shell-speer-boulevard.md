@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /denver/shell/
+url: /denver/shell-speer-boulevard/
 shop: convenience
 ---

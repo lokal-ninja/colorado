@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
-url: /aurora/maverik/
+url: /aurora/maverik-east-quincy-avenue/
 shop: convenience
 ---

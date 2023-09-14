@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /denver/autozone/
+url: /denver/autozone-chambers-road/
 shop: car parts
 ---

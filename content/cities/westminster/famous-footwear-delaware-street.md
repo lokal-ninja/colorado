@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
-url: /westminster/famous-footwear/
+url: /westminster/famous-footwear-delaware-street/
 shop: shoes
 ---

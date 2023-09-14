@@ -1,5 +1,5 @@
 ---
 title: "Safelite AutoGlass"
-url: /denver/safelite-autoglass/
+url: /denver/safelite-autoglass-west-quincy-avenue/
 shop: car repair
 ---

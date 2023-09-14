@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
-url: /denver/fedex-office/
+url: /denver/fedex-office-east-hampden-avenue/
 shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valero"
-url: /westminster/valero/
+url: /westminster/valero-west-120th-avenue/
 shop: convenience
 ---

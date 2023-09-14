@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /denver/great-clips/
+url: /denver/great-clips-south-monaco-parkway/
 shop: hairdresser
 ---

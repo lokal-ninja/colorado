@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /lakewood/autozone/
+url: /lakewood/autozone-west-colfax-avenue/
 shop: car parts
 ---

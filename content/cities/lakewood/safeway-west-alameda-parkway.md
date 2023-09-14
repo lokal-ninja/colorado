@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /lakewood/safeway/
+url: /lakewood/safeway-west-alameda-parkway/
 shop: supermarket
 ---

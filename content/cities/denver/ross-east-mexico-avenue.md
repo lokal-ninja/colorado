@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /denver/ross/
+url: /denver/ross-east-mexico-avenue/
 shop: department store
 ---

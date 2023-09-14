@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /denver/circle-k/
+url: /denver/circle-k-broadway-2/
 shop: convenience
 ---

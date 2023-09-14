@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /laporte/shell/
+url: /laporte/shell-west-county-road-54g/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /fort-collins/walmart-supercenter/
+url: /fort-collins/walmart-supercenter-south-mason-street/
 shop: supermarket
 ---

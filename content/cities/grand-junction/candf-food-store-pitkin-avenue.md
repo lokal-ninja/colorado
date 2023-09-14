@@ -1,5 +1,5 @@
 ---
 title: "C&F Food Store"
-url: /grand-junction/candf-food-store/
+url: /grand-junction/candf-food-store-pitkin-avenue/
 shop: convenience
 ---

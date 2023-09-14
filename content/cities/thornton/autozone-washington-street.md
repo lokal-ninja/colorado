@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /thornton/autozone/
+url: /thornton/autozone-washington-street/
 shop: car parts
 ---

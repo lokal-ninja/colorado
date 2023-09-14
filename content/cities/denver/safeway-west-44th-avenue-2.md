@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /denver/safeway/
+url: /denver/safeway-west-44th-avenue-2/
 shop: convenience
 ---

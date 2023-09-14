@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
-url: /lakewood/cubesmart/
+url: /lakewood/cubesmart-west-colfax-avenue/
 shop: storage rental
 ---

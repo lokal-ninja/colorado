@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /durango/speedway/
+url: /durango/speedway-main-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alta Convenience"
-url: /denver/alta-convenience/
+url: /denver/alta-convenience-west-mississippi-avenue/
 shop: convenience
 ---

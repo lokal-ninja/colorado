@@ -1,5 +1,5 @@
 ---
 title: "King Soopers"
-url: /parker/king-soopers/
+url: /parker/king-soopers-cottonwood-drive/
 shop: supermarket
 ---

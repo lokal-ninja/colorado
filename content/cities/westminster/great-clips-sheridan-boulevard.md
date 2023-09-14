@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /westminster/great-clips/
+url: /westminster/great-clips-sheridan-boulevard/
 shop: hairdresser
 ---

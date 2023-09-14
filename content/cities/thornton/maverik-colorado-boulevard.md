@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
-url: /thornton/maverik/
+url: /thornton/maverik-colorado-boulevard/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "vacant"
-url: /fort-collins/vacant/
+url: /fort-collins/vacant-south-timberline-road/
 shop: vacant
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /parker/gnc/
+url: /parker/gnc-south-parker-road/
 shop: nutrition supplements
 ---

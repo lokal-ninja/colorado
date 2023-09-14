@@ -1,5 +1,5 @@
 ---
 title: "Big O Tires"
-url: /aurora/big-o-tires/
+url: /aurora/big-o-tires-south-havana-street/
 shop: tyres
 ---

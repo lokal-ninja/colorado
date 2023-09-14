@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /broomfield/walmart-supercenter/
+url: /broomfield/walmart-supercenter-west-121st-avenue/
 shop: supermarket
 ---

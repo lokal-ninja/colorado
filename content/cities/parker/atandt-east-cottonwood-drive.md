@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /parker/atandt/
+url: /parker/atandt-east-cottonwood-drive/
 shop: mobile phone
 ---

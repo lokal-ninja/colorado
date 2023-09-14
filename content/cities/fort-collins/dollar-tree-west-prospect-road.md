@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /fort-collins/dollar-tree/
+url: /fort-collins/dollar-tree-west-prospect-road/
 shop: variety store
 ---

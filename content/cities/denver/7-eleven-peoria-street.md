@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /denver/7-eleven/
+url: /denver/7-eleven-peoria-street/
 shop: convenience
 ---

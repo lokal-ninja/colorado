@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /westminster/atandt/
+url: /westminster/atandt-sheridan-boulevard/
 shop: mobile phone
 ---

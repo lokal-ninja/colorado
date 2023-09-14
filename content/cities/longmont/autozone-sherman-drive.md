@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /longmont/autozone/
+url: /longmont/autozone-sherman-drive/
 shop: car parts
 ---

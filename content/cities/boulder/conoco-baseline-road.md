@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
-url: /boulder/conoco/
+url: /boulder/conoco-baseline-road/
 shop: convenience
 ---

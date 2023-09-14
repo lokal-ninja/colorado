@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /denver/walgreens/
+url: /denver/walgreens-green-valley-ranch-boulevard/
 shop: chemist
 ---

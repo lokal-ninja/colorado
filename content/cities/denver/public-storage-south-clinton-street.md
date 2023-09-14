@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
-url: /denver/public-storage/
+url: /denver/public-storage-south-clinton-street/
 shop: doityourself
 ---

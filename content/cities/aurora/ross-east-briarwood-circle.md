@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /aurora/ross/
+url: /aurora/ross-east-briarwood-circle/
 shop: department store
 ---

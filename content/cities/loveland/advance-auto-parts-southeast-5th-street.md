@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /loveland/advance-auto-parts/
+url: /loveland/advance-auto-parts-southeast-5th-street/
 shop: car parts
 ---

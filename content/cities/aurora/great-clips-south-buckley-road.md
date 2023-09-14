@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /aurora/great-clips/
+url: /aurora/great-clips-south-buckley-road/
 shop: hairdresser
 ---

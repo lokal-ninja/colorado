@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /aurora/great-clips/
+url: /aurora/great-clips-east-hampden-avenue/
 shop: hairdresser
 ---

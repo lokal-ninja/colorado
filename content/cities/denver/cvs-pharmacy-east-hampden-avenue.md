@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /denver/cvs-pharmacy/
+url: /denver/cvs-pharmacy-east-hampden-avenue/
 shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
-url: /denver/cubesmart/
+url: /denver/cubesmart-osage-street/
 shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /aurora/t-mobile/
+url: /aurora/t-mobile-east-iliff-avenue/
 shop: mobile phone
 ---

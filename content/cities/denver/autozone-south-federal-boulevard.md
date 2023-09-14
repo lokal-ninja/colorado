@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /denver/autozone/
+url: /denver/autozone-south-federal-boulevard/
 shop: car parts
 ---

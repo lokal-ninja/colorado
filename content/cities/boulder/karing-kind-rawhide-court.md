@@ -1,5 +1,5 @@
 ---
 title: "Karing Kind"
-url: /boulder/karing-kind/
+url: /boulder/karing-kind-rawhide-court/
 shop: cannabis
 ---

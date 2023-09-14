@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /greenwood-village/circle-k/
+url: /greenwood-village/circle-k-east-orchard-road/
 shop: convenience
 ---

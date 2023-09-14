@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
-url: /aurora/storquest/
+url: /aurora/storquest-south-addison-court/
 shop: storage rental
 ---

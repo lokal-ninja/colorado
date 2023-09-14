@@ -1,5 +1,5 @@
 ---
 title: "Floyds 99 Barbershop"
-url: /denver/floyds-99-barbershop/
+url: /denver/floyds-99-barbershop-south-university-boulevard/
 shop: hairdresser
 ---

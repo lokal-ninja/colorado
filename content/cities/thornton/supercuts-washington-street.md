@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /thornton/supercuts/
+url: /thornton/supercuts-washington-street/
 shop: hairdresser
 ---

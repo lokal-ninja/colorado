@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
-url: /aurora/burlington/
+url: /aurora/burlington-south-parker-road/
 shop: department store
 ---

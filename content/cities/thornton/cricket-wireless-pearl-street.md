@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
-url: /thornton/cricket-wireless/
+url: /thornton/cricket-wireless-pearl-street/
 shop: mobile phone
 ---
