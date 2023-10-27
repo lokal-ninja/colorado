@@ -1,6 +1,6 @@
 ---
 title: Gunnison
 url: /gunnison/
-latitude: 38.554
-longitude: -106.926
+latitude: 38.544
+longitude: -106.934
 ---
