@@ -1,6 +1,6 @@
 ---
 title: Ridgway
 url: /ridgway/
-latitude: 38.152
-longitude: -107.758
+latitude: 38.151
+longitude: -107.747
 ---

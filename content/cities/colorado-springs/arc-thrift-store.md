@@ -1,5 +1,5 @@
 ---
-title: "Arc Thrift Store"
+title: "arc Thrift Store"
 url: /colorado-springs/arc-thrift-store/
 shop: charity
 ---
