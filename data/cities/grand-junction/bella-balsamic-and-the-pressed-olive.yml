@@ -1,11 +1,11 @@
-id: 4232629784
-type: node
-latitude: 39.06711
-longitude: -108.56312
+id: 423706515
+type: way
+latitude: 39.06684
+longitude: -108.56307
 postcode: "81501"
 city: Grand Junction
 street: "Main Street"
 housenumber: 555
-phone: ""
-opening_hours: "Tu,We 10:00-17:00; Th-Sa 10:00-18:00; Su 12:00-16:00"
-website: ""
+phone: "+1 970 581 6703"
+opening_hours: "Tu-Sa 09:00-18:00"
+website: "https://bellabalsamic.net"
