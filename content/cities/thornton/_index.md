@@ -1,6 +1,6 @@
 ---
 title: Thornton
 url: /thornton/
-latitude: 39.872
-longitude: -104.976
+latitude: 39.851
+longitude: -104.987
 ---
