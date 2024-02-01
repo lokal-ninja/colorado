@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /denver/walgreens-east-29th-drive/
+url: /longmont/walgreens/
 shop: chemist
 ---
