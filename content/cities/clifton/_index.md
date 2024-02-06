@@ -1,6 +1,6 @@
 ---
 title: Clifton
 url: /clifton/
-latitude: 39.078
-longitude: -108.459
+latitude: 39.092
+longitude: -108.455
 ---

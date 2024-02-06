@@ -1,5 +1,5 @@
 ---
 title: "Corner Store"
-url: /denver/corner-store-east-hampden-avenue/
+url: /denver/corner-store-east-iliff-avenue/
 shop: convenience
 ---
