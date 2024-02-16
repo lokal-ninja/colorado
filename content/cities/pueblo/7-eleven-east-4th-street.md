@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /denver/7-eleven-17th-street/
+url: /pueblo/7-eleven-east-4th-street/
 shop: convenience
 ---
