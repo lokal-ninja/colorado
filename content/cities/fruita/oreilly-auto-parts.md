@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
-url: /woodland-park/oreilly-auto-parts/
+url: /fruita/oreilly-auto-parts/
 shop: car parts
 ---
