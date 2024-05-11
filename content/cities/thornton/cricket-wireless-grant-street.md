@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
-url: /thornton/cricket-wireless-east-104th-avenue/
+url: /thornton/cricket-wireless-grant-street/
 shop: mobile phone
 ---
