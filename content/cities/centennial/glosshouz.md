@@ -1,5 +1,5 @@
 ---
 title: "Glosshouz"
 url: /centennial/glosshouz/
-shop: shop
+shop: beauty
 ---
