@@ -1,6 +1,6 @@
 ---
 title: Loveland
 url: /loveland/
-latitude: 40.401
-longitude: -105.075
+latitude: 40.416
+longitude: -104.99
 ---

@@ -1,11 +1,11 @@
-id: 9786889545
-type: node
-latitude: 40.01382
-longitude: -105.10037
-postcode: "80026"
+id: 1246444093
+type: way
+latitude: 40.01305
+longitude: -105.10059
+postcode: "80516"
 city: Erie
 street: "Arapahoe Road"
 housenumber: 2910
-phone: "+1-303-524-8159"
-opening_hours: "Mo-Sa 06:00-22:00, Sun 07:00-21:00"
-website: "https://www.lowes.com/store/CO-Erie/3444"
+phone: "+1 303-524-8159"
+opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
+website: "https://www.lowes.com/store/co-erie/3444"
