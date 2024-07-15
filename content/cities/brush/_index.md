@@ -1,6 +1,6 @@
 ---
 title: Brush
 url: /brush/
-latitude: 40.256
-longitude: -103.625
+latitude: 40.255
+longitude: -103.627
 ---
