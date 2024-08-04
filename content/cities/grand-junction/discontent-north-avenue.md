@@ -1,5 +1,5 @@
 ---
 title: "Discontent"
 url: /grand-junction/discontent-north-avenue/
-shop: convenience
+shop: tobacco
 ---

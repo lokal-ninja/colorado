@@ -1,6 +1,6 @@
 ---
 title: Mosca
 url: /mosca/
-latitude: 37.651
-longitude: -105.871
+latitude: 37.693
+longitude: -105.548
 ---
