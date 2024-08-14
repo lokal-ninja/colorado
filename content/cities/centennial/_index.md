@@ -1,6 +1,6 @@
 ---
 title: Centennial
 url: /centennial/
-latitude: 39.572
-longitude: -104.922
+latitude: 39.568
+longitude: -104.921
 ---

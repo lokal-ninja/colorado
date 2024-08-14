@@ -1,5 +1,5 @@
 ---
-title: "San Jose Mexican Bakery"
+title: "San José Mexican Bakery"
 url: /grand-junction/san-jose-mexican-bakery/
 shop: bakery
 ---
