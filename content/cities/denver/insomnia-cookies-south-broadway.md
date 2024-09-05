@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /denver/insomnia-cookies-south-broadway/
-shop: pastry
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tiger Mart"
 url: /thornton/tiger-mart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "24-Hour Mini Mart"
 url: /denver/24-hour-mini-mart/
-shop: convenience
+shop: Lebensmittel
 ---

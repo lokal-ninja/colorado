@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /westminster/homegoods-orchard-parkway/
-shop: houseware
+shop: Haushaltsartikel
 ---

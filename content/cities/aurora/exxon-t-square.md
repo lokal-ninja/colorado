@@ -1,5 +1,5 @@
 ---
 title: "Exxon T-Square"
 url: /aurora/exxon-t-square/
-shop: convenience
+shop: Lebensmittel
 ---

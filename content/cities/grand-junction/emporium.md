@@ -1,5 +1,5 @@
 ---
 title: "Emporium"
 url: /grand-junction/emporium/
-shop: tobacco
+shop: Tabak
 ---

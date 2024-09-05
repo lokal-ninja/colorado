@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /fort-collins/michaels/
-shop: craft
+shop: Basteln
 ---

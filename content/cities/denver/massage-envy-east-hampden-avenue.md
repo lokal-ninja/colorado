@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /denver/massage-envy-east-hampden-avenue/
-shop: massage
+shop: Massage
 ---

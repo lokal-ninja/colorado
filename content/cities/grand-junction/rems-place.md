@@ -1,5 +1,5 @@
 ---
 title: "Rem's Place"
 url: /grand-junction/rems-place/
-shop: tobacco
+shop: Tabak
 ---

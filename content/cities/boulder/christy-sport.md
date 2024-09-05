@@ -1,5 +1,5 @@
 ---
 title: "Christy Sport"
 url: /boulder/christy-sport/
-shop: ski
+shop: Ski
 ---

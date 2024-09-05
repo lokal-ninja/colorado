@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /vail/patagonia/
-shop: clothes
+shop: Kleidung
 ---

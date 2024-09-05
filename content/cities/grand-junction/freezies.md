@@ -1,5 +1,5 @@
 ---
 title: "Freezies"
 url: /grand-junction/freezies/
-shop: confectionery
+shop: Süßwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /loveland/petco/
-shop: pet
+shop: Tiere
 ---

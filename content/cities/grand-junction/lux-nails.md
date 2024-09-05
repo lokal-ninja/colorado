@@ -1,5 +1,5 @@
 ---
 title: "Lux Nails"
 url: /grand-junction/lux-nails/
-shop: beauty
+shop: Kosmetik
 ---

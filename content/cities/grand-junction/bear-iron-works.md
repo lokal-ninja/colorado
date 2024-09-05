@@ -1,5 +1,5 @@
 ---
 title: "Bear Iron Works"
 url: /grand-junction/bear-iron-works/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Everyday Market"
 url: /denver/everyday-market-lowell-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

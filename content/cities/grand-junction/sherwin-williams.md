@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /grand-junction/sherwin-williams/
-shop: paint
+shop: Farben
 ---

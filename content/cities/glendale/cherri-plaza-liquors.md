@@ -1,5 +1,5 @@
 ---
 title: "Cherri Plaza Liquors"
 url: /glendale/cherri-plaza-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

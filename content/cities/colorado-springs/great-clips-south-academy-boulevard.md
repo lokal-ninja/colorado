@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /colorado-springs/great-clips-south-academy-boulevard/
-shop: hairdresser
+shop: Friseur
 ---

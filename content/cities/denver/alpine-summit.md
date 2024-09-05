@@ -1,5 +1,5 @@
 ---
 title: "Alpine Summit"
 url: /denver/alpine-summit/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

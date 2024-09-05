@@ -1,5 +1,5 @@
 ---
 title: "Pinque Boutique"
 url: /grand-junction/pinque-boutique/
-shop: clothes
+shop: Kleidung
 ---

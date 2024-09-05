@@ -1,5 +1,5 @@
 ---
 title: "Classy Nails"
 url: /denver/classy-nails/
-shop: beauty
+shop: Kosmetik
 ---

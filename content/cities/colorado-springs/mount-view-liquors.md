@@ -1,5 +1,5 @@
 ---
 title: "Mount View Liquors"
 url: /colorado-springs/mount-view-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

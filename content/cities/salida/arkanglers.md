@@ -1,5 +1,5 @@
 ---
 title: "ArkAnglers"
 url: /salida/arkanglers/
-shop: fishing
+shop: Angeln
 ---

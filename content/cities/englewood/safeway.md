@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /englewood/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

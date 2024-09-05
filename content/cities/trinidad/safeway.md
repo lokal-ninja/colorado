@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /trinidad/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

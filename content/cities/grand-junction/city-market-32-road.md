@@ -1,5 +1,5 @@
 ---
 title: "City Market"
 url: /grand-junction/city-market-32-road/
-shop: supermarket
+shop: Supermarkt
 ---

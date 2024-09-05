@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /brighton/michaels/
-shop: craft
+shop: Basteln
 ---

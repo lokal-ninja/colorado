@@ -1,5 +1,5 @@
 ---
 title: "Montana Salon"
 url: /greenwood-village/montana-salon/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woodcraft"
 url: /centennial/woodcraft/
-shop: craft
+shop: Basteln
 ---

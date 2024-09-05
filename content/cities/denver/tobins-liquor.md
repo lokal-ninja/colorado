@@ -1,5 +1,5 @@
 ---
 title: "Tobins Liquor"
 url: /denver/tobins-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

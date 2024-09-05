@@ -1,5 +1,5 @@
 ---
 title: "Action Cycles"
 url: /colorado-springs/action-cycles/
-shop: motorcycle
+shop: Motorrad
 ---

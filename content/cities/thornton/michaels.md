@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /thornton/michaels/
-shop: craft
+shop: Basteln
 ---

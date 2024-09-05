@@ -1,5 +1,5 @@
 ---
 title: "EZPAWN"
 url: /northglenn/ezpawn/
-shop: pawnbroker
+shop: Leiher
 ---

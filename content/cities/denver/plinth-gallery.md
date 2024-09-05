@@ -1,5 +1,5 @@
 ---
 title: "Plinth Gallery"
 url: /denver/plinth-gallery/
-shop: art
+shop: Kunst
 ---

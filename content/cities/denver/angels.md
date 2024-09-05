@@ -1,5 +1,5 @@
 ---
 title: "Angels"
 url: /denver/angels/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /broomfield/shell/
-shop: convenience
+shop: Lebensmittel
 ---

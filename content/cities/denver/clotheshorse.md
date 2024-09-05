@@ -1,5 +1,5 @@
 ---
 title: "Clotheshorse"
 url: /denver/clotheshorse/
-shop: clothes
+shop: Kleidung
 ---

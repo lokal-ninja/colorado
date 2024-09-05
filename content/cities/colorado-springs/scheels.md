@@ -1,5 +1,5 @@
 ---
 title: "Scheels"
 url: /colorado-springs/scheels/
-shop: sports
+shop: Sport
 ---

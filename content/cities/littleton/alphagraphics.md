@@ -1,5 +1,5 @@
 ---
 title: "AlphaGraphics"
 url: /littleton/alphagraphics/
-shop: copyshop
+shop: Kopieren
 ---

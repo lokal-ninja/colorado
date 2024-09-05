@@ -1,5 +1,5 @@
 ---
 title: "MudbuM"
 url: /boulder/mudbum/
-shop: beauty
+shop: Kosmetik
 ---

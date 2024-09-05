@@ -1,5 +1,5 @@
 ---
 title: "Simpson Brother's Garage"
 url: /grand-junction/simpson-brothers-garage/
-shop: car repair
+shop: Autowerkstatt
 ---

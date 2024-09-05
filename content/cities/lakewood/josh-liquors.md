@@ -1,5 +1,5 @@
 ---
 title: "Josh Liquors"
 url: /lakewood/josh-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

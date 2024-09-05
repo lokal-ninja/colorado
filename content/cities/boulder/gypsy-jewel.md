@@ -1,5 +1,5 @@
 ---
 title: "Gypsy Jewel"
 url: /boulder/gypsy-jewel/
-shop: clothes
+shop: Kleidung
 ---

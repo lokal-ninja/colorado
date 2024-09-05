@@ -1,5 +1,5 @@
 ---
 title: "Tangles Of Parker"
 url: /parker/tangles-of-parker/
-shop: hairdresser
+shop: Friseur
 ---

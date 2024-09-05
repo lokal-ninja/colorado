@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /superior/michaels/
-shop: craft
+shop: Basteln
 ---

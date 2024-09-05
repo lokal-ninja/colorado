@@ -1,5 +1,5 @@
 ---
 title: "Lamont Ecosse Hardware"
 url: /denver/lamont-ecosse-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

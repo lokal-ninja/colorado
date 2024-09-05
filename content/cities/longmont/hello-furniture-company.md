@@ -1,5 +1,5 @@
 ---
 title: "Hello! Furniture Company"
 url: /longmont/hello-furniture-company/
-shop: furniture
+shop: Möbel
 ---

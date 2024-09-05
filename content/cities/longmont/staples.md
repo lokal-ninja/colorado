@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /longmont/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

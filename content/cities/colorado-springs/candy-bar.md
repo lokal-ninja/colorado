@@ -1,5 +1,5 @@
 ---
 title: "Candy Bar"
 url: /colorado-springs/candy-bar/
-shop: confectionery
+shop: Süßwaren
 ---

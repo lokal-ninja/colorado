@@ -1,5 +1,5 @@
 ---
 title: "Hanson Spas"
 url: /colorado-springs/hanson-spas/
-shop: furniture
+shop: Möbel
 ---

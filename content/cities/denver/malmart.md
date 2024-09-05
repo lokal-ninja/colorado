@@ -1,5 +1,5 @@
 ---
 title: "MalMart"
 url: /denver/malmart/
-shop: convenience
+shop: Lebensmittel
 ---

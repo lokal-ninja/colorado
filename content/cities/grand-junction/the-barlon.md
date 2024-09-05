@@ -1,5 +1,5 @@
 ---
 title: "The BarLón"
 url: /grand-junction/the-barlon/
-shop: hairdresser
+shop: Friseur
 ---

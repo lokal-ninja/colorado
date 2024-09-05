@@ -1,5 +1,5 @@
 ---
 title: "Cliff Singer Lettering"
 url: /denver/cliff-singer-lettering/
-shop: shop
+shop: Allgemein
 ---

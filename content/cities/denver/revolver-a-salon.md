@@ -1,5 +1,5 @@
 ---
 title: "Revolver: A Salon"
 url: /denver/revolver-a-salon/
-shop: hairdresser
+shop: Friseur
 ---

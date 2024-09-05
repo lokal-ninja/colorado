@@ -1,5 +1,5 @@
 ---
 title: "Wet Mountain Treasures"
 url: /westcliffe/wet-mountain-treasures/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leffler Family Farm"
 url: /eaton/leffler-family-farm/
-shop: farm
+shop: Hofladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kremmling Mini Storage"
 url: /kremmling/kremmling-mini-storage/
-shop: doityourself
+shop: Baumarkt
 ---

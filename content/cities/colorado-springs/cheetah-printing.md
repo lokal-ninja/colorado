@@ -1,5 +1,5 @@
 ---
 title: "Cheetah Printing"
 url: /colorado-springs/cheetah-printing/
-shop: copyshop
+shop: Kopieren
 ---

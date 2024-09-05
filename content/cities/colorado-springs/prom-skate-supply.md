@@ -1,5 +1,5 @@
 ---
 title: "PROM Skate Supply"
 url: /colorado-springs/prom-skate-supply/
-shop: sports
+shop: Sport
 ---

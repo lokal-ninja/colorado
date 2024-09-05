@@ -1,5 +1,5 @@
 ---
 title: "Arapahoe Snappy Nails"
 url: /centennial/arapahoe-snappy-nails/
-shop: beauty
+shop: Kosmetik
 ---

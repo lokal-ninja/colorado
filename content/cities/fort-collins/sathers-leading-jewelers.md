@@ -1,5 +1,5 @@
 ---
 title: "Sather's Leading Jewelers"
 url: /fort-collins/sathers-leading-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

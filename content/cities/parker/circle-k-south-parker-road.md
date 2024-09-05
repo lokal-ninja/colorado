@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /parker/circle-k-south-parker-road/
-shop: convenience
+shop: Lebensmittel
 ---

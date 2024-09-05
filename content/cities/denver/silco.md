@@ -1,5 +1,5 @@
 ---
 title: "Silco"
 url: /denver/silco/
-shop: convenience
+shop: Lebensmittel
 ---

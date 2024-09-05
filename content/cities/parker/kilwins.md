@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /parker/kilwins/
-shop: confectionery
+shop: Süßwaren
 ---

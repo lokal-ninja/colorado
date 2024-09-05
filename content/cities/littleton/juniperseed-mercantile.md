@@ -1,5 +1,5 @@
 ---
 title: "Juniperseed Mercantile"
 url: /littleton/juniperseed-mercantile/
-shop: chemist
+shop: Drogerie
 ---

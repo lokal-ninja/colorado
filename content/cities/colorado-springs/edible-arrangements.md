@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /colorado-springs/edible-arrangements/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sierra"
 url: /aurora/sierra/
-shop: outdoor
+shop: Outdoor
 ---

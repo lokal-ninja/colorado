@@ -1,5 +1,5 @@
 ---
 title: "Arvada Smoke Shop"
 url: /arvada/arvada-smoke-shop/
-shop: tobacco
+shop: Tabak
 ---

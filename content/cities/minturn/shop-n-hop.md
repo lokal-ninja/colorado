@@ -1,5 +1,5 @@
 ---
 title: "Shop N Hop"
 url: /minturn/shop-n-hop/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Murphy Express"
 url: /thornton/murphy-express/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /fraser/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

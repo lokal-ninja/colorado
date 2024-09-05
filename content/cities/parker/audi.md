@@ -1,5 +1,5 @@
 ---
 title: "Audi"
 url: /parker/audi/
-shop: car
+shop: Autohaus
 ---

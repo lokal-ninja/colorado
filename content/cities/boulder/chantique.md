@@ -1,5 +1,5 @@
 ---
 title: "Chantique"
 url: /boulder/chantique/
-shop: antiques
+shop: Antiquitäten
 ---

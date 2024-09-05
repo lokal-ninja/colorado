@@ -1,5 +1,5 @@
 ---
 title: "Salon International"
 url: /aurora/salon-international/
-shop: hairdresser
+shop: Friseur
 ---

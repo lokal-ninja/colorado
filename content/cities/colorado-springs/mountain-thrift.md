@@ -1,5 +1,5 @@
 ---
 title: "Mountain Thrift"
 url: /colorado-springs/mountain-thrift/
-shop: clothes
+shop: Kleidung
 ---

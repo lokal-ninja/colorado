@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /colorado-springs/discount-tire/
-shop: tyres
+shop: Reifen
 ---

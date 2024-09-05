@@ -1,5 +1,5 @@
 ---
 title: "Novus Glass"
 url: /fort-collins/novus-glass/
-shop: glass
+shop: Glas
 ---

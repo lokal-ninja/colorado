@@ -1,5 +1,5 @@
 ---
 title: "Revolution Cleaners"
 url: /denver/revolution-cleaners-wewatta-street/
-shop: laundry
+shop: Wäscherei
 ---

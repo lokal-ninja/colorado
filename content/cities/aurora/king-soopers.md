@@ -1,5 +1,5 @@
 ---
 title: "King Soopers"
 url: /aurora/king-soopers/
-shop: supermarket
+shop: Supermarkt
 ---

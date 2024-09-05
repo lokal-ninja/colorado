@@ -1,5 +1,5 @@
 ---
 title: "Wagon Wheel Storage, LLC"
 url: /centennial/wagon-wheel-storage-llc/
-shop: storage rental
+shop: Mieten
 ---

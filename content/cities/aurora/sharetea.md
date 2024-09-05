@@ -1,5 +1,5 @@
 ---
 title: "Sharetea"
 url: /aurora/sharetea/
-shop: tea
+shop: Tee
 ---

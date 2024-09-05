@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /loveland/safeway-north-cleveland-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

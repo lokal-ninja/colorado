@@ -1,5 +1,5 @@
 ---
 title: "Crystal Nails"
 url: /loveland/crystal-nails/
-shop: beauty
+shop: Kosmetik
 ---

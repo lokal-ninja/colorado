@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /brighton/discount-tire-east-bridge-street/
-shop: tyres
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Whitewater West"
 url: /grand-junction/whitewater-west/
-shop: outdoor
+shop: Outdoor
 ---

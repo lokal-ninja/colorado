@@ -1,5 +1,5 @@
 ---
 title: "Dino Mart"
 url: /estes-park/dino-mart/
-shop: convenience
+shop: Lebensmittel
 ---

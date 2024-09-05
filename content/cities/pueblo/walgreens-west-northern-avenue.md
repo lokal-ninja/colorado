@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /pueblo/walgreens-west-northern-avenue/
-shop: chemist
+shop: Drogerie
 ---

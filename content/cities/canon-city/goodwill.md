@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /canon-city/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

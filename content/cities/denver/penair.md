@@ -1,5 +1,5 @@
 ---
 title: "PenAir"
 url: /denver/penair/
-shop: ticket
+shop: Tickets
 ---

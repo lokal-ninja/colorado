@@ -1,5 +1,5 @@
 ---
 title: "Classic Cleaners"
 url: /aurora/classic-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

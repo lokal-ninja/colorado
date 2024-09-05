@@ -1,5 +1,5 @@
 ---
 title: "EchoPark Automotive Denver (Centennial)"
 url: /centennial/echopark-automotive-denver-centennial/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gustave A. Larson"
 url: /grand-junction/gustave-a-larson/
-shop: trade
+shop: Baustoffe
 ---

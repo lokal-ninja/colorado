@@ -1,5 +1,5 @@
 ---
 title: "Elite Events"
 url: /grand-junction/elite-events/
-shop: shop
+shop: Allgemein
 ---

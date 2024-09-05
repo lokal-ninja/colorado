@@ -1,5 +1,5 @@
 ---
 title: "Alonzo's Auto Detailing"
 url: /grand-junction/alonzos-auto-detailing/
-shop: car repair
+shop: Autowerkstatt
 ---

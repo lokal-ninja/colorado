@@ -1,5 +1,5 @@
 ---
 title: "True"
 url: /aurora/true/
-shop: clothes
+shop: Kleidung
 ---

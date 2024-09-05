@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /longmont/officemax/
-shop: office supplies
+shop: Schreibwaren
 ---

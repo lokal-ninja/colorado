@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /centennial/toyota/
-shop: car
+shop: Autohaus
 ---

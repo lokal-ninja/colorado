@@ -1,5 +1,5 @@
 ---
 title: "arc Thrift Store"
 url: /lakewood/arc-thrift-store-west-colfax-avenue/
-shop: charity
+shop: Gebrauchtwaren
 ---

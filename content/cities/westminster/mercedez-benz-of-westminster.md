@@ -1,5 +1,5 @@
 ---
 title: "Mercedez Benz of Westminster"
 url: /westminster/mercedez-benz-of-westminster/
-shop: car
+shop: Autohaus
 ---

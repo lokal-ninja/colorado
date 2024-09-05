@@ -1,5 +1,5 @@
 ---
 title: "Unleashed"
 url: /denver/unleashed/
-shop: pet
+shop: Tiere
 ---

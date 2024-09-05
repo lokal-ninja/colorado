@@ -1,5 +1,5 @@
 ---
 title: "Dover Saddlery"
 url: /parker/dover-saddlery/
-shop: leather
+shop: Leder
 ---

@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /littleton/storquest/
-shop: storage rental
+shop: Mieten
 ---

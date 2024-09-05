@@ -1,5 +1,5 @@
 ---
 title: "Preferred Document Solutions"
 url: /colorado-springs/preferred-document-solutions/
-shop: shop
+shop: Allgemein
 ---

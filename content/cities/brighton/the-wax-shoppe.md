@@ -1,5 +1,5 @@
 ---
 title: "The Wax Shoppe"
 url: /brighton/the-wax-shoppe/
-shop: beauty
+shop: Kosmetik
 ---

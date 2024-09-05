@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /pueblo/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

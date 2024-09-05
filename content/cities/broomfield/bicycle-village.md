@@ -1,5 +1,5 @@
 ---
 title: "Bicycle Village"
 url: /broomfield/bicycle-village/
-shop: bicycle
+shop: Fahrrad
 ---

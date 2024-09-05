@@ -1,5 +1,5 @@
 ---
 title: "MBM Corporation"
 url: /aurora/mbm-corporation/
-shop: charity
+shop: Gebrauchtwaren
 ---

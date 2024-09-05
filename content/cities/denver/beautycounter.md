@@ -1,5 +1,5 @@
 ---
 title: "Beautycounter"
 url: /denver/beautycounter/
-shop: beauty
+shop: Kosmetik
 ---

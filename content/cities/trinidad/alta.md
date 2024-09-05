@@ -1,5 +1,5 @@
 ---
 title: "Alta"
 url: /trinidad/alta/
-shop: convenience
+shop: Lebensmittel
 ---

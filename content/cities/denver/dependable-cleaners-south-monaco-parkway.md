@@ -1,5 +1,5 @@
 ---
 title: "Dependable Cleaners"
 url: /denver/dependable-cleaners-south-monaco-parkway/
-shop: laundry
+shop: Wäscherei
 ---

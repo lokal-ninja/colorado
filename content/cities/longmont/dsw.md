@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /longmont/dsw/
-shop: shoes
+shop: Schuhe
 ---

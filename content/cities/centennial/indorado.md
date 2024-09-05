@@ -1,5 +1,5 @@
 ---
 title: "Indorado"
 url: /centennial/indorado/
-shop: supermarket
+shop: Supermarkt
 ---

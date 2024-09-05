@@ -1,5 +1,5 @@
 ---
 title: "Lithium"
 url: /estes-park/lithium/
-shop: sports
+shop: Sport
 ---

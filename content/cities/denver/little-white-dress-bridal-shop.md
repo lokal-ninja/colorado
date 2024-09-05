@@ -1,5 +1,5 @@
 ---
 title: "Little White Dress Bridal Shop"
 url: /denver/little-white-dress-bridal-shop/
-shop: clothes
+shop: Kleidung
 ---

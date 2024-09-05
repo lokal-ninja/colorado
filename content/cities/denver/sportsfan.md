@@ -1,5 +1,5 @@
 ---
 title: "Sportsfan"
 url: /denver/sportsfan/
-shop: clothes
+shop: Kleidung
 ---

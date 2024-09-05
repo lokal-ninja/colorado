@@ -1,5 +1,5 @@
 ---
 title: "Mattresses on Weekends"
 url: /thornton/mattresses-on-weekends/
-shop: bed
+shop: Betten
 ---

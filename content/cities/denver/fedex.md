@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
 url: /denver/fedex/
-shop: shop
+shop: Allgemein
 ---

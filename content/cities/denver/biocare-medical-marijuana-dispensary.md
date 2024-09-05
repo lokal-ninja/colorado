@@ -1,5 +1,5 @@
 ---
 title: "Biocare Medical Marijuana Dispensary"
 url: /denver/biocare-medical-marijuana-dispensary/
-shop: cannabis
+shop: Hanf
 ---

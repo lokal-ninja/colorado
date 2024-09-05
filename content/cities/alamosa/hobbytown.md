@@ -1,5 +1,5 @@
 ---
 title: "HobbyTown"
 url: /alamosa/hobbytown/
-shop: sports
+shop: Sport
 ---

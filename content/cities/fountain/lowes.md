@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /fountain/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /conifer/maverik/
-shop: convenience
+shop: Lebensmittel
 ---

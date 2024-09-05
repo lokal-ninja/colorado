@@ -1,5 +1,5 @@
 ---
 title: "Clark's Market"
 url: /telluride/clarks-market/
-shop: supermarket
+shop: Supermarkt
 ---

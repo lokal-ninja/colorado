@@ -1,5 +1,5 @@
 ---
 title: "JT Nails"
 url: /aurora/jt-nails/
-shop: beauty
+shop: Kosmetik
 ---

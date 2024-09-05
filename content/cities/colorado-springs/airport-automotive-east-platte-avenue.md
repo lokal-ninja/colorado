@@ -1,5 +1,5 @@
 ---
 title: "Airport Automotive"
 url: /colorado-springs/airport-automotive-east-platte-avenue/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /grand-junction/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

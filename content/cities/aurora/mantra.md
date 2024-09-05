@@ -1,5 +1,5 @@
 ---
 title: "Mantra"
 url: /aurora/mantra/
-shop: clothes
+shop: Kleidung
 ---

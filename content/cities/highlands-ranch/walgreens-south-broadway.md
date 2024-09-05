@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /highlands-ranch/walgreens-south-broadway/
-shop: chemist
+shop: Drogerie
 ---

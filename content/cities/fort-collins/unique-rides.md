@@ -1,5 +1,5 @@
 ---
 title: "Unique Rides"
 url: /fort-collins/unique-rides/
-shop: motorcycle
+shop: Motorrad
 ---

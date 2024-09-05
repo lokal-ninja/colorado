@@ -1,5 +1,5 @@
 ---
 title: "BikeSource"
 url: /denver/bikesource/
-shop: bicycle
+shop: Fahrrad
 ---

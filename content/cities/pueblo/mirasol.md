@@ -1,5 +1,5 @@
 ---
 title: "Mirasol"
 url: /pueblo/mirasol/
-shop: shop
+shop: Allgemein
 ---

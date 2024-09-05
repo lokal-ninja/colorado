@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /aurora/petco/
-shop: pet
+shop: Tiere
 ---

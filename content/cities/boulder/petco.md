@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /boulder/petco/
-shop: pet
+shop: Tiere
 ---

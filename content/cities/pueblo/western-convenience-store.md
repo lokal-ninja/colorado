@@ -1,5 +1,5 @@
 ---
 title: "Western Convenience Store"
 url: /pueblo/western-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

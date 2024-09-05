@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /denver/walmart-supercenter-smith-road/
-shop: supermarket
+shop: Supermarkt
 ---

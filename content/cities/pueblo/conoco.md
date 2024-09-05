@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /pueblo/conoco/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laundry Lounge"
 url: /colorado-springs/laundry-lounge/
-shop: laundry
+shop: Wäscherei
 ---

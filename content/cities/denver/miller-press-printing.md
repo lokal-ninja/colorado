@@ -1,5 +1,5 @@
 ---
 title: "Miller Press Printing"
 url: /denver/miller-press-printing/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /fort-collins/ross/
-shop: department store
+shop: Warenhaus
 ---

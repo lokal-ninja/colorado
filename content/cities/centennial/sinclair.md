@@ -1,5 +1,5 @@
 ---
 title: "Sinclair"
 url: /centennial/sinclair/
-shop: convenience
+shop: Lebensmittel
 ---

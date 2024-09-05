@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /colorado-springs/walgreens-barnes-road/
-shop: chemist
+shop: Drogerie
 ---

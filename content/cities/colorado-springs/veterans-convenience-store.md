@@ -1,5 +1,5 @@
 ---
 title: "Veterans Convenience Store"
 url: /colorado-springs/veterans-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

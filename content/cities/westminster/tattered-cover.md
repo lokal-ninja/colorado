@@ -1,5 +1,5 @@
 ---
 title: "Tattered Cover"
 url: /westminster/tattered-cover/
-shop: books
+shop: Bücher
 ---

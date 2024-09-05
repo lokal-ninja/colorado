@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /thornton/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Studio 37 Tattoo"
 url: /aurora/studio-37-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

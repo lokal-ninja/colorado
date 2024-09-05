@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /colorado-springs/maverik/
-shop: convenience
+shop: Lebensmittel
 ---

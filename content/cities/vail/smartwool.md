@@ -1,5 +1,5 @@
 ---
 title: "Smartwool"
 url: /vail/smartwool/
-shop: clothes
+shop: Kleidung
 ---

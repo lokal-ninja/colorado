@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /broomfield/chevrolet/
-shop: car
+shop: Autohaus
 ---

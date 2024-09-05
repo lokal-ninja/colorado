@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /parker/sport-clips-south-parker-road/
-shop: hairdresser
+shop: Friseur
 ---

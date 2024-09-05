@@ -1,5 +1,5 @@
 ---
 title: "Appliance Factory Outlet"
 url: /fort-collins/appliance-factory-outlet/
-shop: appliance
+shop: Haushaltsgeräte
 ---

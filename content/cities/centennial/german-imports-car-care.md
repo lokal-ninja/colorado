@@ -1,5 +1,5 @@
 ---
 title: "German Imports Car Care"
 url: /centennial/german-imports-car-care/
-shop: car repair
+shop: Autowerkstatt
 ---

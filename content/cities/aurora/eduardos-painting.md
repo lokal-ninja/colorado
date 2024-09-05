@@ -1,5 +1,5 @@
 ---
 title: "Eduardo's Painting"
 url: /aurora/eduardos-painting/
-shop: doors
+shop: Türen
 ---

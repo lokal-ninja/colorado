@@ -1,5 +1,5 @@
 ---
 title: "Federal Indoor Flea Market"
 url: /denver/federal-indoor-flea-market/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mountain Grown Gardens"
 url: /alma/mountain-grown-gardens/
-shop: garden centre
+shop: Garten-Center
 ---

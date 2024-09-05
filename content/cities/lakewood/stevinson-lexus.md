@@ -1,5 +1,5 @@
 ---
 title: "Stevinson Lexus"
 url: /lakewood/stevinson-lexus/
-shop: car
+shop: Autohaus
 ---

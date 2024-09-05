@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /colorado-springs/hallmark/
-shop: gift
+shop: Andenken
 ---

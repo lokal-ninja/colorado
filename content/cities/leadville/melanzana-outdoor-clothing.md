@@ -1,5 +1,5 @@
 ---
 title: "Melanzana Outdoor Clothing"
 url: /leadville/melanzana-outdoor-clothing/
-shop: clothes
+shop: Kleidung
 ---

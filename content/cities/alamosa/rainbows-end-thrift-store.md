@@ -1,5 +1,5 @@
 ---
 title: "Rainbow's End Thrift Store"
 url: /alamosa/rainbows-end-thrift-store/
-shop: charity
+shop: Gebrauchtwaren
 ---

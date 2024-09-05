@@ -1,5 +1,5 @@
 ---
 title: "Highland Massage Company"
 url: /denver/highland-massage-company/
-shop: massage
+shop: Massage
 ---

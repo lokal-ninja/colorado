@@ -1,5 +1,5 @@
 ---
 title: "LK Liquors"
 url: /colorado-springs/lk-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

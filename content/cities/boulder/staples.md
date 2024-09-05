@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /boulder/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

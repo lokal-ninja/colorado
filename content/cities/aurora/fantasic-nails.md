@@ -1,5 +1,5 @@
 ---
 title: "Fantasic Nails"
 url: /aurora/fantasic-nails/
-shop: beauty
+shop: Kosmetik
 ---

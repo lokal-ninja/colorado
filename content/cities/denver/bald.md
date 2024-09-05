@@ -1,5 +1,5 @@
 ---
 title: "Bald"
 url: /denver/bald/
-shop: beauty
+shop: Kosmetik
 ---

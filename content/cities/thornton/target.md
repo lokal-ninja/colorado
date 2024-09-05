@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /thornton/target/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Truong An Gifts"
 url: /denver/truong-an-gifts/
-shop: gift
+shop: Andenken
 ---

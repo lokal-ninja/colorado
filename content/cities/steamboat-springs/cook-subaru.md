@@ -1,5 +1,5 @@
 ---
 title: "Cook Subaru"
 url: /steamboat-springs/cook-subaru/
-shop: car
+shop: Autohaus
 ---

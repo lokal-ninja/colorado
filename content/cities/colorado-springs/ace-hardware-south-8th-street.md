@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /colorado-springs/ace-hardware-south-8th-street/
-shop: doityourself
+shop: Baumarkt
 ---

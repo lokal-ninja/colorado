@@ -1,5 +1,5 @@
 ---
 title: "MadSportsStuff"
 url: /centennial/madsportsstuff/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perla"
 url: /boulder/perla/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T LC Nails"
 url: /superior/t-lc-nails/
-shop: beauty
+shop: Kosmetik
 ---

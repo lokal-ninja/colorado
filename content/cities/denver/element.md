@@ -1,5 +1,5 @@
 ---
 title: "Element"
 url: /denver/element/
-shop: furniture
+shop: Möbel
 ---

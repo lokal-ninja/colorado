@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /fort-collins/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

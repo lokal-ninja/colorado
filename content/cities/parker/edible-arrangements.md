@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /parker/edible-arrangements/
-shop: gift
+shop: Andenken
 ---

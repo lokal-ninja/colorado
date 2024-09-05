@@ -1,5 +1,5 @@
 ---
 title: "Emich Volkswagen of Boulder"
 url: /boulder/emich-volkswagen-of-boulder/
-shop: car
+shop: Autohaus
 ---

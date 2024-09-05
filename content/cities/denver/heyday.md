@@ -1,5 +1,5 @@
 ---
 title: "Heyday"
 url: /denver/heyday/
-shop: beauty
+shop: Kosmetik
 ---

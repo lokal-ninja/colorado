@@ -1,5 +1,5 @@
 ---
 title: "Vitamin Cottage"
 url: /lafayette/vitamin-cottage/
-shop: supermarket
+shop: Supermarkt
 ---

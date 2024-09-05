@@ -1,5 +1,5 @@
 ---
 title: "Tabor-Rice Funeral Home"
 url: /brighton/tabor-rice-funeral-home/
-shop: funeral directors
+shop: Bestattungen
 ---

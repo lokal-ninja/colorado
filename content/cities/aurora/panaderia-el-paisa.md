@@ -1,5 +1,5 @@
 ---
 title: "Panadería El Paisa"
 url: /aurora/panaderia-el-paisa/
-shop: bakery
+shop: Bäckerei
 ---

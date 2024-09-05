@@ -1,5 +1,5 @@
 ---
 title: "Underwater Connection"
 url: /colorado-springs/underwater-connection/
-shop: diving
+shop: Tauchen
 ---

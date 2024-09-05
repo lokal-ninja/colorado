@@ -1,5 +1,5 @@
 ---
 title: "Nail Care First"
 url: /firestone/nail-care-first/
-shop: beauty
+shop: Kosmetik
 ---

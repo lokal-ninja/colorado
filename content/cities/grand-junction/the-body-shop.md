@@ -1,5 +1,5 @@
 ---
 title: "The Body Shop"
 url: /grand-junction/the-body-shop/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yuphorix"
 url: /denver/yuphorix/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

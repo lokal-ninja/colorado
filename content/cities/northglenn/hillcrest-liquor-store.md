@@ -1,5 +1,5 @@
 ---
 title: "Hillcrest Liquor Store"
 url: /northglenn/hillcrest-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

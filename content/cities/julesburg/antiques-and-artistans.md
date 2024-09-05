@@ -1,5 +1,5 @@
 ---
 title: "Antiques and Artistans"
 url: /julesburg/antiques-and-artistans/
-shop: antiques
+shop: Antiquitäten
 ---

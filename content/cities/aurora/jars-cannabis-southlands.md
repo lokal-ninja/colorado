@@ -1,5 +1,5 @@
 ---
 title: "JARS Cannabis Southlands"
 url: /aurora/jars-cannabis-southlands/
-shop: cannabis
+shop: Hanf
 ---

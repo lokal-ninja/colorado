@@ -1,5 +1,5 @@
 ---
 title: "Countryside Liquor"
 url: /loveland/countryside-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

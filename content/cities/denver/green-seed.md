@@ -1,5 +1,5 @@
 ---
 title: "Green Seed"
 url: /denver/green-seed/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

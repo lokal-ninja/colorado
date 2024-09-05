@@ -1,5 +1,5 @@
 ---
 title: "Flawless Glo"
 url: /grand-junction/flawless-glo/
-shop: beauty
+shop: Kosmetik
 ---

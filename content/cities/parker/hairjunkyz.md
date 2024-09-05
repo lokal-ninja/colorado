@@ -1,5 +1,5 @@
 ---
 title: "HairJunkyz"
 url: /parker/hairjunkyz/
-shop: hairdresser
+shop: Friseur
 ---

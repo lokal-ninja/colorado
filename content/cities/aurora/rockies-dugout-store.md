@@ -1,5 +1,5 @@
 ---
 title: "Rockies Dugout Store"
 url: /aurora/rockies-dugout-store/
-shop: sports
+shop: Sport
 ---

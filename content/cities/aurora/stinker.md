@@ -1,5 +1,5 @@
 ---
 title: "Stinker"
 url: /aurora/stinker/
-shop: convenience
+shop: Lebensmittel
 ---

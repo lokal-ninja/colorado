@@ -1,5 +1,5 @@
 ---
 title: "Parsley"
 url: /denver/parsley/
-shop: deli
+shop: Feinkost
 ---

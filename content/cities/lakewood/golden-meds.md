@@ -1,5 +1,5 @@
 ---
 title: "Golden Meds"
 url: /lakewood/golden-meds/
-shop: cannabis
+shop: Hanf
 ---

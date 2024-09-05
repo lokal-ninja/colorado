@@ -1,5 +1,5 @@
 ---
 title: "Sports Optical"
 url: /denver/sports-optical/
-shop: optician
+shop: Optiker
 ---

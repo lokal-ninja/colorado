@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /stratton/conoco/
-shop: convenience
+shop: Lebensmittel
 ---

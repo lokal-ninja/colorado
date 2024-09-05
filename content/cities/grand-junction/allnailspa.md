@@ -1,5 +1,5 @@
 ---
 title: "allnailspa"
 url: /grand-junction/allnailspa/
-shop: beauty
+shop: Kosmetik
 ---

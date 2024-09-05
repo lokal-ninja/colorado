@@ -1,5 +1,5 @@
 ---
 title: "Fiiz Drinks"
 url: /colorado-springs/fiiz-drinks/
-shop: beverages
+shop: Getränke
 ---

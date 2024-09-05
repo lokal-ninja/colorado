@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /limon/shell/
-shop: convenience
+shop: Lebensmittel
 ---

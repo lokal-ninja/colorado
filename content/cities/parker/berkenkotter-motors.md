@@ -1,5 +1,5 @@
 ---
 title: "Berkenkotter Motors"
 url: /parker/berkenkotter-motors/
-shop: car
+shop: Autohaus
 ---

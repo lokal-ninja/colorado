@@ -1,5 +1,5 @@
 ---
 title: "Dependable Cleaners"
 url: /denver/dependable-cleaners-champa-street/
-shop: laundry
+shop: Wäscherei
 ---
