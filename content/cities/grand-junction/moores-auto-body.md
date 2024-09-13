@@ -1,5 +1,5 @@
 ---
 title: "Moore's Auto Body"
 url: /grand-junction/moores-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

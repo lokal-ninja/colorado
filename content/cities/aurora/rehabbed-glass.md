@@ -1,5 +1,5 @@
 ---
 title: "Rehabbed Glass"
 url: /aurora/rehabbed-glass/
-shop: Tabak
+shop: tobacco
 ---

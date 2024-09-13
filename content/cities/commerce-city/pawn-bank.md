@@ -1,5 +1,5 @@
 ---
 title: "Pawn Bank"
 url: /commerce-city/pawn-bank/
-shop: Kramladen
+shop: variety store
 ---

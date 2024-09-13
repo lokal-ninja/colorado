@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /seibert/conoco/
-shop: Lebensmittel
+shop: convenience
 ---

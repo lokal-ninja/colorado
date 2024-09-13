@@ -1,5 +1,5 @@
 ---
 title: "King Soopers"
 url: /centennial/king-soopers/
-shop: Supermarkt
+shop: supermarket
 ---

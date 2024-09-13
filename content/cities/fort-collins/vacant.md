@@ -1,5 +1,5 @@
 ---
 title: "vacant"
 url: /fort-collins/vacant/
-shop: Leerstehend
+shop: vacant
 ---

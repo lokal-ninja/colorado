@@ -1,5 +1,5 @@
 ---
 title: "Hot Streaks"
 url: /grand-junction/hot-streaks/
-shop: Friseur
+shop: hairdresser
 ---

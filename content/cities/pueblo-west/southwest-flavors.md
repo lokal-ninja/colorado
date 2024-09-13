@@ -1,5 +1,5 @@
 ---
 title: "Southwest Flavors"
 url: /pueblo-west/southwest-flavors/
-shop: Kramladen
+shop: variety store
 ---

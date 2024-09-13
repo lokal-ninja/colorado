@@ -1,5 +1,5 @@
 ---
 title: "Car Toys"
 url: /boulder/car-toys/
-shop: Elektronik
+shop: electronics
 ---

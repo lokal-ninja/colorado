@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /boulder/verizon-arapahoe-avenue/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Black Box Bakery"
 url: /edgewater/black-box-bakery/
-shop: Bäckerei
+shop: bakery
 ---

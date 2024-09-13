@@ -1,5 +1,5 @@
 ---
 title: "Bliss"
 url: /boulder/bliss/
-shop: Andenken
+shop: gift
 ---

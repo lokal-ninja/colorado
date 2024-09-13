@@ -1,5 +1,5 @@
 ---
 title: "Kriser's"
 url: /greenwood-village/krisers/
-shop: Tiere
+shop: pet
 ---

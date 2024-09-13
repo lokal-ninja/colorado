@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /colorado-springs/gamestop-southgate-road/
-shop: Videospiele
+shop: video games
 ---

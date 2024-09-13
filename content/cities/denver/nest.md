@@ -1,5 +1,5 @@
 ---
 title: "Nest"
 url: /denver/nest/
-shop: Spielzeug
+shop: toys
 ---

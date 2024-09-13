@@ -1,5 +1,5 @@
 ---
 title: "Flagler Liquor"
 url: /flagler/flagler-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

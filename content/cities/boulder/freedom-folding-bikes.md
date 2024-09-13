@@ -1,5 +1,5 @@
 ---
 title: "Freedom Folding Bikes"
 url: /boulder/freedom-folding-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

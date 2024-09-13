@@ -1,5 +1,5 @@
 ---
 title: "Digitiqe"
 url: /breckenridge/digitiqe/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferrellgas"
 url: /leadville/ferrellgas/
-shop: Gasflaschen
+shop: gas
 ---

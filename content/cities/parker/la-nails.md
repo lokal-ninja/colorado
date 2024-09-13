@@ -1,5 +1,5 @@
 ---
 title: "LA Nails"
 url: /parker/la-nails/
-shop: Kosmetik
+shop: beauty
 ---

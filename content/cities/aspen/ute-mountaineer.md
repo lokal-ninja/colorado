@@ -1,5 +1,5 @@
 ---
 title: "Ute Mountaineer"
 url: /aspen/ute-mountaineer/
-shop: Outdoor
+shop: outdoor
 ---

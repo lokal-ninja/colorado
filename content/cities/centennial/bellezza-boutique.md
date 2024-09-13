@@ -1,5 +1,5 @@
 ---
 title: "Bellezza Boutique"
 url: /centennial/bellezza-boutique/
-shop: Kleidung
+shop: clothes
 ---

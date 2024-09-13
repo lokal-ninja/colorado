@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /colorado-springs/visionworks/
-shop: Optiker
+shop: optician
 ---

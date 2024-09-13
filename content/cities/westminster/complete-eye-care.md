@@ -1,5 +1,5 @@
 ---
 title: "Complete Eye Care"
 url: /westminster/complete-eye-care/
-shop: Optiker
+shop: optician
 ---

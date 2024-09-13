@@ -1,5 +1,5 @@
 ---
 title: "Fashion Nails"
 url: /denver/fashion-nails/
-shop: Kosmetik
+shop: beauty
 ---

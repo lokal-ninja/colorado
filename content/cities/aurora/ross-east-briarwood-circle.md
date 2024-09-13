@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /aurora/ross-east-briarwood-circle/
-shop: Warenhaus
+shop: department store
 ---

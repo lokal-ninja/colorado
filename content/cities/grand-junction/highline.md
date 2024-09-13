@@ -1,5 +1,5 @@
 ---
 title: "Highline"
 url: /grand-junction/highline/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Golftec"
 url: /boulder/golftec/
-shop: Sport
+shop: sports
 ---

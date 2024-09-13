@@ -1,5 +1,5 @@
 ---
 title: "Santa Rosalia"
 url: /northglenn/santa-rosalia/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Klik Boutique"
 url: /grand-junction/klik-boutique/
-shop: Kleidung
+shop: clothes
 ---

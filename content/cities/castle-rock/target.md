@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /castle-rock/target/
-shop: Warenhaus
+shop: department store
 ---

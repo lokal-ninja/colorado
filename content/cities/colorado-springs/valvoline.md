@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /colorado-springs/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

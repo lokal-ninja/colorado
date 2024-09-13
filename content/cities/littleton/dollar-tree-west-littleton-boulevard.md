@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /littleton/dollar-tree-west-littleton-boulevard/
-shop: Kramladen
+shop: variety store
 ---

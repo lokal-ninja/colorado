@@ -1,5 +1,5 @@
 ---
 title: "Icelantic Ski"
 url: /denver/icelantic-ski/
-shop: Sport
+shop: sports
 ---

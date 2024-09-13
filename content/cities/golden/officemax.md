@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /golden/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

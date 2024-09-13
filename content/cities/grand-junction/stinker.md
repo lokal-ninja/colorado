@@ -1,5 +1,5 @@
 ---
 title: "Stinker"
 url: /grand-junction/stinker/
-shop: Lebensmittel
+shop: convenience
 ---

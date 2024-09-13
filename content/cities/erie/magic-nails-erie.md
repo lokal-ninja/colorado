@@ -1,5 +1,5 @@
 ---
 title: "Magic Nails Erie"
 url: /erie/magic-nails-erie/
-shop: Kosmetik
+shop: beauty
 ---

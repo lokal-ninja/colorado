@@ -1,5 +1,5 @@
 ---
 title: "Haven"
 url: /boulder/haven/
-shop: Kleidung
+shop: clothes
 ---

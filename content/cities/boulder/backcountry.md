@@ -1,5 +1,5 @@
 ---
 title: "Backcountry"
 url: /boulder/backcountry/
-shop: Outdoor
+shop: outdoor
 ---

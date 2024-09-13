@@ -1,5 +1,5 @@
 ---
 title: "Jaguar"
 url: /broomfield/jaguar/
-shop: Autohaus
+shop: car
 ---

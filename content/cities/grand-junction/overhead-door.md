@@ -1,5 +1,5 @@
 ---
 title: "Overhead Door"
 url: /grand-junction/overhead-door/
-shop: Türen
+shop: doors
 ---

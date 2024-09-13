@@ -1,5 +1,5 @@
 ---
 title: "beauty CO"
 url: /grand-junction/beauty-co/
-shop: Friseur
+shop: hairdresser
 ---

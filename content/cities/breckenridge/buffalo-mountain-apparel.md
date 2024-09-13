@@ -1,5 +1,5 @@
 ---
 title: "Buffalo Mountain Apparel"
 url: /breckenridge/buffalo-mountain-apparel/
-shop: Kleidung
+shop: clothes
 ---

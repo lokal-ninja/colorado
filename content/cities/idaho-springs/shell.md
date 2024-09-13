@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /idaho-springs/shell/
-shop: Lebensmittel
+shop: convenience
 ---

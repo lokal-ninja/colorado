@@ -1,5 +1,5 @@
 ---
 title: "Westside Tattoo"
 url: /colorado-springs/westside-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

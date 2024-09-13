@@ -1,5 +1,5 @@
 ---
 title: "Nu-Crisp Image Apparel"
 url: /denver/nu-crisp-image-apparel/
-shop: Kleidung
+shop: clothes
 ---

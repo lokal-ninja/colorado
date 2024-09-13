@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /fort-lupton/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

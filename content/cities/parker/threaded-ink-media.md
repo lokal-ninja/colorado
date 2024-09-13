@@ -1,5 +1,5 @@
 ---
 title: "Threaded Ink Media"
 url: /parker/threaded-ink-media/
-shop: Schneiderei
+shop: tailor
 ---

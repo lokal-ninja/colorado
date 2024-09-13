@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /eaton/autozone/
-shop: Autoteile
+shop: car parts
 ---

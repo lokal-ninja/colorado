@@ -1,5 +1,5 @@
 ---
 title: "Alpha Bicycle Company"
 url: /centennial/alpha-bicycle-company/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /elizabeth/autozone/
-shop: Autoteile
+shop: car parts
 ---

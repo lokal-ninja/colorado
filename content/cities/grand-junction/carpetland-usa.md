@@ -1,5 +1,5 @@
 ---
 title: "Carpetland USA"
 url: /grand-junction/carpetland-usa/
-shop: Teppiche
+shop: carpet
 ---

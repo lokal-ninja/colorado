@@ -1,5 +1,5 @@
 ---
 title: "King Soopers"
 url: /denver/king-soopers-south-sheridan-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

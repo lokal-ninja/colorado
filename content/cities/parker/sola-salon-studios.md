@@ -1,5 +1,5 @@
 ---
 title: "Sola Salon Studios"
 url: /parker/sola-salon-studios/
-shop: Friseur
+shop: hairdresser
 ---

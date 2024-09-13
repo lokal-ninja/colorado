@@ -1,5 +1,5 @@
 ---
 title: "IgadI"
 url: /lafayette/igadi/
-shop: Hanf
+shop: cannabis
 ---

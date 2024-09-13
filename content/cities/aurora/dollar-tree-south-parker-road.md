@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /aurora/dollar-tree-south-parker-road/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hookers"
 url: /glenwood-springs/hookers/
-shop: Kleidung
+shop: clothes
 ---

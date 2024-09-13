@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /colorado-springs/t-mobile-briargate-parkway/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /broomfield/verizon/
-shop: Handy
+shop: mobile phone
 ---

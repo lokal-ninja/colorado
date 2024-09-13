@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /lone-tree/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

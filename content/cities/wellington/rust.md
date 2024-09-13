@@ -1,5 +1,5 @@
 ---
 title: "Rust"
 url: /wellington/rust/
-shop: Antiquitäten
+shop: antiques
 ---

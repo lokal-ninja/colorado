@@ -1,5 +1,5 @@
 ---
 title: "Crisp Barber Shop"
 url: /lakewood/crisp-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

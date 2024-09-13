@@ -1,5 +1,5 @@
 ---
 title: "Flairmont Furniture"
 url: /montrose/flairmont-furniture/
-shop: Möbel
+shop: furniture
 ---

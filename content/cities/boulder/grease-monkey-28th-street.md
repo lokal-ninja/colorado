@@ -1,5 +1,5 @@
 ---
 title: "Grease Monkey"
 url: /boulder/grease-monkey-28th-street/
-shop: Autowerkstatt
+shop: car repair
 ---

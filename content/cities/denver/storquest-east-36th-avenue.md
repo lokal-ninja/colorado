@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /denver/storquest-east-36th-avenue/
-shop: Mieten
+shop: storage rental
 ---

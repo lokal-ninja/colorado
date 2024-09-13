@@ -1,5 +1,5 @@
 ---
 title: "Walnut Creek"
 url: /fort-collins/walnut-creek/
-shop: Raumausstattung
+shop: interior decoration
 ---

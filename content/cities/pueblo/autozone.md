@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /pueblo/autozone/
-shop: Autoteile
+shop: car parts
 ---

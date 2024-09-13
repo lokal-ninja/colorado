@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /aurora/dollar-tree-east-quincy-avenue/
-shop: Kramladen
+shop: variety store
 ---

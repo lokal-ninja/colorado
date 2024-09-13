@@ -1,5 +1,5 @@
 ---
 title: "Redfox"
 url: /boulder/redfox/
-shop: Outdoor
+shop: outdoor
 ---

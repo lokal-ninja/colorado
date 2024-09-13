@@ -1,5 +1,5 @@
 ---
 title: "Collectormania"
 url: /parker/collectormania/
-shop: Sport
+shop: sports
 ---

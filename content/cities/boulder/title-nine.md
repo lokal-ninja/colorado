@@ -1,5 +1,5 @@
 ---
 title: "Title Nine"
 url: /boulder/title-nine/
-shop: Sport
+shop: sports
 ---

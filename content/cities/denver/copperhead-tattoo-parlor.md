@@ -1,5 +1,5 @@
 ---
 title: "Copperhead Tattoo Parlor"
 url: /denver/copperhead-tattoo-parlor/
-shop: Tattoo
+shop: tattoo
 ---

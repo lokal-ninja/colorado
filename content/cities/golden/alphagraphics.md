@@ -1,5 +1,5 @@
 ---
 title: "AlphaGraphics"
 url: /golden/alphagraphics/
-shop: Kopieren
+shop: copyshop
 ---

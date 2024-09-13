@@ -1,5 +1,5 @@
 ---
 title: "Makola African Market"
 url: /aurora/makola-african-market/
-shop: Supermarkt
+shop: supermarket
 ---

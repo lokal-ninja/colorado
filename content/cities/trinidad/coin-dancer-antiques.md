@@ -1,5 +1,5 @@
 ---
 title: "Coin Dancer Antiques"
 url: /trinidad/coin-dancer-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

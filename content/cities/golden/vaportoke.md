@@ -1,5 +1,5 @@
 ---
 title: "VAPORTOKE"
 url: /golden/vaportoke/
-shop: Tabak
+shop: tobacco
 ---

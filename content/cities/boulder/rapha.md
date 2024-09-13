@@ -1,5 +1,5 @@
 ---
 title: "Rapha"
 url: /boulder/rapha/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Foreign Aid"
 url: /grand-junction/the-foreign-aid/
-shop: Autowerkstatt
+shop: car repair
 ---

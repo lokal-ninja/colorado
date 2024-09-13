@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /colorado-springs/sport-clips-hartsel-drive/
-shop: Friseur
+shop: hairdresser
 ---

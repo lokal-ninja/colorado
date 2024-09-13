@@ -1,5 +1,5 @@
 ---
 title: "Paramount Fabrics"
 url: /denver/paramount-fabrics/
-shop: Textil
+shop: fabric
 ---

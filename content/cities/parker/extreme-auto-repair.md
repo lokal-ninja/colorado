@@ -1,5 +1,5 @@
 ---
 title: "Extreme Auto Repair"
 url: /parker/extreme-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

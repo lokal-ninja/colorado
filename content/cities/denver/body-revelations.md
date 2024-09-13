@@ -1,5 +1,5 @@
 ---
 title: "Body Revelations"
 url: /denver/body-revelations/
-shop: Massage
+shop: massage
 ---

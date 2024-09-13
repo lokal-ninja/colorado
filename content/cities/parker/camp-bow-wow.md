@@ -1,5 +1,5 @@
 ---
 title: "Camp Bow Wow"
 url: /parker/camp-bow-wow/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "All Season Storage"
 url: /loveland/all-season-storage/
-shop: Mieten
+shop: storage rental
 ---

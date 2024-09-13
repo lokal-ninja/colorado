@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
 url: /peetz/cenex/
-shop: Lebensmittel
+shop: convenience
 ---

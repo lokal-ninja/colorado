@@ -1,5 +1,5 @@
 ---
 title: "PetClub"
 url: /littleton/petclub/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /pueblo/kohls/
-shop: Warenhaus
+shop: department store
 ---

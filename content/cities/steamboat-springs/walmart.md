@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /steamboat-springs/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

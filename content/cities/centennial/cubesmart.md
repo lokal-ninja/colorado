@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /centennial/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Katz Automotive"
 url: /grand-junction/katz-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

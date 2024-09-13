@@ -1,5 +1,5 @@
 ---
 title: "San Telmo Market"
 url: /golden/san-telmo-market/
-shop: Feinkost
+shop: deli
 ---

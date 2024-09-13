@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /grand-junction/petsmart/
-shop: Tiere
+shop: pet
 ---

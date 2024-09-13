@@ -1,5 +1,5 @@
 ---
 title: "Clothes Mentor"
 url: /fort-collins/clothes-mentor/
-shop: Kleidung
+shop: clothes
 ---

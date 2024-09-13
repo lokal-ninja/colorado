@@ -1,5 +1,5 @@
 ---
 title: "Yacovetta Jewelers"
 url: /denver/yacovetta-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

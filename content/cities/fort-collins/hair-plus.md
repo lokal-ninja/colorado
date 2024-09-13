@@ -1,5 +1,5 @@
 ---
 title: "Hair Plus"
 url: /fort-collins/hair-plus/
-shop: Kosmetik
+shop: beauty
 ---

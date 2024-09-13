@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /frisco/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

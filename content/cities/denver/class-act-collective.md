@@ -1,5 +1,5 @@
 ---
 title: "Class Act Collective"
 url: /denver/class-act-collective/
-shop: Kleidung
+shop: clothes
 ---

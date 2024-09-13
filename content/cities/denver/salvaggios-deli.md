@@ -1,5 +1,5 @@
 ---
 title: "Salvaggio's Deli"
 url: /denver/salvaggios-deli/
-shop: Feinkost
+shop: deli
 ---

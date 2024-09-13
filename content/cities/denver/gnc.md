@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /denver/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

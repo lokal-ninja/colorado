@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /arvada/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

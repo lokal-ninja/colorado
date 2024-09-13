@@ -1,5 +1,5 @@
 ---
 title: "Massage Heights"
 url: /thornton/massage-heights/
-shop: Massage
+shop: massage
 ---

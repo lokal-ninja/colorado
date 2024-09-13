@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /grand-junction/u-haul-north-avenue/
-shop: Mieten
+shop: storage rental
 ---

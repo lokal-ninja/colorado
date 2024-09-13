@@ -1,5 +1,5 @@
 ---
 title: "Fiberglass Shop"
 url: /grand-junction/fiberglass-shop/
-shop: Allgemein
+shop: shop
 ---

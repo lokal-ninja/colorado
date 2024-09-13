@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /northglenn/ross/
-shop: Warenhaus
+shop: department store
 ---

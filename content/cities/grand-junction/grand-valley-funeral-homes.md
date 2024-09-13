@@ -1,5 +1,5 @@
 ---
 title: "Grand Valley Funeral Homes"
 url: /grand-junction/grand-valley-funeral-homes/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /colorado-springs/big-lots/
-shop: Warenhaus
+shop: department store
 ---

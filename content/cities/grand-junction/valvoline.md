@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /grand-junction/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

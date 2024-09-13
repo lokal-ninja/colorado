@@ -1,5 +1,5 @@
 ---
 title: "Ham Radio Outlet"
 url: /denver/ham-radio-outlet/
-shop: Elektronik
+shop: electronics
 ---

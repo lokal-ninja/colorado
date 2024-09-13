@@ -1,5 +1,5 @@
 ---
 title: "Cutting Edge"
 url: /fort-collins/cutting-edge/
-shop: Autohaus
+shop: car
 ---

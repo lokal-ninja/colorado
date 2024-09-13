@@ -1,5 +1,5 @@
 ---
 title: "Gene's Hairdresser"
 url: /eaton/genes-hairdresser/
-shop: Friseur
+shop: hairdresser
 ---

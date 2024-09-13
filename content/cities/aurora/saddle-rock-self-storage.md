@@ -1,5 +1,5 @@
 ---
 title: "Saddle Rock Self Storage"
 url: /aurora/saddle-rock-self-storage/
-shop: Mieten
+shop: storage rental
 ---

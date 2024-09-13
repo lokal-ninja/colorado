@@ -1,5 +1,5 @@
 ---
 title: "North Park Super's"
 url: /walden/north-park-supers/
-shop: Supermarkt
+shop: supermarket
 ---

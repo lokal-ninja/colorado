@@ -1,5 +1,5 @@
 ---
 title: "Alta Convenience"
 url: /grand-junction/alta-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

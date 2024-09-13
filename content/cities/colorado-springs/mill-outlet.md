@@ -1,5 +1,5 @@
 ---
 title: "Mill Outlet"
 url: /colorado-springs/mill-outlet/
-shop: Nähzubehör
+shop: sewing
 ---

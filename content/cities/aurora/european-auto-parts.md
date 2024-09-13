@@ -1,5 +1,5 @@
 ---
 title: "European Auto Parts"
 url: /aurora/european-auto-parts/
-shop: Baumarkt
+shop: doityourself
 ---

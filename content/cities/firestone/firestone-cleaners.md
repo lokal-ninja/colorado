@@ -1,5 +1,5 @@
 ---
 title: "Firestone Cleaners"
 url: /firestone/firestone-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

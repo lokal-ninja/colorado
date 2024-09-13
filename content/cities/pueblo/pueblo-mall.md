@@ -1,5 +1,5 @@
 ---
 title: "Pueblo Mall"
 url: /pueblo/pueblo-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

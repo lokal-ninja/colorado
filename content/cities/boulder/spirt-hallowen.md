@@ -1,5 +1,5 @@
 ---
 title: "Spirt Hallowen"
 url: /boulder/spirt-hallowen/
-shop: Allgemein
+shop: shop
 ---

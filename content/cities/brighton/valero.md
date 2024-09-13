@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /brighton/valero/
-shop: Lebensmittel
+shop: convenience
 ---

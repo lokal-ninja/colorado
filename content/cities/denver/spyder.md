@@ -1,5 +1,5 @@
 ---
 title: "Spyder"
 url: /denver/spyder/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /parker/gamestop/
-shop: Videospiele
+shop: video games
 ---

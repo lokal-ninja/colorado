@@ -1,5 +1,5 @@
 ---
 title: "Lit"
 url: /denver/lit/
-shop: Hanf
+shop: cannabis
 ---

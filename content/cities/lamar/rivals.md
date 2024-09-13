@@ -1,5 +1,5 @@
 ---
 title: "Rivals"
 url: /lamar/rivals/
-shop: Lebensmittel
+shop: convenience
 ---

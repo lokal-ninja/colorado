@@ -1,5 +1,5 @@
 ---
 title: "Book Train"
 url: /glenwood-springs/book-train/
-shop: Bücher
+shop: books
 ---

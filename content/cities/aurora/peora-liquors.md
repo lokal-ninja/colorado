@@ -1,5 +1,5 @@
 ---
 title: "Peora Liquors"
 url: /aurora/peora-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

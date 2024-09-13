@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto"
 url: /aurora/advance-auto/
-shop: Allgemein
+shop: shop
 ---

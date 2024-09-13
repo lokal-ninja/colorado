@@ -1,5 +1,5 @@
 ---
 title: "South Boulder Liquour Store"
 url: /lafayette/south-boulder-liquour-store/
-shop: Spirituosen
+shop: alcohol
 ---

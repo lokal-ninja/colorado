@@ -1,5 +1,5 @@
 ---
 title: "Hellman Motor Company"
 url: /delta/hellman-motor-company/
-shop: Autohaus
+shop: car
 ---

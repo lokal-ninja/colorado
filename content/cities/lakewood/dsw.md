@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /lakewood/dsw/
-shop: Schuhe
+shop: shoes
 ---

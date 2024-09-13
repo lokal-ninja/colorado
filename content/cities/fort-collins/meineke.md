@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /fort-collins/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

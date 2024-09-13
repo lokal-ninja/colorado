@@ -1,5 +1,5 @@
 ---
 title: "All C's Collectibles"
 url: /aurora/all-cs-collectibles/
-shop: Antiquitäten
+shop: antiques
 ---

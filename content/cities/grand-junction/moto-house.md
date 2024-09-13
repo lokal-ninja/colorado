@@ -1,5 +1,5 @@
 ---
 title: "Moto House"
 url: /grand-junction/moto-house/
-shop: Motorrad
+shop: motorcycle
 ---

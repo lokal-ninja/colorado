@@ -1,5 +1,5 @@
 ---
 title: "Valley Girl Boutique"
 url: /avon/valley-girl-boutique/
-shop: Kleidung
+shop: clothes
 ---

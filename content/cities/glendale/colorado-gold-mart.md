@@ -1,5 +1,5 @@
 ---
 title: "Colorado Gold Mart"
 url: /glendale/colorado-gold-mart/
-shop: Leiher
+shop: pawnbroker
 ---

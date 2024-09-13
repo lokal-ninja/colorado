@@ -1,5 +1,5 @@
 ---
 title: "Toy Car Care"
 url: /centennial/toy-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /loveland/massage-envy/
-shop: Massage
+shop: massage
 ---

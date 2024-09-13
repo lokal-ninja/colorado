@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /firestone/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

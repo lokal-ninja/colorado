@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /alamosa/walgreens/
-shop: Drogerie
+shop: chemist
 ---

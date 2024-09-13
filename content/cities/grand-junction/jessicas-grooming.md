@@ -1,5 +1,5 @@
 ---
 title: "Jessica's Grooming"
 url: /grand-junction/jessicas-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

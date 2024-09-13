@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /cortez/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elegance Wellness Center"
 url: /centennial/elegance-wellness-center/
-shop: Massage
+shop: massage
 ---

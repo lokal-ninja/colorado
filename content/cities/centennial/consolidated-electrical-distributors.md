@@ -1,5 +1,5 @@
 ---
 title: "Consolidated Electrical Distributors"
 url: /centennial/consolidated-electrical-distributors/
-shop: Elektrisch
+shop: electrical
 ---

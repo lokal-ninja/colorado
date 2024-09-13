@@ -1,5 +1,5 @@
 ---
 title: "Color Zone Collision"
 url: /colroado-springs/color-zone-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

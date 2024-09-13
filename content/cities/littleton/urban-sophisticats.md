@@ -1,5 +1,5 @@
 ---
 title: "Urban Sophisticats"
 url: /littleton/urban-sophisticats/
-shop: Tiersalon
+shop: pet grooming
 ---

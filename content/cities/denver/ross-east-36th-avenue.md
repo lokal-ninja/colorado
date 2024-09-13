@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /denver/ross-east-36th-avenue/
-shop: Warenhaus
+shop: department store
 ---

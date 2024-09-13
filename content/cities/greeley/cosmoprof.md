@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /greeley/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

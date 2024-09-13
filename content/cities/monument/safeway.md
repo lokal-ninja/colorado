@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /monument/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

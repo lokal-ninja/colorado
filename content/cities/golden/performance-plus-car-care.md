@@ -1,5 +1,5 @@
 ---
 title: "Performance Plus Car Care"
 url: /golden/performance-plus-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

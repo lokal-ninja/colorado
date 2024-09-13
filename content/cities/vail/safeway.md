@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /vail/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

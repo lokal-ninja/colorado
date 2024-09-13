@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /colorado-springs/maverik-hancock-expressway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /grand-junction/lids/
-shop: Kleidung
+shop: clothes
 ---

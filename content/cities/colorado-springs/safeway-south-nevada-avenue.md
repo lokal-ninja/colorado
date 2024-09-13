@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /colorado-springs/safeway-south-nevada-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Johnny Good Inc."
 url: /aurora/johnny-good-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

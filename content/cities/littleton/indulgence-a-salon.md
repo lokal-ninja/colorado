@@ -1,5 +1,5 @@
 ---
 title: "Indulgence A Salon"
 url: /littleton/indulgence-a-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rocky Mountain Chocolate Factory"
 url: /silverthorne/rocky-mountain-chocolate-factory/
-shop: Süßwaren
+shop: confectionery
 ---

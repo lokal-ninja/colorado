@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /loveland/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

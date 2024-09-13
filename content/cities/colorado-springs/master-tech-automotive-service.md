@@ -1,5 +1,5 @@
 ---
 title: "Master Tech Automotive Service"
 url: /colorado-springs/master-tech-automotive-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sacred Heart Healing Center"
 url: /grand-junction/sacred-heart-healing-center/
-shop: Allgemein
+shop: shop
 ---

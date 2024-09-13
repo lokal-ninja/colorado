@@ -1,5 +1,5 @@
 ---
 title: "Origins"
 url: /littleton/origins/
-shop: Kleidung
+shop: clothes
 ---

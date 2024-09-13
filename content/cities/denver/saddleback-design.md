@@ -1,5 +1,5 @@
 ---
 title: "Saddleback Design"
 url: /denver/saddleback-design/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gemini Food Mart"
 url: /federal-heights/gemini-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wild Side"
 url: /boulder/wild-side/
-shop: Allgemein
+shop: shop
 ---

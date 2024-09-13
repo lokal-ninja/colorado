@@ -1,5 +1,5 @@
 ---
 title: "Carlson Vineyards Downtown Tasting Room"
 url: /grand-junction/carlson-vineyards-downtown-tasting-room/
-shop: Wein
+shop: wine
 ---

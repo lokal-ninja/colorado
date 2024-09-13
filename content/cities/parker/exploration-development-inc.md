@@ -1,5 +1,5 @@
 ---
 title: "Exploration Development Inc"
 url: /parker/exploration-development-inc/
-shop: Allgemein
+shop: shop
 ---

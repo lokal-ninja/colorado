@@ -1,5 +1,5 @@
 ---
 title: "Sinclair"
 url: /denver/sinclair/
-shop: Lebensmittel
+shop: convenience
 ---

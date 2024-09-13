@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /aurora/oreilly-auto-parts-south-havana-street/
-shop: Autoteile
+shop: car parts
 ---

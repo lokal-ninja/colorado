@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /wheat-ridge/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

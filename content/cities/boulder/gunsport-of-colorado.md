@@ -1,5 +1,5 @@
 ---
 title: "GunSport of Colorado"
 url: /boulder/gunsport-of-colorado/
-shop: Jagd
+shop: hunting
 ---

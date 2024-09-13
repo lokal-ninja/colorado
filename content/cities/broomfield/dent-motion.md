@@ -1,5 +1,5 @@
 ---
 title: "Dent Motion"
 url: /broomfield/dent-motion/
-shop: Autowerkstatt
+shop: car repair
 ---

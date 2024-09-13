@@ -1,5 +1,5 @@
 ---
 title: "Origins"
 url: /colorado-springs/origins/
-shop: Kosmetik
+shop: beauty
 ---

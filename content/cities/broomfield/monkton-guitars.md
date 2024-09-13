@@ -1,5 +1,5 @@
 ---
 title: "Monkton Guitars"
 url: /broomfield/monkton-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

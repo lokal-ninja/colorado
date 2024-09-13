@@ -1,5 +1,5 @@
 ---
 title: "The Spoke"
 url: /fort-collins/the-spoke/
-shop: Fahrrad
+shop: bicycle
 ---

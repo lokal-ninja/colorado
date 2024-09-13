@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /superior/whole-foods-market/
-shop: Supermarkt
+shop: supermarket
 ---

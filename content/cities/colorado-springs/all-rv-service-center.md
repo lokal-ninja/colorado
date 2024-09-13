@@ -1,5 +1,5 @@
 ---
 title: "All RV Service Center"
 url: /colorado-springs/all-rv-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

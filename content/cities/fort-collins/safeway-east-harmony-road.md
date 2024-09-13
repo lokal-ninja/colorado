@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /fort-collins/safeway-east-harmony-road/
-shop: Supermarkt
+shop: supermarket
 ---

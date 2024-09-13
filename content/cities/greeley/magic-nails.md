@@ -1,5 +1,5 @@
 ---
 title: "Magic Nails"
 url: /greeley/magic-nails/
-shop: Kosmetik
+shop: beauty
 ---

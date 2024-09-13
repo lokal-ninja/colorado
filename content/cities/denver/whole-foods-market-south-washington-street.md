@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /denver/whole-foods-market-south-washington-street/
-shop: Supermarkt
+shop: supermarket
 ---

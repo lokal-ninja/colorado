@@ -1,5 +1,5 @@
 ---
 title: "Acosta Jewelers"
 url: /denver/acosta-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

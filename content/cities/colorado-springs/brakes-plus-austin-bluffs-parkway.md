@@ -1,5 +1,5 @@
 ---
 title: "Brakes Plus"
 url: /colorado-springs/brakes-plus-austin-bluffs-parkway/
-shop: Autowerkstatt
+shop: car repair
 ---

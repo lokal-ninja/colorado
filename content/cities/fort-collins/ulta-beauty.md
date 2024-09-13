@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /fort-collins/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

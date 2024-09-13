@@ -1,5 +1,5 @@
 ---
 title: "Lionshead General Store"
 url: /vail/lionshead-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

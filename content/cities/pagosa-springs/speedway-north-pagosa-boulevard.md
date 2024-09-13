@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /pagosa-springs/speedway-north-pagosa-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

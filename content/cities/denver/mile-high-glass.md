@@ -1,5 +1,5 @@
 ---
 title: "Mile High Glass"
 url: /denver/mile-high-glass/
-shop: Autoteile
+shop: car parts
 ---

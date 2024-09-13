@@ -1,5 +1,5 @@
 ---
 title: "Grand Valley Reprographics"
 url: /grand-junction/grand-valley-reprographics/
-shop: Kopieren
+shop: copyshop
 ---

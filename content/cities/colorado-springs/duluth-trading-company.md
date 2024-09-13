@@ -1,5 +1,5 @@
 ---
 title: "Duluth Trading Company"
 url: /colorado-springs/duluth-trading-company/
-shop: Kleidung
+shop: clothes
 ---

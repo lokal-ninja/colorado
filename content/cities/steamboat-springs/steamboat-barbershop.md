@@ -1,5 +1,5 @@
 ---
 title: "Steamboat Barbershop"
 url: /steamboat-springs/steamboat-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

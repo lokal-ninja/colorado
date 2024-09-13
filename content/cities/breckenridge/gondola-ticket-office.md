@@ -1,5 +1,5 @@
 ---
 title: "Gondola Ticket Office"
 url: /breckenridge/gondola-ticket-office/
-shop: Tickets
+shop: ticket
 ---

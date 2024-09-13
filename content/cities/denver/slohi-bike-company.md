@@ -1,5 +1,5 @@
 ---
 title: "SloHi Bike Company"
 url: /denver/slohi-bike-company/
-shop: Fahrrad
+shop: bicycle
 ---

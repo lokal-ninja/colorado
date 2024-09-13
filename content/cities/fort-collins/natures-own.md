@@ -1,5 +1,5 @@
 ---
 title: "Nature's Own"
 url: /fort-collins/natures-own/
-shop: Andenken
+shop: gift
 ---

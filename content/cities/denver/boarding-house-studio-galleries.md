@@ -1,5 +1,5 @@
 ---
 title: "Boarding House Studio Galleries"
 url: /denver/boarding-house-studio-galleries/
-shop: Kunst
+shop: art
 ---

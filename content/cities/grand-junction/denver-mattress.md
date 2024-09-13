@@ -1,5 +1,5 @@
 ---
 title: "Denver Mattress"
 url: /grand-junction/denver-mattress/
-shop: Betten
+shop: bed
 ---

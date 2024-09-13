@@ -1,5 +1,5 @@
 ---
 title: "City Market"
 url: /aspen/city-market/
-shop: Supermarkt
+shop: supermarket
 ---

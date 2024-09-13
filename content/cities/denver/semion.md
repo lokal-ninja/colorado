@@ -1,5 +1,5 @@
 ---
 title: "Semion"
 url: /denver/semion/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rudd Automotive Repair"
 url: /loveland/rudd-automotive-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flip Flop Shops"
 url: /grand-junction/flip-flop-shops/
-shop: Schuhe
+shop: shoes
 ---

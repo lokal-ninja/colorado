@@ -1,5 +1,5 @@
 ---
 title: "Westerlind"
 url: /denver/westerlind/
-shop: Sport
+shop: sports
 ---

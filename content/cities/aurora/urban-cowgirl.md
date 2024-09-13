@@ -1,5 +1,5 @@
 ---
 title: "Urban Cowgirl"
 url: /aurora/urban-cowgirl/
-shop: Kleidung
+shop: clothes
 ---

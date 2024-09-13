@@ -1,5 +1,5 @@
 ---
 title: "Tom's Sportique Eyewear"
 url: /boulder/toms-sportique-eyewear/
-shop: Optiker
+shop: optician
 ---

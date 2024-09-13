@@ -1,5 +1,5 @@
 ---
 title: "FinishMaster"
 url: /aurora/finishmaster/
-shop: Baumarkt
+shop: doityourself
 ---

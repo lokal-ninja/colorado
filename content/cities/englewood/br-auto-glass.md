@@ -1,5 +1,5 @@
 ---
 title: "BR Auto Glass"
 url: /englewood/br-auto-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

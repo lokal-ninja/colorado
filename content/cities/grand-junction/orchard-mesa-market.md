@@ -1,5 +1,5 @@
 ---
 title: "Orchard Mesa Market"
 url: /grand-junction/orchard-mesa-market/
-shop: Lebensmittel
+shop: convenience
 ---

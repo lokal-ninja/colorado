@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /denver/safeway-east-14th-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miracle-Ear"
 url: /fort-collins/miracle-ear/
-shop: Hörgeräte
+shop: hearing aids
 ---

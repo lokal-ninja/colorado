@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /centennial/sherwin-williams/
-shop: Farben
+shop: paint
 ---

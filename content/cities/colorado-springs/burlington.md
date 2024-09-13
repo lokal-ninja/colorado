@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /colorado-springs/burlington/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carniceria La Preferida"
 url: /greeley/carniceria-la-preferida/
-shop: Metzgerei
+shop: butcher
 ---

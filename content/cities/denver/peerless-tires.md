@@ -1,5 +1,5 @@
 ---
 title: "Peerless Tires"
 url: /denver/peerless-tires/
-shop: Autowerkstatt
+shop: car repair
 ---

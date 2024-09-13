@@ -1,5 +1,5 @@
 ---
 title: "Golden Eagle"
 url: /golden/golden-eagle/
-shop: Lebensmittel
+shop: convenience
 ---

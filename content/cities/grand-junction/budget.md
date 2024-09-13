@@ -1,5 +1,5 @@
 ---
 title: "Budget"
 url: /grand-junction/budget/
-shop: Mieten
+shop: storage rental
 ---

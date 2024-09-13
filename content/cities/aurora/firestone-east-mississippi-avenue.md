@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /aurora/firestone-east-mississippi-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

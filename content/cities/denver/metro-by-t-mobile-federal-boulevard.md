@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /denver/metro-by-t-mobile-federal-boulevard/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Independently Yours"
 url: /parker/independently-yours/
-shop: Sanitätshaus
+shop: medical supply
 ---

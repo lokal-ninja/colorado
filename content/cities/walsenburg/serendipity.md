@@ -1,5 +1,5 @@
 ---
 title: "Serendipity"
 url: /walsenburg/serendipity/
-shop: Kaffee
+shop: coffee
 ---

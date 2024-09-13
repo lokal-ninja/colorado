@@ -1,5 +1,5 @@
 ---
 title: "Sealcon"
 url: /centennial/sealcon/
-shop: Elektrisch
+shop: electrical
 ---

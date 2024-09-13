@@ -1,5 +1,5 @@
 ---
 title: "PPR Automotive"
 url: /colorado-springs/ppr-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

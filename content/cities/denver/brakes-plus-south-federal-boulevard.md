@@ -1,5 +1,5 @@
 ---
 title: "Brakes Plus"
 url: /denver/brakes-plus-south-federal-boulevard/
-shop: Autowerkstatt
+shop: car repair
 ---

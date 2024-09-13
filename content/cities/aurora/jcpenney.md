@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /aurora/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corner Store"
 url: /denver/corner-store-peoria-street/
-shop: Lebensmittel
+shop: convenience
 ---

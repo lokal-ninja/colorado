@@ -1,5 +1,5 @@
 ---
 title: "Spring Creek Laundry"
 url: /fort-collins/spring-creek-laundry/
-shop: Wäscherei
+shop: laundry
 ---

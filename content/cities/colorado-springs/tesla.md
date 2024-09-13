@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /colorado-springs/tesla/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /colorado-springs/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

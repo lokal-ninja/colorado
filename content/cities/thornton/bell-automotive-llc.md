@@ -1,5 +1,5 @@
 ---
 title: "Bell Automotive LLC"
 url: /thornton/bell-automotive-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

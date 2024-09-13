@@ -1,5 +1,5 @@
 ---
 title: "Big O Tires"
 url: /grand-junction/big-o-tires-north-avenue/
-shop: Reifen
+shop: tyres
 ---

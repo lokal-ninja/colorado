@@ -1,5 +1,5 @@
 ---
 title: "AeroCare"
 url: /grand-junction/aerocare/
-shop: Sanitätshaus
+shop: medical supply
 ---

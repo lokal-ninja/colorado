@@ -1,5 +1,5 @@
 ---
 title: "Tapp's Garage"
 url: /denver/tapps-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

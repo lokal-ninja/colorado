@@ -1,5 +1,5 @@
 ---
 title: "The Spa Nails"
 url: /grand-junction/the-spa-nails/
-shop: Kosmetik
+shop: beauty
 ---

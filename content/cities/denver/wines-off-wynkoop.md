@@ -1,5 +1,5 @@
 ---
 title: "Wines Off Wynkoop"
 url: /denver/wines-off-wynkoop/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Union Antiques"
 url: /pueblo/union-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

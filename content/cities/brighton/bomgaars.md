@@ -1,5 +1,5 @@
 ---
 title: "Bomgaars"
 url: /brighton/bomgaars/
-shop: Dorfladen
+shop: general
 ---

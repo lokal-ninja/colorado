@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /grand-junction/spectrum/
-shop: Handy
+shop: mobile phone
 ---

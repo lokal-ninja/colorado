@@ -1,5 +1,5 @@
 ---
 title: "Aspen Velo"
 url: /aspen/aspen-velo/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "King Soopers"
 url: /parker/king-soopers-south-parker-road/
-shop: Supermarkt
+shop: supermarket
 ---

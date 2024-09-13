@@ -1,5 +1,5 @@
 ---
 title: "Syracuse Market"
 url: /denver/syracuse-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cigarettes"
 url: /denver/cigarettes/
-shop: Tabak
+shop: tobacco
 ---

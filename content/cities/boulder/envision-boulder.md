@@ -1,5 +1,5 @@
 ---
 title: "Envision Boulder"
 url: /boulder/envision-boulder/
-shop: Optiker
+shop: optician
 ---

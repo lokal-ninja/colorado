@@ -1,5 +1,5 @@
 ---
 title: "Salon Joa"
 url: /denver/salon-joa/
-shop: Friseur
+shop: hairdresser
 ---

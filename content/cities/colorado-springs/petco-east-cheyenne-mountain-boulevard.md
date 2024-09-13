@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /colorado-springs/petco-east-cheyenne-mountain-boulevard/
-shop: Tiere
+shop: pet
 ---

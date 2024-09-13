@@ -1,5 +1,5 @@
 ---
 title: "Aladdin Liquors"
 url: /denver/aladdin-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

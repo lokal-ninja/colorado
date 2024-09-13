@@ -1,5 +1,5 @@
 ---
 title: "San Juan Strains"
 url: /gunnison/san-juan-strains/
-shop: Hanf
+shop: cannabis
 ---

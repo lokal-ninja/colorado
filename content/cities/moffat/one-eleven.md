@@ -1,5 +1,5 @@
 ---
 title: "One:Eleven"
 url: /moffat/one-eleven/
-shop: Hanf
+shop: cannabis
 ---

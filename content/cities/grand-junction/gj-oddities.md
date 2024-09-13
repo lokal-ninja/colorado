@@ -1,5 +1,5 @@
 ---
 title: "GJ Oddities"
 url: /grand-junction/gj-oddities/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /aurora/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

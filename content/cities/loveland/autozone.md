@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /loveland/autozone/
-shop: Autoteile
+shop: car parts
 ---

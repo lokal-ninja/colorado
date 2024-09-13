@@ -1,5 +1,5 @@
 ---
 title: "Alpha Pawn"
 url: /grand-junction/alpha-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

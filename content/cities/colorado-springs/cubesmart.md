@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /colorado-springs/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

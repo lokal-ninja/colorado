@@ -1,5 +1,5 @@
 ---
 title: "Pendleton"
 url: /fort-collins/pendleton/
-shop: Kleidung
+shop: clothes
 ---

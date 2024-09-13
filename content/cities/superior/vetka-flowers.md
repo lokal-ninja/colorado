@@ -1,5 +1,5 @@
 ---
 title: "Vetka Flowers"
 url: /superior/vetka-flowers/
-shop: Blumen
+shop: florist
 ---

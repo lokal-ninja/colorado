@@ -1,5 +1,5 @@
 ---
 title: "Planted"
 url: /denver/planted/
-shop: Garten-Center
+shop: garden centre
 ---

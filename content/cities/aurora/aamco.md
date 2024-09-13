@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /aurora/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

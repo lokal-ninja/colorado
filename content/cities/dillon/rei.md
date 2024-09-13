@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /dillon/rei/
-shop: Outdoor
+shop: outdoor
 ---

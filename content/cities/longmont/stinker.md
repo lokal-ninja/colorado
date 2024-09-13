@@ -1,5 +1,5 @@
 ---
 title: "Stinker"
 url: /longmont/stinker/
-shop: Lebensmittel
+shop: convenience
 ---

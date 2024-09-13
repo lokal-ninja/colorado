@@ -1,5 +1,5 @@
 ---
 title: "RightFitt Nutrition"
 url: /brighton/rightfitt-nutrition/
-shop: Bioladen
+shop: health food
 ---

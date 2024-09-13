@@ -1,5 +1,5 @@
 ---
 title: "Point S - Pro Tire"
 url: /grand-junction/point-s-pro-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

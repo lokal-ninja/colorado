@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /brighton/circle-k-east-bromley-lane/
-shop: Lebensmittel
+shop: convenience
 ---

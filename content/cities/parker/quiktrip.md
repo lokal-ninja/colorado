@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /parker/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

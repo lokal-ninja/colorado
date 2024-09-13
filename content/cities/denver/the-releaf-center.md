@@ -1,5 +1,5 @@
 ---
 title: "The Releaf Center"
 url: /denver/the-releaf-center/
-shop: Hanf
+shop: cannabis
 ---

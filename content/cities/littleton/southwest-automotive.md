@@ -1,5 +1,5 @@
 ---
 title: "Southwest Automotive"
 url: /littleton/southwest-automotive/
-shop: Autoteile
+shop: car parts
 ---

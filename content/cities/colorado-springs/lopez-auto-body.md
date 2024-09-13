@@ -1,5 +1,5 @@
 ---
 title: "Lopez Auto Body"
 url: /colorado-springs/lopez-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /westminster/target-orchard-parkway/
-shop: Warenhaus
+shop: department store
 ---

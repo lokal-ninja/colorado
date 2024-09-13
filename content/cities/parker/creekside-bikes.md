@@ -1,5 +1,5 @@
 ---
 title: "Creekside Bikes"
 url: /parker/creekside-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

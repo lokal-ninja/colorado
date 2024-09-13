@@ -1,5 +1,5 @@
 ---
 title: "Rocky's Autos"
 url: /denver/rockys-autos/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phil Long Ford of Denver"
 url: /denver/phil-long-ford-of-denver/
-shop: Autohaus
+shop: car
 ---

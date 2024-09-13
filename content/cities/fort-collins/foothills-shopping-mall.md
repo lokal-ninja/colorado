@@ -1,5 +1,5 @@
 ---
 title: "Foothills Shopping Mall"
 url: /fort-collins/foothills-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

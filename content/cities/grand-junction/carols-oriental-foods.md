@@ -1,5 +1,5 @@
 ---
 title: "Carol's Oriental Foods"
 url: /grand-junction/carols-oriental-foods/
-shop: Supermarkt
+shop: supermarket
 ---

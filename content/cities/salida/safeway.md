@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /salida/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

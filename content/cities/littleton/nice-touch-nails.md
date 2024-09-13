@@ -1,5 +1,5 @@
 ---
 title: "Nice Touch Nails"
 url: /littleton/nice-touch-nails/
-shop: Kosmetik
+shop: beauty
 ---

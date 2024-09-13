@@ -1,5 +1,5 @@
 ---
 title: "Vari LS"
 url: /grand-junction/vari-ls/
-shop: Autowerkstatt
+shop: car repair
 ---

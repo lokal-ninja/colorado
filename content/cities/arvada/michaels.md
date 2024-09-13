@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /arvada/michaels/
-shop: Basteln
+shop: craft
 ---

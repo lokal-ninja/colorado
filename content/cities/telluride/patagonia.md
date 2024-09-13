@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /telluride/patagonia/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Lakes Airlines"
 url: /denver/great-lakes-airlines/
-shop: Tickets
+shop: ticket
 ---

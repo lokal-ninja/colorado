@@ -1,5 +1,5 @@
 ---
 title: "The Tile Shop"
 url: /greenwood-village/the-tile-shop/
-shop: Fliesen
+shop: tiles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Defender Imports"
 url: /colorado-springs/defender-imports/
-shop: Autowerkstatt
+shop: car repair
 ---

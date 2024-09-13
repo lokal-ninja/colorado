@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /colorado-springs/dollar-general-south-circle-drive/
-shop: Kramladen
+shop: variety store
 ---

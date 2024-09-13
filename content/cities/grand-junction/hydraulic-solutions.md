@@ -1,5 +1,5 @@
 ---
 title: "Hydraulic Solutions"
 url: /grand-junction/hydraulic-solutions/
-shop: Allgemein
+shop: shop
 ---

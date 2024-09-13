@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /aurora/public-storage-south-buckley-road/
-shop: Mieten
+shop: storage rental
 ---

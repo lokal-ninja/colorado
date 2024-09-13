@@ -1,5 +1,5 @@
 ---
 title: "Avalanche Sports"
 url: /breckenridge/avalanche-sports/
-shop: Sport
+shop: sports
 ---

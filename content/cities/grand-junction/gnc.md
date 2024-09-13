@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /grand-junction/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /conifer/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

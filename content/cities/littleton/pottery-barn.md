@@ -1,5 +1,5 @@
 ---
 title: "Pottery Barn"
 url: /littleton/pottery-barn/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "City Market"
 url: /craig/city-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harbor Plaza Storage"
 url: /aurora/harbor-plaza-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /pueblo/sleep-number/
-shop: Betten
+shop: bed
 ---

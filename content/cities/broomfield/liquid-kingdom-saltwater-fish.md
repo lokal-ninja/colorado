@@ -1,5 +1,5 @@
 ---
 title: "Liquid Kingdom Saltwater Fish"
 url: /broomfield/liquid-kingdom-saltwater-fish/
-shop: Tiere
+shop: pet
 ---

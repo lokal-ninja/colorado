@@ -1,5 +1,5 @@
 ---
 title: "Rangely Mortuary"
 url: /rangely/rangely-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

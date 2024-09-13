@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /lakewood/circle-k-kipling-street/
-shop: Lebensmittel
+shop: convenience
 ---

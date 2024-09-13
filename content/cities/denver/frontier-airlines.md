@@ -1,5 +1,5 @@
 ---
 title: "Frontier Airlines"
 url: /denver/frontier-airlines/
-shop: Tickets
+shop: ticket
 ---

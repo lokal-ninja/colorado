@@ -1,5 +1,5 @@
 ---
 title: "Denver Undercar Warehouse"
 url: /denver/denver-undercar-warehouse/
-shop: Autowerkstatt
+shop: car repair
 ---

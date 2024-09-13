@@ -1,5 +1,5 @@
 ---
 title: "Fort Market"
 url: /fort-garland/fort-market/
-shop: Lebensmittel
+shop: convenience
 ---

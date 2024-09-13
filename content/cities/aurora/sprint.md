@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /aurora/sprint/
-shop: Handy
+shop: mobile phone
 ---

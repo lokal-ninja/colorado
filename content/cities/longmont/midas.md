@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /longmont/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

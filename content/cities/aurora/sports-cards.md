@@ -1,5 +1,5 @@
 ---
 title: "Sports Cards"
 url: /aurora/sports-cards/
-shop: Allgemein
+shop: shop
 ---

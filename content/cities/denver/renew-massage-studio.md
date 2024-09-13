@@ -1,5 +1,5 @@
 ---
 title: "Renew Massage Studio"
 url: /denver/renew-massage-studio/
-shop: Massage
+shop: massage
 ---

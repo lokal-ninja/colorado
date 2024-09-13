@@ -1,5 +1,5 @@
 ---
 title: "Outdoor Storage"
 url: /aurora/outdoor-storage/
-shop: Mieten
+shop: storage rental
 ---

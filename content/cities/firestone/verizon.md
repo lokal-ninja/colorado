@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /firestone/verizon/
-shop: Handy
+shop: mobile phone
 ---

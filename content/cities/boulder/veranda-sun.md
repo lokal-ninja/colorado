@@ -1,5 +1,5 @@
 ---
 title: "Veranda Sun"
 url: /boulder/veranda-sun/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Admiral Auto Service"
 url: /loveland/admiral-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

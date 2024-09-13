@@ -1,5 +1,5 @@
 ---
 title: "Big R"
 url: /trinidad/big-r/
-shop: Kramladen
+shop: variety store
 ---

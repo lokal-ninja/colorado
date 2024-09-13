@@ -1,5 +1,5 @@
 ---
 title: "Bella Calla"
 url: /denver/bella-calla/
-shop: Blumen
+shop: florist
 ---

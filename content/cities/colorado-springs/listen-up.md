@@ -1,5 +1,5 @@
 ---
 title: "Listen Up"
 url: /colorado-springs/listen-up/
-shop: Hifi
+shop: hifi
 ---

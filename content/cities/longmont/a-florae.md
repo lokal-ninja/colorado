@@ -1,5 +1,5 @@
 ---
 title: "A florae"
 url: /longmont/a-florae/
-shop: Blumen
+shop: florist
 ---

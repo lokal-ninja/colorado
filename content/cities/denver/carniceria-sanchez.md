@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Sanchez"
 url: /denver/carniceria-sanchez/
-shop: Metzgerei
+shop: butcher
 ---

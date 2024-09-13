@@ -1,5 +1,5 @@
 ---
 title: "King Soopers"
 url: /denver/king-soopers/
-shop: Supermarkt
+shop: supermarket
 ---

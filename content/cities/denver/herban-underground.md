@@ -1,5 +1,5 @@
 ---
 title: "Herban Underground"
 url: /denver/herban-underground/
-shop: Hanf
+shop: cannabis
 ---

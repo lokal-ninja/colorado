@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /loveland/caliber-collision-topaz-drive/
-shop: Autowerkstatt
+shop: car repair
 ---

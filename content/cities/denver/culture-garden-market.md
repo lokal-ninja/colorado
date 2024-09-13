@@ -1,5 +1,5 @@
 ---
 title: "Culture Garden Market"
 url: /denver/culture-garden-market/
-shop: Garten-Center
+shop: garden centre
 ---

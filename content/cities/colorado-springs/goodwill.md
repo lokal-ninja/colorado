@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /colorado-springs/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /greeley/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

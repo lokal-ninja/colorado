@@ -1,5 +1,5 @@
 ---
 title: "Artwork Network Art Gallery"
 url: /denver/artwork-network-art-gallery/
-shop: Kunst
+shop: art
 ---

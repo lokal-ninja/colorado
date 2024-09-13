@@ -1,5 +1,5 @@
 ---
 title: "LivWell Dispensary"
 url: /federal-heights/livwell-dispensary/
-shop: Hanf
+shop: cannabis
 ---

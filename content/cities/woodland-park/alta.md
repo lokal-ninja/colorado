@@ -1,5 +1,5 @@
 ---
 title: "Alta"
 url: /woodland-park/alta/
-shop: Lebensmittel
+shop: convenience
 ---

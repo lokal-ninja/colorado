@@ -1,5 +1,5 @@
 ---
 title: "Ryder"
 url: /grand-junction/ryder/
-shop: Mieten
+shop: storage rental
 ---

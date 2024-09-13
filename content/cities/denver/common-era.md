@@ -1,5 +1,5 @@
 ---
 title: "Common Era"
 url: /denver/common-era/
-shop: Kleidung
+shop: clothes
 ---

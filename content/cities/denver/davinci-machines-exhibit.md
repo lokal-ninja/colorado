@@ -1,5 +1,5 @@
 ---
 title: "DaVinci Machines Exhibit"
 url: /denver/davinci-machines-exhibit/
-shop: Kunst
+shop: art
 ---

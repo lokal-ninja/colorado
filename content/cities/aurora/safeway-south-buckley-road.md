@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /aurora/safeway-south-buckley-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Planks Skate Shop"
 url: /greeley/planks-skate-shop/
-shop: Sport
+shop: sports
 ---

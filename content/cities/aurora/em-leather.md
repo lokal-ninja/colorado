@@ -1,5 +1,5 @@
 ---
 title: "EM Leather"
 url: /aurora/em-leather/
-shop: Kleidung
+shop: clothes
 ---

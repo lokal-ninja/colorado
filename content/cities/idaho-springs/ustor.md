@@ -1,5 +1,5 @@
 ---
 title: "UStor"
 url: /idaho-springs/ustor/
-shop: Mieten
+shop: storage rental
 ---

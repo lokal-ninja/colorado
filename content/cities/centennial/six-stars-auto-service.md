@@ -1,5 +1,5 @@
 ---
 title: "Six Stars Auto Service"
 url: /centennial/six-stars-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

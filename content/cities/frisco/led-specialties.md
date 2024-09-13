@@ -1,5 +1,5 @@
 ---
 title: "LED Specialties"
 url: /frisco/led-specialties/
-shop: Elektronik
+shop: electronics
 ---

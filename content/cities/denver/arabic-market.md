@@ -1,5 +1,5 @@
 ---
 title: "Arabic Market"
 url: /denver/arabic-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoworks"
 url: /grand-junction/autoworks/
-shop: Autoteile
+shop: car parts
 ---

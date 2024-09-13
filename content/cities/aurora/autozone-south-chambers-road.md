@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /aurora/autozone-south-chambers-road/
-shop: Autoteile
+shop: car parts
 ---

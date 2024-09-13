@@ -1,5 +1,5 @@
 ---
 title: "Urban Lights"
 url: /colorado-springs/urban-lights/
-shop: Lampen
+shop: lamps
 ---

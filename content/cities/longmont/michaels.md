@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /longmont/michaels/
-shop: Basteln
+shop: craft
 ---

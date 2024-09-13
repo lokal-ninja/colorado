@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /golden/carmax/
-shop: Autohaus
+shop: car
 ---

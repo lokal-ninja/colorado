@@ -1,5 +1,5 @@
 ---
 title: "El Loro"
 url: /boulder/el-loro/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /thornton/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Fish Crew"
 url: /fort-collins/the-fish-crew/
-shop: Tiere
+shop: pet
 ---

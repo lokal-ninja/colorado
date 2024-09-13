@@ -1,5 +1,5 @@
 ---
 title: "Mesa Liquors"
 url: /colorado-springs/mesa-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

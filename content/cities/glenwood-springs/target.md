@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /glenwood-springs/target/
-shop: Warenhaus
+shop: department store
 ---

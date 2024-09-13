@@ -1,5 +1,5 @@
 ---
 title: "Kitchens' Ink"
 url: /denver/kitchens-ink/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /colorado-springs/safeway-austin-bluffs-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

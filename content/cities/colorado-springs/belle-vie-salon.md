@@ -1,5 +1,5 @@
 ---
 title: "Belle Vie Salon"
 url: /colorado-springs/belle-vie-salon/
-shop: Kosmetik
+shop: beauty
 ---

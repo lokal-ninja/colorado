@@ -1,5 +1,5 @@
 ---
 title: "Legacy Automotive"
 url: /boulder/legacy-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

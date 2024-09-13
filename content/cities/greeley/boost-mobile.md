@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /greeley/boost-mobile/
-shop: Handy
+shop: mobile phone
 ---

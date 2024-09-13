@@ -1,5 +1,5 @@
 ---
 title: "Peerless Tires"
 url: /northglenn/peerless-tires/
-shop: Reifen
+shop: tyres
 ---

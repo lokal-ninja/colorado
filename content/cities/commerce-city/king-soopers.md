@@ -1,5 +1,5 @@
 ---
 title: "King Soopers"
 url: /commerce-city/king-soopers/
-shop: Supermarkt
+shop: supermarket
 ---

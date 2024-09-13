@@ -1,5 +1,5 @@
 ---
 title: "Trailers Plus"
 url: /grand-junction/trailers-plus/
-shop: Autohaus
+shop: car
 ---

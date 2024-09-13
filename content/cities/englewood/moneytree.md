@@ -1,5 +1,5 @@
 ---
 title: "Moneytree"
 url: /englewood/moneytree/
-shop: Leiher
+shop: pawnbroker
 ---

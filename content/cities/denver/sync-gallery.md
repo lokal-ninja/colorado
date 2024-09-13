@@ -1,5 +1,5 @@
 ---
 title: "Sync Gallery"
 url: /denver/sync-gallery/
-shop: Kunst
+shop: art
 ---

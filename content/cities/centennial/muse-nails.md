@@ -1,5 +1,5 @@
 ---
 title: "Muse Nails"
 url: /centennial/muse-nails/
-shop: Kosmetik
+shop: beauty
 ---

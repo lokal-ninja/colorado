@@ -1,5 +1,5 @@
 ---
 title: "Lee's Tailors"
 url: /parker/lees-tailors/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpet Mill"
 url: /aurora/carpet-mill/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Golden Auto"
 url: /aurora/golden-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

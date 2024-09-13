@@ -1,5 +1,5 @@
 ---
 title: "High Desert Authentiques"
 url: /grand-junction/high-desert-authentiques/
-shop: Kramladen
+shop: variety store
 ---

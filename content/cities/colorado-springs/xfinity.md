@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /colorado-springs/xfinity/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Creation Nails"
 url: /westminster/creation-nails/
-shop: Kosmetik
+shop: beauty
 ---

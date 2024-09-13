@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /centennial/ross/
-shop: Warenhaus
+shop: department store
 ---

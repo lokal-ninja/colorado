@@ -1,5 +1,5 @@
 ---
 title: "Agfinity"
 url: /greeley/agfinity/
-shop: Lebensmittel
+shop: convenience
 ---

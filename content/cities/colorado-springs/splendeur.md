@@ -1,5 +1,5 @@
 ---
 title: "Splendeur"
 url: /colorado-springs/splendeur/
-shop: Friseur
+shop: hairdresser
 ---

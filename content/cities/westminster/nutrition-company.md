@@ -1,5 +1,5 @@
 ---
 title: "Nutrition Company"
 url: /westminster/nutrition-company/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

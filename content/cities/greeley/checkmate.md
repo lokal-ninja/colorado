@@ -1,5 +1,5 @@
 ---
 title: "Checkmate"
 url: /greeley/checkmate/
-shop: Leiher
+shop: pawnbroker
 ---

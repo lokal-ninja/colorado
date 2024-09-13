@@ -1,5 +1,5 @@
 ---
 title: "Chucks Auto"
 url: /colorado-springs/chucks-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

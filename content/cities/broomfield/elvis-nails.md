@@ -1,5 +1,5 @@
 ---
 title: "Elvis Nails"
 url: /broomfield/elvis-nails/
-shop: Kosmetik
+shop: beauty
 ---

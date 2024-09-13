@@ -1,5 +1,5 @@
 ---
 title: "King Soopers"
 url: /colorado-springs/king-soopers-west-uintah-street/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /aurora/goodwill-east-belleview-avenue/
-shop: Gebrauchtwaren
+shop: charity
 ---

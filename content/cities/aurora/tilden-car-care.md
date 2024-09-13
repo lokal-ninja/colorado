@@ -1,5 +1,5 @@
 ---
 title: "Tilden Car Care"
 url: /aurora/tilden-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

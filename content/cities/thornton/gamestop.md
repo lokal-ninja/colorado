@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /thornton/gamestop/
-shop: Videospiele
+shop: video games
 ---

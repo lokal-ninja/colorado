@@ -1,5 +1,5 @@
 ---
 title: "Parker Panache"
 url: /parker/parker-panache/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jacque Michelle"
 url: /boulder/jacque-michelle/
-shop: Andenken
+shop: gift
 ---

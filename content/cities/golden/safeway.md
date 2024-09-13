@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /golden/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

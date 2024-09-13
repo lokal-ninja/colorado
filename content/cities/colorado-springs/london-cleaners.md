@@ -1,5 +1,5 @@
 ---
 title: "London Cleaners"
 url: /colorado-springs/london-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

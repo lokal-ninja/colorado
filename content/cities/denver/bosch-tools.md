@@ -1,5 +1,5 @@
 ---
 title: "Bosch Tools"
 url: /denver/bosch-tools/
-shop: Eisenwaren
+shop: hardware
 ---

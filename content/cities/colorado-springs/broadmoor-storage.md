@@ -1,5 +1,5 @@
 ---
 title: "Broadmoor Storage"
 url: /colorado-springs/broadmoor-storage/
-shop: Mieten
+shop: storage rental
 ---

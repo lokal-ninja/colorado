@@ -1,5 +1,5 @@
 ---
 title: "Airport Automotive"
 url: /colorado-springs/airport-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

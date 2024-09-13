@@ -1,5 +1,5 @@
 ---
 title: "La Abeja Bakery"
 url: /denver/la-abeja-bakery/
-shop: Bäckerei
+shop: bakery
 ---

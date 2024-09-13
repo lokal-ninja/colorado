@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /leadville/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

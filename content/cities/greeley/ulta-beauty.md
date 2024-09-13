@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /greeley/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

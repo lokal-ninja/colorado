@@ -1,5 +1,5 @@
 ---
 title: "Peerless Tire"
 url: /loveland/peerless-tire/
-shop: Reifen
+shop: tyres
 ---

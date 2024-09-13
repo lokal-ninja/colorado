@@ -1,5 +1,5 @@
 ---
 title: "Tynan's Volkswagen"
 url: /aurora/tynans-volkswagen/
-shop: Autohaus
+shop: car
 ---

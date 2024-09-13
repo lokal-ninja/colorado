@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /parker/public-storage-west-parker-road/
-shop: Mieten
+shop: storage rental
 ---

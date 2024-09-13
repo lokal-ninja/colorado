@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /thorton/fastenal/
-shop: Baustoffe
+shop: trade
 ---

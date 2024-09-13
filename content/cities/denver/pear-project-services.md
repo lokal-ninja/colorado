@@ -1,5 +1,5 @@
 ---
 title: "Pear Project Services"
 url: /denver/pear-project-services/
-shop: Möbel
+shop: furniture
 ---

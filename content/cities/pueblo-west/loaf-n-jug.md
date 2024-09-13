@@ -1,5 +1,5 @@
 ---
 title: "Loaf 'N Jug"
 url: /pueblo-west/loaf-n-jug/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /northglenn/public-storage-east-104th-avenue/
-shop: Mieten
+shop: storage rental
 ---

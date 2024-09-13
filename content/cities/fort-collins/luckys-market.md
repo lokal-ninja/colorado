@@ -1,5 +1,5 @@
 ---
 title: "Lucky's Market"
 url: /fort-collins/luckys-market/
-shop: Supermarkt
+shop: supermarket
 ---

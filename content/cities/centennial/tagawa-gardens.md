@@ -1,5 +1,5 @@
 ---
 title: "Tagawa Gardens"
 url: /centennial/tagawa-gardens/
-shop: Garten-Center
+shop: garden centre
 ---

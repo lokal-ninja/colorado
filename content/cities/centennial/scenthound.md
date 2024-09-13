@@ -1,5 +1,5 @@
 ---
 title: "Scenthound"
 url: /centennial/scenthound/
-shop: Tiersalon
+shop: pet grooming
 ---

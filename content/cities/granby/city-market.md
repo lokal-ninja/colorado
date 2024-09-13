@@ -1,5 +1,5 @@
 ---
 title: "City Market"
 url: /granby/city-market/
-shop: Supermarkt
+shop: supermarket
 ---

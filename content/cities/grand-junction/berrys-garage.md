@@ -1,5 +1,5 @@
 ---
 title: "Berry's Garage"
 url: /grand-junction/berrys-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

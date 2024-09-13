@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /denver/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

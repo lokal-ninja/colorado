@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /frisco/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

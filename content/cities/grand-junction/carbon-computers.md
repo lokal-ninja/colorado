@@ -1,5 +1,5 @@
 ---
 title: "Carbon Computers"
 url: /grand-junction/carbon-computers/
-shop: Computer
+shop: computer
 ---

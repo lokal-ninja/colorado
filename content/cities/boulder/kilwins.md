@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /boulder/kilwins/
-shop: Süßwaren
+shop: confectionery
 ---

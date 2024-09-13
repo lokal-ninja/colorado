@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /fort-collins/dsw/
-shop: Schuhe
+shop: shoes
 ---

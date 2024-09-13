@@ -1,5 +1,5 @@
 ---
 title: "Elite iPhone Repair"
 url: /denver/elite-iphone-repair/
-shop: Handy
+shop: mobile phone
 ---

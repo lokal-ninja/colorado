@@ -1,5 +1,5 @@
 ---
 title: "Amendment XXI"
 url: /denver/amendment-xxi/
-shop: Spirituosen
+shop: alcohol
 ---

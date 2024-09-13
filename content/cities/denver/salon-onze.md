@@ -1,5 +1,5 @@
 ---
 title: "Salon Onze"
 url: /denver/salon-onze/
-shop: Friseur
+shop: hairdresser
 ---

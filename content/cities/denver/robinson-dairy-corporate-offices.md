@@ -1,5 +1,5 @@
 ---
 title: "Robinson Dairy Corporate Offices"
 url: /denver/robinson-dairy-corporate-offices/
-shop: Milch
+shop: dairy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sierra"
 url: /westminster/sierra/
-shop: Outdoor
+shop: outdoor
 ---

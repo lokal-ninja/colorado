@@ -1,5 +1,5 @@
 ---
 title: "Digitique"
 url: /boulder/digitique/
-shop: Computer
+shop: computer
 ---

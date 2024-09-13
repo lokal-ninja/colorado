@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /boulder/storquest/
-shop: Mieten
+shop: storage rental
 ---

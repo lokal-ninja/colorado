@@ -1,5 +1,5 @@
 ---
 title: "Hits Vape"
 url: /parker/hits-vape/
-shop: Tabak
+shop: tobacco
 ---

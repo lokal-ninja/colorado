@@ -1,5 +1,5 @@
 ---
 title: "Corral Western Wear"
 url: /aurora/corral-western-wear/
-shop: Kleidung
+shop: clothes
 ---

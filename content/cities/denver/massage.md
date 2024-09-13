@@ -1,5 +1,5 @@
 ---
 title: "Massage"
 url: /denver/massage/
-shop: Massage
+shop: massage
 ---

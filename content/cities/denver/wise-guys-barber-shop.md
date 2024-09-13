@@ -1,5 +1,5 @@
 ---
 title: "Wise Guys Barber Shop"
 url: /denver/wise-guys-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

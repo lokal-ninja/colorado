@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /grand-junction/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

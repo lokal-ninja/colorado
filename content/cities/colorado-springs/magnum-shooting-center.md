@@ -1,5 +1,5 @@
 ---
 title: "Magnum Shooting Center"
 url: /colorado-springs/magnum-shooting-center/
-shop: Waffen
+shop: weapons
 ---

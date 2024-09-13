@@ -1,5 +1,5 @@
 ---
 title: "Centennial Vapor Denver"
 url: /denver/centennial-vapor-denver/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

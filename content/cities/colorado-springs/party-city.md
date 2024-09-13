@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /colorado-springs/party-city/
-shop: Partyzubehör
+shop: party
 ---

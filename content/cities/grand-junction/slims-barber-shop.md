@@ -1,5 +1,5 @@
 ---
 title: "Slim's Barber Shop"
 url: /grand-junction/slims-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

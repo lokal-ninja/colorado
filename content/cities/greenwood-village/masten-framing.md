@@ -1,5 +1,5 @@
 ---
 title: "Masten Framing"
 url: /greenwood-village/masten-framing/
-shop: Rahmen
+shop: frame
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /grand-junction/maurices/
-shop: Kleidung
+shop: clothes
 ---

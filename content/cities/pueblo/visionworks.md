@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /pueblo/visionworks/
-shop: Optiker
+shop: optician
 ---

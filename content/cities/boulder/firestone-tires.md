@@ -1,5 +1,5 @@
 ---
 title: "Firestone Tires"
 url: /boulder/firestone-tires/
-shop: Autowerkstatt
+shop: car repair
 ---

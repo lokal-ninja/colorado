@@ -1,5 +1,5 @@
 ---
 title: "Spare Change Auto Repair"
 url: /colorado-springs/spare-change-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

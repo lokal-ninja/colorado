@@ -1,5 +1,5 @@
 ---
 title: "Sunnyside Herbal Alternatives"
 url: /denver/sunnyside-herbal-alternatives/
-shop: Hanf
+shop: cannabis
 ---

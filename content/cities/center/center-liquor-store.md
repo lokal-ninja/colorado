@@ -1,5 +1,5 @@
 ---
 title: "Center Liquor Store"
 url: /center/center-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

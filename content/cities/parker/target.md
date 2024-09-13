@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /parker/target/
-shop: Warenhaus
+shop: department store
 ---

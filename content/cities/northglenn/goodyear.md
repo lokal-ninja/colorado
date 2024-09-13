@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /northglenn/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

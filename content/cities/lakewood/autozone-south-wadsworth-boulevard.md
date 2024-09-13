@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lakewood/autozone-south-wadsworth-boulevard/
-shop: Autoteile
+shop: car parts
 ---

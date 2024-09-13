@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /denver/rei/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /lakewood/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specialty Sports"
 url: /colorado-springs/specialty-sports/
-shop: Waffen
+shop: weapons
 ---

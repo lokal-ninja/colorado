@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom Rack"
 url: /colorado-springs/nordstrom-rack/
-shop: Kleidung
+shop: clothes
 ---

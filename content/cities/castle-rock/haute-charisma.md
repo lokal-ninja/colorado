@@ -1,5 +1,5 @@
 ---
 title: "Haute Charisma"
 url: /castle-rock/haute-charisma/
-shop: Kleidung
+shop: clothes
 ---

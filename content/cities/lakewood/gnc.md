@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /lakewood/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

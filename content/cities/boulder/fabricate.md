@@ -1,5 +1,5 @@
 ---
 title: "Fabricate"
 url: /boulder/fabricate/
-shop: Textil
+shop: fabric
 ---

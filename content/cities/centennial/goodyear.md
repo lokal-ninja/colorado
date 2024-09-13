@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /centennial/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

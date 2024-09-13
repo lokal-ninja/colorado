@@ -1,5 +1,5 @@
 ---
 title: "Dog Savvy"
 url: /denver/dog-savvy/
-shop: Tiere
+shop: pet
 ---

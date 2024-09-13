@@ -1,5 +1,5 @@
 ---
 title: "DecorAsian"
 url: /denver/decorasian/
-shop: Raumausstattung
+shop: interior decoration
 ---

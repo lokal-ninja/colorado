@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /fort-collins/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Light Center"
 url: /fort-collins/the-light-center/
-shop: Lampen
+shop: lamps
 ---

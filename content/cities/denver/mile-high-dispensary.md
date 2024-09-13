@@ -1,5 +1,5 @@
 ---
 title: "Mile High Dispensary"
 url: /denver/mile-high-dispensary/
-shop: Hanf
+shop: cannabis
 ---

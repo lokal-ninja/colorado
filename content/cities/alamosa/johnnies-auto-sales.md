@@ -1,5 +1,5 @@
 ---
 title: "Johnnie's Auto Sales"
 url: /alamosa/johnnies-auto-sales/
-shop: Autohaus
+shop: car
 ---

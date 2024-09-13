@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /castle-rock/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

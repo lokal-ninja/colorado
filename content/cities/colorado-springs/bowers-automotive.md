@@ -1,5 +1,5 @@
 ---
 title: "Bowers Automotive"
 url: /colorado-springs/bowers-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

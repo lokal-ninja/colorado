@@ -1,5 +1,5 @@
 ---
 title: "Derby Liquors"
 url: /commerce-city/derby-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

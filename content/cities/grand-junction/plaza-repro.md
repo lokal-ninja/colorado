@@ -1,5 +1,5 @@
 ---
 title: "Plaza Repro"
 url: /grand-junction/plaza-repro/
-shop: Kopieren
+shop: copyshop
 ---

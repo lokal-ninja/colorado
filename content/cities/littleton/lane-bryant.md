@@ -1,5 +1,5 @@
 ---
 title: "Lane Bryant"
 url: /littleton/lane-bryant/
-shop: Kleidung
+shop: clothes
 ---

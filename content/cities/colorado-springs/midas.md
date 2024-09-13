@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /colorado-springs/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

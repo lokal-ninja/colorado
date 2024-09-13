@@ -1,5 +1,5 @@
 ---
 title: "Wright's Nursery, Inc."
 url: /arvada/wrights-nursery-inc/
-shop: Garten-Center
+shop: garden centre
 ---

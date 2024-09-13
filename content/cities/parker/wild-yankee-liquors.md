@@ -1,5 +1,5 @@
 ---
 title: "Wild Yankee Liquors"
 url: /parker/wild-yankee-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /longmont/safeway-ken-pratt-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Sams"
 url: /littleton/fantastic-sams/
-shop: Friseur
+shop: hairdresser
 ---

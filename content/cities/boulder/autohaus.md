@@ -1,5 +1,5 @@
 ---
 title: "Autohaus"
 url: /boulder/autohaus/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /glenwood-springs/ross/
-shop: Warenhaus
+shop: department store
 ---

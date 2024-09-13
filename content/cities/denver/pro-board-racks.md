@@ -1,5 +1,5 @@
 ---
 title: "Pro Board Racks"
 url: /denver/pro-board-racks/
-shop: Ski
+shop: ski
 ---

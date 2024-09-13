@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /laporte/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LUXE Liquor"
 url: /castle-rock/luxe-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

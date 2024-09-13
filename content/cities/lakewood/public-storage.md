@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /lakewood/public-storage/
-shop: Mieten
+shop: storage rental
 ---

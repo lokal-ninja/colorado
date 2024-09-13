@@ -1,5 +1,5 @@
 ---
 title: "Integrity Glass"
 url: /mancos/integrity-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

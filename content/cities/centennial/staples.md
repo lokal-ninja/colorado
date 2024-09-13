@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /centennial/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sparq"
 url: /trinidad/sparq/
-shop: Lebensmittel
+shop: convenience
 ---

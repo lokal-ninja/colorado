@@ -1,5 +1,5 @@
 ---
 title: "Unwind Day Spa"
 url: /grand-junction/unwind-day-spa/
-shop: Kosmetik
+shop: beauty
 ---

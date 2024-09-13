@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /delta/aarons/
-shop: Möbel
+shop: furniture
 ---

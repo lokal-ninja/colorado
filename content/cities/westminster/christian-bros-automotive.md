@@ -1,5 +1,5 @@
 ---
 title: "Christian Bros. Automotive"
 url: /westminster/christian-bros-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

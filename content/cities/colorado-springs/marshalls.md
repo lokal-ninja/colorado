@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /colorado-springs/marshalls/
-shop: Warenhaus
+shop: department store
 ---

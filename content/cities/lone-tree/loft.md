@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /lone-tree/loft/
-shop: Kleidung
+shop: clothes
 ---

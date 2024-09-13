@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /arvada/autozone/
-shop: Autoteile
+shop: car parts
 ---

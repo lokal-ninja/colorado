@@ -1,5 +1,5 @@
 ---
 title: "SecondLove"
 url: /denver/secondlove/
-shop: Kleidung
+shop: clothes
 ---

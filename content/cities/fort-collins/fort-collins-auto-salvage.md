@@ -1,5 +1,5 @@
 ---
 title: "Fort Collins Auto Salvage"
 url: /fort-collins/fort-collins-auto-salvage/
-shop: Autoteile
+shop: car parts
 ---

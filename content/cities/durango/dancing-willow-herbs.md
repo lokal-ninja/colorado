@@ -1,5 +1,5 @@
 ---
 title: "Dancing Willow Herbs"
 url: /durango/dancing-willow-herbs/
-shop: Kräuter
+shop: herbalist
 ---

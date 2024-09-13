@@ -1,5 +1,5 @@
 ---
 title: "Heads of State"
 url: /denver/heads-of-state/
-shop: Tabak
+shop: tobacco
 ---

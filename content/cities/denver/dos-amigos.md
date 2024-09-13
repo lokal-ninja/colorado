@@ -1,5 +1,5 @@
 ---
 title: "Dos Amigos"
 url: /denver/dos-amigos/
-shop: Autowerkstatt
+shop: car repair
 ---

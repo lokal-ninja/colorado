@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /grand-junction/dollar-tree-rimrock-avenue/
-shop: Kramladen
+shop: variety store
 ---

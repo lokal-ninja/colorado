@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /boulder/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

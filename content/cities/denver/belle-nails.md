@@ -1,5 +1,5 @@
 ---
 title: "Belle Nails"
 url: /denver/belle-nails/
-shop: Kosmetik
+shop: beauty
 ---

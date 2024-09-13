@@ -1,5 +1,5 @@
 ---
 title: "Neo Art Studios"
 url: /denver/neo-art-studios/
-shop: Kunst
+shop: art
 ---

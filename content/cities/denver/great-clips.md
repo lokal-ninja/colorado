@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /denver/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

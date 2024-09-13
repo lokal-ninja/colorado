@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /aurora/storquest/
-shop: Mieten
+shop: storage rental
 ---

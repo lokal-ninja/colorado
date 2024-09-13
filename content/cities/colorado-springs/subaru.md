@@ -1,5 +1,5 @@
 ---
 title: "Subaru"
 url: /colorado-springs/subaru/
-shop: Autohaus
+shop: car
 ---

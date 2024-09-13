@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /denver/family-dollar-south-holly-street/
-shop: Kramladen
+shop: variety store
 ---

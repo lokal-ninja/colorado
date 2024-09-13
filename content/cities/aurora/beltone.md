@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /aurora/beltone/
-shop: Handy
+shop: mobile phone
 ---

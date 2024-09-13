@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /colorado-springs/old-navy-north-academy-boulevard/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brighton Florist"
 url: /brighton/brighton-florist/
-shop: Blumen
+shop: florist
 ---

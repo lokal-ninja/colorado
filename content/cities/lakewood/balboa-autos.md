@@ -1,5 +1,5 @@
 ---
 title: "Balboa Autos"
 url: /lakewood/balboa-autos/
-shop: Autohaus
+shop: car
 ---

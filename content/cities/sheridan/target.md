@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /sheridan/target/
-shop: Supermarkt
+shop: supermarket
 ---

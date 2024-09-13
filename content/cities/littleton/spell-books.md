@@ -1,5 +1,5 @@
 ---
 title: "Spell Books"
 url: /littleton/spell-books/
-shop: Bücher
+shop: books
 ---

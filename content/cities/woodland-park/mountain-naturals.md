@@ -1,5 +1,5 @@
 ---
 title: "Mountain Naturals"
 url: /woodland-park/mountain-naturals/
-shop: Supermarkt
+shop: supermarket
 ---

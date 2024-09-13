@@ -1,5 +1,5 @@
 ---
 title: "Honeyville"
 url: /durango/honeyville/
-shop: Andenken
+shop: gift
 ---

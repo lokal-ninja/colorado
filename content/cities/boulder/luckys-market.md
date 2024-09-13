@@ -1,5 +1,5 @@
 ---
 title: "Lucky's Market"
 url: /boulder/luckys-market/
-shop: Supermarkt
+shop: supermarket
 ---

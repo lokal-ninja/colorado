@@ -1,5 +1,5 @@
 ---
 title: "Good Spirits"
 url: /highlands-ranch/good-spirits/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /thornton/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

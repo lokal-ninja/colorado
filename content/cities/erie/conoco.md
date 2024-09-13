@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /erie/conoco/
-shop: Lebensmittel
+shop: convenience
 ---

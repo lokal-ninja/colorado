@@ -1,5 +1,5 @@
 ---
 title: "King Fashion"
 url: /denver/king-fashion/
-shop: Kleidung
+shop: clothes
 ---

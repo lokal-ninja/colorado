@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /denver/shell-chambers-road/
-shop: Lebensmittel
+shop: convenience
 ---

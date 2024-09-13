@@ -1,5 +1,5 @@
 ---
 title: "Sarah O."
 url: /denver/sarah-o/
-shop: Schmuck
+shop: jewelry
 ---

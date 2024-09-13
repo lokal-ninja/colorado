@@ -1,5 +1,5 @@
 ---
 title: "HUGOS"
 url: /greeley/hugos/
-shop: Friseur
+shop: hairdresser
 ---

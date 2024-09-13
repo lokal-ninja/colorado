@@ -1,5 +1,5 @@
 ---
 title: "Page Antiques"
 url: /pueblo/page-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

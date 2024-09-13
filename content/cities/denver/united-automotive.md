@@ -1,5 +1,5 @@
 ---
 title: "United Automotive"
 url: /denver/united-automotive/
-shop: Autohaus
+shop: car
 ---

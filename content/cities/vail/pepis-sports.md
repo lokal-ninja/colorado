@@ -1,5 +1,5 @@
 ---
 title: "Pepi's Sports"
 url: /vail/pepis-sports/
-shop: Sport
+shop: sports
 ---

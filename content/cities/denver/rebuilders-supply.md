@@ -1,5 +1,5 @@
 ---
 title: "Rebuilders Supply"
 url: /denver/rebuilders-supply/
-shop: Autoteile
+shop: car parts
 ---

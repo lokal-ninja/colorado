@@ -1,5 +1,5 @@
 ---
 title: "Lightshade"
 url: /denver/lightshade/
-shop: Allgemein
+shop: shop
 ---

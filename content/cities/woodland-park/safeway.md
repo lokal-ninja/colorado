@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /woodland-park/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

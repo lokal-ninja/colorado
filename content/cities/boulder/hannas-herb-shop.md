@@ -1,5 +1,5 @@
 ---
 title: "Hanna's Herb Shop"
 url: /boulder/hannas-herb-shop/
-shop: Bioladen
+shop: health food
 ---

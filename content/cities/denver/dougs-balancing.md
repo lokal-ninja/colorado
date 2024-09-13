@@ -1,5 +1,5 @@
 ---
 title: "Doug's Balancing"
 url: /denver/dougs-balancing/
-shop: Autowerkstatt
+shop: car repair
 ---

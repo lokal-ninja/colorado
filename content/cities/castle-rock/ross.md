@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /castle-rock/ross/
-shop: Warenhaus
+shop: department store
 ---

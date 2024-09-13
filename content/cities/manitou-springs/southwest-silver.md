@@ -1,5 +1,5 @@
 ---
 title: "Southwest Silver"
 url: /manitou-springs/southwest-silver/
-shop: Andenken
+shop: gift
 ---

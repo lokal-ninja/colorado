@@ -1,5 +1,5 @@
 ---
 title: "Family Time Spas"
 url: /grand-junction/family-time-spas/
-shop: Pool
+shop: swimming pool
 ---

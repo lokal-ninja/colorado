@@ -1,5 +1,5 @@
 ---
 title: "Adventure West"
 url: /golden/adventure-west/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /arvada/costco/
-shop: Großhandel
+shop: wholesale
 ---

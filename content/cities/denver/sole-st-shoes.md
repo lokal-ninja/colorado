@@ -1,5 +1,5 @@
 ---
 title: "Sole St Shoes"
 url: /denver/sole-st-shoes/
-shop: Schuhe
+shop: shoes
 ---

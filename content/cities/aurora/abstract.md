@@ -1,5 +1,5 @@
 ---
 title: "Abstract"
 url: /aurora/abstract/
-shop: Kleidung
+shop: clothes
 ---

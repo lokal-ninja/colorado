@@ -1,5 +1,5 @@
 ---
 title: "My Wholesale Products"
 url: /lamar/my-wholesale-products/
-shop: Großhandel
+shop: wholesale
 ---

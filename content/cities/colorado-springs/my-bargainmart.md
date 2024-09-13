@@ -1,5 +1,5 @@
 ---
 title: "My BargainMart"
 url: /colorado-springs/my-bargainmart/
-shop: Supermarkt
+shop: supermarket
 ---

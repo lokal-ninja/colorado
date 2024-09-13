@@ -1,5 +1,5 @@
 ---
 title: "Calzamundo Western Wear"
 url: /lakewood/calzamundo-western-wear/
-shop: Kleidung
+shop: clothes
 ---

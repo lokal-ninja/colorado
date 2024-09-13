@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /centennial/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

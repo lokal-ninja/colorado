@@ -1,5 +1,5 @@
 ---
 title: "Summerland Gardens"
 url: /colorado-springs/summerland-gardens/
-shop: Garten-Center
+shop: garden centre
 ---

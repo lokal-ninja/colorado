@@ -1,5 +1,5 @@
 ---
 title: "Natural Grocers"
 url: /denver/natural-grocers-south-broadway/
-shop: Supermarkt
+shop: supermarket
 ---

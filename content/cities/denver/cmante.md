@@ -1,5 +1,5 @@
 ---
 title: "Cmante"
 url: /denver/cmante/
-shop: Kleidung
+shop: clothes
 ---

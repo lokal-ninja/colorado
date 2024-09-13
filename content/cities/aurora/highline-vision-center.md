@@ -1,5 +1,5 @@
 ---
 title: "Highline Vision Center"
 url: /aurora/highline-vision-center/
-shop: Optiker
+shop: optician
 ---

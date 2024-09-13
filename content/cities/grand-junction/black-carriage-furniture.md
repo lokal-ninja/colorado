@@ -1,5 +1,5 @@
 ---
 title: "Black Carriage Furniture"
 url: /grand-junction/black-carriage-furniture/
-shop: Möbel
+shop: furniture
 ---

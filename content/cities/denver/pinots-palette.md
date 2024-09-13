@@ -1,5 +1,5 @@
 ---
 title: "Pinot’s Palette"
 url: /denver/pinots-palette/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "arc Thrift Store"
 url: /parker/arc-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advanced Technology Management"
 url: /denver/advanced-technology-management/
-shop: Computer
+shop: computer
 ---

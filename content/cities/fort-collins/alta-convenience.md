@@ -1,5 +1,5 @@
 ---
 title: "Alta Convenience"
 url: /fort-collins/alta-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

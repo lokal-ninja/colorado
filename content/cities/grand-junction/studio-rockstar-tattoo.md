@@ -1,5 +1,5 @@
 ---
 title: "Studio Rockstar Tattoo"
 url: /grand-junction/studio-rockstar-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

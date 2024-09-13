@@ -1,5 +1,5 @@
 ---
 title: "CycleBar LoHi"
 url: /denver/cyclebar-lohi/
-shop: Fahrrad
+shop: bicycle
 ---

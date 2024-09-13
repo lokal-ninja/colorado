@@ -1,5 +1,5 @@
 ---
 title: "Tramp Master"
 url: /denver/tramp-master/
-shop: Allgemein
+shop: shop
 ---

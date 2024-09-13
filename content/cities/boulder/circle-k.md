@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /boulder/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

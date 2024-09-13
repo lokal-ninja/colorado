@@ -1,5 +1,5 @@
 ---
 title: "Perfection Motors"
 url: /denver/perfection-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

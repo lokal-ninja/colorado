@@ -1,5 +1,5 @@
 ---
 title: "Loki Outdoor Shop"
 url: /grand-junction/loki-outdoor-shop/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Key-Rite Security"
 url: /denver/key-rite-security/
-shop: Schlüsseldienst
+shop: locksmith
 ---

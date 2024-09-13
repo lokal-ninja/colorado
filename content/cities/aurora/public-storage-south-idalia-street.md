@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /aurora/public-storage-south-idalia-street/
-shop: Baumarkt
+shop: doityourself
 ---

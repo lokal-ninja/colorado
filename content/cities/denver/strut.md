@@ -1,5 +1,5 @@
 ---
 title: "Strut"
 url: /denver/strut/
-shop: Schuhe
+shop: shoes
 ---

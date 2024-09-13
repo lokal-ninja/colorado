@@ -1,5 +1,5 @@
 ---
 title: "Leasures Treasures"
 url: /colorado-springs/leasures-treasures/
-shop: Antiquitäten
+shop: antiques
 ---

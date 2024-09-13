@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /colorado-springs/lululemon/
-shop: Kleidung
+shop: clothes
 ---

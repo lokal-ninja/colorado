@@ -1,5 +1,5 @@
 ---
 title: "Gold-N-Detectors"
 url: /golden/gold-n-detectors/
-shop: Sport
+shop: sports
 ---

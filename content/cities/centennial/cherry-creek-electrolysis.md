@@ -1,5 +1,5 @@
 ---
 title: "Cherry Creek Electrolysis"
 url: /centennial/cherry-creek-electrolysis/
-shop: Kosmetik
+shop: beauty
 ---

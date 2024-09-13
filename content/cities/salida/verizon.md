@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /salida/verizon/
-shop: Handy
+shop: mobile phone
 ---

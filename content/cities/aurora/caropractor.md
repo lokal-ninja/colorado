@@ -1,5 +1,5 @@
 ---
 title: "Caropractor"
 url: /aurora/caropractor/
-shop: Autowerkstatt
+shop: car repair
 ---

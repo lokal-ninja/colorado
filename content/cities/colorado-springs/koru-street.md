@@ -1,5 +1,5 @@
 ---
 title: "Koru Street"
 url: /colorado-springs/koru-street/
-shop: Andenken
+shop: gift
 ---

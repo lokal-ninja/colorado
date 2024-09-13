@@ -1,5 +1,5 @@
 ---
 title: "All Nations Autos"
 url: /lakewood/all-nations-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

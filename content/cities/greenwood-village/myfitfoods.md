@@ -1,5 +1,5 @@
 ---
 title: "MyFitFoods"
 url: /greenwood-village/myfitfoods/
-shop: Bioladen
+shop: health food
 ---

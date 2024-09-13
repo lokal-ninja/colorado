@@ -1,5 +1,5 @@
 ---
 title: "Simply Euro Automotive Repair"
 url: /castle-pines/simply-euro-automotive-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

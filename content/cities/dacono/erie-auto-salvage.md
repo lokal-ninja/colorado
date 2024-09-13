@@ -1,5 +1,5 @@
 ---
 title: "Erie Auto Salvage"
 url: /dacono/erie-auto-salvage/
-shop: Autoteile
+shop: car parts
 ---

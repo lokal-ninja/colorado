@@ -1,5 +1,5 @@
 ---
 title: "Costco Business Center"
 url: /denver/costco-business-center/
-shop: Großhandel
+shop: wholesale
 ---

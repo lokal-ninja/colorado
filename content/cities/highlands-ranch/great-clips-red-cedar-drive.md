@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /highlands-ranch/great-clips-red-cedar-drive/
-shop: Friseur
+shop: hairdresser
 ---

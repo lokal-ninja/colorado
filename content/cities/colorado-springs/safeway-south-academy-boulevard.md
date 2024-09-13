@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /colorado-springs/safeway-south-academy-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /centennial/total-wine/
-shop: Spirituosen
+shop: alcohol
 ---
