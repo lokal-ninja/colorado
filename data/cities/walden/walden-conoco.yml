@@ -1,11 +1,11 @@
 id: 320124885
-type: way
+type: node
 latitude: 40.72763
 longitude: -106.28179
 postcode: "80480"
 city: Walden
-street: "Main Street"
-housenumber: 609
+street: Main Street
+housenumber: "609"
 phone: ""
 opening_hours: ""
 website: ""

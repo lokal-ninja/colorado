@@ -1,11 +1,11 @@
 id: 497199798
-type: way
+type: node
 latitude: 39.06425
 longitude: -108.56588
 postcode: "81501"
 city: Grand Junction
-street: "Pitkin Avenue"
-housenumber: 405
+street: Pitkin Avenue
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 497021375
-type: way
+type: node
 latitude: 39.07704
 longitude: -108.50963
 postcode: "81504"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 2931
-phone: "+1-970-424-0305"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "http://orderelasadero.com/"
+street: North Avenue
+housenumber: "2931"
+phone: +1-970-424-0305
+opening_hours: Mo-Su 10:00-21:00
+website: http://orderelasadero.com/

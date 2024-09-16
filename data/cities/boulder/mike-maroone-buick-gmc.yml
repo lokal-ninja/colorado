@@ -1,11 +1,11 @@
 id: 200861739
-type: way
+type: node
 latitude: 40.02306
 longitude: -105.23996
 postcode: "80301"
 city: Boulder
-street: "48th Court"
-housenumber: 2460
+street: 48th Court
+housenumber: "2460"
 phone: ""
 opening_hours: ""
 website: ""

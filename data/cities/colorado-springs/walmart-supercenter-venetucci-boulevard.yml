@@ -1,11 +1,11 @@
 id: 494030334
-type: way
+type: node
 latitude: 38.76826
 longitude: -104.78019
 postcode: "80906"
 city: Colorado Springs
-street: "Venetucci Boulevard"
-housenumber: 4425
-phone: "+1 719-313-4378"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3018/fountain-co/whats-new"
+street: Venetucci Boulevard
+housenumber: "4425"
+phone: +1 719-313-4378
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3018/fountain-co/whats-new

@@ -1,11 +1,11 @@
 id: 233701879
-type: way
+type: node
 latitude: 38.80633
 longitude: -104.82068
 postcode: ""
 city: Colorado Springs
-street: "Southgate Road"
-housenumber: 1855
+street: Southgate Road
+housenumber: "1855"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1855+southgate+rd-colorado+springs-co-80906/id=9767"
+website: https://www.walgreens.com/locator/walgreens-1855+southgate+rd-colorado+springs-co-80906/id=9767

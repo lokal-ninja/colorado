@@ -1,11 +1,11 @@
 id: 45610959
-type: way
+type: node
 latitude: 39.91687
 longitude: -104.97547
 postcode: "80233"
 city: Thornton
-street: "East 120th Avenue"
-housenumber: 931
-phone: "+1 303-255-8886"
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://locations.michaels.com/co/thornton/1610"
+street: East 120th Avenue
+housenumber: "931"
+phone: +1 303-255-8886
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-20:00
+website: https://locations.michaels.com/co/thornton/1610

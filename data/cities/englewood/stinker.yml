@@ -1,11 +1,11 @@
 id: 233472009
-type: way
+type: node
 latitude: 39.65294
 longitude: -104.99754
 postcode: "80110"
 city: Englewood
-street: "West Hampden Avenue"
-housenumber: 800
+street: West Hampden Avenue
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

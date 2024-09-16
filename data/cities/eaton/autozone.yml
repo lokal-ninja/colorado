@@ -1,11 +1,11 @@
 id: 535678509
-type: way
+type: node
 latitude: 40.51971
 longitude: -104.70936
 postcode: "80615"
 city: Eaton
-street: "South Elm Road"
-housenumber: 385
+street: South Elm Road
+housenumber: "385"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.autozone.com/locations/co/eaton/385-s-elm-rd.html"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.autozone.com/locations/co/eaton/385-s-elm-rd.html

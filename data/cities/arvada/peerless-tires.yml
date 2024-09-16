@@ -1,11 +1,11 @@
 id: 1080429703
-type: way
+type: node
 latitude: 39.84354
 longitude: -105.05284
 postcode: "80003"
 city: Arvada
-street: "Sheridan Boulevard"
-housenumber: 8025
+street: Sheridan Boulevard
+housenumber: "8025"
 phone: ""
 opening_hours: ""
 website: ""

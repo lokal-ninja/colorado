@@ -1,11 +1,11 @@
 id: 228774794
-type: way
+type: node
 latitude: 39.91567
 longitude: -104.99771
 postcode: "80234"
 city: Westminster
-street: "Huron Street"
-housenumber: 12051
-phone: "+1-303-254-5326"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/westminster/12051-n-huron-st/2709839"
+street: Huron Street
+housenumber: "12051"
+phone: +1-303-254-5326
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/westminster/12051-n-huron-st/2709839

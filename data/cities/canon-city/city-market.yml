@@ -1,11 +1,11 @@
 id: 388130500
-type: way
+type: node
 latitude: 38.44897
 longitude: -105.22455
 postcode: "81212"
 city: Cañon City
-street: "Fremont Drive"
-housenumber: 1703
-phone: "+1-719-275-1595"
+street: Fremont Drive
+housenumber: "1703"
+phone: +1-719-275-1595
 opening_hours: ""
 website: ""

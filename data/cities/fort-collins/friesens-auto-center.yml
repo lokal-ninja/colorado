@@ -1,11 +1,11 @@
 id: 172542540
-type: way
+type: node
 latitude: 40.60151
 longitude: -105.07595
 postcode: "80524"
 city: Fort Collins
-street: "North College Avenue"
-housenumber: 1110
+street: North College Avenue
+housenumber: "1110"
 phone: ""
 opening_hours: ""
 website: ""

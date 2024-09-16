@@ -1,11 +1,11 @@
 id: 417347464
-type: way
+type: node
 latitude: 39.15932
 longitude: -108.73237
 postcode: "81521"
 city: Fruita
-street: "North Mulberry Street"
-housenumber: 116
+street: North Mulberry Street
+housenumber: "116"
 phone: ""
-opening_hours: "Tu-Sa 11:00-19:00"
+opening_hours: Tu-Sa 11:00-19:00
 website: ""

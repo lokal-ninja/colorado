@@ -4,8 +4,8 @@ latitude: 40.03721
 longitude: -105.26013
 postcode: "80304"
 city: Boulder
-street: "Iris Avenue"
-housenumber: 2725
-phone: "+1-303-440-3535"
-opening_hours: "Tu-Sa 10:00-18:00"
-website: "http://www.vecchios.com"
+street: Iris Avenue
+housenumber: "2725"
+phone: +1-303-440-3535
+opening_hours: Tu-Sa 10:00-18:00
+website: http://www.vecchios.com

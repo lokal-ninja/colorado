@@ -1,11 +1,11 @@
 id: 806194772
-type: way
+type: node
 latitude: 39.98744
 longitude: -104.81226
 postcode: "80601"
 city: Brighton
-street: "East Bridge Street"
-housenumber: 855
+street: East Bridge Street
+housenumber: "855"
 phone: ""
 opening_hours: ""
 website: ""

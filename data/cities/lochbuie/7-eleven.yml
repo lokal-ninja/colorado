@@ -1,11 +1,11 @@
 id: 1041332730
-type: way
+type: node
 latitude: 39.99998
 longitude: -104.72105
 postcode: "80601"
 city: Lochbuie
-street: "East 168th Avenue"
-housenumber: 22500
-phone: "+1-970-324-5650"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/lochbuie/22500-e-168th-ave-38485"
+street: East 168th Avenue
+housenumber: "22500"
+phone: +1-970-324-5650
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/lochbuie/22500-e-168th-ave-38485

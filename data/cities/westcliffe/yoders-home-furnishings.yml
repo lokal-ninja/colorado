@@ -1,11 +1,11 @@
 id: 415940941
-type: way
+type: node
 latitude: 38.12978
 longitude: -105.46292
 postcode: "81252"
 city: Westcliffe
-street: "CO-69"
-housenumber: 57965
+street: CO-69
+housenumber: "57965"
 phone: ""
 opening_hours: ""
 website: ""

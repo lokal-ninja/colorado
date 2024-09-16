@@ -1,11 +1,11 @@
 id: 782892846
-type: way
+type: node
 latitude: 37.18799
 longitude: -104.49692
 postcode: "81082"
 city: Trinidad
-street: "Freedom Road"
-housenumber: 2000
+street: Freedom Road
+housenumber: "2000"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/trinidad/2000-freedom-rd.html"
+website: https://www.autozone.com/locations/co/trinidad/2000-freedom-rd.html

@@ -1,11 +1,11 @@
 id: 418009852
-type: way
+type: node
 latitude: 40.11303
 longitude: -104.52058
 postcode: "80643"
 city: Keenesburg
-street: "Market Street"
-housenumber: 240
-phone: "303-732-1079"
+street: Market Street
+housenumber: "240"
+phone: 303-732-1079
 opening_hours: ""
-website: "https://www.familydollar.com/"
+website: https://www.familydollar.com/

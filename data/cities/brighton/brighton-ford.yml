@@ -1,11 +1,11 @@
 id: 220973141
-type: way
+type: node
 latitude: 39.97175
 longitude: -104.82688
 postcode: "80601"
 city: Brighton
-street: "West Bromley Lane"
-housenumber: 190
-phone: "+1 303 659 3434"
-opening_hours: "08:00-21:00"
+street: West Bromley Lane
+housenumber: "190"
+phone: +1 303 659 3434
+opening_hours: 08:00-21:00
 website: ""

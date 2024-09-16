@@ -1,11 +1,11 @@
 id: 562519888
-type: way
+type: node
 latitude: 39.88638
 longitude: -104.88378
 postcode: "80640"
 city: Henderson
-street: "East 104th Avenue"
-housenumber: 8991
-phone: "+1-303-853-0148"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/henderson/8991-e-104th-ave-35864"
+street: East 104th Avenue
+housenumber: "8991"
+phone: +1-303-853-0148
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/henderson/8991-e-104th-ave-35864

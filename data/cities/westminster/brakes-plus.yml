@@ -1,11 +1,11 @@
 id: 158271307
-type: way
+type: node
 latitude: 39.86486
 longitude: -105.0813
 postcode: "80021"
 city: Westminster
-street: "West 92nd Avenue"
-housenumber: 7401
-phone: "+1-303-456-9500"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: West 92nd Avenue
+housenumber: "7401"
+phone: +1-303-456-9500
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.brakesplus.com

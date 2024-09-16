@@ -1,11 +1,11 @@
 id: 730046609
-type: way
+type: node
 latitude: 39.59463
 longitude: -105.07044
 postcode: "80123"
 city: Columbine
-street: "West Coal Mine Avenue"
-housenumber: 6756
-phone: "+1-(303)-972-0535"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:30-17:00"
-website: "https://www.greatclips.com/salons/1331"
+street: West Coal Mine Avenue
+housenumber: "6756"
+phone: +1-(303)-972-0535
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:30-17:00
+website: https://www.greatclips.com/salons/1331

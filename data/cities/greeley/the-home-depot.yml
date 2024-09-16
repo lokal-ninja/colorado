@@ -1,11 +1,11 @@
 id: 870670546
-type: way
+type: node
 latitude: 40.39067
 longitude: -104.73861
 postcode: "80634"
 city: Greeley
-street: "35th Avenue"
-housenumber: 2815
-phone: "+1 970-506-0662"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Greeley/CO/Greeley/80634/1515"
+street: 35th Avenue
+housenumber: "2815"
+phone: +1 970-506-0662
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Greeley/CO/Greeley/80634/1515

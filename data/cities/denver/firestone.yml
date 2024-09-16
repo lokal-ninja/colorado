@@ -1,11 +1,11 @@
 id: 970194960
-type: way
+type: node
 latitude: 39.77874
 longitude: -104.77318
 postcode: "80249"
 city: Denver
-street: "Tower Road"
-housenumber: 4535
-phone: "+1-720-644-1432"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 10:00-16:00"
-website: "https://local.firestonecompleteautocare.com/colorado/denver/4535-tower-rd/"
+street: Tower Road
+housenumber: "4535"
+phone: +1-720-644-1432
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 10:00-16:00
+website: https://local.firestonecompleteautocare.com/colorado/denver/4535-tower-rd/

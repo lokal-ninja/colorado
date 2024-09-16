@@ -1,11 +1,11 @@
 id: 138641367
-type: way
+type: node
 latitude: 40.15715
 longitude: -104.97538
-postcode: "80504-5510"
+postcode: 80504-5510
 city: Longmont
-street: "Jake Jabs Boulevard"
-housenumber: 10550
+street: Jake Jabs Boulevard
+housenumber: "10550"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
+opening_hours: Mo-Su 10:00-22:00
 website: ""

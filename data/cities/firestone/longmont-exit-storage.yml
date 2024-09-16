@@ -1,11 +1,11 @@
 id: 653665670
-type: way
+type: node
 latitude: 40.1593
 longitude: -104.98226
 postcode: "80504"
 city: Firestone
-street: "Turner Avenue"
-housenumber: 10769
+street: Turner Avenue
+housenumber: "10769"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 653811159
-type: way
+type: node
 latitude: 39.55415
 longitude: -104.7791
 postcode: "80134"
 city: Parker
-street: "South Woodman Way"
-housenumber: 9035
-phone: "+1 303-617-1638"
+street: South Woodman Way
+housenumber: "9035"
+phone: +1 303-617-1638
 opening_hours: ""
-website: "https://www.abraauto.com/"
+website: https://www.abraauto.com/

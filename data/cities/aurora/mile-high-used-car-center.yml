@@ -1,11 +1,11 @@
 id: 162809276
-type: way
+type: node
 latitude: 39.66504
 longitude: -104.86706
 postcode: "80014"
 city: Aurora
-street: "South Havana Street"
-housenumber: 2777
-phone: "(303) 743-5106"
+street: South Havana Street
+housenumber: "2777"
+phone: (303) 743-5106
 opening_hours: ""
-website: "http://milehighusedcars.com/"
+website: http://milehighusedcars.com/

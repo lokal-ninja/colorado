@@ -4,8 +4,8 @@ latitude: 39.73697
 longitude: -104.97977
 postcode: "80203"
 city: Denver
-street: "Pearl Street"
-housenumber: 1300
-phone: "+1-303-832-7978"
-opening_hours: "Fr, Sa 07:00-03:00; Mo-Th, Su 07:00-01:00"
+street: Pearl Street
+housenumber: "1300"
+phone: +1-303-832-7978
+opening_hours: Fr, Sa 07:00-03:00; Mo-Th, Su 07:00-01:00
 website: ""

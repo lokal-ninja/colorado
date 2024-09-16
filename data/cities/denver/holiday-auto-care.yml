@@ -1,11 +1,11 @@
 id: 257036078
-type: way
+type: node
 latitude: 39.69077
 longitude: -104.94111
 postcode: "80222"
 city: Denver
-street: "South Colorado Boulevard"
-housenumber: 1465
-phone: "+1 303 758 9222"
+street: South Colorado Boulevard
+housenumber: "1465"
+phone: +1 303 758 9222
 opening_hours: ""
-website: "http://holidayautocare.com"
+website: http://holidayautocare.com

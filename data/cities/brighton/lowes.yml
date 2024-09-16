@@ -1,11 +1,11 @@
 id: 220797501
-type: way
+type: node
 latitude: 39.97014
 longitude: -104.75763
 postcode: "80601"
 city: Brighton
-street: "East Bromley Lane"
-housenumber: 4980
-phone: "+1 303-498-5000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/co-brighton/2479"
+street: East Bromley Lane
+housenumber: "4980"
+phone: +1 303-498-5000
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/co-brighton/2479

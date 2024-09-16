@@ -1,11 +1,11 @@
 id: 534676835
-type: way
+type: node
 latitude: 37.62151
 longitude: -104.78311
 postcode: "81089"
 city: Walsenburg
-street: "West 7th Street"
-housenumber: 235
+street: West 7th Street
+housenumber: "235"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

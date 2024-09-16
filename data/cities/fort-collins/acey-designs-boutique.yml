@@ -1,11 +1,11 @@
 id: 340511853
-type: way
+type: node
 latitude: 40.57842
 longitude: -105.07937
 postcode: "80524"
 city: Fort Collins
-street: "West Laurel Street"
-housenumber: 204
+street: West Laurel Street
+housenumber: "204"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 38.83452
 longitude: -104.82135
 postcode: "80903"
 city: Colorado Springs
-street: "North Nevada Avenue"
-housenumber: 15
-phone: "+1-719-752-2577"
-opening_hours: "Mo-Sa 10:00-18:00,Su 12:00-17:00"
-website: "https://mtnchalet.com/"
+street: North Nevada Avenue
+housenumber: "15"
+phone: +1-719-752-2577
+opening_hours: Mo-Sa 10:00-18:00,Su 12:00-17:00
+website: https://mtnchalet.com/

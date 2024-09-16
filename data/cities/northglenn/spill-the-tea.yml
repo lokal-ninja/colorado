@@ -1,11 +1,11 @@
 id: 265354416
-type: way
+type: node
 latitude: 39.88456
 longitude: -104.99924
 postcode: "80234"
 city: Northglenn
-street: "West 104th Avenue"
-housenumber: 1040
+street: West 104th Avenue
+housenumber: "1040"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 429703970
-type: way
+type: node
 latitude: 39.78601
 longitude: -105.11138
 postcode: "80033"
 city: Wheat Ridge
-street: "West 49th Avenue"
-housenumber: 10100
+street: West 49th Avenue
+housenumber: "10100"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 09:00-17:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

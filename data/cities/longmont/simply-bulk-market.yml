@@ -4,8 +4,8 @@ latitude: 40.16618
 longitude: -105.10233
 postcode: "80501"
 city: Longmont
-street: "Main Street"
-housenumber: 418
+street: Main Street
+housenumber: "418"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-15:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-15:00
 website: ""

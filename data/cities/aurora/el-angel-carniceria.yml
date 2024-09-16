@@ -1,11 +1,11 @@
 id: 320882674
-type: way
+type: node
 latitude: 39.76013
 longitude: -104.84748
 postcode: "80010"
 city: Aurora
-street: "Peoria Street"
-housenumber: 3103
-phone: "+1-303-364-1837"
+street: Peoria Street
+housenumber: "3103"
+phone: +1-303-364-1837
 opening_hours: ""
 website: ""

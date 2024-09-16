@@ -1,11 +1,11 @@
 id: 288700723
-type: way
+type: node
 latitude: 39.09621
 longitude: -108.6011
 postcode: "81505"
 city: Grand Junction
-street: "Patterson Road"
-housenumber: 2436
-phone: "+1 970-244-8577"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/grand-junction/co/grand-junction/81505/1513"
+street: Patterson Road
+housenumber: "2436"
+phone: +1 970-244-8577
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/grand-junction/co/grand-junction/81505/1513

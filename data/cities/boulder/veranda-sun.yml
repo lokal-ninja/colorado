@@ -4,8 +4,8 @@ latitude: 40.01626
 longitude: -105.25296
 postcode: "80301"
 city: Boulder
-street: "30th Street"
-housenumber: 1670
-phone: "+1-303-447-8844"
-opening_hours: "Mo-Fr 09:00-20:00; Sa-Su 10:00-18:00"
-website: "https://verandasuntanning.com/"
+street: 30th Street
+housenumber: "1670"
+phone: +1-303-447-8844
+opening_hours: Mo-Fr 09:00-20:00; Sa-Su 10:00-18:00
+website: https://verandasuntanning.com/

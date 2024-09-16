@@ -1,11 +1,11 @@
 id: 814000052
-type: way
+type: node
 latitude: 40.09905
 longitude: -104.93814
 postcode: "80530"
 city: Frederick
-street: "Oak Street"
-housenumber: 440
+street: Oak Street
+housenumber: "440"
 phone: ""
 opening_hours: ""
 website: ""

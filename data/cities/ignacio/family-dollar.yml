@@ -1,11 +1,11 @@
 id: 727351898
-type: way
+type: node
 latitude: 37.10896
 longitude: -107.63379
 postcode: "81137"
 city: Ignacio
-street: "Goddard Avenue"
-housenumber: 1101
+street: Goddard Avenue
+housenumber: "1101"
 phone: ""
 opening_hours: ""
 website: ""

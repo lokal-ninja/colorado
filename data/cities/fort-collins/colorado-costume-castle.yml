@@ -1,11 +1,11 @@
 id: 170989140
-type: way
+type: node
 latitude: 40.51187
 longitude: -105.00032
 postcode: "80528"
 city: Fort Collins
-street: "South County Road 7"
-housenumber: 5416
+street: South County Road 7
+housenumber: "5416"
 phone: ""
 opening_hours: ""
 website: ""

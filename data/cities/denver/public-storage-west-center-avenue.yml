@@ -1,11 +1,11 @@
 id: 467849532
-type: way
+type: node
 latitude: 39.70488
 longitude: -104.99273
 postcode: "80223"
 city: Denver
-street: "West Center Avenue"
-housenumber: 400
-phone: "(303) 569-6745"
+street: West Center Avenue
+housenumber: "400"
+phone: (303) 569-6745
 opening_hours: ""
 website: ""

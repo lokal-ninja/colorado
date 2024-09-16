@@ -1,11 +1,11 @@
 id: 293197432
-type: way
+type: node
 latitude: 39.9129
 longitude: -105.05946
 postcode: "80020"
 city: Broomfield
-street: "West 120th Avenue"
-housenumber: 5700
+street: West 120th Avenue
+housenumber: "5700"
 phone: ""
 opening_hours: ""
-website: "https://willowrunfeed.com/"
+website: https://willowrunfeed.com/

@@ -1,11 +1,11 @@
 id: 814330215
-type: way
+type: node
 latitude: 40.07908
 longitude: -104.8035
 postcode: "80621"
 city: Fort Lupton
-street: "Dexter Street"
-housenumber: 1200
+street: Dexter Street
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

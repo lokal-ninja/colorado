@@ -1,11 +1,11 @@
 id: 771381323
-type: way
+type: node
 latitude: 38.90614
 longitude: -104.81881
 postcode: "80918"
 city: Colorado Springs
-street: "North Nevada Avenue"
-housenumber: 5294
+street: North Nevada Avenue
+housenumber: "5294"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.christysports.com/store-locations/colorado-springs.html"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.christysports.com/store-locations/colorado-springs.html

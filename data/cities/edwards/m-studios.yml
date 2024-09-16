@@ -4,8 +4,8 @@ latitude: 39.64387
 longitude: -106.59551
 postcode: "81632"
 city: Edwards
-street: "Edwards Village Boulevard"
-housenumber: 105
-phone: "+1-970-926-9099"
-opening_hours: "Mo,We,Fr 10:00-18:00, Tu,Th 10:00-19:00, Sa 10:00-17:00"
-website: "http://mstudiosvail.com"
+street: Edwards Village Boulevard
+housenumber: "105"
+phone: +1-970-926-9099
+opening_hours: Mo,We,Fr 10:00-18:00, Tu,Th 10:00-19:00, Sa 10:00-17:00
+website: http://mstudiosvail.com

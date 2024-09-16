@@ -1,11 +1,11 @@
 id: 452771371
-type: way
+type: node
 latitude: 40.41516
 longitude: -105.07345
 postcode: "80538"
 city: Loveland
-street: "North Lincoln Avenue"
-housenumber: 2205
+street: North Lincoln Avenue
+housenumber: "2205"
 phone: ""
 opening_hours: ""
 website: ""

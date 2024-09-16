@@ -1,11 +1,11 @@
 id: 296347543
-type: way
+type: node
 latitude: 39.50975
 longitude: -104.76185
 postcode: "80134"
 city: Parker
-street: "East Parker Square Drive"
-housenumber: 19555
+street: East Parker Square Drive
+housenumber: "19555"
 phone: ""
 opening_hours: ""
 website: ""

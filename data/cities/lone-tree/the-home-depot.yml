@@ -1,11 +1,11 @@
 id: 1253820077
-type: way
+type: node
 latitude: 39.56251
 longitude: -104.88495
 postcode: "80124"
 city: Lone Tree
-street: "South Yosemite Avenue"
-housenumber: 8477
-phone: "+1 303-706-1500"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Park-Meadows/CO/Lone-Tree/80124/1508"
+street: South Yosemite Avenue
+housenumber: "8477"
+phone: +1 303-706-1500
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Park-Meadows/CO/Lone-Tree/80124/1508

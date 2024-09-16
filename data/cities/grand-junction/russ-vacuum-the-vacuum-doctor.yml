@@ -1,11 +1,12 @@
 id: 423686481
-type: way
+type: node
 latitude: 39.07755
 longitude: -108.55932
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 768
-phone: "+1-970-243-5277"
-opening_hours: "Mo-We 09:30-17:30; Th 09:30-12:00; Fr 09:30-17:30; Sa 09:30-12:00; Su off"
-website: "https://russvacuum.com/"
+street: North Avenue
+housenumber: "768"
+phone: +1-970-243-5277
+opening_hours: Mo-We 09:30-17:30; Th 09:30-12:00; Fr 09:30-17:30; Sa 09:30-12:00;
+    Su off
+website: https://russvacuum.com/

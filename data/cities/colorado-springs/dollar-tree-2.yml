@@ -1,11 +1,11 @@
 id: 264345554
-type: way
+type: node
 latitude: 38.80942
 longitude: -104.78161
 postcode: ""
 city: Colorado Springs
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/co/colorado-springs/4416/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/co/colorado-springs/4416/

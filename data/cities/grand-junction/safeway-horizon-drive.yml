@@ -1,11 +1,11 @@
 id: 423478192
-type: way
+type: node
 latitude: 39.1045
 longitude: -108.55126
 postcode: "81506"
 city: Grand Junction
-street: "Horizon Drive"
-housenumber: 681
-phone: "+1 970-254-0227"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/co/grand-junction/681-horizon-dr.html"
+street: Horizon Drive
+housenumber: "681"
+phone: +1 970-254-0227
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/co/grand-junction/681-horizon-dr.html

@@ -1,11 +1,11 @@
 id: 201231740
-type: way
+type: node
 latitude: 38.89611
 longitude: -104.8284
 postcode: "80907"
 city: Colorado Springs
-street: "West Garden of the Gods Road"
-housenumber: 435
-phone: "+1(719) 594-0090"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/colorado-springs/435-w-garden-of-the-gods-rd/2709874"
+street: West Garden of the Gods Road
+housenumber: "435"
+phone: +1(719) 594-0090
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/colorado-springs/435-w-garden-of-the-gods-rd/2709874

@@ -1,11 +1,11 @@
 id: 775584609
-type: way
+type: node
 latitude: 39.09043
 longitude: -108.58603
 postcode: "81505"
 city: Grand Junction
-street: "North Westgate Drive"
-housenumber: 590
+street: North Westgate Drive
+housenumber: "590"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 543421875
-type: way
+type: node
 latitude: 39.69406
 longitude: -104.83404
 postcode: "80012"
 city: Aurora
-street: "East Mississippi Avenue"
-housenumber: 13600
+street: East Mississippi Avenue
+housenumber: "13600"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.goodwilldenver.org"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.goodwilldenver.org

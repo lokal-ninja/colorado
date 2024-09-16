@@ -1,11 +1,11 @@
 id: 709713102
-type: way
+type: node
 latitude: 39.07001
 longitude: -107.19541
 postcode: "81623"
 city: Marble
-street: "West Park Street"
-housenumber: 620
+street: West Park Street
+housenumber: "620"
 phone: ""
-opening_hours: "10:00-17:00"
+opening_hours: 10:00-17:00
 website: ""

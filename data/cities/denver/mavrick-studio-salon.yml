@@ -4,8 +4,8 @@ latitude: 39.70012
 longitude: -104.97975
 postcode: "80209"
 city: Denver
-street: "East Kentucky Avenue"
-housenumber: 626
-phone: "+1-720-839-8408"
-opening_hours: "by appointment only"
-website: "http://www.mavrickstudiosalon.org"
+street: East Kentucky Avenue
+housenumber: "626"
+phone: +1-720-839-8408
+opening_hours: '"by appointment only"'
+website: http://www.mavrickstudiosalon.org

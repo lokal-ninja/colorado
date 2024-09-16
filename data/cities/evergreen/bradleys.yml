@@ -1,11 +1,11 @@
 id: 172352523
-type: way
+type: node
 latitude: 39.6369
 longitude: -105.31554
 postcode: "80439"
 city: Evergreen
-street: "Meadow Drive"
-housenumber: 27885
+street: Meadow Drive
+housenumber: "27885"
 phone: ""
 opening_hours: ""
 website: ""

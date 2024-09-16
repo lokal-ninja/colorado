@@ -4,8 +4,8 @@ latitude: 39.96606
 longitude: -105.16419
 postcode: "80027"
 city: Louisville
-street: "McCaslin Boulevard"
-housenumber: 375
-phone: "(720) 372-7900"
+street: McCaslin Boulevard
+housenumber: "375"
+phone: (720) 372-7900
 opening_hours: ""
-website: "https://weareplante.com/"
+website: https://weareplante.com/

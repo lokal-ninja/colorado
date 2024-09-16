@@ -1,11 +1,11 @@
 id: 295262964
-type: way
+type: node
 latitude: 39.88476
 longitude: -105.02257
 postcode: "80234"
 city: Federal Heights
-street: "West 104th Avenue"
-housenumber: 2996
+street: West 104th Avenue
+housenumber: "2996"
 phone: ""
 opening_hours: ""
 website: ""

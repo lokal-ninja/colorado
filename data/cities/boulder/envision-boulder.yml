@@ -4,8 +4,8 @@ latitude: 40.01756
 longitude: -105.28226
 postcode: "80302"
 city: Boulder
-street: "Pearl Street"
-housenumber: 1011
+street: Pearl Street
+housenumber: "1011"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 09:00-14:00"
-website: "https://www.envisionboulder.com/"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 09:00-14:00
+website: https://www.envisionboulder.com/

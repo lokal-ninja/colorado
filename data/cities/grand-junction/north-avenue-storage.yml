@@ -1,11 +1,11 @@
 id: 1293713024
-type: way
+type: node
 latitude: 39.0791
 longitude: -108.53142
 postcode: "81501"
 city: Grand Junction
-street: "Court Road"
-housenumber: 502
-phone: "+1-970-241-4480"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.selfstoragegrandjunction.com/"
+street: Court Road
+housenumber: "502"
+phone: +1-970-241-4480
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.selfstoragegrandjunction.com/

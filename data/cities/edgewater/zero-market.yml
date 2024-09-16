@@ -1,11 +1,11 @@
 id: 1289236302
-type: way
+type: node
 latitude: 39.74926
 longitude: -105.05747
 postcode: "80214"
 city: Edgewater
-street: "West 20th Avenue"
-housenumber: 5505
-phone: "+1-303-269-9902"
+street: West 20th Avenue
+housenumber: "5505"
+phone: +1-303-269-9902
 opening_hours: ""
-website: "https://www.thezeromarket.com/"
+website: https://www.thezeromarket.com/

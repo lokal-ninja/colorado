@@ -1,11 +1,11 @@
 id: 229122815
-type: way
+type: node
 latitude: 39.54103
 longitude: -104.77193
 postcode: "80134"
 city: Parker
-street: "Ponderosa Drive"
-housenumber: 18761
-phone: "+1-303-805-2066"
+street: Ponderosa Drive
+housenumber: "18761"
+phone: +1-303-805-2066
 opening_hours: ""
-website: "https://pointstire.com/parker"
+website: https://pointstire.com/parker

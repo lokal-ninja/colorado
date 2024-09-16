@@ -1,11 +1,11 @@
 id: 801828814
-type: way
+type: node
 latitude: 38.09575
 longitude: -102.61942
 postcode: "81052"
 city: Lamar
-street: "Main Street"
-housenumber: 606
+street: Main Street
+housenumber: "606"
 phone: ""
 opening_hours: ""
 website: ""

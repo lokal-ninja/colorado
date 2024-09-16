@@ -1,11 +1,11 @@
 id: 971541088
-type: way
+type: node
 latitude: 39.18818
 longitude: -106.81746
 postcode: "81611"
 city: Aspen
-street: "South Hunter Street"
-housenumber: 312
+street: South Hunter Street
+housenumber: "312"
 phone: ""
 opening_hours: ""
 website: ""

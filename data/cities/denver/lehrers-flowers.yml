@@ -1,11 +1,11 @@
 id: 193424378
-type: way
+type: node
 latitude: 39.69635
 longitude: -105.01378
 postcode: "80223"
 city: Denver
-street: "West Mississippi Avenue"
-housenumber: 2100
+street: West Mississippi Avenue
+housenumber: "2100"
 phone: ""
 opening_hours: ""
 website: ""

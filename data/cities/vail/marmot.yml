@@ -4,8 +4,8 @@ latitude: 39.64041
 longitude: -106.37354
 postcode: "81657"
 city: Vail
-street: "Bridge Street"
-housenumber: 288
+street: Bridge Street
+housenumber: "288"
 phone: ""
-opening_hours: "08:00-18:00"
-website: "https://www.marmot.com"
+opening_hours: 08:00-18:00
+website: https://www.marmot.com

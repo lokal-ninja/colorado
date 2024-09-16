@@ -4,8 +4,8 @@ latitude: 39.64437
 longitude: -106.88765
 postcode: "81637"
 city: Gypsum
-street: "Cooley Mesa Road"
-housenumber: 100
+street: Cooley Mesa Road
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.autozone.com/locations/co/gypsum/100-cooley-mesa-rd.html"
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.autozone.com/locations/co/gypsum/100-cooley-mesa-rd.html

@@ -1,11 +1,11 @@
 id: 720100323
-type: way
+type: node
 latitude: 38.51965
 longitude: -106.0798
 postcode: "81242"
 city: Poncha Springs
-street: "United States Highway 285"
-housenumber: 11000
+street: United States Highway 285
+housenumber: "11000"
 phone: ""
 opening_hours: ""
 website: ""

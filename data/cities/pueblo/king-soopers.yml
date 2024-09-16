@@ -1,11 +1,11 @@
 id: 439892313
-type: way
+type: node
 latitude: 38.29789
 longitude: -104.60683
 postcode: "81008"
 city: Pueblo
-street: "West 29th Street"
-housenumber: 102
-phone: "+1-719-544-0390"
-opening_hours: "05:00-24:00"
-website: "https://www.kingsoopers.com/stores/details/620/00043"
+street: West 29th Street
+housenumber: "102"
+phone: +1-719-544-0390
+opening_hours: 05:00-24:00
+website: https://www.kingsoopers.com/stores/details/620/00043

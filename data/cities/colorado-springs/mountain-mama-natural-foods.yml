@@ -1,11 +1,11 @@
 id: 212736598
-type: way
+type: node
 latitude: 38.8476
 longitude: -104.84382
 postcode: "80904"
 city: Colorado Springs
-street: "West Uintah Street"
-housenumber: 1625
-phone: "+1-719-633-4139"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "http://www.mountainmamanaturalfoods.com"
+street: West Uintah Street
+housenumber: "1625"
+phone: +1-719-633-4139
+opening_hours: Mo-Su 08:00-20:00
+website: http://www.mountainmamanaturalfoods.com

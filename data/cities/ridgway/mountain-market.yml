@@ -1,11 +1,11 @@
 id: 489146705
-type: way
+type: node
 latitude: 38.15076
 longitude: -107.75621
 postcode: "81432"
 city: Ridgway
-street: "Sherman Street"
-housenumber: 490
+street: Sherman Street
+housenumber: "490"
 phone: ""
 opening_hours: ""
 website: ""

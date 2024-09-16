@@ -1,11 +1,11 @@
 id: 1026499028
-type: way
+type: node
 latitude: 40.52369
 longitude: -104.87215
 postcode: "80550"
 city: Severance
-street: "County Road 74"
-housenumber: 9845
-phone: "+1-970-460-4239"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.dollargeneral.com/store-directory/co/severance/20448"
+street: County Road 74
+housenumber: "9845"
+phone: +1-970-460-4239
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.dollargeneral.com/store-directory/co/severance/20448

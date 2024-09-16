@@ -1,11 +1,11 @@
 id: 468600780
-type: way
+type: node
 latitude: 39.07821
 longitude: -108.50022
 postcode: "81504"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 2980
-phone: "+1 970 578 1167"
-opening_hours: "Mo-Sa 08:30-17:30; Su,PH off || Mo-Su 05:00-21:00 storage access"
-website: "https://aspselfstorage.com/self-storage/Grand-Junction-CO-81504"
+street: North Avenue
+housenumber: "2980"
+phone: +1 970 578 1167
+opening_hours: Mo-Sa 08:30-17:30; Su,PH off || Mo-Su 05:00-21:00 "storage access"
+website: https://aspselfstorage.com/self-storage/Grand-Junction-CO-81504

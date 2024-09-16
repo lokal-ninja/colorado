@@ -1,11 +1,11 @@
 id: 200235897
-type: way
+type: node
 latitude: 39.47149
 longitude: -104.87646
 postcode: "80108"
 city: Castle Pines
-street: "East Castle Pines Parkway"
-housenumber: 508
+street: East Castle Pines Parkway
+housenumber: "508"
 phone: ""
 opening_hours: ""
 website: ""

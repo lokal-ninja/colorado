@@ -1,11 +1,11 @@
 id: 1301891433
-type: way
+type: node
 latitude: 39.08402
 longitude: -108.58593
 postcode: "81505"
 city: Grand Junction
-street: "US Highway 6 and 50"
-housenumber: 2518
-phone: "+1-970-822-2805"
+street: US Highway 6 and 50
+housenumber: "2518"
+phone: +1-970-822-2805
 opening_hours: ""
-website: "https://the-rust-doctor.com/"
+website: https://the-rust-doctor.com/

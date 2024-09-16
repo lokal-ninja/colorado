@@ -1,11 +1,11 @@
 id: 1298893090
-type: way
+type: node
 latitude: 39.07235
 longitude: -108.57219
 postcode: "81501"
 city: Grand Junction
-street: "North 1st Street"
-housenumber: 541
-phone: "+1-970-523-1739"
+street: North 1st Street
+housenumber: "541"
+phone: +1-970-523-1739
 opening_hours: ""
 website: ""

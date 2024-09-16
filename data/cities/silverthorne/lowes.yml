@@ -1,11 +1,11 @@
 id: 516508939
-type: way
+type: node
 latitude: 39.62552
 longitude: -106.07548
 postcode: "80498"
 city: Silverthorne
-street: "Buffalo Mountain Drive"
-housenumber: 201
-phone: "+1 970-968-4000"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/co-silverthorne/3206"
+street: Buffalo Mountain Drive
+housenumber: "201"
+phone: +1 970-968-4000
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-21:00
+website: https://www.lowes.com/store/co-silverthorne/3206

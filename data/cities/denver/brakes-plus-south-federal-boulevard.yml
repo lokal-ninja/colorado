@@ -1,11 +1,11 @@
 id: 1244988457
-type: way
+type: node
 latitude: 39.67415
 longitude: -105.02602
 postcode: "80219"
 city: Denver
-street: "South Federal Boulevard"
-housenumber: 2319
-phone: "+1-303-934-2600"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: South Federal Boulevard
+housenumber: "2319"
+phone: +1-303-934-2600
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.brakesplus.com

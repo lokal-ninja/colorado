@@ -1,11 +1,11 @@
 id: 686464202
-type: way
+type: node
 latitude: 40.46489
 longitude: -105.08836
 postcode: "80538"
 city: Loveland
-street: "West 71st Street"
-housenumber: 805
-phone: "+1-970-267-5200"
+street: West 71st Street
+housenumber: "805"
+phone: +1-970-267-5200
 opening_hours: ""
-website: "https://www.nordsonmedical.com/About/Locations"
+website: https://www.nordsonmedical.com/About/Locations

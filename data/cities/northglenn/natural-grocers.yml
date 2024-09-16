@@ -1,11 +1,11 @@
 id: 308085199
-type: way
+type: node
 latitude: 39.90591
 longitude: -104.97886
 postcode: "80233"
 city: Northglenn
-street: "Washington Street"
-housenumber: 11456
+street: Washington Street
+housenumber: "11456"
 phone: ""
 opening_hours: ""
 website: ""

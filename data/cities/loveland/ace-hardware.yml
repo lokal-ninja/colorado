@@ -2,10 +2,10 @@ id: 6415620399
 type: node
 latitude: 40.42458
 longitude: -105.07366
-postcode: "80538-2721"
+postcode: 80538-2721
 city: Loveland
-street: "East 29th Street"
-housenumber: 269
-phone: "+1 970-663-2230"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-18:00"
+street: East 29th Street
+housenumber: "269"
+phone: +1 970-663-2230
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-18:00
 website: ""

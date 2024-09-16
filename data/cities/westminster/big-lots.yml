@@ -1,11 +1,11 @@
 id: 447934955
-type: way
+type: node
 latitude: 39.91249
 longitude: -105.04902
-postcode: "80020-3329"
+postcode: 80020-3329
 city: Westminster
-street: "West 120th Avenue"
-housenumber: 4830
-phone: "+1 303-460-8235"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://local.biglots.com/co/westminster/4830-w-120th-ave"
+street: West 120th Avenue
+housenumber: "4830"
+phone: +1 303-460-8235
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://local.biglots.com/co/westminster/4830-w-120th-ave

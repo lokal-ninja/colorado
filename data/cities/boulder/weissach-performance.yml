@@ -4,8 +4,8 @@ latitude: 40.02381
 longitude: -105.23783
 postcode: "80301"
 city: Boulder
-street: "49th Street"
-housenumber: 2516
-phone: "+1-303-444-7210"
+street: 49th Street
+housenumber: "2516"
+phone: +1-303-444-7210
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 194428607
-type: way
+type: node
 latitude: 38.83523
 longitude: -104.75663
 postcode: "80909"
 city: Colorado Springs
-street: "North Academy Boulevard"
-housenumber: 195
+street: North Academy Boulevard
+housenumber: "195"
 phone: "+17194730882"
-opening_hours: "Su-Th 10:00-20:00,Fr-Sa 10:00-21:00"
-website: "http://www.beindependent.com/"
+opening_hours: Su-Th 10:00-20:00,Fr-Sa 10:00-21:00
+website: http://www.beindependent.com/

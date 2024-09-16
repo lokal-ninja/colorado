@@ -4,8 +4,8 @@ latitude: 39.08783
 longitude: -108.55281
 postcode: "81501"
 city: Grand Junction
-street: "North 12th Street"
-housenumber: 2139
-phone: "+1-970-314-9510"
-opening_hours: "by appointment"
-website: "https://www.glowtanninggj.com/"
+street: North 12th Street
+housenumber: "2139"
+phone: +1-970-314-9510
+opening_hours: '"by appointment"'
+website: https://www.glowtanninggj.com/

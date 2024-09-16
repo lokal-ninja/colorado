@@ -1,11 +1,11 @@
 id: 192024120
-type: way
+type: node
 latitude: 39.68884
 longitude: -104.88776
 postcode: "80231"
 city: Denver
-street: "South Parker Road"
-housenumber: 1550
-phone: "+1-303-368-8445"
-opening_hours: "Mo-Th 09:00-22:00, Fr-Sa 09:00-23:00, Su 10:00-20:00"
-website: "http://www.wallabysliquor.com/"
+street: South Parker Road
+housenumber: "1550"
+phone: +1-303-368-8445
+opening_hours: Mo-Th 09:00-22:00, Fr-Sa 09:00-23:00, Su 10:00-20:00
+website: http://www.wallabysliquor.com/

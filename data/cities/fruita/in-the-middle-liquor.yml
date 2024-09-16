@@ -1,11 +1,11 @@
 id: 439430381
-type: way
+type: node
 latitude: 39.15568
 longitude: -108.73091
 postcode: "81521"
 city: Fruita
-street: "Highway 6 and 50"
-housenumber: 303
+street: Highway 6 and 50
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

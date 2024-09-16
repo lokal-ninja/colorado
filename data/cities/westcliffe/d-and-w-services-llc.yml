@@ -1,11 +1,11 @@
 id: 1078948959
-type: way
+type: node
 latitude: 38.14123
 longitude: -105.46867
 postcode: "81252"
 city: Westcliffe
-street: "CR 241"
-housenumber: 113
+street: CR 241
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,13 @@
 id: 510870044
-type: way
+type: node
 latitude: 39.0877
 longitude: -108.46202
 postcode: "81504"
 city: Grand Junction
-street: "32 Road"
-housenumber: 569
-phone: "+1 970 434 9603"
-opening_hours: "Mo-Su 06:00-23:00 store || Su 10:00-13:00, 13:30-17:00 pharmacy; Mo-Fr 09:00-13:00, 13:30-20:00 pharmacy; Sa 09:00-13:00, 13:30-18:00 pharmacy; PH off pharmacy"
-website: "https://www.citymarket.com/stores/grocery/co/grand-junction/clifton/620/00425"
+street: 32 Road
+housenumber: "569"
+phone: +1 970 434 9603
+opening_hours: Mo-Su 06:00-23:00 "store" || Su 10:00-13:00, 13:30-17:00 "pharmacy";
+    Mo-Fr 09:00-13:00, 13:30-20:00 "pharmacy"; Sa 09:00-13:00, 13:30-18:00 "pharmacy";
+    PH off "pharmacy"
+website: https://www.citymarket.com/stores/grocery/co/grand-junction/clifton/620/00425

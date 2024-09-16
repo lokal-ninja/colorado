@@ -1,11 +1,11 @@
 id: 131692920
-type: way
+type: node
 latitude: 39.28564
 longitude: -106.06381
 postcode: "80420"
 city: Alma
-street: "North Main Street"
-housenumber: 160
-phone: "+1-719-836-3600"
-opening_hours: "Th-Su 1000-1700 + by appointment"
-website: "http://www.riversedgeg.com/"
+street: North Main Street
+housenumber: "160"
+phone: +1-719-836-3600
+opening_hours: Th-Su 1000-1700 + by appointment
+website: http://www.riversedgeg.com/

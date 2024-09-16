@@ -1,11 +1,11 @@
 id: 966312954
-type: way
+type: node
 latitude: 39.77977
 longitude: -104.95617
 postcode: "80216"
 city: Denver
-street: "East 46th South Avenue"
-housenumber: 2600
-phone: "+1 720 451 6259"
-opening_hours: "Mo-Fr 09:00-17:30; Sa-Su closed"
+street: East 46th South Avenue
+housenumber: "2600"
+phone: +1 720 451 6259
+opening_hours: Mo-Fr 09:00-17:30; Sa-Su closed
 website: ""

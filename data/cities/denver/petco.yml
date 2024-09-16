@@ -1,11 +1,11 @@
 id: 273388802
-type: way
+type: node
 latitude: 39.65179
 longitude: -104.90293
 postcode: "80237"
 city: Denver
-street: "East Hampden Avenue"
-housenumber: 7400
-phone: "+1 303-770-0607"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petco.com/"
+street: East Hampden Avenue
+housenumber: "7400"
+phone: +1 303-770-0607
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petco.com/

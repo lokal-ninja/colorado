@@ -1,11 +1,11 @@
 id: 1242051537
-type: way
+type: node
 latitude: 39.75315
 longitude: -104.87756
 postcode: "80010"
 city: Aurora
-street: "Dallas Street"
-housenumber: 2501
-phone: "+1-303-658-0861"
-opening_hours: "Su-Fr 11:00-19:00; Sa 10:00-19:00"
-website: "https://mietteetchocolat.com/"
+street: Dallas Street
+housenumber: "2501"
+phone: +1-303-658-0861
+opening_hours: Su-Fr 11:00-19:00; Sa 10:00-19:00
+website: https://mietteetchocolat.com/

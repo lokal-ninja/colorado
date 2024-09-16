@@ -1,11 +1,11 @@
 id: 51064005
-type: way
+type: node
 latitude: 38.85639
 longitude: -104.88273
 postcode: ""
 city: Colorado Springs
-street: "West Colorado Avenue"
-housenumber: 3601
+street: West Colorado Avenue
+housenumber: "3601"
 phone: ""
 opening_hours: ""
 website: ""

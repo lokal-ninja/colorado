@@ -1,11 +1,11 @@
 id: 366741448
-type: way
+type: node
 latitude: 39.92181
 longitude: -105.08995
 postcode: "80020"
 city: Broomfield
-street: "West Midway Boulevard"
-housenumber: 1760
-phone: "+1-303-466-0303"
-opening_hours: "24/7"
-website: "https://find.shell.com/us/fuel/10056283-1760-w-midway-blvd/en_US"
+street: West Midway Boulevard
+housenumber: "1760"
+phone: +1-303-466-0303
+opening_hours: 24/7
+website: https://find.shell.com/us/fuel/10056283-1760-w-midway-blvd/en_US

@@ -1,11 +1,11 @@
 id: 898186582
-type: way
+type: node
 latitude: 39.74072
 longitude: -105.10924
 postcode: "80215"
 city: Lakewood
-street: "West Colfax Avenue"
-housenumber: 9995
+street: West Colfax Avenue
+housenumber: "9995"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

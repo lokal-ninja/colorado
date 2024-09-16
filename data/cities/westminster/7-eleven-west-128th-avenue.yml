@@ -1,11 +1,11 @@
 id: 297944039
-type: way
+type: node
 latitude: 39.92906
 longitude: -105.01429
 postcode: "80234"
 city: Westminster
-street: "West 128th Avenue"
-housenumber: 2271
-phone: "+1 303-920-0709"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/westminster/2271-w-128th-39752"
+street: West 128th Avenue
+housenumber: "2271"
+phone: +1 303-920-0709
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/westminster/2271-w-128th-39752

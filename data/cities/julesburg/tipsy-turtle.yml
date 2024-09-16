@@ -1,11 +1,11 @@
 id: 801774927
-type: way
+type: node
 latitude: 40.98622
 longitude: -102.26314
 postcode: "80737"
 city: Julesburg
-street: "1st Street"
-housenumber: 112
+street: 1st Street
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

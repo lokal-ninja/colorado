@@ -1,11 +1,11 @@
 id: 743748900
-type: way
+type: node
 latitude: 39.85667
 longitude: -105.16455
 postcode: "80005"
 city: Arvada
-street: "Indiana Street"
-housenumber: 8790
-phone: "+1-720-357-1618"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/arvada/8790-indiana-st-38226"
+street: Indiana Street
+housenumber: "8790"
+phone: +1-720-357-1618
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/arvada/8790-indiana-st-38226

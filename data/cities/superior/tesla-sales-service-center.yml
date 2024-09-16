@@ -1,11 +1,11 @@
 id: 647881190
-type: way
+type: node
 latitude: 39.95435
 longitude: -105.16523
 postcode: "80027"
 city: Superior
-street: "South Marshall Road"
-housenumber: 2
+street: South Marshall Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

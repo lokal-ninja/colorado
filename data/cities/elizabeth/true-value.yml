@@ -1,11 +1,11 @@
 id: 701411865
-type: way
+type: node
 latitude: 39.3621
 longitude: -104.60108
 postcode: "80107"
 city: Elizabeth
-street: "West Kiowa Avenue"
-housenumber: 175
-phone: "+1 303-646-2845"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su 09:00-16:00"
-website: "https://truevalue.com/khardwareelizabeth"
+street: West Kiowa Avenue
+housenumber: "175"
+phone: +1 303-646-2845
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su 09:00-16:00
+website: https://truevalue.com/khardwareelizabeth

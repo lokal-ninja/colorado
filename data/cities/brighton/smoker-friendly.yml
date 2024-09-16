@@ -1,11 +1,11 @@
 id: 266252532
-type: way
+type: node
 latitude: 39.97392
 longitude: -104.82824
 postcode: "80601"
 city: Brighton
-street: "South Kuner Road"
-housenumber: 835
+street: South Kuner Road
+housenumber: "835"
 phone: ""
 opening_hours: ""
 website: ""

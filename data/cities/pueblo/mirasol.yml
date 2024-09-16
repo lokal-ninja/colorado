@@ -1,11 +1,11 @@
 id: 541381242
-type: way
+type: node
 latitude: 38.26351
 longitude: -104.6145
 postcode: "81003"
 city: Pueblo
-street: "South Union Avenue"
-housenumber: 230
+street: South Union Avenue
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

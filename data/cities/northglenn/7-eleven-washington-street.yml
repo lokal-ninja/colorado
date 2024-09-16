@@ -1,11 +1,11 @@
 id: 83714072
-type: way
+type: node
 latitude: 39.9037
 longitude: -104.97836
 postcode: "80233"
 city: Northglenn
-street: "Washington Street"
-housenumber: 11421
-phone: "+1 303-452-6093"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/northglenn/11421-washington-13188"
+street: Washington Street
+housenumber: "11421"
+phone: +1 303-452-6093
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/northglenn/11421-washington-13188

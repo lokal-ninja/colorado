@@ -1,11 +1,11 @@
 id: 320124889
-type: way
+type: node
 latitude: 40.72822
 longitude: -106.28183
 postcode: "80480"
 city: Walden
-street: "Main Street"
-housenumber: 597
-phone: "+1 970 723 4733"
+street: Main Street
+housenumber: "597"
+phone: +1 970 723 4733
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 231729968
-type: way
+type: node
 latitude: 39.94851
 longitude: -105.81729
 postcode: "80442"
 city: Fraser
-street: "Zerex"
-housenumber: 425
-phone: "+1 970-726-5000"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su 09:00-13:00"
+street: Zerex
+housenumber: "425"
+phone: +1 970-726-5000
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 974172864
-type: way
+type: node
 latitude: 38.28719
 longitude: -104.57457
 postcode: "81001"
 city: Pueblo
-street: "Troy Avenue"
-housenumber: 2001
+street: Troy Avenue
+housenumber: "2001"
 phone: ""
 opening_hours: ""
 website: ""

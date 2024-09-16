@@ -1,11 +1,11 @@
 id: 192181626
-type: way
+type: node
 latitude: 39.70829
 longitude: -104.93321
 postcode: "80246"
 city: Glendale
-street: "Leetsdale Drive"
-housenumber: 4600
+street: Leetsdale Drive
+housenumber: "4600"
 phone: ""
 opening_hours: ""
-website: "https://www.kingsoopers.com/"
+website: https://www.kingsoopers.com/

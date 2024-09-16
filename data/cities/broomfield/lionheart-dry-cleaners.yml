@@ -1,11 +1,11 @@
 id: 369381673
-type: way
+type: node
 latitude: 39.91562
 longitude: -105.07102
 postcode: "80020"
 city: Broomfield
-street: "West 120th Avenue"
-housenumber: 6785
+street: West 120th Avenue
+housenumber: "6785"
 phone: ""
 opening_hours: ""
 website: ""

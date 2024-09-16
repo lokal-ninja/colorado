@@ -1,11 +1,11 @@
 id: 627817228
-type: way
+type: node
 latitude: 39.07854
 longitude: -108.56597
 postcode: "81501"
 city: Grand Junction
-street: "North 4th Street"
-housenumber: 1156
-phone: "+1-970-256-7206"
+street: North 4th Street
+housenumber: "1156"
+phone: +1-970-256-7206
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 621609317
-type: way
+type: node
 latitude: 39.07684
 longitude: -108.52425
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 2851
-phone: "+1-970-245-2526"
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://jmaquaticsandpetcenter.com/"
+street: North Avenue
+housenumber: "2851"
+phone: +1-970-245-2526
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-18:00
+website: https://jmaquaticsandpetcenter.com/

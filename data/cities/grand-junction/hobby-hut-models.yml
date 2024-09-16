@@ -1,11 +1,11 @@
 id: 430829868
-type: way
+type: node
 latitude: 39.07491
 longitude: -108.55271
 postcode: "81501"
 city: Grand Junction
-street: "North 12th Street"
-housenumber: 811
-phone: "+1 970 242 8761"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:30-17:30; Su off"
-website: "http://www.hobbyhutmodels.com/"
+street: North 12th Street
+housenumber: "811"
+phone: +1 970 242 8761
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:30-17:30; Su off
+website: http://www.hobbyhutmodels.com/

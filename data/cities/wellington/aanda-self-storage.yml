@@ -1,11 +1,11 @@
 id: 1120910053
-type: way
+type: node
 latitude: 40.70532
 longitude: -105.00977
 postcode: "80549"
 city: Wellington
-street: "West 1st Street"
-housenumber: 8201
+street: West 1st Street
+housenumber: "8201"
 phone: "+19705687700"
-opening_hours: "Mo-Sa 08:00-18:00; Su 08:00-16:00"
-website: "https://www.aaselfstoragewellington.com/"
+opening_hours: Mo-Sa 08:00-18:00; Su 08:00-16:00
+website: https://www.aaselfstoragewellington.com/

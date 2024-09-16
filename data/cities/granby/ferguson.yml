@@ -1,11 +1,11 @@
 id: 785671205
-type: way
+type: node
 latitude: 40.07742
 longitude: -105.93241
 postcode: "80446"
 city: Granby
-street: "Ten Mile Drive"
-housenumber: 23
+street: Ten Mile Drive
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

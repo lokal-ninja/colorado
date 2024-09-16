@@ -1,11 +1,11 @@
 id: 448752584
-type: way
+type: node
 latitude: 39.83401
 longitude: -105.00552
 postcode: "80221"
 city: Denver
-street: "Pecos Street"
-housenumber: 7540
-phone: "+1 303-428-4333"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/denver/7540-pecos-st-13167"
+street: Pecos Street
+housenumber: "7540"
+phone: +1 303-428-4333
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/denver/7540-pecos-st-13167

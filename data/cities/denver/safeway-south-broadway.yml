@@ -1,11 +1,11 @@
 id: 108399973
-type: way
+type: node
 latitude: 39.71086
 longitude: -104.98918
 postcode: "80209"
 city: Denver
-street: "South Broadway"
-housenumber: 323
-phone: "+1 303-744-8531"
-opening_hours: "Mo-Su 05:00-00:00"
-website: "https://local.safeway.com/safeway/co/denver/323-s-broadway.html"
+street: South Broadway
+housenumber: "323"
+phone: +1 303-744-8531
+opening_hours: Mo-Su 05:00-00:00
+website: https://local.safeway.com/safeway/co/denver/323-s-broadway.html

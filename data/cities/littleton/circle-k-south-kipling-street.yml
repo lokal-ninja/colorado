@@ -1,11 +1,11 @@
 id: 1172772482
-type: way
+type: node
 latitude: 39.63465
 longitude: -105.10942
 postcode: "80127"
 city: Littleton
-street: "South Kipling Street"
-housenumber: 4490
+street: South Kipling Street
+housenumber: "4490"
 phone: ""
-opening_hours: "06:00-18:00"
+opening_hours: 06:00-18:00
 website: ""

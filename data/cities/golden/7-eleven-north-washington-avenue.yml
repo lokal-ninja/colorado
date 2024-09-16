@@ -1,11 +1,11 @@
 id: 821212345
-type: way
+type: node
 latitude: 39.76825
 longitude: -105.23526
 postcode: "80403"
 city: Golden
-street: "North Washington Avenue"
-housenumber: 399
-phone: "+1-303-216-9163"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/golden/399-n.-washington-avenue-33481"
+street: North Washington Avenue
+housenumber: "399"
+phone: +1-303-216-9163
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/golden/399-n.-washington-avenue-33481

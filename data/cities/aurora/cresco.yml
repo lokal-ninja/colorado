@@ -1,11 +1,11 @@
 id: 295046031
-type: way
+type: node
 latitude: 39.72852
 longitude: -104.8239
 postcode: ""
 city: Aurora
-street: "Billings Street"
-housenumber: 751
+street: Billings Street
+housenumber: "751"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-16:00
 website: ""

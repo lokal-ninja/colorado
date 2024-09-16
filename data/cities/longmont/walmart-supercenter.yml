@@ -1,11 +1,11 @@
 id: 152939220
-type: way
+type: node
 latitude: 40.15856
 longitude: -105.04948
 postcode: "80504"
 city: Longmont
-street: "East Ken Pratt Boulevard"
-housenumber: 2285
-phone: "+1 303-678-0803"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/905/longmont-co/whats-new"
+street: East Ken Pratt Boulevard
+housenumber: "2285"
+phone: +1 303-678-0803
+opening_hours: 24/7
+website: https://www.walmart.com/store/905/longmont-co/whats-new

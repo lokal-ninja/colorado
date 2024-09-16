@@ -4,8 +4,8 @@ latitude: 40.1677
 longitude: -105.1023
 postcode: "80501"
 city: Longmont
-street: "Main Street"
-housenumber: 504
+street: Main Street
+housenumber: "504"
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 11:00-17:00"
-website: "http://www.barbedwirebooks.net/"
+opening_hours: Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 11:00-17:00
+website: http://www.barbedwirebooks.net/

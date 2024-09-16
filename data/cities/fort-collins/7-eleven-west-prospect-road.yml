@@ -1,11 +1,11 @@
 id: 357929947
-type: way
+type: node
 latitude: 40.56761
 longitude: -105.13368
 postcode: "80526"
 city: Fort Collins
-street: "West Prospect Road"
-housenumber: 3045
-phone: "+1 970-221-8551"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/fort-collins/3045-w-prospect-rd-35506"
+street: West Prospect Road
+housenumber: "3045"
+phone: +1 970-221-8551
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/fort-collins/3045-w-prospect-rd-35506

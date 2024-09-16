@@ -1,11 +1,11 @@
 id: 806194782
-type: way
+type: node
 latitude: 39.98724
 longitude: -104.80831
 postcode: "80601"
 city: Brighton
-street: "East Bridge Street"
-housenumber: 1121
+street: East Bridge Street
+housenumber: "1121"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/brighton/autoparts-3093.html"
+website: https://locations.oreillyauto.com/co/brighton/autoparts-3093.html

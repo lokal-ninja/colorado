@@ -4,8 +4,8 @@ latitude: 39.07772
 longitude: -108.56751
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 304
-phone: "+1-970-712-2728"
-opening_hours: "by appointment"
+street: North Avenue
+housenumber: "304"
+phone: +1-970-712-2728
+opening_hours: '"by appointment"'
 website: ""

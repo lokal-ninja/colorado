@@ -1,11 +1,11 @@
 id: 360429837
-type: way
+type: node
 latitude: 39.06591
 longitude: -108.56494
 postcode: "81501"
 city: Grand Junction
-street: "Colorado Avenue"
-housenumber: 445
+street: Colorado Avenue
+housenumber: "445"
 phone: ""
 opening_hours: ""
 website: ""

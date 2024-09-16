@@ -1,11 +1,11 @@
 id: 497021505
-type: way
+type: node
 latitude: 39.07758
 longitude: -108.51236
 postcode: "81504"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 2914
-phone: "+1 970 245 8442"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.napaonline.com/en/autocare/?facilityId=150768"
+street: North Avenue
+housenumber: "2914"
+phone: +1 970 245 8442
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.napaonline.com/en/autocare/?facilityId=150768

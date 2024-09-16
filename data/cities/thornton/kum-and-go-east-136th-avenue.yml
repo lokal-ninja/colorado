@@ -1,11 +1,11 @@
 id: 756423014
-type: way
+type: node
 latitude: 39.94231
 longitude: -104.98355
 postcode: "80241"
 city: Thornton
-street: "East 136th Avenue"
-housenumber: 250
-phone: "(303) 942-1543"
-opening_hours: "24/7"
-website: "https://www.kumandgo.com/store-locator?details=0320"
+street: East 136th Avenue
+housenumber: "250"
+phone: (303) 942-1543
+opening_hours: 24/7
+website: https://www.kumandgo.com/store-locator?details=0320

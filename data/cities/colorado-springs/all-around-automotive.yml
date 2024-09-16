@@ -1,11 +1,11 @@
 id: 191650786
-type: way
+type: node
 latitude: 38.79597
 longitude: -104.77943
 postcode: "80910"
 city: Colorado Springs
-street: "Weston Road"
-housenumber: 2536
-phone: "+1-719-597-4146"
+street: Weston Road
+housenumber: "2536"
+phone: +1-719-597-4146
 opening_hours: ""
 website: ""

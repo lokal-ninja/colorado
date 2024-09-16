@@ -4,8 +4,8 @@ latitude: 40.00716
 longitude: -105.27643
 postcode: "80302"
 city: Boulder
-street: "13th Street"
-housenumber: 1091
-phone: "+1 303-442-0184"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/boulder/1091-13th-35069"
+street: 13th Street
+housenumber: "1091"
+phone: +1 303-442-0184
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/boulder/1091-13th-35069

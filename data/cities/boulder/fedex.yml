@@ -4,8 +4,8 @@ latitude: 40.02283
 longitude: -105.25896
 postcode: "80302"
 city: Boulder
-street: "Pearl Street"
-housenumber: 2795
+street: Pearl Street
+housenumber: "2795"
 phone: ""
-opening_hours: "Mo-Fr 06:00-23:59, Sa 08:00-21:00, Su 09:00-21:00"
-website: "https://local.fedex.com/co/boulder/office-0402/"
+opening_hours: Mo-Fr 06:00-23:59, Sa 08:00-21:00, Su 09:00-21:00
+website: https://local.fedex.com/co/boulder/office-0402/

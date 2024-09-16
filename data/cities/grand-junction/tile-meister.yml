@@ -1,11 +1,11 @@
 id: 497198572
-type: way
+type: node
 latitude: 39.07266
 longitude: -108.57105
 postcode: "81501"
 city: Grand Junction
-street: "North 1st Street"
-housenumber: 611
-phone: "+1-970-244-8453"
-opening_hours: "Mo-Fr 09:00-16:30; Sa 10:00-14:00"
-website: "https://www.tilemeister.com/"
+street: North 1st Street
+housenumber: "611"
+phone: +1-970-244-8453
+opening_hours: Mo-Fr 09:00-16:30; Sa 10:00-14:00
+website: https://www.tilemeister.com/

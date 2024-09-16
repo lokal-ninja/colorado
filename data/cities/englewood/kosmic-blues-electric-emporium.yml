@@ -1,11 +1,11 @@
 id: 691320885
-type: way
+type: node
 latitude: 39.65449
 longitude: -104.98725
 postcode: "80113"
 city: Englewood
-street: "South Broadway"
-housenumber: 3418
-phone: "720-250-8626"
-opening_hours: "Tu,Sa 11:00-16:00; We-Fr 11:00-18:00; Mo,Su off"
-website: "https://www.kosmicbluesemporium.com/"
+street: South Broadway
+housenumber: "3418"
+phone: 720-250-8626
+opening_hours: Tu,Sa 11:00-16:00; We-Fr 11:00-18:00; Mo,Su off
+website: https://www.kosmicbluesemporium.com/

@@ -1,11 +1,11 @@
 id: 535379550
-type: way
+type: node
 latitude: 38.30829
 longitude: -104.61692
 postcode: "81008"
 city: Pueblo
-street: "West US Highway 50"
-housenumber: 601
+street: West US Highway 50
+housenumber: "601"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

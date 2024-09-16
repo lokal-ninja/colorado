@@ -4,8 +4,8 @@ latitude: 39.65352
 longitude: -104.90372
 postcode: "80224"
 city: Denver
-street: "East Hampden Avenue"
-housenumber: 7289
+street: East Hampden Avenue
+housenumber: "7289"
 phone: ""
-opening_hours: "08:00-22:00; Nov Th[4] 08:00-15:00; Dec 24: 08:00-21:00; Dec 25 closed"
-website: "https://www.trees.menu/hampden/"
+opening_hours: '08:00-22:00; Nov Th[4] 08:00-15:00; Dec 24: 08:00-21:00; Dec 25 closed'
+website: https://www.trees.menu/hampden/

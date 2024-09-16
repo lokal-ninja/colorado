@@ -1,11 +1,11 @@
 id: 891014749
-type: way
+type: node
 latitude: 38.27071
 longitude: -104.61298
 postcode: "81003"
 city: Pueblo
-street: "North Greenwood Street"
-housenumber: 404
+street: North Greenwood Street
+housenumber: "404"
 phone: ""
 opening_hours: ""
 website: ""

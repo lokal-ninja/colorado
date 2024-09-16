@@ -1,11 +1,11 @@
 id: 95568474
-type: way
+type: node
 latitude: 38.99408
 longitude: -105.04954
 postcode: "80863"
 city: Woodland Park
-street: "South Laurel Street"
-housenumber: 300
+street: South Laurel Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 957260870
-type: way
+type: node
 latitude: 40.4644
 longitude: -105.0841
 postcode: "80538"
 city: Loveland
-street: "West 71st Street"
-housenumber: 500
+street: West 71st Street
+housenumber: "500"
 phone: ""
-opening_hours: "Mo-We,Fr 08:00-17:00; Th 08:00-19:00"
-website: "https://www.prosourcewholesale.com/showrooms/co-prosource-of-northern-colorado/projects"
+opening_hours: Mo-We,Fr 08:00-17:00; Th 08:00-19:00
+website: https://www.prosourcewholesale.com/showrooms/co-prosource-of-northern-colorado/projects

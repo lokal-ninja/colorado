@@ -1,11 +1,11 @@
 id: 831267663
-type: way
+type: node
 latitude: 40.00087
 longitude: -105.01488
 postcode: "80516"
 city: Erie
-street: "Highway 7"
-housenumber: 2325
+street: Highway 7
+housenumber: "2325"
 phone: ""
 opening_hours: ""
 website: ""

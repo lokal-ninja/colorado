@@ -1,11 +1,11 @@
 id: 192573890
-type: way
+type: node
 latitude: 38.92531
 longitude: -104.7935
 postcode: "80918"
 city: Colorado Springs
-street: "Dublin Boulevard"
-housenumber: 1835
+street: Dublin Boulevard
+housenumber: "1835"
 phone: ""
 opening_hours: ""
 website: ""

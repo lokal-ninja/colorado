@@ -1,11 +1,11 @@
 id: 699523604
-type: way
+type: node
 latitude: 40.37634
 longitude: -104.69511
 postcode: "80620"
 city: Evans
-street: "West Service Road"
-housenumber: 3723
-phone: "+1-970-330-8835"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.facebook.com/Lugnutauto"
+street: West Service Road
+housenumber: "3723"
+phone: +1-970-330-8835
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.facebook.com/Lugnutauto

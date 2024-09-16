@@ -1,11 +1,11 @@
 id: 88782545
-type: way
+type: node
 latitude: 39.52505
 longitude: -104.9414
 postcode: "80126"
 city: Highlands Ranch
-street: "Red Cedar Drive"
-housenumber: 4008
+street: Red Cedar Drive
+housenumber: "4008"
 phone: ""
 opening_hours: ""
 website: ""

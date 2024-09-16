@@ -1,11 +1,11 @@
 id: 180741749
-type: way
+type: node
 latitude: 39.73527
 longitude: -105.18269
 postcode: "80401"
 city: Golden
-street: "South Golden Road"
-housenumber: 16265
+street: South Golden Road
+housenumber: "16265"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 383900254
-type: way
+type: node
 latitude: 40.57771
 longitude: -104.99946
 postcode: "80524"
 city: Fort Collins
-street: "Se Frontage Road"
-housenumber: 858
-phone: "+1 970-493-8881"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
+street: Se Frontage Road
+housenumber: "858"
+phone: +1 970-493-8881
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
 website: ""

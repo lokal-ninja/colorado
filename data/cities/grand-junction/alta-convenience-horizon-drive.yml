@@ -1,11 +1,11 @@
 id: 984759348
-type: way
+type: node
 latitude: 39.10904
 longitude: -108.54186
 postcode: ""
 city: Grand Junction
-street: "Horizon Drive"
-housenumber: 722
-phone: "+1-970-242-0202"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
-website: "https://altaconvenience.com/locations/alta-convenience-6315/"
+street: Horizon Drive
+housenumber: "722"
+phone: +1-970-242-0202
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
+website: https://altaconvenience.com/locations/alta-convenience-6315/

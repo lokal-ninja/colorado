@@ -4,8 +4,8 @@ latitude: 39.09165
 longitude: -104.87244
 postcode: "80132"
 city: Monument
-street: "2nd Street"
-housenumber: 105
-phone: "+1-719-481-2665"
-opening_hours: "09:00-17:00"
+street: 2nd Street
+housenumber: "105"
+phone: +1-719-481-2665
+opening_hours: 09:00-17:00
 website: ""

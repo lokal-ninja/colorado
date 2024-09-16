@@ -1,11 +1,11 @@
 id: 211226251
-type: way
+type: node
 latitude: 38.93334
 longitude: -104.80906
 postcode: "80920"
 city: Colorado Springs
-street: "East Woodmen Road"
-housenumber: 888
-phone: "+1-719-633-2600"
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://listenup.com/pages/colorado-springs"
+street: East Woodmen Road
+housenumber: "888"
+phone: +1-719-633-2600
+opening_hours: Mo-Sa 09:30-18:00
+website: https://listenup.com/pages/colorado-springs

@@ -1,11 +1,11 @@
 id: 453431552
-type: way
+type: node
 latitude: 40.02541
 longitude: -105.2398
 postcode: "80301"
 city: Boulder
-street: "Pearl Street"
-housenumber: 4880
+street: Pearl Street
+housenumber: "4880"
 phone: ""
 opening_hours: ""
 website: ""

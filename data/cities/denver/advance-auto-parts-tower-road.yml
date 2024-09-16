@@ -1,11 +1,11 @@
 id: 978576598
-type: way
+type: node
 latitude: 39.77847
 longitude: -104.77279
 postcode: "80249"
 city: Denver
-street: "Tower Road"
-housenumber: 4509
+street: Tower Road
+housenumber: "4509"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/co/denver/4509-tower-rd"
+website: https://stores.advanceautoparts.com/co/denver/4509-tower-rd

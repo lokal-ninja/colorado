@@ -1,11 +1,11 @@
 id: 1242051529
-type: way
+type: node
 latitude: 39.75261
 longitude: -104.87773
 postcode: "80010"
 city: Aurora
-street: "Dallas Street"
-housenumber: 2501
-phone: "+1-303-481-2874"
+street: Dallas Street
+housenumber: "2501"
+phone: +1-303-481-2874
 opening_hours: ""
-website: "https://aktivstyle.com/"
+website: https://aktivstyle.com/

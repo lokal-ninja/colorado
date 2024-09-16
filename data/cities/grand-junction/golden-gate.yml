@@ -1,11 +1,11 @@
 id: 753581784
-type: way
+type: node
 latitude: 39.10598
 longitude: -108.60913
 postcode: "81505"
 city: Grand Junction
-street: "G Road"
-housenumber: 2395
-phone: "+1-970-822-4383"
-opening_hours: "24/7"
-website: "https://www.goldengategas.com/location/golden-gate-24rd/"
+street: G Road
+housenumber: "2395"
+phone: +1-970-822-4383
+opening_hours: 24/7
+website: https://www.goldengategas.com/location/golden-gate-24rd/

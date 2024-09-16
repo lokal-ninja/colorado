@@ -1,11 +1,11 @@
 id: 497023578
-type: way
+type: node
 latitude: 39.07644
 longitude: -108.52939
 postcode: "81501"
 city: Grand Junction
-street: "28 1/4 Road"
-housenumber: 495
-phone: "+1-970-245-2982"
-opening_hours: "Mo-Fr 08:00-17:00 by appointment"
-website: "https://www.dustansbarbershop.com/"
+street: 28 1/4 Road
+housenumber: "495"
+phone: +1-970-245-2982
+opening_hours: Mo-Fr 08:00-17:00 "by appointment"
+website: https://www.dustansbarbershop.com/

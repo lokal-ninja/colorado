@@ -1,11 +1,11 @@
 id: 306484344
-type: way
+type: node
 latitude: 38.839
 longitude: -104.82344
 postcode: "80903"
 city: Colorado Springs
-street: "North Tejon Street"
-housenumber: 320
-phone: "+1-719-578-0012"
+street: North Tejon Street
+housenumber: "320"
+phone: +1-719-578-0012
 opening_hours: ""
-website: "https://poorrichardsdowntown.com/"
+website: https://poorrichardsdowntown.com/

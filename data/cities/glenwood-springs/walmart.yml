@@ -1,11 +1,11 @@
 id: 237617229
-type: way
+type: node
 latitude: 39.52273
 longitude: -107.3196
 postcode: "81601"
 city: Glenwood Springs
-street: "Blake Avenue"
-housenumber: 3010
-phone: "+1 970-945-5336"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1095/glenwood-springs-co/whats-new"
+street: Blake Avenue
+housenumber: "3010"
+phone: +1 970-945-5336
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1095/glenwood-springs-co/whats-new

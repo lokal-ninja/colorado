@@ -1,11 +1,11 @@
 id: 632562105
-type: way
+type: node
 latitude: 40.08111
 longitude: -105.2818
 postcode: "80503"
 city: Boulder
-street: "Rawhide Court"
-housenumber: 5863
+street: Rawhide Court
+housenumber: "5863"
 phone: ""
 opening_hours: ""
-website: "https://karingkind.com/"
+website: https://karingkind.com/

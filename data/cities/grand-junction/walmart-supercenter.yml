@@ -1,11 +1,11 @@
 id: 292429101
-type: way
+type: node
 latitude: 39.0768
 longitude: -108.58307
 postcode: "81505"
 city: Grand Junction
-street: "Rimrock Avenue"
-housenumber: 2545
-phone: "+1-970-248-0031"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/5099/grand-junction-co"
+street: Rimrock Avenue
+housenumber: "2545"
+phone: +1-970-248-0031
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/5099/grand-junction-co

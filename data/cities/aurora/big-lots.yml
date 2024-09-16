@@ -1,11 +1,11 @@
 id: 163908937
-type: way
+type: node
 latitude: 39.5972
 longitude: -104.79901
 postcode: "80016"
 city: Aurora
-street: "South Parker Road"
-housenumber: 6626
-phone: "+1 303-400-4428"
-opening_hours: "Mo 10:00-21:00; Tu-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/co/aurora/6626-south-parker-road"
+street: South Parker Road
+housenumber: "6626"
+phone: +1 303-400-4428
+opening_hours: Mo 10:00-21:00; Tu-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/co/aurora/6626-south-parker-road

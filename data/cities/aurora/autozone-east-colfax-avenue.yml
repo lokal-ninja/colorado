@@ -1,11 +1,11 @@
 id: 319016224
-type: way
+type: node
 latitude: 39.7408
 longitude: -104.80018
 postcode: "80011"
 city: Aurora
-street: "East Colfax Avenue"
-housenumber: 16101
+street: East Colfax Avenue
+housenumber: "16101"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/aurora/16101-e-colfax-ave.html"
+website: https://www.autozone.com/locations/co/aurora/16101-e-colfax-ave.html

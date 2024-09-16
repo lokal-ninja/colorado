@@ -1,11 +1,11 @@
 id: 209818687
-type: way
+type: node
 latitude: 38.87323
 longitude: -104.81932
 postcode: "80907"
 city: Colorado Springs
-street: "North Nevada Avenue"
-housenumber: 2901
-phone: "+1-719-634-1606"
-opening_hours: "Mo-Fr 08:00-17:30; Sa-Su closed"
-website: "https://www.qualitytechautomotive.com"
+street: North Nevada Avenue
+housenumber: "2901"
+phone: +1-719-634-1606
+opening_hours: Mo-Fr 08:00-17:30; Sa-Su closed
+website: https://www.qualitytechautomotive.com

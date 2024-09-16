@@ -1,11 +1,11 @@
 id: 1282131064
-type: way
+type: node
 latitude: 39.67783
 longitude: -104.9634
 postcode: "80208"
 city: Denver
-street: "East Evans Avenue"
-housenumber: 2050
-phone: "+1-303-871-3251"
+street: East Evans Avenue
+housenumber: "2050"
+phone: +1-303-871-3251
 opening_hours: ""
 website: ""

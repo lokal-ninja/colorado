@@ -1,11 +1,11 @@
 id: 689750812
-type: way
+type: node
 latitude: 39.64662
 longitude: -106.60383
 postcode: "81632"
 city: Edwards
-street: "US-6"
-housenumber: 33636
+street: US-6
+housenumber: "33636"
 phone: ""
 opening_hours: ""
 website: ""

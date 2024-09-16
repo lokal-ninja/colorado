@@ -1,11 +1,11 @@
 id: 317864729
-type: way
+type: node
 latitude: 39.91364
 longitude: -105.04498
 postcode: "80031"
 city: Westminster
-street: "Main Street"
-housenumber: 4451
-phone: "+1 303-439-7000"
-opening_hours: "Mo-Su 07:30-21:30"
-website: "https://www.wholefoodsmarket.com/stores/bradburn"
+street: Main Street
+housenumber: "4451"
+phone: +1 303-439-7000
+opening_hours: Mo-Su 07:30-21:30
+website: https://www.wholefoodsmarket.com/stores/bradburn

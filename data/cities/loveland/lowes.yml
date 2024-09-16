@@ -1,11 +1,11 @@
 id: 57845296
-type: way
+type: node
 latitude: 40.40535
 longitude: -105.03619
 postcode: "80537"
 city: Loveland
-street: "Sculptor Drive"
-housenumber: 1355
-phone: "+1 970-663-9910"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/co-loveland/2568"
+street: Sculptor Drive
+housenumber: "1355"
+phone: +1 970-663-9910
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/co-loveland/2568

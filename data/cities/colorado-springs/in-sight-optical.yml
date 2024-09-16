@@ -1,11 +1,11 @@
 id: 186586995
-type: way
+type: node
 latitude: 38.83433
 longitude: -104.82467
 postcode: "80903"
 city: Colorado Springs
-street: "East Pikes Peak Avenue"
-housenumber: 12
-phone: "+1-719-577-4366"
+street: East Pikes Peak Avenue
+housenumber: "12"
+phone: +1-719-577-4366
 opening_hours: ""
-website: "https://www.insightoptical.us/home.html"
+website: https://www.insightoptical.us/home.html

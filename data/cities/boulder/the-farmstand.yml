@@ -1,11 +1,11 @@
 id: 533488550
-type: way
+type: node
 latitude: 40.01442
 longitude: -105.2785
 postcode: "80302"
 city: Boulder
-street: "Arapahoe Avenue"
-housenumber: 1201
+street: Arapahoe Avenue
+housenumber: "1201"
 phone: ""
 opening_hours: ""
 website: ""

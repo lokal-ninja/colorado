@@ -1,11 +1,11 @@
 id: 752848114
-type: way
+type: node
 latitude: 39.72636
 longitude: -104.80762
 postcode: "80011"
 city: Aurora
-street: "East 6th Avenue"
-housenumber: 15551
+street: East 6th Avenue
+housenumber: "15551"
 phone: ""
 opening_hours: ""
 website: ""

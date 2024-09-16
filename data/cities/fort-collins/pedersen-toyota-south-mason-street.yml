@@ -1,11 +1,11 @@
 id: 229737649
-type: way
+type: node
 latitude: 40.52637
 longitude: -105.08027
 postcode: "80525"
 city: Fort Collins
-street: "South Mason Street"
-housenumber: 4455
+street: South Mason Street
+housenumber: "4455"
 phone: ""
 opening_hours: ""
 website: ""

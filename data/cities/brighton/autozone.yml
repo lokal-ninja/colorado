@@ -1,11 +1,11 @@
 id: 806194773
-type: way
+type: node
 latitude: 39.98734
 longitude: -104.81102
 postcode: "80601"
 city: Brighton
-street: "East Bridge Street"
-housenumber: 909
+street: East Bridge Street
+housenumber: "909"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/brighton/909-bridge-st.html"
+website: https://www.autozone.com/locations/co/brighton/909-bridge-st.html

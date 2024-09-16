@@ -1,11 +1,11 @@
 id: 228930022
-type: way
+type: node
 latitude: 39.51461
 longitude: -104.79099
 postcode: "80134"
 city: Parker
-street: "East Mainstreet"
-housenumber: 17050
+street: East Mainstreet
+housenumber: "17050"
 phone: ""
 opening_hours: ""
 website: ""

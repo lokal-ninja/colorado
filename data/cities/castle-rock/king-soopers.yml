@@ -1,11 +1,11 @@
 id: 30454958
-type: way
+type: node
 latitude: 39.37599
 longitude: -104.82798
 postcode: "80104"
 city: Castle Rock
-street: "North Ridge Road"
-housenumber: 750
-phone: "+1-303-660-2500"
+street: North Ridge Road
+housenumber: "750"
+phone: +1-303-660-2500
 opening_hours: ""
-website: "https://www.kingsoopers.com/"
+website: https://www.kingsoopers.com/

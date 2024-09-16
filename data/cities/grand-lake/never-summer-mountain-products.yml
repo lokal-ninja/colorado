@@ -1,11 +1,11 @@
 id: 969815980
-type: way
+type: node
 latitude: 40.25189
 longitude: -105.82012
 postcode: "80447"
 city: Grand Lake
-street: "Grand Avenue"
-housenumber: 919
-phone: "+1-970-627-3642"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.neversummermtn.com/"
+street: Grand Avenue
+housenumber: "919"
+phone: +1-970-627-3642
+opening_hours: Mo-Su 10:00-18:00
+website: https://www.neversummermtn.com/

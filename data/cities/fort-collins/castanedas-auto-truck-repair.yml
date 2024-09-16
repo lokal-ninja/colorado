@@ -1,11 +1,11 @@
 id: 183384851
-type: way
+type: node
 latitude: 40.58352
 longitude: -105.05218
 postcode: "80524"
 city: Fort Collins
-street: "East Magnolia Street"
-housenumber: 1400
+street: East Magnolia Street
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

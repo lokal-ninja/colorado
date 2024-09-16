@@ -1,11 +1,11 @@
 id: 202062175
-type: way
+type: node
 latitude: 38.8107
 longitude: -104.74839
 postcode: "80916"
 city: Colorado Springs
-street: "East Fountain Boulevard"
-housenumber: 4285
-phone: "+1 (719) 391-2556"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.specialtysportsandsupply.com/"
+street: East Fountain Boulevard
+housenumber: "4285"
+phone: +1 (719) 391-2556
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.specialtysportsandsupply.com/

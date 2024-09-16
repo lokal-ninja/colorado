@@ -1,11 +1,11 @@
 id: 658861950
-type: way
+type: node
 latitude: 39.7782
 longitude: -105.08094
 postcode: "80033"
 city: Wheat Ridge
-street: "Wadsworth Boulevard"
-housenumber: 4490
+street: Wadsworth Boulevard
+housenumber: "4490"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-19:00"
-website: "https://locations.oreillyauto.com/co/wheatridge/autoparts-3672.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-19:00
+website: https://locations.oreillyauto.com/co/wheatridge/autoparts-3672.html

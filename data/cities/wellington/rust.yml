@@ -1,11 +1,11 @@
 id: 1122685289
-type: way
+type: node
 latitude: 40.70429
 longitude: -105.00606
 postcode: "80549"
 city: Wellington
-street: "Cleveland Avenue"
-housenumber: 3734
+street: Cleveland Avenue
+housenumber: "3734"
 phone: "+19703051398"
-opening_hours: "Th-Sa 12:00-19:00"
-website: "http://rustvintagemarketplace.com/"
+opening_hours: Th-Sa 12:00-19:00
+website: http://rustvintagemarketplace.com/

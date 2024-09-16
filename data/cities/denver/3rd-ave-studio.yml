@@ -4,8 +4,8 @@ latitude: 39.72124
 longitude: -104.92261
 postcode: "80220"
 city: Denver
-street: "East 3rd Avenue"
-housenumber: 5575
-phone: "+1-303-355-8480"
+street: East 3rd Avenue
+housenumber: "5575"
+phone: +1-303-355-8480
 opening_hours: ""
-website: "http://3rdavenuestudio.com"
+website: http://3rdavenuestudio.com

@@ -1,11 +1,11 @@
 id: 773582504
-type: way
+type: node
 latitude: 38.94198
 longitude: -104.80029
 postcode: "80920"
 city: Colorado Springs
-street: "North Academy Boulevard"
-housenumber: 7630
-phone: "+1-719-265-5197"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://chocolateshops.sees.com/co/coloradosprings/chocolate_shops_colorado-springs_co_2co004.html"
+street: North Academy Boulevard
+housenumber: "7630"
+phone: +1-719-265-5197
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
+website: https://chocolateshops.sees.com/co/coloradosprings/chocolate_shops_colorado-springs_co_2co004.html

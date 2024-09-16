@@ -1,11 +1,11 @@
 id: 133761803
-type: way
+type: node
 latitude: 39.68578
 longitude: -104.82725
 postcode: "80012"
 city: Aurora
-street: "South Abilene Street"
-housenumber: 1700
-phone: "+1-303-368-8555"
+street: South Abilene Street
+housenumber: "1700"
+phone: +1-303-368-8555
 opening_hours: ""
-website: "http://afwonline.com"
+website: http://afwonline.com

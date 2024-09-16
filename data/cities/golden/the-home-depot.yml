@@ -1,11 +1,11 @@
 id: 92735943
-type: way
+type: node
 latitude: 39.72212
 longitude: -105.19081
 postcode: "80401"
 city: Golden
-street: "West Colfax Avenue"
-housenumber: 16900
-phone: "+1 303-384-0875"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/golden/co/golden/80401/1522"
+street: West Colfax Avenue
+housenumber: "16900"
+phone: +1 303-384-0875
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/golden/co/golden/80401/1522

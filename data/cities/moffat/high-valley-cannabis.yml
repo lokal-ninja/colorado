@@ -1,11 +1,11 @@
 id: 777396483
-type: way
+type: node
 latitude: 37.99224
 longitude: -105.90518
 postcode: "81143"
 city: Moffat
-street: "East County Road T"
-housenumber: 60250
-phone: "+1-719-480-7477"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.hvcannabis.com/high-valley-recreational-moffat.html"
+street: East County Road T
+housenumber: "60250"
+phone: +1-719-480-7477
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.hvcannabis.com/high-valley-recreational-moffat.html

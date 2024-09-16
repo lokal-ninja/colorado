@@ -1,11 +1,11 @@
 id: 783518463
-type: way
+type: node
 latitude: 40.52266
 longitude: -105.13575
 postcode: "80526"
 city: Fort Collins
-street: "Bighorn Crossing"
-housenumber: 4602
+street: Bighorn Crossing
+housenumber: "4602"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

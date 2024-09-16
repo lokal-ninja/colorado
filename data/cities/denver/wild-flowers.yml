@@ -4,8 +4,8 @@ latitude: 39.73527
 longitude: -104.94653
 postcode: "80206"
 city: Denver
-street: "Madison Street"
-housenumber: 1201
-phone: "+1-303-333-4050"
+street: Madison Street
+housenumber: "1201"
+phone: +1-303-333-4050
 opening_hours: ""
-website: "http://www.wildflowershome.com/"
+website: http://www.wildflowershome.com/

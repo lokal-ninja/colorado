@@ -1,11 +1,11 @@
 id: 50290838
-type: way
+type: node
 latitude: 39.65404
 longitude: -104.99103
 postcode: "80110"
 city: Englewood
-street: "West Hampden Avenue"
-housenumber: 257
+street: West Hampden Avenue
+housenumber: "257"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:30; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/co/englewood/autoparts-2610.html"
+opening_hours: Mo-Sa 07:30-21:30; Su 08:00-20:00
+website: https://locations.oreillyauto.com/co/englewood/autoparts-2610.html

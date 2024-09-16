@@ -1,11 +1,11 @@
 id: 822436767
-type: way
+type: node
 latitude: 39.7003
 longitude: -104.94095
 postcode: "80246"
 city: Denver
-street: "South Colorado Boulevard"
-housenumber: 895
+street: South Colorado Boulevard
+housenumber: "895"
 phone: ""
 opening_hours: ""
 website: ""

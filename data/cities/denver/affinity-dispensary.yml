@@ -1,11 +1,11 @@
 id: 520618636
-type: way
+type: node
 latitude: 39.74052
 longitude: -104.8981
 postcode: "80220"
 city: Denver
-street: "East Colfax Avenue"
-housenumber: 7741
+street: East Colfax Avenue
+housenumber: "7741"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:45"
+opening_hours: Mo-Su 09:00-21:45
 website: ""

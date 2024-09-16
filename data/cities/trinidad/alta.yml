@@ -1,11 +1,11 @@
 id: 782892843
-type: way
+type: node
 latitude: 37.17033
 longitude: -104.5119
 postcode: "81082"
 city: Trinidad
-street: "State Street"
-housenumber: 305
+street: State Street
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

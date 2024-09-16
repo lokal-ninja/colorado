@@ -1,11 +1,11 @@
 id: 205677880
-type: way
+type: node
 latitude: 39.7717
 longitude: -104.90384
 postcode: "80207"
 city: Denver
-street: "Quebec Street"
-housenumber: 3935
+street: Quebec Street
+housenumber: "3935"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 768853507
-type: way
+type: node
 latitude: 39.06323
 longitude: -104.84744
 postcode: "80132"
 city: Monument
-street: "Jackson Creek Parkway"
-housenumber: 15733
-phone: "+1-719-204-4798"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: Jackson Creek Parkway
+housenumber: "15733"
+phone: +1-719-204-4798
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.brakesplus.com

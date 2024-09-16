@@ -1,11 +1,11 @@
 id: 377043014
-type: way
+type: node
 latitude: 39.35778
 longitude: -104.61105
 postcode: "80107"
 city: Elizabeth
-street: "Beverly Street"
-housenumber: 650
-phone: "+1-303-646-6936"
+street: Beverly Street
+housenumber: "650"
+phone: +1-303-646-6936
 opening_hours: ""
-website: "https://www.bigronline.com/"
+website: https://www.bigronline.com/

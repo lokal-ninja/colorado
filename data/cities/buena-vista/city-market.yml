@@ -1,11 +1,11 @@
 id: 130175251
-type: way
+type: node
 latitude: 38.83701
 longitude: -106.13153
 postcode: "81211"
 city: Buena Vista
-street: "US Highway 24"
-housenumber: 438
+street: US Highway 24
+housenumber: "438"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.citymarket.com/stores/details/620/00437"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.citymarket.com/stores/details/620/00437

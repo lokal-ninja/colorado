@@ -1,11 +1,11 @@
 id: 562910161
-type: way
+type: node
 latitude: 39.75254
 longitude: -104.87763
 postcode: "80010"
 city: Aurora
-street: "Dallas Street"
-housenumber: 2501
-phone: "+1-720-990-6743"
+street: Dallas Street
+housenumber: "2501"
+phone: +1-720-990-6743
 opening_hours: ""
-website: "https://stanleymarketplace.com/"
+website: https://stanleymarketplace.com/

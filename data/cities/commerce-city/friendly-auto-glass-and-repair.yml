@@ -1,11 +1,11 @@
 id: 263590986
-type: way
+type: node
 latitude: 39.83018
 longitude: -104.91171
 postcode: "80022"
 city: Commerce City
-street: "State Highway 2"
-housenumber: 7350
-phone: "+1 303 287 9954"
+street: State Highway 2
+housenumber: "7350"
+phone: +1 303 287 9954
 opening_hours: ""
 website: ""

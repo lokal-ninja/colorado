@@ -1,11 +1,11 @@
 id: 134952073
-type: way
+type: node
 latitude: 40.0162
 longitude: -105.25217
 postcode: "80301"
 city: Boulder
-street: "30th Street"
-housenumber: 1650
+street: 30th Street
+housenumber: "1650"
 phone: ""
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.kingsoopers.com/stores/details/620/00061"
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.kingsoopers.com/stores/details/620/00061

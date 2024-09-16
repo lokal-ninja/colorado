@@ -4,8 +4,8 @@ latitude: 39.68003
 longitude: -104.86507
 postcode: "80014"
 city: Aurora
-street: "South Havana Street"
-housenumber: 2000
-phone: "+1-303-743-7446"
-opening_hours: "Mo-Fr 08:30-16:30; Sa-Su by appointment only"
-website: "http://www.ProDesignsLLC.com"
+street: South Havana Street
+housenumber: "2000"
+phone: +1-303-743-7446
+opening_hours: Mo-Fr 08:30-16:30; Sa-Su "by appointment only"
+website: http://www.ProDesignsLLC.com

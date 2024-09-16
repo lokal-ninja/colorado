@@ -4,8 +4,8 @@ latitude: 40.00815
 longitude: -105.27606
 postcode: "80302"
 city: Boulder
-street: "13th Street"
-housenumber: 1138
-phone: "+1-720-667-3695"
+street: 13th Street
+housenumber: "1138"
+phone: +1-720-667-3695
 opening_hours: ""
-website: "https://303boards.com"
+website: https://303boards.com

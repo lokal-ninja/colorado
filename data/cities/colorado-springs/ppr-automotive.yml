@@ -1,11 +1,11 @@
 id: 1182559884
-type: way
+type: node
 latitude: 38.83672
 longitude: -104.72368
 postcode: "80916"
 city: Colorado Springs
-street: "Baldridge View"
-housenumber: 165
-phone: "+1 719 930 5572"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://pprautomotive.com/"
+street: Baldridge View
+housenumber: "165"
+phone: +1 719 930 5572
+opening_hours: Mo-Fr 08:30-17:00
+website: https://pprautomotive.com/

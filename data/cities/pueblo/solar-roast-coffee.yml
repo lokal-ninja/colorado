@@ -1,11 +1,11 @@
 id: 1067759394
-type: way
+type: node
 latitude: 38.24374
 longitude: -104.64777
 postcode: "81005"
 city: Pueblo
-street: "West Northern Avenue"
-housenumber: 3206
-phone: "+1 719 564 5770"
+street: West Northern Avenue
+housenumber: "3206"
+phone: +1 719 564 5770
 opening_hours: ""
-website: "https://solarroast.com/pages/contact"
+website: https://solarroast.com/pages/contact

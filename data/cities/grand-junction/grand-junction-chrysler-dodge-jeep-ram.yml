@@ -1,11 +1,11 @@
 id: 423684210
-type: way
+type: node
 latitude: 39.07912
 longitude: -108.57612
 postcode: "81505"
 city: Grand Junction
-street: "US Highway 6 and 50"
-housenumber: 2578
-phone: "+1-970-644-6786"
-opening_hours: "Mo-Sa 07:30-17:30; Su off"
-website: "https://www.grandjunctionchyjeepdod.com/"
+street: US Highway 6 and 50
+housenumber: "2578"
+phone: +1-970-644-6786
+opening_hours: Mo-Sa 07:30-17:30; Su off
+website: https://www.grandjunctionchyjeepdod.com/

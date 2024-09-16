@@ -1,11 +1,11 @@
 id: 73533932
-type: way
+type: node
 latitude: 38.8883
 longitude: -104.71604
 postcode: "80922"
 city: Colorado Springs
-street: "Bloomington Street"
-housenumber: 3850
-phone: "+1 719-574-1936"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00"
+street: Bloomington Street
+housenumber: "3850"
+phone: +1 719-574-1936
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00
 website: ""

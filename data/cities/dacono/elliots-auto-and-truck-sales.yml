@@ -1,11 +1,11 @@
 id: 814321414
-type: way
+type: node
 latitude: 40.08063
 longitude: -104.94251
 postcode: "80514"
 city: Dacono
-street: "Colorado Boulevard"
-housenumber: 5511
+street: Colorado Boulevard
+housenumber: "5511"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/ElliottsCompleteAuto/"
+website: https://www.facebook.com/ElliottsCompleteAuto/

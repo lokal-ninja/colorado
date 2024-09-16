@@ -1,11 +1,11 @@
 id: 311219990
-type: way
+type: node
 latitude: 38.83204
 longitude: -104.81777
 postcode: "80903"
 city: Colorado Springs
-street: "South Wahsatch Avenue"
-housenumber: 103
-phone: "+1-719-475-8115"
+street: South Wahsatch Avenue
+housenumber: "103"
+phone: +1-719-475-8115
 opening_hours: ""
-website: "https://dtnfspiritsandwines.com/"
+website: https://dtnfspiritsandwines.com/

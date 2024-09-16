@@ -4,8 +4,8 @@ latitude: 40.01781
 longitude: -105.28103
 postcode: "80302"
 city: Boulder
-street: "Pearl Street"
-housenumber: 1107
-phone: "+1-303-447-2074"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.boulderbookstore.net/"
+street: Pearl Street
+housenumber: "1107"
+phone: +1-303-447-2074
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://www.boulderbookstore.net/

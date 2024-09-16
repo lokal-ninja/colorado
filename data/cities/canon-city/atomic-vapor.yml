@@ -1,11 +1,11 @@
 id: 419598127
-type: way
+type: node
 latitude: 38.44125
 longitude: -105.23887
 postcode: "81212"
 city: Cañon City
-street: "Main Street"
-housenumber: 612
+street: Main Street
+housenumber: "612"
 phone: ""
 opening_hours: ""
 website: ""

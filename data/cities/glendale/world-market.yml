@@ -1,11 +1,11 @@
 id: 366055510
-type: way
+type: node
 latitude: 39.70293
 longitude: -104.9393
 postcode: "80246"
 city: Glendale
-street: "South Colorado Boulevard"
-housenumber: 770
+street: South Colorado Boulevard
+housenumber: "770"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 361474034
-type: way
+type: node
 latitude: 39.60914
 longitude: -104.70711
 postcode: "80016"
 city: Aurora
-street: "East Orchard Road"
-housenumber: 24101
+street: East Orchard Road
+housenumber: "24101"
 phone: ""
 opening_hours: ""
 website: ""

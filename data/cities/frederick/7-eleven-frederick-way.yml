@@ -1,11 +1,11 @@
 id: 854246334
-type: way
+type: node
 latitude: 40.08858
 longitude: -104.92989
 postcode: "80530"
 city: Frederick
-street: "Frederick Way"
-housenumber: 6008
+street: Frederick Way
+housenumber: "6008"
 phone: ""
-opening_hours: "PH,Mo-Su 00:00-24:00"
+opening_hours: PH,Mo-Su 00:00-24:00
 website: ""

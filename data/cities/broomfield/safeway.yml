@@ -1,11 +1,11 @@
 id: 233062500
-type: way
+type: node
 latitude: 39.9568
 longitude: -105.03601
 postcode: "80023"
 city: Broomfield
-street: "West 144th Avenue"
+street: West 144th Avenue
 housenumber: 3602;3600
-phone: "+1 303-209-2405"
-opening_hours: "Mo-Su 05:00-12:00"
-website: "https://local.safeway.com/safeway/co/broomfield/3602-w-144th-ave.html"
+phone: +1 303-209-2405
+opening_hours: Mo-Su 05:00-12:00
+website: https://local.safeway.com/safeway/co/broomfield/3602-w-144th-ave.html

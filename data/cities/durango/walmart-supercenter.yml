@@ -1,11 +1,11 @@
 id: 677354308
-type: way
+type: node
 latitude: 37.23008
 longitude: -107.86674
 postcode: "81303"
 city: Durango
-street: "South Camino Del Rio"
-housenumber: 1155
-phone: "+1 970-259-8755"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2270/durango-co/whats-new"
+street: South Camino Del Rio
+housenumber: "1155"
+phone: +1 970-259-8755
+opening_hours: 24/7
+website: https://www.walmart.com/store/2270/durango-co/whats-new

@@ -1,11 +1,11 @@
 id: 950226563
-type: way
+type: node
 latitude: 39.59442
 longitude: -104.86825
 postcode: "80112"
 city: Centennial
-street: "East Arapahoe Road"
-housenumber: 10380
+street: East Arapahoe Road
+housenumber: "10380"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/centennial/10380-e-arapahoe-rd.html"
+website: https://www.autozone.com/locations/co/centennial/10380-e-arapahoe-rd.html

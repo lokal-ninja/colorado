@@ -1,11 +1,11 @@
 id: 229238427
-type: way
+type: node
 latitude: 39.53586
 longitude: -104.7768
 postcode: "80134"
 city: Parker
-street: "East Lincoln Avenue"
-housenumber: 18312
+street: East Lincoln Avenue
+housenumber: "18312"
 phone: ""
 opening_hours: ""
 website: ""

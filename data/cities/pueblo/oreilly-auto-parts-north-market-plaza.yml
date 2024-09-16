@@ -1,11 +1,11 @@
 id: 1210479337
-type: way
+type: node
 latitude: 38.32428
 longitude: -104.69918
 postcode: "81007"
 city: Pueblo
-street: "North Market Plaza"
-housenumber: 1016
+street: North Market Plaza
+housenumber: "1016"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/pueblowest/autoparts-3767.html"
+website: https://locations.oreillyauto.com/co/pueblowest/autoparts-3767.html

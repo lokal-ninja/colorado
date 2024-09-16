@@ -4,8 +4,8 @@ latitude: 39.68097
 longitude: -104.89859
 postcode: "80231"
 city: Denver
-street: "East Cherry Creek South Drive"
-housenumber: 7700
-phone: "+1-720-535-4444"
+street: East Cherry Creek South Drive
+housenumber: "7700"
+phone: +1-720-535-4444
 opening_hours: ""
-website: "https://alchemybicycles.com/"
+website: https://alchemybicycles.com/

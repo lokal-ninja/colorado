@@ -1,11 +1,11 @@
 id: 206054508
-type: way
+type: node
 latitude: 38.8278
 longitude: -104.80359
 postcode: "80903"
 city: Colorado Springs
-street: "South Hancock Avenue"
-housenumber: 331
-phone: "+1 719-633-8889"
+street: South Hancock Avenue
+housenumber: "331"
+phone: +1 719-633-8889
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/co/colorado-springs/331-south-hancock-15068"
+website: https://www.7-eleven.com/locations/co/colorado-springs/331-south-hancock-15068

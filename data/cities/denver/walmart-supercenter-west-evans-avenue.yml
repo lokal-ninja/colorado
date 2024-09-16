@@ -1,11 +1,11 @@
 id: 66208761
-type: way
+type: node
 latitude: 39.67706
 longitude: -105.0209
 postcode: "80219"
 city: Denver
-street: "West Evans Avenue"
-housenumber: 2770
-phone: "+1 303-222-7043"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5676/denver-co/whats-new"
+street: West Evans Avenue
+housenumber: "2770"
+phone: +1 303-222-7043
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5676/denver-co/whats-new

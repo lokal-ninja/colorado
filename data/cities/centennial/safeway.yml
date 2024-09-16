@@ -1,11 +1,11 @@
 id: 37174220
-type: way
+type: node
 latitude: 39.59626
 longitude: -104.90302
 postcode: "80112"
 city: Centennial
-street: "East Arapahoe Road"
-housenumber: 7375
-phone: "+1 303-771-8707"
+street: East Arapahoe Road
+housenumber: "7375"
+phone: +1 303-771-8707
 opening_hours: ""
-website: "https://local.safeway.com/safeway/co/englewood/7375-e-arapahoe-rd.html"
+website: https://local.safeway.com/safeway/co/englewood/7375-e-arapahoe-rd.html

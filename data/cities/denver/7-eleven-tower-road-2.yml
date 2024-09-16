@@ -1,11 +1,11 @@
 id: 220187412
-type: way
+type: node
 latitude: 39.78211
 longitude: -104.773
 postcode: "80249"
 city: Denver
-street: "Tower Road"
-housenumber: 4709
-phone: "+1-303-371-6041"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/denver/4709-n-towers-rd-34179"
+street: Tower Road
+housenumber: "4709"
+phone: +1-303-371-6041
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/denver/4709-n-towers-rd-34179

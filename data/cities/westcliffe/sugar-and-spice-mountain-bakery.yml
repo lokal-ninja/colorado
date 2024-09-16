@@ -1,11 +1,11 @@
 id: 971884033
-type: way
+type: node
 latitude: 38.13627
 longitude: -105.46542
 postcode: "81252"
 city: Westcliffe
-street: "Main Street"
-housenumber: 411
+street: Main Street
+housenumber: "411"
 phone: ""
-opening_hours: "Tu-Sa 07:00-14:00"
+opening_hours: Tu-Sa 07:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 230404806
-type: way
+type: node
 latitude: 39.08574
 longitude: -108.59675
 postcode: ""
 city: Grand Junction
-street: "Hwy 6 And 50"
-housenumber: 2465
+street: Hwy 6 And 50
+housenumber: "2465"
 phone: ""
 opening_hours: ""
 website: ""

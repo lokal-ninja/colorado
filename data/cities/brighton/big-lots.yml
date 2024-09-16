@@ -1,11 +1,11 @@
 id: 265533799
-type: way
+type: node
 latitude: 39.97364
 longitude: -104.82988
 postcode: "80601"
 city: Brighton
-street: "South Kuner Road"
-housenumber: 893
-phone: "+1 303-637-9540"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/co/brighton/893-s-kuner-rd"
+street: South Kuner Road
+housenumber: "893"
+phone: +1 303-637-9540
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/co/brighton/893-s-kuner-rd

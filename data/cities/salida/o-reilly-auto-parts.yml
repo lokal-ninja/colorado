@@ -1,11 +1,11 @@
 id: 421700662
-type: way
+type: node
 latitude: 38.52369
 longitude: -106.02161
 postcode: "81201"
 city: Salida
-street: "US 50"
-housenumber: 7859
-phone: "+1 719 539 8590"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-19:00"
-website: "https://locations.oreillyauto.com/co/salida/autoparts-3000.html"
+street: US 50
+housenumber: "7859"
+phone: +1 719 539 8590
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-19:00
+website: https://locations.oreillyauto.com/co/salida/autoparts-3000.html

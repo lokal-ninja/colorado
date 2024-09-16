@@ -1,11 +1,11 @@
 id: 514868782
-type: way
+type: node
 latitude: 40.15344
 longitude: -105.1118
 postcode: "80501"
 city: Longmont
-street: "Ken Pratt Boulevard"
-housenumber: 1120
+street: Ken Pratt Boulevard
+housenumber: "1120"
 phone: ""
 opening_hours: ""
-website: "https://www.officedepot.com/storelocator/co/longmont/officemax-6251"
+website: https://www.officedepot.com/storelocator/co/longmont/officemax-6251

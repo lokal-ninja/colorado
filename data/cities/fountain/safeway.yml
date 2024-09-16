@@ -1,11 +1,12 @@
 id: 207871576
-type: way
+type: node
 latitude: 38.71602
 longitude: -104.69847
 postcode: "80817"
 city: Fountain
-street: "Mesa Ridge Parkway"
-housenumber: 6925
-phone: "+1-719-322-9351"
-opening_hours: "Store 5:00 am-midnight Pharmacy Hours Mon-Fri 8:00 am-8:00 pm Sat 9:00 am-6:00 pm Sun 10:00 am-6:00 pm"
-website: "https://local.safeway.com/safeway/co/fountain/6925-mesa-ridge-pkwy.html"
+street: Mesa Ridge Parkway
+housenumber: "6925"
+phone: +1-719-322-9351
+opening_hours: Store 5:00 am-midnight Pharmacy Hours Mon-Fri 8:00 am-8:00 pm Sat 9:00
+    am-6:00 pm Sun 10:00 am-6:00 pm
+website: https://local.safeway.com/safeway/co/fountain/6925-mesa-ridge-pkwy.html

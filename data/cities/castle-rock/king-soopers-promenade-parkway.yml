@@ -1,11 +1,11 @@
 id: 521940243
-type: way
+type: node
 latitude: 39.4153
 longitude: -104.88056
 postcode: "80108"
 city: Castle Rock
-street: "Promenade Parkway"
-housenumber: 5544
+street: Promenade Parkway
+housenumber: "5544"
 phone: ""
 opening_hours: ""
 website: ""

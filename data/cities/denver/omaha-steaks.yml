@@ -4,8 +4,8 @@ latitude: 39.65266
 longitude: -104.91585
 postcode: "80222"
 city: Denver
-street: "East Hampden Avenue"
-housenumber: 6300
-phone: "+1-303-756-1396"
+street: East Hampden Avenue
+housenumber: "6300"
+phone: +1-303-756-1396
 opening_hours: ""
-website: "https://www.omahasteaks.com/servlet/OnlineShopping?Dsp=408&storeid=141&actn=getdrivingdirections&getdirections=1"
+website: https://www.omahasteaks.com/servlet/OnlineShopping?Dsp=408&storeid=141&actn=getdrivingdirections&getdirections=1

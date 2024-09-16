@@ -1,11 +1,11 @@
 id: 187620197
-type: way
+type: node
 latitude: 38.86418
 longitude: -104.81758
 postcode: "80907"
 city: Colorado Springs
-street: "North Wahsatch Avenue"
-housenumber: 2210
-phone: "+1 719-471-7243"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/co/colorado-springs/2210-n-wahsatch-ave.html"
+street: North Wahsatch Avenue
+housenumber: "2210"
+phone: +1 719-471-7243
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/co/colorado-springs/2210-n-wahsatch-ave.html

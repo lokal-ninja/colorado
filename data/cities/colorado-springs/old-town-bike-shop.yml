@@ -1,11 +1,11 @@
 id: 311730045
-type: way
+type: node
 latitude: 38.82717
 longitude: -104.82433
 postcode: "80903"
 city: Colorado Springs
-street: "South Tejon Street"
-housenumber: 426
-phone: "+1-719-475-8589"
-opening_hours: "Tu-Fr 11:00-18:00,Sa 11:00-17:00"
-website: "https://www.oldtownbikeshop.com/"
+street: South Tejon Street
+housenumber: "426"
+phone: +1-719-475-8589
+opening_hours: Tu-Fr 11:00-18:00,Sa 11:00-17:00
+website: https://www.oldtownbikeshop.com/

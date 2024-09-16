@@ -1,11 +1,11 @@
 id: 1089765165
-type: way
+type: node
 latitude: 39.70723
 longitude: -104.79189
 postcode: "80017"
 city: Aurora
-street: "South Airport Boulevard"
-housenumber: 599
+street: South Airport Boulevard
+housenumber: "599"
 phone: ""
 opening_hours: ""
 website: ""

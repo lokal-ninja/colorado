@@ -4,8 +4,9 @@ latitude: 39.07904
 longitude: -108.53458
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 2650
-phone: "+1-970-424-0209"
-opening_hours: "Mo-Tu 11:00-20:00 by appointment; We-Th 11:00-18:00; Fr-Sa 11:00-20:00; Su 13:00-18:00"
-website: "https://www.pinspiration.com/locations/grandjunction/"
+street: North Avenue
+housenumber: "2650"
+phone: +1-970-424-0209
+opening_hours: Mo-Tu 11:00-20:00 "by appointment"; We-Th 11:00-18:00; Fr-Sa 11:00-20:00;
+    Su 13:00-18:00
+website: https://www.pinspiration.com/locations/grandjunction/

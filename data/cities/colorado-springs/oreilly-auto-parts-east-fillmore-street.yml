@@ -1,11 +1,11 @@
 id: 209818685
-type: way
+type: node
 latitude: 38.87366
 longitude: -104.81366
 postcode: "80907"
 city: Colorado Springs
-street: "East Fillmore Street"
-housenumber: 433
-phone: "+1-719-473-1308"
+street: East Fillmore Street
+housenumber: "433"
+phone: +1-719-473-1308
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/coloradosprings/autoparts-3620.html"
+website: https://locations.oreillyauto.com/co/coloradosprings/autoparts-3620.html

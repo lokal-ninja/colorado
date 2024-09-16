@@ -1,11 +1,11 @@
 id: 512432363
-type: way
+type: node
 latitude: 39.86395
 longitude: -105.01834
 postcode: "80260"
 city: Federal Heights
-street: "West 92nd Avenue"
-housenumber: 2315
+street: West 92nd Avenue
+housenumber: "2315"
 phone: ""
 opening_hours: ""
 website: ""

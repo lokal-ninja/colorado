@@ -4,8 +4,8 @@ latitude: 40.42359
 longitude: -104.73573
 postcode: "80634"
 city: Greeley
-street: "35th Avenue"
-housenumber: 901
-phone: "+1-970-702-2384"
+street: 35th Avenue
+housenumber: "901"
+phone: +1-970-702-2384
 opening_hours: ""
-website: "http://greeley-co.minutemanpress.com"
+website: http://greeley-co.minutemanpress.com

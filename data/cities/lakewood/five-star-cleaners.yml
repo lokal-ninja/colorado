@@ -1,11 +1,11 @@
 id: 136814045
-type: way
+type: node
 latitude: 39.66944
 longitude: -105.11364
 postcode: "80227"
 city: Lakewood
-street: "South Lewis Way"
-housenumber: 2589
-phone: "+1-303-986-1089"
+street: South Lewis Way
+housenumber: "2589"
+phone: +1-303-986-1089
 opening_hours: ""
 website: ""

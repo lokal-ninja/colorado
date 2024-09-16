@@ -1,11 +1,11 @@
 id: 199610521
-type: way
+type: node
 latitude: 38.8863
 longitude: -104.75794
 postcode: "80917"
 city: Colorado Springs
-street: "Betty Drive"
-housenumber: 3729
+street: Betty Drive
+housenumber: "3729"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/coloradosprings/autoparts-2857.html"
+website: https://locations.oreillyauto.com/co/coloradosprings/autoparts-2857.html

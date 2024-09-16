@@ -1,11 +1,11 @@
 id: 625638836
-type: way
+type: node
 latitude: 39.07503
 longitude: -108.57432
 postcode: "81501"
 city: Grand Junction
-street: "US Highway 6 and 50"
-housenumber: 2582
+street: US Highway 6 and 50
+housenumber: "2582"
 phone: ""
 opening_hours: ""
-website: "https://rrgjco.com/"
+website: https://rrgjco.com/

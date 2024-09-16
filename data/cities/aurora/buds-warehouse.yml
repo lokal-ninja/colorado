@@ -1,11 +1,11 @@
 id: 543427169
-type: way
+type: node
 latitude: 39.69488
 longitude: -104.83527
 postcode: "80012"
 city: Aurora
-street: "East Mississippi Avenue"
-housenumber: 13280
+street: East Mississippi Avenue
+housenumber: "13280"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 696796211
-type: way
+type: node
 latitude: 39.62494
 longitude: -105.1298
 postcode: "80127"
 city: Littleton
-street: "West Belleview Avenue"
-housenumber: 11605
+street: West Belleview Avenue
+housenumber: "11605"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-11605+w+belleview+ave-littleton-co-80127/id=1306"
+website: https://www.walgreens.com/locator/walgreens-11605+w+belleview+ave-littleton-co-80127/id=1306

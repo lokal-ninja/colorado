@@ -1,11 +1,11 @@
 id: 543748192
-type: way
+type: node
 latitude: 38.33463
 longitude: -104.62073
 postcode: "81008"
 city: Pueblo
-street: "North Elizabeth Street"
-housenumber: 5890
-phone: "+1 719-253-0438"
+street: North Elizabeth Street
+housenumber: "5890"
+phone: +1 719-253-0438
 opening_hours: ""
-website: "https://stores.bestbuy.com/co/pueblo/5890-n-elizabeth-st-1030.html"
+website: https://stores.bestbuy.com/co/pueblo/5890-n-elizabeth-st-1030.html

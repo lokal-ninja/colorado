@@ -1,11 +1,11 @@
 id: 525438487
-type: way
+type: node
 latitude: 39.86416
 longitude: -105.02576
 postcode: "80031"
 city: Westminster
-street: "Federal Boulevard"
-housenumber: 9215
+street: Federal Boulevard
+housenumber: "9215"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 972373244
-type: way
+type: node
 latitude: 37.12408
 longitude: -104.52142
 postcode: "81082"
 city: Trinidad
-street: "County Road 69.1"
-housenumber: 9300
+street: County Road 69.1
+housenumber: "9300"
 phone: ""
 opening_hours: ""
 website: ""

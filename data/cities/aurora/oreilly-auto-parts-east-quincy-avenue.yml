@@ -1,11 +1,11 @@
 id: 826350549
-type: way
+type: node
 latitude: 39.63795
 longitude: -104.7888
 postcode: "80015"
 city: Aurora
-street: "East Quincy Avenue"
-housenumber: 17090
+street: East Quincy Avenue
+housenumber: "17090"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/aurora/autoparts-2859.html"
+website: https://locations.oreillyauto.com/co/aurora/autoparts-2859.html

@@ -1,11 +1,11 @@
 id: 49093867
-type: way
+type: node
 latitude: 39.61717
 longitude: -105.08605
 postcode: "80123"
 city: Denver
-street: "West Crestline Avenue"
-housenumber: 7990
-phone: "+1 303-973-5100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/denver-sw/co/denver/80123/1507"
+street: West Crestline Avenue
+housenumber: "7990"
+phone: +1 303-973-5100
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/denver-sw/co/denver/80123/1507

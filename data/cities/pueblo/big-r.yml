@@ -1,11 +1,11 @@
 id: 974169060
-type: way
+type: node
 latitude: 38.28772
 longitude: -104.59538
 postcode: "81001"
 city: Pueblo
-street: "Bonforte Boulevard"
-housenumber: 1020
+street: Bonforte Boulevard
+housenumber: "1020"
 phone: ""
 opening_hours: ""
 website: ""

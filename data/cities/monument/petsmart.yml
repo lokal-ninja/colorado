@@ -1,11 +1,11 @@
 id: 377626163
-type: way
+type: node
 latitude: 39.06639
 longitude: -104.85072
 postcode: "80132"
 city: Monument
-street: "Jackson Creek Parkway"
-housenumber: 16086
-phone: "+1 719-484-0235"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/co/monument-store1893.html"
+street: Jackson Creek Parkway
+housenumber: "16086"
+phone: +1 719-484-0235
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/co/monument-store1893.html

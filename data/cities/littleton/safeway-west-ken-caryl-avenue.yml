@@ -1,11 +1,11 @@
 id: 122090565
-type: way
+type: node
 latitude: 39.5789
 longitude: -105.13516
 postcode: "80127"
 city: Littleton
-street: "West Ken Caryl Avenue"
-housenumber: 12442
-phone: "+1 303-978-1859"
+street: West Ken Caryl Avenue
+housenumber: "12442"
+phone: +1 303-978-1859
 opening_hours: ""
-website: "https://local.safeway.com/safeway/co/littleton/12442-w-ken-caryl-ave.html"
+website: https://local.safeway.com/safeway/co/littleton/12442-w-ken-caryl-ave.html

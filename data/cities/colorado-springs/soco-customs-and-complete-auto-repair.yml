@@ -1,11 +1,11 @@
 id: 230404322
-type: way
+type: node
 latitude: 38.84836
 longitude: -104.69038
 postcode: "80915"
 city: Colorado Springs
-street: "Mcclain Point"
-housenumber: 7316
+street: Mcclain Point
+housenumber: "7316"
 phone: "+17195741700"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.sococustoms.com/"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.sococustoms.com/

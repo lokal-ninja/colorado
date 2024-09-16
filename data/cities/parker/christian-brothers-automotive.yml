@@ -1,11 +1,11 @@
 id: 579535624
-type: way
+type: node
 latitude: 39.53786
 longitude: -104.79435
 postcode: "80134"
 city: Parker
-street: "Mangano Lane"
-housenumber: 9864
+street: Mangano Lane
+housenumber: "9864"
 phone: ""
 opening_hours: ""
 website: ""

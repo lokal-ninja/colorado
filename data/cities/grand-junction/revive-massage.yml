@@ -4,8 +4,8 @@ latitude: 39.08806
 longitude: -108.56033
 postcode: "81501"
 city: Grand Junction
-street: "North 7th Street"
-housenumber: 2232
-phone: "+1-970-596-4173"
-opening_hours: "by appointment"
-website: "https://www.massagebook.com/therapists/ReViveMassagebyEmma"
+street: North 7th Street
+housenumber: "2232"
+phone: +1-970-596-4173
+opening_hours: '"by appointment"'
+website: https://www.massagebook.com/therapists/ReViveMassagebyEmma

@@ -1,11 +1,11 @@
 id: 764683280
-type: way
+type: node
 latitude: 39.78235
 longitude: -105.23326
 postcode: "80403"
 city: Golden
-street: "Brickyard Circle"
-housenumber: 880
+street: Brickyard Circle
+housenumber: "880"
 phone: ""
 opening_hours: ""
-website: "https://www.powder7.com/"
+website: https://www.powder7.com/

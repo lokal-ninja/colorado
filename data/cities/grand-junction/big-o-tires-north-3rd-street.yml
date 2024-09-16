@@ -1,11 +1,11 @@
 id: 376562475
-type: way
+type: node
 latitude: 39.06878
 longitude: -108.5684
 postcode: "81501"
 city: Grand Junction
-street: "North 3rd Street"
-housenumber: 215
+street: North 3rd Street
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

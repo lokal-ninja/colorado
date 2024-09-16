@@ -1,11 +1,11 @@
 id: 55412072
-type: way
+type: node
 latitude: 40.5423
 longitude: -105.07327
 postcode: "80525"
 city: Fort Collins
-street: "East Foothills Parkway"
-housenumber: 235
+street: East Foothills Parkway
+housenumber: "235"
 phone: ""
 opening_hours: ""
 website: ""

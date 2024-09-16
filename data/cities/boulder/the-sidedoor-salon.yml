@@ -4,8 +4,8 @@ latitude: 40.01862
 longitude: -105.28008
 postcode: "80302"
 city: Boulder
-street: "Broadway"
-housenumber: 2070
+street: Broadway
+housenumber: "2070"
 phone: ""
-opening_hours: "Mo,Sa 09:00-17:00; Tu-Fr 09:00-19:00"
-website: "https://www.thesidedoorsalon.com/"
+opening_hours: Mo,Sa 09:00-17:00; Tu-Fr 09:00-19:00
+website: https://www.thesidedoorsalon.com/

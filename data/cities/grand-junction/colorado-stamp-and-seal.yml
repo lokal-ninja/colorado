@@ -1,11 +1,11 @@
 id: 497198535
-type: way
+type: node
 latitude: 39.07164
 longitude: -108.57051
 postcode: "81501"
 city: Grand Junction
-street: "Ouray Avenue"
-housenumber: 112
+street: Ouray Avenue
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

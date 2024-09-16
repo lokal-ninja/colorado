@@ -1,11 +1,11 @@
 id: 128478066
-type: way
+type: node
 latitude: 40.5874
 longitude: -105.07215
 postcode: "80524"
 city: Fort Collins
-street: "East Mountain Avenue"
-housenumber: 382
-phone: "+1-970-407-1355"
+street: East Mountain Avenue
+housenumber: "382"
+phone: +1-970-407-1355
 opening_hours: ""
 website: ""

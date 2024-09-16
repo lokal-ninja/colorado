@@ -1,11 +1,11 @@
 id: 113048108
-type: way
+type: node
 latitude: 39.88397
 longitude: -104.97383
 postcode: "80233"
 city: Thornton
-street: "East 104th Avenue"
-housenumber: 900
+street: East 104th Avenue
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

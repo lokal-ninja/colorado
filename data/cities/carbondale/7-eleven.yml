@@ -1,11 +1,11 @@
 id: 764400656
-type: way
+type: node
 latitude: 39.40146
 longitude: -107.22059
-postcode: "81623-1849"
+postcode: 81623-1849
 city: Carbondale
-street: "Main Street"
-housenumber: 1329
-phone: "+1 970-963-0423"
+street: Main Street
+housenumber: "1329"
+phone: +1 970-963-0423
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/co/carbondale/1329-main-st-22088"
+website: https://www.7-eleven.com/locations/co/carbondale/1329-main-st-22088

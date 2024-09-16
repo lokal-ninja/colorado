@@ -4,8 +4,8 @@ latitude: 39.65403
 longitude: -104.8695
 postcode: "80231"
 city: Denver
-street: "East Hampden Avenue"
-housenumber: 10101
-phone: "+1-720-514-9911"
+street: East Hampden Avenue
+housenumber: "10101"
+phone: +1-720-514-9911
 opening_hours: ""
-website: "https://www.denvercentralgames.com/"
+website: https://www.denvercentralgames.com/

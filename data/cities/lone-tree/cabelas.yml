@@ -1,11 +1,11 @@
 id: 314065036
-type: way
+type: node
 latitude: 39.52144
 longitude: -104.87007
 postcode: "80124"
 city: Lone Tree
-street: "Cabela Drive"
-housenumber: 10670
+street: Cabela Drive
+housenumber: "10670"
 phone: ""
 opening_hours: ""
 website: ""

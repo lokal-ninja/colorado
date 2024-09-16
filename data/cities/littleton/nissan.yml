@@ -1,11 +1,11 @@
 id: 448698029
-type: way
+type: node
 latitude: 39.62735
 longitude: -105.09298
 postcode: "80123"
 city: Littleton
-street: "South Wadsworth Boulevard"
-housenumber: 5067
-phone: "(866) 211-5372"
-opening_hours: "Mo-Sa 08:30-20:30; Su closed"
-website: "http://www.lhmnissansw.com"
+street: South Wadsworth Boulevard
+housenumber: "5067"
+phone: (866) 211-5372
+opening_hours: Mo-Sa 08:30-20:30; Su closed
+website: http://www.lhmnissansw.com

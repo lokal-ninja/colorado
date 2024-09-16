@@ -1,11 +1,11 @@
 id: 804485884
-type: way
+type: node
 latitude: 39.28827
 longitude: -103.28001
 postcode: "80804"
 city: Arriba
-street: "College Avenue"
-housenumber: 825
+street: College Avenue
+housenumber: "825"
 phone: ""
 opening_hours: ""
 website: ""

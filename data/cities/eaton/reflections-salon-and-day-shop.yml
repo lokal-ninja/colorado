@@ -4,8 +4,8 @@ latitude: 40.52617
 longitude: -104.71368
 postcode: "80615"
 city: Eaton
-street: "1st Street"
-housenumber: 215
+street: 1st Street
+housenumber: "215"
 phone: ""
-opening_hours: "Mo 09:30-14:30; Tu-Fr 10:00-17:30 Sa 10:00-15:00"
-website: "https://www.reflectionsofeaton.com/"
+opening_hours: Mo 09:30-14:30; Tu-Fr 10:00-17:30 Sa 10:00-15:00
+website: https://www.reflectionsofeaton.com/

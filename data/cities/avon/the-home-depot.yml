@@ -1,11 +1,11 @@
 id: 239077705
-type: way
+type: node
 latitude: 39.6259
 longitude: -106.4979
 postcode: "81620"
 city: Avon
-street: "Yoder Avenue"
-housenumber: 295
-phone: "+1 970-748-9483"
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/avon-vail/co/avon/81620/1525"
+street: Yoder Avenue
+housenumber: "295"
+phone: +1 970-748-9483
+opening_hours: Mo-Sa 07:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/avon-vail/co/avon/81620/1525

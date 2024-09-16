@@ -1,11 +1,11 @@
 id: 522669781
-type: way
+type: node
 latitude: 39.02547
 longitude: -104.81558
 postcode: "80921"
 city: Colorado Springs
-street: "Voyager Parkway"
-housenumber: 13345
+street: Voyager Parkway
+housenumber: "13345"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://newtonwineandspirits.com/"
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-20:00
+website: https://newtonwineandspirits.com/

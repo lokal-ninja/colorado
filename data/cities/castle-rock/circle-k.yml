@@ -1,11 +1,11 @@
 id: 221904848
-type: way
+type: node
 latitude: 39.36682
 longitude: -104.86111
 postcode: "80104"
 city: Castle Rock
-street: "South Wilcox Street"
-housenumber: 310
-phone: "+1-303-688-2090"
-opening_hours: "24/7"
+street: South Wilcox Street
+housenumber: "310"
+phone: +1-303-688-2090
+opening_hours: 24/7
 website: ""

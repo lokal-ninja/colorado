@@ -1,11 +1,11 @@
 id: 1018170616
-type: way
+type: node
 latitude: 39.72725
 longitude: -104.86732
 postcode: "80010"
 city: Aurora
-street: "Hanover Street"
-housenumber: 731
+street: Hanover Street
+housenumber: "731"
 phone: ""
 opening_hours: ""
 website: ""

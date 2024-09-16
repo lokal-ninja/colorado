@@ -1,11 +1,11 @@
 id: 337710063
-type: way
+type: node
 latitude: 39.94465
 longitude: -104.93979
 postcode: "80602"
 city: Thornton
-street: "Colorado Boulevard"
-housenumber: 13662
+street: Colorado Boulevard
+housenumber: "13662"
 phone: ""
 opening_hours: ""
 website: ""

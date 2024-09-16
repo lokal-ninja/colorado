@@ -1,11 +1,11 @@
 id: 429547672
-type: way
+type: node
 latitude: 40.54512
 longitude: -105.07666
 postcode: "80525"
 city: Fort Collins
-street: "South College Avenue"
-housenumber: 3050
+street: South College Avenue
+housenumber: "3050"
 phone: ""
 opening_hours: ""
 website: ""

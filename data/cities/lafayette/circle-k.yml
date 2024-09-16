@@ -1,11 +1,11 @@
 id: 810585356
-type: way
+type: node
 latitude: 39.98736
 longitude: -105.09236
 postcode: "80026"
 city: Lafayette
-street: "West South Boulder Road"
-housenumber: 201
-phone: "+1-303-665-3222"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/lafayette/201-w-south-boulder-rd/2709858"
+street: West South Boulder Road
+housenumber: "201"
+phone: +1-303-665-3222
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/lafayette/201-w-south-boulder-rd/2709858

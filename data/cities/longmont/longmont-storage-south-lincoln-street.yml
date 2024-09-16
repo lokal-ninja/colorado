@@ -1,11 +1,11 @@
 id: 1273250718
-type: way
+type: node
 latitude: 40.15035
 longitude: -105.11275
 postcode: "80501"
 city: Longmont
-street: "South Lincoln Street"
-housenumber: 734
+street: South Lincoln Street
+housenumber: "734"
 phone: ""
 opening_hours: ""
 website: ""

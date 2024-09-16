@@ -1,11 +1,11 @@
 id: 282727122
-type: way
+type: node
 latitude: 39.76332
 longitude: -104.85308
-postcode: "80010-1425"
+postcode: 80010-1425
 city: Aurora
-street: "East 33rd Avenue"
-housenumber: 11602
+street: East 33rd Avenue
+housenumber: "11602"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa-Su 09:00-16:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa-Su 09:00-16:00
 website: ""

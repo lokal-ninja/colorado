@@ -1,11 +1,11 @@
 id: 906729824
-type: way
+type: node
 latitude: 39.81747
 longitude: -105.10402
 postcode: "80004"
 city: Arvada
-street: "Oberon Road"
-housenumber: 6601
-phone: "+1-720-345-2744"
+street: Oberon Road
+housenumber: "6601"
+phone: +1-720-345-2744
 opening_hours: ""
-website: "https://oberon-liquor.business.site/"
+website: https://oberon-liquor.business.site/

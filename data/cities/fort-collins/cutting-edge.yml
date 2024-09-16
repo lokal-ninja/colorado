@@ -1,11 +1,11 @@
 id: 670337771
-type: way
+type: node
 latitude: 40.59973
 longitude: -105.0774
-postcode: "80524-1205"
+postcode: 80524-1205
 city: Fort Collins
-street: "North College Avenue"
-housenumber: 935
+street: North College Avenue
+housenumber: "935"
 phone: ""
 opening_hours: ""
 website: ""

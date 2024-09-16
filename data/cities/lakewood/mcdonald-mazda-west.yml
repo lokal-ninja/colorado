@@ -1,11 +1,11 @@
 id: 898186572
-type: way
+type: node
 latitude: 39.74045
 longitude: -105.11351
 postcode: "80215"
 city: Lakewood
-street: "West Colfax Avenue"
-housenumber: 10345
+street: West Colfax Avenue
+housenumber: "10345"
 phone: ""
 opening_hours: ""
-website: "https://mcdonaldmazdawest.com"
+website: https://mcdonaldmazdawest.com

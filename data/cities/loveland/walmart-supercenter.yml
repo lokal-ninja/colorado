@@ -1,11 +1,11 @@
 id: 57844353
-type: way
+type: node
 latitude: 40.40481
 longitude: -105.04765
 postcode: "80537"
 city: Loveland
-street: "North Denver Avenue"
-housenumber: 1325
-phone: "+1 970-669-4579"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/953-loveland-co"
+street: North Denver Avenue
+housenumber: "1325"
+phone: +1 970-669-4579
+opening_hours: 24/7
+website: https://www.walmart.com/store/953-loveland-co

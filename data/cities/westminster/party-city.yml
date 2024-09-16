@@ -1,11 +1,11 @@
 id: 230750261
-type: way
+type: node
 latitude: 39.86805
 longitude: -105.05148
 postcode: "80031"
 city: Westminster
-street: "Sheridan Boulevard"
-housenumber: 9420
-phone: "+1 303-427-1390"
-opening_hours: "Mo-We 10:00-20:00; Fr 09:00-21:00; Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://stores.partycity.com/us/co/westminster/party-store-pc3201.html"
+street: Sheridan Boulevard
+housenumber: "9420"
+phone: +1 303-427-1390
+opening_hours: Mo-We 10:00-20:00; Fr 09:00-21:00; Sa 08:00-20:00; Su 09:00-18:00
+website: https://stores.partycity.com/us/co/westminster/party-store-pc3201.html

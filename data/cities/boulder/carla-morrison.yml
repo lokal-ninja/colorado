@@ -4,8 +4,8 @@ latitude: 40.0177
 longitude: -105.28291
 postcode: "80302"
 city: Boulder
-street: "10th Street"
-housenumber: 2017
+street: 10th Street
+housenumber: "2017"
 phone: ""
-opening_hours: "Tu-Fr 10:30-17:30"
-website: "https://carlamorrison.com/"
+opening_hours: Tu-Fr 10:30-17:30
+website: https://carlamorrison.com/

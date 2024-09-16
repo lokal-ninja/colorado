@@ -1,11 +1,11 @@
 id: 436599663
-type: way
+type: node
 latitude: 40.5824
 longitude: -105.08452
 postcode: "80521"
 city: Fort Collins
-street: "Canyon Avenue"
-housenumber: 400
+street: Canyon Avenue
+housenumber: "400"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00"
+opening_hours: Mo-Fr 08:30-17:00
 website: ""

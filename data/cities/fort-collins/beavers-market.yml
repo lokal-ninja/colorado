@@ -1,11 +1,11 @@
 id: 213887768
-type: way
+type: node
 latitude: 40.58756
 longitude: -105.09592
 postcode: "80521"
 city: Fort Collins
-street: "West Mountain Avenue"
-housenumber: 1100
+street: West Mountain Avenue
+housenumber: "1100"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-19:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-19:00
 website: ""

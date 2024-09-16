@@ -1,11 +1,11 @@
 id: 755756221
-type: way
+type: node
 latitude: 40.1202
 longitude: -104.93994
-postcode: "80504-6800"
+postcode: 80504-6800
 city: Firestone
-street: "Colorado Boulevard"
-housenumber: 8258
-phone: "+1 303-833-9191"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00"
+street: Colorado Boulevard
+housenumber: "8258"
+phone: +1 303-833-9191
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00
 website: ""

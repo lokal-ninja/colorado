@@ -1,11 +1,11 @@
 id: 665203945
-type: way
+type: node
 latitude: 39.61579
 longitude: -105.01367
 postcode: "80120"
 city: Littleton
-street: "South Rio Grande Street"
-housenumber: 5589
-phone: "303-794-1677"
+street: South Rio Grande Street
+housenumber: "5589"
+phone: 303-794-1677
 opening_hours: ""
 website: ""

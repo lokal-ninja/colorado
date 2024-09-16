@@ -1,11 +1,11 @@
 id: 45366154
-type: way
+type: node
 latitude: 39.5458
 longitude: -104.94518
 postcode: "80126"
 city: Highlands Ranch
-street: "South University Boulevard"
-housenumber: 9390
+street: South University Boulevard
+housenumber: "9390"
 phone: ""
 opening_hours: ""
 website: ""

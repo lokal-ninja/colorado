@@ -1,11 +1,11 @@
 id: 168386613
-type: way
+type: node
 latitude: 39.92338
 longitude: -105.09629
 postcode: "80020"
 city: Broomfield
-street: "West Midway Boulevard"
-housenumber: 2305
-phone: "+1 720-892-0437"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.caliber.com/find-a-location/broomfield-w-midway-blvd"
+street: West Midway Boulevard
+housenumber: "2305"
+phone: +1 720-892-0437
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.caliber.com/find-a-location/broomfield-w-midway-blvd

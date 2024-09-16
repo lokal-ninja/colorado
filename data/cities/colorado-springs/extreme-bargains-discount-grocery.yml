@@ -1,11 +1,11 @@
 id: 195847580
-type: way
+type: node
 latitude: 38.85346
 longitude: -104.77819
 postcode: "80909"
 city: Colorado Springs
-street: "Palmer Park Boulevard"
-housenumber: 2727
-phone: "+1-719-448-0757"
+street: Palmer Park Boulevard
+housenumber: "2727"
+phone: +1-719-448-0757
 opening_hours: ""
 website: ""

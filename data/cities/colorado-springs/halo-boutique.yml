@@ -1,11 +1,11 @@
 id: 306643263
-type: way
+type: node
 latitude: 38.83781
 longitude: -104.8235
 postcode: "80903"
 city: Colorado Springs
-street: "North Tejon Street"
-housenumber: 230
-phone: "+1-719-203-6064"
-opening_hours: "Mo-Sa 10:00-18:00;Su 12:00-17:00"
-website: "https://shop4halo.com/"
+street: North Tejon Street
+housenumber: "230"
+phone: +1-719-203-6064
+opening_hours: Mo-Sa 10:00-18:00;Su 12:00-17:00
+website: https://shop4halo.com/

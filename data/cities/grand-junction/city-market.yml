@@ -1,11 +1,11 @@
 id: 292437012
-type: way
+type: node
 latitude: 39.09709
 longitude: -108.60693
 postcode: "81505"
 city: Grand Junction
-street: "Market Street"
-housenumber: 630
-phone: "+1 970 244 8100"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.citymarket.com/"
+street: Market Street
+housenumber: "630"
+phone: +1 970 244 8100
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.citymarket.com/

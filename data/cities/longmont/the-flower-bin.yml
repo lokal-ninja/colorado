@@ -1,11 +1,11 @@
 id: 514867648
-type: way
+type: node
 latitude: 40.15221
 longitude: -105.12311
 postcode: "80501"
 city: Longmont
-street: "Nelson Road"
-housenumber: 9800
+street: Nelson Road
+housenumber: "9800"
 phone: ""
 opening_hours: ""
-website: "https://www.theflowerbin.net/"
+website: https://www.theflowerbin.net/

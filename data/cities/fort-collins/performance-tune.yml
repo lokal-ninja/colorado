@@ -1,11 +1,11 @@
 id: 275833949
-type: way
+type: node
 latitude: 40.55484
 longitude: -105.09563
 postcode: "80526"
 city: Fort Collins
-street: "Centre Avenue"
-housenumber: 1007
+street: Centre Avenue
+housenumber: "1007"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.67552
 longitude: -104.87516
 postcode: "80231"
 city: Denver
-street: "East Iliff Avenue"
-housenumber: 9731
-phone: "+1-720-295-8260"
-opening_hours: "15:00-19:00"
-website: "https://denver.instamart.com/pickup-locations"
+street: East Iliff Avenue
+housenumber: "9731"
+phone: +1-720-295-8260
+opening_hours: 15:00-19:00
+website: https://denver.instamart.com/pickup-locations

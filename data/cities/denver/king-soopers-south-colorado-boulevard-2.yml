@@ -1,11 +1,11 @@
 id: 1013590096
-type: way
+type: node
 latitude: 39.70266
 longitude: -104.94188
 postcode: "80246"
 city: Denver
-street: "South Colorado Boulevard"
-housenumber: 825
+street: South Colorado Boulevard
+housenumber: "825"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

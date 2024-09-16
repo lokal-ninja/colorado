@@ -1,11 +1,11 @@
 id: 793733344
-type: way
+type: node
 latitude: 39.66121
 longitude: -106.82835
 postcode: "81631"
 city: Eagle
-street: "Market Street"
-housenumber: 18
-phone: "+1-970-328-0806"
-opening_hours: "Mo-Su 05:00-00:00"
-website: "https://www.kumandgo.com/store-locator?details=0978"
+street: Market Street
+housenumber: "18"
+phone: +1-970-328-0806
+opening_hours: Mo-Su 05:00-00:00
+website: https://www.kumandgo.com/store-locator?details=0978

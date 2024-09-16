@@ -1,11 +1,11 @@
 id: 60009256
-type: way
+type: node
 latitude: 39.61303
 longitude: -105.0198
 postcode: "80120"
 city: Littleton
-street: "West Alamo Avenue"
-housenumber: 2677
-phone: "+1 303 953 1231"
+street: West Alamo Avenue
+housenumber: "2677"
+phone: +1 303 953 1231
 opening_hours: ""
-website: "https://lollygagantiquesboutique.com/"
+website: https://lollygagantiquesboutique.com/

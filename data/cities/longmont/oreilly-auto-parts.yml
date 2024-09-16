@@ -1,11 +1,11 @@
 id: 821099599
-type: way
+type: node
 latitude: 40.18398
 longitude: -105.10303
 postcode: "80501"
 city: Longmont
-street: "Main Street"
-housenumber: 1417
+street: Main Street
+housenumber: "1417"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/longmont/autoparts-3193.html"
+website: https://locations.oreillyauto.com/co/longmont/autoparts-3193.html

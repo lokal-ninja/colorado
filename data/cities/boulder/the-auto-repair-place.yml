@@ -1,11 +1,11 @@
 id: 521435229
-type: way
+type: node
 latitude: 40.01388
 longitude: -105.22592
 postcode: "80303"
 city: Boulder
-street: "Arapahoe Avenue"
-housenumber: 5472
-phone: "+1-303-443-7088"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://theautorepairplace.com/"
+street: Arapahoe Avenue
+housenumber: "5472"
+phone: +1-303-443-7088
+opening_hours: Mo-Fr 08:00-17:30
+website: https://theautorepairplace.com/

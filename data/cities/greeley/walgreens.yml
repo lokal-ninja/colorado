@@ -1,11 +1,11 @@
 id: 547793196
-type: way
+type: node
 latitude: 40.42171
 longitude: -104.74109
-postcode: "80634-9998"
+postcode: 80634-9998
 city: Greeley
-street: "West 10th Street"
-housenumber: 3700
-phone: "+1-970-475-0192"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walgreens.com/locator/walgreens-3700+w+10th+st-greeley-co-80634/id=9212"
+street: West 10th Street
+housenumber: "3700"
+phone: +1-970-475-0192
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walgreens.com/locator/walgreens-3700+w+10th+st-greeley-co-80634/id=9212

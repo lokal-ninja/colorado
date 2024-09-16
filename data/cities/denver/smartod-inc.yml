@@ -4,8 +4,8 @@ latitude: 39.78136
 longitude: -104.85022
 postcode: "80239"
 city: Denver
-street: "Paris Street"
-housenumber: 4665
-phone: "+1-720-539-9494"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.smartod.com"
+street: Paris Street
+housenumber: "4665"
+phone: +1-720-539-9494
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.smartod.com

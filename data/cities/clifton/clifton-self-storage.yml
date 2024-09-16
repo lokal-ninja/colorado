@@ -1,11 +1,11 @@
 id: 1305491353
-type: way
+type: node
 latitude: 39.0906
 longitude: -108.45716
 postcode: "81520"
 city: Clifton
-street: "I 70 Business Loop"
-housenumber: 3226
-phone: "+1-970-852-7320"
-opening_hours: "Su-Sa 07:00-19:00"
-website: "https://www.cliftoncoselfstorage.com/"
+street: I 70 Business Loop
+housenumber: "3226"
+phone: +1-970-852-7320
+opening_hours: Su-Sa 07:00-19:00
+website: https://www.cliftoncoselfstorage.com/

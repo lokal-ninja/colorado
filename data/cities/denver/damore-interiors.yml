@@ -1,11 +1,11 @@
 id: 108530070
-type: way
+type: node
 latitude: 39.708
 longitude: -104.98821
 postcode: "80209"
 city: Denver
-street: "South Broadway"
-housenumber: 475
+street: South Broadway
+housenumber: "475"
 phone: ""
 opening_hours: ""
 website: ""

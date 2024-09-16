@@ -1,11 +1,11 @@
 id: 139944600
-type: way
+type: node
 latitude: 40.01703
 longitude: -105.2534
 postcode: "80301"
 city: Boulder
-street: "30th Street"
-housenumber: 1740
-phone: "+1 303-938-2889"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://stores.bestbuy.com/co/boulder/1740-30th-st-1031.html"
+street: 30th Street
+housenumber: "1740"
+phone: +1 303-938-2889
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://stores.bestbuy.com/co/boulder/1740-30th-st-1031.html

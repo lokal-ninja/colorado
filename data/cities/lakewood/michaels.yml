@@ -1,11 +1,11 @@
 id: 51442466
-type: way
+type: node
 latitude: 39.70816
 longitude: -105.08324
-postcode: "80226-3110"
+postcode: 80226-3110
 city: Lakewood
-street: "South Wadsworth Boulevard"
-housenumber: 441
-phone: "+1 303-980-4111"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/co/lakewood/2104"
+street: South Wadsworth Boulevard
+housenumber: "441"
+phone: +1 303-980-4111
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/co/lakewood/2104

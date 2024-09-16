@@ -1,11 +1,11 @@
 id: 737660845
-type: way
+type: node
 latitude: 39.98652
 longitude: -104.82708
 postcode: "80601"
 city: Brighton
-street: "West Bridge Street"
-housenumber: 126
+street: West Bridge Street
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

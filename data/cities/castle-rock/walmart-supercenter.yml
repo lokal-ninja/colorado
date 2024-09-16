@@ -1,11 +1,11 @@
 id: 220411854
-type: way
+type: node
 latitude: 39.40685
 longitude: -104.86163
 postcode: "80104"
 city: Castle Rock
-street: "Sam Walton Lane"
-housenumber: 133
-phone: "+1 303-688-8200"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.walmart.com/store/984/castle-rock-co/whats-new"
+street: Sam Walton Lane
+housenumber: "133"
+phone: +1 303-688-8200
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.walmart.com/store/984/castle-rock-co/whats-new

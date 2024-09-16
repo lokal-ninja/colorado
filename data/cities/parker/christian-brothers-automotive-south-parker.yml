@@ -1,11 +1,11 @@
 id: 787315002
-type: way
+type: node
 latitude: 39.47561
 longitude: -104.75888
 postcode: "80134"
 city: Parker
-street: "South Parker Road"
-housenumber: 13263
-phone: "+1-720-650-7674"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.cbac.com/south-parker/"
+street: South Parker Road
+housenumber: "13263"
+phone: +1-720-650-7674
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.cbac.com/south-parker/

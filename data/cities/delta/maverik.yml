@@ -1,11 +1,11 @@
 id: 678897873
-type: way
+type: node
 latitude: 38.7462
 longitude: -108.07043
 postcode: "81416"
 city: Delta
-street: "State Highway 92"
-housenumber: 101
+street: State Highway 92
+housenumber: "101"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

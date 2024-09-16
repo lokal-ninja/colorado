@@ -4,8 +4,9 @@ latitude: 39.66569
 longitude: -104.98817
 postcode: "80113"
 city: Englewood
-street: "South Broadway"
-housenumber: 2805
+street: South Broadway
+housenumber: "2805"
 phone: ""
-opening_hours: "Mo 10:00-18:00; Tu 10:00-21:00; We-Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-16:00"
+opening_hours: Mo 10:00-18:00; Tu 10:00-21:00; We-Fr 10:00-18:00; Sa 10:00-17:00;
+    Su 12:00-16:00
 website: ""

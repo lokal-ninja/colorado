@@ -1,11 +1,11 @@
 id: 802064980
-type: way
+type: node
 latitude: 38.08763
 longitude: -102.61902
 postcode: "81052"
 city: Lamar
-street: "South Main Street"
-housenumber: 217
+street: South Main Street
+housenumber: "217"
 phone: ""
 opening_hours: ""
 website: ""

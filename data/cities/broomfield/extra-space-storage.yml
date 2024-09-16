@@ -1,11 +1,11 @@
 id: 1221801333
-type: way
+type: node
 latitude: 39.92552
 longitude: -105.1107
 postcode: "80020"
 city: Broomfield
-street: "Industrial Lane"
-housenumber: 4103
+street: Industrial Lane
+housenumber: "4103"
 phone: ""
 opening_hours: ""
 website: ""

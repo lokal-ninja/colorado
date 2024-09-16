@@ -1,11 +1,11 @@
 id: 803496583
-type: way
+type: node
 latitude: 39.56413
 longitude: -104.96175
 postcode: "80126"
 city: Highlands Ranch
-street: "East County Line Road"
-housenumber: 2074
-phone: "(720) 707-0094"
-opening_hours: "Mo-Sa 07:00-19:00; Su closed"
-website: "https://www.servicestreethighlandsranch.com/"
+street: East County Line Road
+housenumber: "2074"
+phone: (720) 707-0094
+opening_hours: Mo-Sa 07:00-19:00; Su closed
+website: https://www.servicestreethighlandsranch.com/

@@ -4,8 +4,8 @@ latitude: 39.67369
 longitude: -104.86856
 postcode: "80231"
 city: Denver
-street: "South Parker Road"
-housenumber: 2350
-phone: "+1-303-671-8757"
-opening_hours: "Mo-Sa 09:30-21:30, Su 09:30-18:00"
-website: "http://tjmaxx.com"
+street: South Parker Road
+housenumber: "2350"
+phone: +1-303-671-8757
+opening_hours: Mo-Sa 09:30-21:30, Su 09:30-18:00
+website: http://tjmaxx.com

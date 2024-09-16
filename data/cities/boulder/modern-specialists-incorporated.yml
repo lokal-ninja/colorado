@@ -1,11 +1,11 @@
 id: 198082919
-type: way
+type: node
 latitude: 40.02893
 longitude: -105.25516
 postcode: "80301"
 city: Boulder
-street: "Valmont Road"
-housenumber: 2940
+street: Valmont Road
+housenumber: "2940"
 phone: ""
 opening_hours: ""
-website: "https://www.modernspecialists.com/"
+website: https://www.modernspecialists.com/

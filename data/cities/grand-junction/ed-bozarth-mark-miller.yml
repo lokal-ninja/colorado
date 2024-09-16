@@ -1,11 +1,11 @@
 id: 1298893093
-type: way
+type: node
 latitude: 39.07521
 longitude: -108.57435
 postcode: "81505"
 city: Grand Junction
-street: "US Highway 6 and 50"
-housenumber: 2595
+street: US Highway 6 and 50
+housenumber: "2595"
 phone: ""
 opening_hours: ""
-website: "https://www.edbozarth.com/"
+website: https://www.edbozarth.com/

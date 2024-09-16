@@ -1,11 +1,11 @@
 id: 327469517
-type: way
+type: node
 latitude: 39.53578
 longitude: -104.88483
 postcode: "80124"
 city: Lone Tree
-street: "Commons Street"
-housenumber: 10001
-phone: "+1 303-209-1851"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/lone-tree/2023"
+street: Commons Street
+housenumber: "10001"
+phone: +1 303-209-1851
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/lone-tree/2023

@@ -1,11 +1,11 @@
 id: 115932987
-type: way
+type: node
 latitude: 39.60496
 longitude: -104.71514
 postcode: "80016"
 city: Aurora
-street: "South Gun Club Road"
-housenumber: 6100
-phone: "+1 303-400-4870"
+street: South Gun Club Road
+housenumber: "6100"
+phone: +1 303-400-4870
 opening_hours: ""
-website: "https://local.safeway.com/safeway/co/aurora/6100-s-gun-club-rd.html"
+website: https://local.safeway.com/safeway/co/aurora/6100-s-gun-club-rd.html

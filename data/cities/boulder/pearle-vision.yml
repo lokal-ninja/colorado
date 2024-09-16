@@ -4,8 +4,8 @@ latitude: 40.02303
 longitude: -105.25901
 postcode: "80302"
 city: Boulder
-street: "Pearl Street"
-housenumber: 2795
+street: Pearl Street
+housenumber: "2795"
 phone: ""
-opening_hours: "Mo,We,Fr 09:00-18:00; Tu,Th 10:00-19:00; Sa 09:00-17:00"
-website: "http://stores.pearlevision.com/6423/boulder-co-pearl-street-center/"
+opening_hours: Mo,We,Fr 09:00-18:00; Tu,Th 10:00-19:00; Sa 09:00-17:00
+website: http://stores.pearlevision.com/6423/boulder-co-pearl-street-center/

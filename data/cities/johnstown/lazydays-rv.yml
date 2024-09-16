@@ -1,11 +1,11 @@
 id: 274466825
-type: way
+type: node
 latitude: 40.35944
 longitude: -104.98108
-postcode: "80534-4190"
+postcode: 80534-4190
 city: Johnstown
-street: "Marketplace Drive"
-housenumber: 4777
+street: Marketplace Drive
+housenumber: "4777"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

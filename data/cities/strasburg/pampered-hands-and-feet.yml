@@ -1,11 +1,11 @@
 id: 1028570745
-type: way
+type: node
 latitude: 39.73819
 longitude: -104.3252
 postcode: "80136"
 city: Strasburg
-street: "Arapahoe Street"
-housenumber: 1499
+street: Arapahoe Street
+housenumber: "1499"
 phone: ""
 opening_hours: ""
 website: ""

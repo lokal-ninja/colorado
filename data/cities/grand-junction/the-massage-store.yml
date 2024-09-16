@@ -4,8 +4,8 @@ latitude: 39.07651
 longitude: -108.5241
 postcode: "81501"
 city: Grand Junction
-street: "28 1/2 Road"
-housenumber: 496
-phone: "+1-970-243-3934"
-opening_hours: "Mo-Sa 09:00-17:30 || Mo-Sa 09:00-17:00 retail"
-website: "https://themassagestore.net/"
+street: 28 1/2 Road
+housenumber: "496"
+phone: +1-970-243-3934
+opening_hours: Mo-Sa 09:00-17:30 || Mo-Sa 09:00-17:00 "retail"
+website: https://themassagestore.net/

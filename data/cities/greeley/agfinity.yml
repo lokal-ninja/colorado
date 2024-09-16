@@ -1,11 +1,11 @@
 id: 549624604
-type: way
+type: node
 latitude: 40.41277
 longitude: -104.68092
 postcode: "80631"
 city: Greeley
-street: "2nd Avenue"
-housenumber: 1607
+street: 2nd Avenue
+housenumber: "1607"
 phone: ""
 opening_hours: ""
 website: ""

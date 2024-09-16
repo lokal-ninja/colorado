@@ -1,11 +1,11 @@
 id: 688235431
-type: way
+type: node
 latitude: 39.61235
 longitude: -104.98545
 postcode: "80121"
 city: Littleton
-street: "East Littleton Boulevard"
-housenumber: 190
+street: East Littleton Boulevard
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

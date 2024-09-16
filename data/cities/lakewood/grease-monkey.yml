@@ -1,11 +1,11 @@
 id: 50103962
-type: way
+type: node
 latitude: 39.62385
 longitude: -105.10906
 postcode: "80123"
 city: Lakewood
-street: "West Belleview Avenue"
-housenumber: 9902
+street: West Belleview Avenue
+housenumber: "9902"
 phone: ""
 opening_hours: ""
 website: ""

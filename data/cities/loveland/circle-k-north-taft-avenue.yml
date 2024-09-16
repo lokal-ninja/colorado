@@ -1,11 +1,11 @@
 id: 660559741
-type: way
+type: node
 latitude: 40.42285
 longitude: -105.09729
-postcode: "80538-2552"
+postcode: 80538-2552
 city: Loveland
-street: "North Taft Avenue"
-housenumber: 2985
+street: North Taft Avenue
+housenumber: "2985"
 phone: ""
-opening_hours: "Mo-Sa 05:00-23:00; Su 06:00-22:00"
+opening_hours: Mo-Sa 05:00-23:00; Su 06:00-22:00
 website: ""

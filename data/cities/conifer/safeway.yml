@@ -1,11 +1,11 @@
 id: 130064439
-type: way
+type: node
 latitude: 39.52717
 longitude: -105.30404
 postcode: "80433"
 city: Conifer
-street: "Main Street"
-housenumber: 27152
-phone: "+1 303-838-4375"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://local.safeway.com/safeway/co/conifer/27152-main-st.html"
+street: Main Street
+housenumber: "27152"
+phone: +1 303-838-4375
+opening_hours: Mo-Su 05:00-24:00
+website: https://local.safeway.com/safeway/co/conifer/27152-main-st.html

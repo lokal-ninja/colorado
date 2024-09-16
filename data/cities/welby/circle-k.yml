@@ -1,11 +1,11 @@
 id: 527409727
-type: way
+type: node
 latitude: 39.84631
 longitude: -104.97734
 postcode: "80229"
 city: Welby
-street: "Washington Street"
-housenumber: 8290
-phone: "+1-303-289-1629"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/thornton/8290-n-washington-st/2740648"
+street: Washington Street
+housenumber: "8290"
+phone: +1-303-289-1629
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/thornton/8290-n-washington-st/2740648

@@ -1,11 +1,11 @@
 id: 167529417
-type: way
+type: node
 latitude: 40.15411
 longitude: -105.13468
-postcode: "80501-7920"
+postcode: 80501-7920
 city: Longmont
-street: "South Hover Road"
-housenumber: 551
-phone: "+1 720-864-4393"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/longmont/2218"
+street: South Hover Road
+housenumber: "551"
+phone: +1 720-864-4393
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/longmont/2218

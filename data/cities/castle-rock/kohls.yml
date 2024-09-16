@@ -1,11 +1,11 @@
 id: 276418112
-type: way
+type: node
 latitude: 39.40945
 longitude: -104.86281
 postcode: "80104"
 city: Castle Rock
-street: "Milestone Avenue"
-housenumber: 4800
-phone: "+1 303-814-0525"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/co/castlerock-728.shtml"
+street: Milestone Avenue
+housenumber: "4800"
+phone: +1 303-814-0525
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/co/castlerock-728.shtml

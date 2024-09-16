@@ -1,11 +1,11 @@
 id: 128522936
-type: way
+type: node
 latitude: 40.52496
 longitude: -105.04587
 postcode: "80525"
 city: Fort Collins
-street: "Innovation Drive"
-housenumber: 4500
+street: Innovation Drive
+housenumber: "4500"
 phone: ""
 opening_hours: ""
 website: ""

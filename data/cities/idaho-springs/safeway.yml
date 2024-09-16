@@ -1,11 +1,11 @@
 id: 80746093
-type: way
+type: node
 latitude: 39.7413
 longitude: -105.50695
 postcode: "80452"
 city: Idaho Springs
-street: "Colorado Boulevard"
-housenumber: 2425
-phone: "+1 303-567-4471"
+street: Colorado Boulevard
+housenumber: "2425"
+phone: +1 303-567-4471
 opening_hours: ""
-website: "https://local.safeway.com/safeway/co/idaho-springs/2425-miner-st.html"
+website: https://local.safeway.com/safeway/co/idaho-springs/2425-miner-st.html

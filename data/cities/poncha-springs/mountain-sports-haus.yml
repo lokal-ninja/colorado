@@ -1,11 +1,11 @@
 id: 739551349
-type: way
+type: node
 latitude: 38.51633
 longitude: -106.07734
 postcode: "81242"
 city: Poncha Springs
-street: "US 50 (CO)"
-housenumber: 10240
-phone: "+1 719 539 7618"
+street: US 50 (CO)
+housenumber: "10240"
+phone: +1 719 539 7618
 opening_hours: ""
-website: "https://www.mountainsportshaus.com/"
+website: https://www.mountainsportshaus.com/

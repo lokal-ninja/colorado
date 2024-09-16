@@ -1,11 +1,11 @@
 id: 45610962
-type: way
+type: node
 latitude: 39.91629
 longitude: -104.97724
 postcode: "80233"
 city: Thornton
-street: "East 120th Avenue"
-housenumber: 701
-phone: "+1-720-872-2619"
+street: East 120th Avenue
+housenumber: "701"
+phone: +1-720-872-2619
 opening_hours: ""
-website: "https://stores.barnesandnoble.com/store/2091"
+website: https://stores.barnesandnoble.com/store/2091

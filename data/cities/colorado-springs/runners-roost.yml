@@ -1,11 +1,11 @@
 id: 307410062
-type: way
+type: node
 latitude: 38.83616
 longitude: -104.82284
 postcode: "80903"
 city: Colorado Springs
-street: "North Tejon Street"
-housenumber: 117
-phone: "+1-719-632-2633"
+street: North Tejon Street
+housenumber: "117"
+phone: +1-719-632-2633
 opening_hours: ""
-website: "https://www.runnersroostcs.com/"
+website: https://www.runnersroostcs.com/

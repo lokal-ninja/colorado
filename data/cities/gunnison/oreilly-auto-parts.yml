@@ -1,11 +1,11 @@
 id: 1078016144
-type: way
+type: node
 latitude: 38.55739
 longitude: -106.92769
 postcode: "81230"
 city: Gunnison
-street: "North Main Street"
-housenumber: 1129
+street: North Main Street
+housenumber: "1129"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/gunnison/autoparts-4812.html"
+website: https://locations.oreillyauto.com/co/gunnison/autoparts-4812.html

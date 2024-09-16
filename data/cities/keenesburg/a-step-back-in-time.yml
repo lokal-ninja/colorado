@@ -1,11 +1,11 @@
 id: 418199525
-type: way
+type: node
 latitude: 40.10912
 longitude: -104.51972
 postcode: "80643"
 city: Keenesburg
-street: "Main Street"
-housenumber: 30
-phone: "+1 303 732-9257"
-opening_hours: "Mo-Sa 10:00-17:00, Su on call"
-website: "https://www.a-step-back.com/"
+street: Main Street
+housenumber: "30"
+phone: +1 303 732-9257
+opening_hours: Mo-Sa 10:00-17:00, Su "on call"
+website: https://www.a-step-back.com/

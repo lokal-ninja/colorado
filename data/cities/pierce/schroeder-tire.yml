@@ -1,11 +1,11 @@
 id: 536003944
-type: way
+type: node
 latitude: 40.62886
 longitude: -104.75142
 postcode: "80650"
 city: Pierce
-street: "Hope Avenue"
-housenumber: 1205
-phone: "+1-970-834-2212"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Hope Avenue
+housenumber: "1205"
+phone: +1-970-834-2212
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

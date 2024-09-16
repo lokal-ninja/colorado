@@ -1,11 +1,11 @@
 id: 651191959
-type: way
+type: node
 latitude: 40.17288
 longitude: -105.10269
 postcode: "80501"
 city: Longmont
-street: "Main Street"
-housenumber: 817
+street: Main Street
+housenumber: "817"
 phone: ""
 opening_hours: ""
-website: "https://longmont-vacuum.com/"
+website: https://longmont-vacuum.com/

@@ -1,11 +1,11 @@
 id: 497196275
-type: way
+type: node
 latitude: 39.06496
 longitude: -108.55972
 postcode: "81501"
 city: Grand Junction
-street: "Ute Avenue"
-housenumber: 753
-phone: "+1 970 241 0080"
-opening_hours: "Mo-Fr 07:30-17:30"
+street: Ute Avenue
+housenumber: "753"
+phone: +1 970 241 0080
+opening_hours: Mo-Fr 07:30-17:30
 website: ""

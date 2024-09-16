@@ -1,11 +1,11 @@
 id: 131820085
-type: way
+type: node
 latitude: 39.64608
 longitude: -106.0799
 postcode: ""
 city: Silverthorne
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.kumandgo.com/store-locator?details=0907"
+website: https://www.kumandgo.com/store-locator?details=0907

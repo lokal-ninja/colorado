@@ -1,11 +1,11 @@
 id: 606792683
-type: way
+type: node
 latitude: 39.91249
 longitude: -105.05058
 postcode: "80020"
 city: Westminster
-street: "West 120th Avenue"
-housenumber: 5150
+street: West 120th Avenue
+housenumber: "5150"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/co/westminster/5150-w-120th-ave-suite-100"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/co/westminster/5150-w-120th-ave-suite-100

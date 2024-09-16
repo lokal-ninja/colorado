@@ -4,8 +4,8 @@ latitude: 39.69014
 longitude: -104.92345
 postcode: "80222"
 city: Denver
-street: "South Holly Street"
-housenumber: 1459
-phone: "+1-303-759-5449"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.printandcopyco.com/"
+street: South Holly Street
+housenumber: "1459"
+phone: +1-303-759-5449
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.printandcopyco.com/

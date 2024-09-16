@@ -1,11 +1,11 @@
 id: 637029330
-type: way
+type: node
 latitude: 39.78652
 longitude: -104.81144
 postcode: "80239"
 city: Denver
-street: "Chambers Road"
-housenumber: 5141
-phone: "+1 303-218-6237"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/3127-denver-co"
+street: Chambers Road
+housenumber: "5141"
+phone: +1 303-218-6237
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/3127-denver-co

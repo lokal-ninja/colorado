@@ -1,11 +1,11 @@
 id: 198862571
-type: way
+type: node
 latitude: 39.85827
 longitude: -105.07762
 postcode: "80021"
 city: Westminster
-street: "West 88th Avenue"
-housenumber: 7125
-phone: "+1 303-420-2498"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/westminster-co/co/westminster/80021/1517"
+street: West 88th Avenue
+housenumber: "7125"
+phone: +1 303-420-2498
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/westminster-co/co/westminster/80021/1517

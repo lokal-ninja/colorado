@@ -1,11 +1,11 @@
 id: 548578046
-type: way
+type: node
 latitude: 40.7035
 longitude: -104.99938
 postcode: "80549"
 city: Wellington
-street: "6th Street"
-housenumber: 8150
+street: 6th Street
+housenumber: "8150"
 phone: ""
 opening_hours: ""
-website: "https://www.kumandgo.com/store-locator?details=0934"
+website: https://www.kumandgo.com/store-locator?details=0934

@@ -1,11 +1,11 @@
 id: 756392293
-type: way
+type: node
 latitude: 37.4685
 longitude: -105.86262
 postcode: "81101"
 city: Alamosa
-street: "Main Street"
-housenumber: 407
+street: Main Street
+housenumber: "407"
 phone: ""
 opening_hours: ""
 website: ""

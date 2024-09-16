@@ -1,11 +1,11 @@
 id: 497031417
-type: way
+type: node
 latitude: 39.05736
 longitude: -108.56162
 postcode: "81501"
 city: Grand Junction
-street: "South 7th Street"
-housenumber: 1111
+street: South 7th Street
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

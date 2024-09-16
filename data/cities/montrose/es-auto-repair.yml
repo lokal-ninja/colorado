@@ -1,11 +1,11 @@
 id: 679358075
-type: way
+type: node
 latitude: 38.47589
 longitude: -107.87507
 postcode: "81401"
 city: Montrose
-street: "South Townsend Avenue"
-housenumber: 310
+street: South Townsend Avenue
+housenumber: "310"
 phone: ""
 opening_hours: ""
-website: "https://www.esautomontrose.com"
+website: https://www.esautomontrose.com

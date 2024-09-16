@@ -1,11 +1,11 @@
 id: 497023269
-type: way
+type: node
 latitude: 39.07154
 longitude: -108.52503
 postcode: "81501"
 city: Grand Junction
-street: "I 70 Business Loop"
-housenumber: 2850
-phone: "+1-970-242-8519"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su off"
-website: "https://www.rockymountainair.com/locations/grand-junction-co/"
+street: I 70 Business Loop
+housenumber: "2850"
+phone: +1-970-242-8519
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su off
+website: https://www.rockymountainair.com/locations/grand-junction-co/

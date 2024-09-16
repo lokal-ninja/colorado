@@ -1,11 +1,11 @@
 id: 386403247
-type: way
+type: node
 latitude: 40.52491
 longitude: -105.07172
-postcode: "80525-5962"
+postcode: 80525-5962
 city: Fort Collins
-street: "John F Kennedy Parkway"
-housenumber: 4515
+street: John F Kennedy Parkway
+housenumber: "4515"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-18:00
 website: ""

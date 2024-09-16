@@ -1,11 +1,11 @@
 id: 298287904
-type: way
+type: node
 latitude: 39.14342
 longitude: -108.31448
 postcode: "81526"
 city: Palisade
-street: "I 70"
-housenumber: 952
-phone: "+1 970 464 4991"
-opening_hours: "Mo-Su 06:00-20:00;Nov-May closed"
-website: "https://www.kokopelliproduce.com/"
+street: I 70
+housenumber: "952"
+phone: +1 970 464 4991
+opening_hours: Mo-Su 06:00-20:00;Nov-May closed
+website: https://www.kokopelliproduce.com/

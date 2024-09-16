@@ -1,11 +1,11 @@
 id: 142995117
-type: way
+type: node
 latitude: 39.68142
 longitude: -105.11785
 postcode: "80227"
 city: Lakewood
-street: "South Oak Street"
-housenumber: 2010
+street: South Oak Street
+housenumber: "2010"
 phone: ""
 opening_hours: ""
-website: "https://www.greatfrontierbeer.com/"
+website: https://www.greatfrontierbeer.com/

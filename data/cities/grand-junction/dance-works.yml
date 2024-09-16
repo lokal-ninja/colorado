@@ -1,11 +1,11 @@
 id: 1224626963
-type: way
+type: node
 latitude: 39.09236
 longitude: -108.57435
 postcode: "81505"
 city: Grand Junction
-street: "Patterson Road"
-housenumber: 2586
-phone: "+1-970-243-5954"
-opening_hours: "Mo-Th 07:30-19:30; Fr-Su,PH off"
-website: "https://danceworksgj.com/"
+street: Patterson Road
+housenumber: "2586"
+phone: +1-970-243-5954
+opening_hours: Mo-Th 07:30-19:30; Fr-Su,PH off
+website: https://danceworksgj.com/

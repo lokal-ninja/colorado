@@ -1,11 +1,11 @@
 id: 497199202
-type: way
+type: node
 latitude: 39.07833
 longitude: -108.56628
 postcode: "81501"
 city: Grand Junction
-street: "North 4th Street"
-housenumber: 1155
-phone: "+1-970-424-5082"
-opening_hours: "Mo-Sa 10:00-17:30; Su off || Mo-Sa 10:00-15:00 donations"
-website: "https://grandjunction.salvationarmy.org/grand_junction_corps/family-stores-1"
+street: North 4th Street
+housenumber: "1155"
+phone: +1-970-424-5082
+opening_hours: Mo-Sa 10:00-17:30; Su off || Mo-Sa 10:00-15:00 "donations"
+website: https://grandjunction.salvationarmy.org/grand_junction_corps/family-stores-1

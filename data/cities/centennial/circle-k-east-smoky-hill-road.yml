@@ -1,11 +1,11 @@
 id: 365789096
-type: way
+type: node
 latitude: 39.61826
 longitude: -104.77098
 postcode: "80015"
 city: Centennial
-street: "East Smoky Hill Road"
-housenumber: 18565
+street: East Smoky Hill Road
+housenumber: "18565"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 798994299
-type: way
+type: node
 latitude: 38.93824
 longitude: -104.76058
 postcode: "80920"
 city: Colorado Springs
-street: "East Woodmen Road"
-housenumber: 3560
+street: East Woodmen Road
+housenumber: "3560"
 phone: ""
 opening_hours: ""
 website: ""

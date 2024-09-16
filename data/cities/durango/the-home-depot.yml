@@ -1,11 +1,11 @@
 id: 677354298
-type: way
+type: node
 latitude: 37.22381
 longitude: -107.85924
 postcode: "81303"
 city: Durango
-street: "South Camino Del Rio"
-housenumber: 1301
-phone: "+1 970-259-7954"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/durango/co/durango/81303/1534"
+street: South Camino Del Rio
+housenumber: "1301"
+phone: +1 970-259-7954
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/durango/co/durango/81303/1534

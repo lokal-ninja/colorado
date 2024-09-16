@@ -1,11 +1,11 @@
 id: 857252610
-type: way
+type: node
 latitude: 40.15962
 longitude: -105.13273
 postcode: "80503"
 city: Longmont
-street: "Hover Street"
-housenumber: 10147
+street: Hover Street
+housenumber: "10147"
 phone: ""
 opening_hours: ""
 website: ""

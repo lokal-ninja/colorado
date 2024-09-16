@@ -1,11 +1,11 @@
 id: 334068017
-type: way
+type: node
 latitude: 39.73619
 longitude: -104.98306
 postcode: "80203"
 city: Denver
-street: "Grant Street"
-housenumber: 1250
+street: Grant Street
+housenumber: "1250"
 phone: ""
 opening_hours: ""
 website: ""

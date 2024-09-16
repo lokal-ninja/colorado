@@ -1,11 +1,11 @@
 id: 1220401026
-type: way
+type: node
 latitude: 40.00097
 longitude: -105.01715
 postcode: "80516"
 city: Erie
-street: "Mountain View Boulevard"
-housenumber: 2925
-phone: "+1 720 502 5244"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+street: Mountain View Boulevard
+housenumber: "2925"
+phone: +1 720 502 5244
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

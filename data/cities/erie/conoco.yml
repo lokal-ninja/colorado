@@ -1,11 +1,11 @@
 id: 482490758
-type: way
+type: node
 latitude: 40.05165
 longitude: -105.05629
 postcode: "80516"
 city: Erie
-street: "East County Line Road"
-housenumber: 4200
-phone: "+1-303-828-1430"
+street: East County Line Road
+housenumber: "4200"
+phone: +1-303-828-1430
 opening_hours: ""
-website: "https://www.conoco.com/station/CON-ERIE-CONOCO-0000702049"
+website: https://www.conoco.com/station/CON-ERIE-CONOCO-0000702049

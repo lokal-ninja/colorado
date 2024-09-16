@@ -1,11 +1,11 @@
 id: 1206916738
-type: way
+type: node
 latitude: 38.75436
 longitude: -104.74289
 postcode: "80911"
 city: Colorado Springs
-street: "Main Street"
-housenumber: 302
-phone: "+1 719-390-8275"
-opening_hours: "09:00-21:00"
+street: Main Street
+housenumber: "302"
+phone: +1 719-390-8275
+opening_hours: 09:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 366973112
-type: way
+type: node
 latitude: 39.92977
 longitude: -105.08985
 postcode: "80020"
 city: Broomfield
-street: "US Highway 287"
-housenumber: 1020
-phone: "+1-303-732-6614"
+street: US Highway 287
+housenumber: "1020"
+phone: +1-303-732-6614
 opening_hours: ""
-website: "https://www.meineke.com/locations/co/broomfield-2302/"
+website: https://www.meineke.com/locations/co/broomfield-2302/

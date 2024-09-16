@@ -1,11 +1,11 @@
 id: 822250318
-type: way
+type: node
 latitude: 40.00075
 longitude: -104.82121
 postcode: "80601"
 city: Brighton
-street: "County Road 2"
-housenumber: 12354
-phone: "+1-303-659-7290"
+street: County Road 2
+housenumber: "12354"
+phone: +1-303-659-7290
 opening_hours: ""
-website: "https://www.conoco.com/station/con-nobel-store-llc-0000861488"
+website: https://www.conoco.com/station/con-nobel-store-llc-0000861488

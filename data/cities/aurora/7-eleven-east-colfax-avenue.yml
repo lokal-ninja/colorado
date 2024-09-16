@@ -1,11 +1,11 @@
 id: 1005101118
-type: way
+type: node
 latitude: 39.73948
 longitude: -104.80109
 postcode: "80010"
 city: Aurora
-street: "East Colfax Avenue"
-housenumber: 16080
+street: East Colfax Avenue
+housenumber: "16080"
 phone: ""
 opening_hours: ""
 website: ""

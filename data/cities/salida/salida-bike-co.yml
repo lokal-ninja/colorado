@@ -1,11 +1,11 @@
 id: 421485074
-type: way
+type: node
 latitude: 38.53704
 longitude: -105.99116
 postcode: ""
 city: Salida
-street: "North F Street"
-housenumber: 148
+street: North F Street
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

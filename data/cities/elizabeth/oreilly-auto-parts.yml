@@ -1,11 +1,11 @@
 id: 921601770
-type: way
+type: node
 latitude: 39.36177
 longitude: -104.59001
 postcode: "80107"
 city: Elizabeth
-street: "Crossroads Circle"
-housenumber: 795
+street: Crossroads Circle
+housenumber: "795"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/elizabeth/autoparts-5934.html"
+website: https://locations.oreillyauto.com/co/elizabeth/autoparts-5934.html

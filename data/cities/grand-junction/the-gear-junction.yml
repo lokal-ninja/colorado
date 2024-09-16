@@ -1,11 +1,11 @@
 id: 1240504745
-type: way
+type: node
 latitude: 39.0678
 longitude: -108.56538
 postcode: "81501"
 city: Grand Junction
-street: "Main Street"
-housenumber: 436
-phone: "+1-970-628-4003"
-opening_hours: "Tu-Th 09:00-18:00; Fr-Sa 09:00-19:00; Su 11:00-15:00"
-website: "https://www.thegearjunction.com/"
+street: Main Street
+housenumber: "436"
+phone: +1-970-628-4003
+opening_hours: Tu-Th 09:00-18:00; Fr-Sa 09:00-19:00; Su 11:00-15:00
+website: https://www.thegearjunction.com/

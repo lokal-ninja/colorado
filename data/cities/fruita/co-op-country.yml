@@ -1,11 +1,11 @@
 id: 439431496
-type: way
+type: node
 latitude: 39.16295
 longitude: -108.74728
 postcode: "81521"
 city: Fruita
-street: "Highway 6 And 50"
-housenumber: 1650
-phone: "+1 970-858-3667"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-19:00; Su 08:00-17:00"
+street: Highway 6 And 50
+housenumber: "1650"
+phone: +1 970-858-3667
+opening_hours: Mo-Fr 06:00-19:00; Sa 07:00-19:00; Su 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 612501951
-type: way
+type: node
 latitude: 40.02339
 longitude: -105.23466
 postcode: "80301"
 city: Boulder
-street: "Pearl Parkway"
-housenumber: 5075
+street: Pearl Parkway
+housenumber: "5075"
 phone: ""
 opening_hours: ""
-website: "https://www.boulderjeep.com/"
+website: https://www.boulderjeep.com/

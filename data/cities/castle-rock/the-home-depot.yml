@@ -1,11 +1,11 @@
 id: 276418110
-type: way
+type: node
 latitude: 39.41559
 longitude: -104.8667
 postcode: "80108"
 city: Castle Rock
-street: "West Allen Street"
-housenumber: 333
-phone: "+1 303-688-8790"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/castle-rock/co/castle-rock/80108/1531"
+street: West Allen Street
+housenumber: "333"
+phone: +1 303-688-8790
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/castle-rock/co/castle-rock/80108/1531

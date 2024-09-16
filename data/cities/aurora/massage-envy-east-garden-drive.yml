@@ -1,11 +1,11 @@
 id: 327156255
-type: way
+type: node
 latitude: 39.69373
 longitude: -104.8636
 postcode: "80012"
 city: Aurora
-street: "East Garden Drive"
-housenumber: 10651
+street: East Garden Drive
+housenumber: "10651"
 phone: ""
 opening_hours: ""
 website: ""

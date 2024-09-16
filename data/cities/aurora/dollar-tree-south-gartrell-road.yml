@@ -1,11 +1,11 @@
 id: 363659953
-type: way
+type: node
 latitude: 39.5795
 longitude: -104.72423
 postcode: "80016"
 city: Aurora
-street: "South Gartrell Road"
-housenumber: 7510
+street: South Gartrell Road
+housenumber: "7510"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/co/aurora/7399/"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.dollartree.com/locations/co/aurora/7399/

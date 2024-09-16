@@ -1,11 +1,11 @@
 id: 273860522
-type: way
+type: node
 latitude: 39.66806
 longitude: -104.91239
 postcode: "80222"
 city: Denver
-street: "South Monaco Parkway"
-housenumber: 2690
+street: South Monaco Parkway
+housenumber: "2690"
 phone: ""
 opening_hours: ""
 website: ""

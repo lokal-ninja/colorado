@@ -1,11 +1,11 @@
 id: 1242060067
-type: way
+type: node
 latitude: 39.75327
 longitude: -104.8776
 postcode: "80010"
 city: Aurora
-street: "Dallas Street"
-housenumber: 2501
-phone: "+1-303-558-6011"
+street: Dallas Street
+housenumber: "2501"
+phone: +1-303-558-6011
 opening_hours: ""
-website: "https://urbancowgirldenver.com/"
+website: https://urbancowgirldenver.com/

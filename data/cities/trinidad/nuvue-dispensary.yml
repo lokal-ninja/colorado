@@ -1,11 +1,11 @@
 id: 782892831
-type: way
+type: node
 latitude: 37.16138
 longitude: -104.51387
 postcode: "81082"
 city: Trinidad
-street: "Van Buren Street"
-housenumber: 1400
+street: Van Buren Street
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

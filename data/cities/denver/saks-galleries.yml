@@ -1,11 +1,11 @@
 id: 318911510
-type: way
+type: node
 latitude: 39.71969
 longitude: -104.95185
 postcode: "80206"
 city: Denver
-street: "East 2nd Avenue"
-housenumber: 3015
+street: East 2nd Avenue
+housenumber: "3015"
 phone: ""
 opening_hours: ""
 website: ""

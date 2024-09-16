@@ -1,11 +1,11 @@
 id: 814355180
-type: way
+type: node
 latitude: 40.07955
 longitude: -104.81094
 postcode: "80621"
 city: Fort Lupton
-street: "South Denver Avenue"
-housenumber: 127
+street: South Denver Avenue
+housenumber: "127"
 phone: ""
 opening_hours: ""
 website: ""

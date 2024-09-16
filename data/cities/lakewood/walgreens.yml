@@ -1,11 +1,11 @@
 id: 333939299
-type: way
+type: node
 latitude: 39.71174
 longitude: -105.08121
 postcode: ""
 city: Lakewood
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7551+w+alameda+ave-lakewood-co-80226/id=13968"
+website: https://www.walgreens.com/locator/walgreens-7551+w+alameda+ave-lakewood-co-80226/id=13968

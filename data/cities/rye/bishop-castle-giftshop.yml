@@ -1,11 +1,11 @@
 id: 402006401
-type: way
+type: node
 latitude: 38.06112
 longitude: -105.09429
 postcode: "81069"
 city: Rye
-street: "Hwy 165"
-housenumber: 12705
+street: Hwy 165
+housenumber: "12705"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.76775
 longitude: -104.89785
 postcode: "80238"
 city: Denver
-street: "East 36th Avenue"
-housenumber: 7797
+street: East 36th Avenue
+housenumber: "7797"
 phone: ""
-opening_hours: "Su 09:00-19:00; Mo-Sa 09:00-21:00"
-website: "https://www.goodwilldenver.org"
+opening_hours: Su 09:00-19:00; Mo-Sa 09:00-21:00
+website: https://www.goodwilldenver.org

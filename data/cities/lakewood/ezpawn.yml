@@ -1,11 +1,11 @@
 id: 357347258
-type: way
+type: node
 latitude: 39.74097
 longitude: -105.05346
 postcode: "80214"
 city: Lakewood
-street: "West Colfax Avenue"
-housenumber: 5201
-phone: "+1-303-327-8510"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00, Su 11:00-17:00"
-website: "https://ezpawn.com/locations/co/lakewood/5201-colfax"
+street: West Colfax Avenue
+housenumber: "5201"
+phone: +1-303-327-8510
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00, Su 11:00-17:00
+website: https://ezpawn.com/locations/co/lakewood/5201-colfax

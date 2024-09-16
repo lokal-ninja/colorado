@@ -4,8 +4,8 @@ latitude: 40.01905
 longitude: -105.27502
 postcode: "80302"
 city: Boulder
-street: "Pearl Street"
-housenumber: 1545
+street: Pearl Street
+housenumber: "1545"
 phone: ""
 opening_hours: ""
-website: "https://www.dancinggrains.com/"
+website: https://www.dancinggrains.com/

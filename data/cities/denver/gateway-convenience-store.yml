@@ -1,11 +1,11 @@
 id: 650285719
-type: way
+type: node
 latitude: 39.80407
 longitude: -104.77133
 postcode: "80249"
 city: Denver
-street: "Tower Road"
-housenumber: 5910
+street: Tower Road
+housenumber: "5910"
 phone: ""
 opening_hours: ""
 website: ""

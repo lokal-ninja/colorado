@@ -1,11 +1,11 @@
 id: 948444726
-type: way
+type: node
 latitude: 39.71144
 longitude: -105.02446
 postcode: "80219"
 city: Denver
-street: "West Alameda Avenue"
-housenumber: 2949
-phone: "+1-720-787-4909"
-opening_hours: "08:00-21:45"
-website: "https://frostdenverdispensary.com/"
+street: West Alameda Avenue
+housenumber: "2949"
+phone: +1-720-787-4909
+opening_hours: 08:00-21:45
+website: https://frostdenverdispensary.com/

@@ -4,8 +4,8 @@ latitude: 39.75776
 longitude: -104.94091
 postcode: "80207"
 city: Denver
-street: "Colorado Boulevard"
-housenumber: 2865
-phone: "+1-303-355-0066"
-opening_hours: "Su-Sa 09:00-23:59"
+street: Colorado Boulevard
+housenumber: "2865"
+phone: +1-303-355-0066
+opening_hours: Su-Sa 09:00-23:59
 website: ""

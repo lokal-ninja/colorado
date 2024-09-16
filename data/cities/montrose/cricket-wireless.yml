@@ -1,11 +1,11 @@
 id: 1192779593
-type: way
+type: node
 latitude: 38.45653
 longitude: -107.86571
 postcode: "81401"
 city: Montrose
-street: "Woodgate Road"
-housenumber: 2620
+street: Woodgate Road
+housenumber: "2620"
 phone: ""
 opening_hours: ""
 website: ""

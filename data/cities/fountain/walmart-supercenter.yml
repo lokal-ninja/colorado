@@ -1,11 +1,11 @@
 id: 229953440
-type: way
+type: node
 latitude: 38.74126
 longitude: -104.73698
 postcode: "80817"
 city: Fountain
-street: "Highway 85"
-housenumber: 6310
-phone: "+1 719-391-1700"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1273/fountain-co/whats-new"
+street: Highway 85
+housenumber: "6310"
+phone: +1 719-391-1700
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1273/fountain-co/whats-new

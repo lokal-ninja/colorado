@@ -1,11 +1,11 @@
 id: 50290783
-type: way
+type: node
 latitude: 39.6566
 longitude: -104.99575
 postcode: "80110"
 city: Englewood
-street: "Englewood Parkway"
-housenumber: 601
-phone: "+1 303-789-7201"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2751-englewood-co"
+street: Englewood Parkway
+housenumber: "601"
+phone: +1 303-789-7201
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2751-englewood-co

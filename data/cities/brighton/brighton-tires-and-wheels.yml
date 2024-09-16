@@ -1,11 +1,11 @@
 id: 266254050
-type: way
+type: node
 latitude: 39.97949
 longitude: -104.82448
 postcode: "80601"
 city: Brighton
-street: "West Southern Street"
-housenumber: 100
-phone: "+1-303-659-5007"
+street: West Southern Street
+housenumber: "100"
+phone: +1-303-659-5007
 opening_hours: ""
-website: "https://www.brightontiresandwheels.com/"
+website: https://www.brightontiresandwheels.com/

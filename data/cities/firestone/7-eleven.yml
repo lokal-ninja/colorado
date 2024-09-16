@@ -1,11 +1,11 @@
 id: 363659174
-type: way
+type: node
 latitude: 40.1622
 longitude: -104.97642
 postcode: "80504"
 city: Firestone
-street: "East I 25 Frontage Road"
-housenumber: 11099
+street: East I 25 Frontage Road
+housenumber: "11099"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/firestone/11099-e-1-25-frontage-rd-34210"
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/firestone/11099-e-1-25-frontage-rd-34210

@@ -1,11 +1,11 @@
 id: 231254155
-type: way
+type: node
 latitude: 39.09141
 longitude: -108.60066
 postcode: "81505"
 city: Grand Junction
-street: "Highway 6"
-housenumber: 2424
-phone: "+1 970-257-0141"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.homegoods.com/store-details/Grand-Junction-CO-81505/1077"
+street: Highway 6
+housenumber: "2424"
+phone: +1 970-257-0141
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.homegoods.com/store-details/Grand-Junction-CO-81505/1077

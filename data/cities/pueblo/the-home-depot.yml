@@ -1,11 +1,11 @@
 id: 535378466
-type: way
+type: node
 latitude: 38.31509
 longitude: -104.61335
 postcode: "81008"
 city: Pueblo
-street: "North Freeway"
-housenumber: 4450
-phone: "+1 719-545-5400"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/pueblo/co/pueblo/81008/1511"
+street: North Freeway
+housenumber: "4450"
+phone: +1 719-545-5400
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/pueblo/co/pueblo/81008/1511

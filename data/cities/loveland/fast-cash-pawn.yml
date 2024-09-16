@@ -1,11 +1,11 @@
 id: 486220663
-type: way
+type: node
 latitude: 40.40766
 longitude: -105.07481
 postcode: "80537"
 city: Loveland
-street: "North Cleveland Avenue"
-housenumber: 1411
+street: North Cleveland Avenue
+housenumber: "1411"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:30; Su 12:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:30; Su 12:00-17:00
 website: ""

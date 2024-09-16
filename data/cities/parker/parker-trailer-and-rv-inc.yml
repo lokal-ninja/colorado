@@ -1,11 +1,11 @@
 id: 656729189
-type: way
+type: node
 latitude: 39.55675
 longitude: -104.7798
 postcode: "80134"
 city: Parker
-street: "Brompton Way"
-housenumber: 8900
-phone: "+1-303-841-4910"
+street: Brompton Way
+housenumber: "8900"
+phone: +1-303-841-4910
 opening_hours: ""
-website: "https://parkertrailers.com/"
+website: https://parkertrailers.com/

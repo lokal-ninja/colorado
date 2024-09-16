@@ -1,11 +1,11 @@
 id: 81133214
-type: way
+type: node
 latitude: 39.60932
 longitude: -105.14892
 postcode: "80127"
 city: Littleton
-street: "West Bowles Avenue"
-housenumber: 13456
+street: West Bowles Avenue
+housenumber: "13456"
 phone: ""
 opening_hours: ""
 website: ""

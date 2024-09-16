@@ -1,11 +1,11 @@
 id: 857384091
-type: way
+type: node
 latitude: 37.47296
 longitude: -105.85293
 postcode: "81101"
 city: Alamosa
-street: "Santa Fe Avenue"
-housenumber: 366
+street: Santa Fe Avenue
+housenumber: "366"
 phone: ""
 opening_hours: ""
 website: ""

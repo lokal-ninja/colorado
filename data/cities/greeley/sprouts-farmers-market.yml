@@ -1,11 +1,11 @@
 id: 684893036
-type: way
+type: node
 latitude: 40.39141
 longitude: -104.75847
 postcode: "80634"
 city: Greeley
-street: "29th Street"
-housenumber: 4759
-phone: "+1 970-576-3050"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/co/greeley/greeley/"
+street: 29th Street
+housenumber: "4759"
+phone: +1 970-576-3050
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/co/greeley/greeley/

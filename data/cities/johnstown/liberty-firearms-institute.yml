@@ -1,11 +1,11 @@
 id: 770939924
-type: way
+type: node
 latitude: 40.40327
 longitude: -104.98298
 postcode: "80534"
 city: Johnstown
-street: "Ronald Reagan Boulevard"
-housenumber: 4990
+street: Ronald Reagan Boulevard
+housenumber: "4990"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 57846675
-type: way
+type: node
 latitude: 40.40473
 longitude: -105.06267
 postcode: "80537"
 city: Loveland
-street: "Nickel Drive"
-housenumber: 1100
-phone: "+1 970-461-9406"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/loveland/co/loveland/80537/1529"
+street: Nickel Drive
+housenumber: "1100"
+phone: +1 970-461-9406
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/loveland/co/loveland/80537/1529

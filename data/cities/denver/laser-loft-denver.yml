@@ -4,8 +4,8 @@ latitude: 39.73368
 longitude: -104.98665
 postcode: "80203"
 city: Denver
-street: "East 11th Avenue"
-housenumber: 24
-phone: "+1-720-548-0211"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-16:00"
-website: "http://laser-lofts.com/"
+street: East 11th Avenue
+housenumber: "24"
+phone: +1-720-548-0211
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-16:00
+website: https://www.laser-lofts.com/

@@ -1,11 +1,11 @@
 id: 87289901
-type: way
+type: node
 latitude: 38.99305
 longitude: -105.04924
 postcode: "80863"
 city: Woodland Park
-street: "US 24"
-housenumber: 260
+street: US 24
+housenumber: "260"
 phone: ""
 opening_hours: ""
 website: ""

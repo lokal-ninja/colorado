@@ -1,11 +1,11 @@
 id: 38621701
-type: way
+type: node
 latitude: 39.56532
 longitude: -104.89321
 postcode: "80124"
 city: Lone Tree
-street: "East Parkway Drive"
-housenumber: 8201
-phone: "+1-800-789-0694"
+street: East Parkway Drive
+housenumber: "8201"
+phone: +1-800-789-0694
 opening_hours: ""
-website: "http://www.donmassey.com"
+website: http://www.donmassey.com

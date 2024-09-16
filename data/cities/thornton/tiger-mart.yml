@@ -1,11 +1,11 @@
 id: 447932756
-type: way
+type: node
 latitude: 39.91461
 longitude: -104.95529
 postcode: "80233"
 city: Thornton
-street: "East 120th Avenue"
-housenumber: 2651
+street: East 120th Avenue
+housenumber: "2651"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.9599
 longitude: -105.16422
 postcode: "80027"
 city: Louisville
-street: "Dillon Road"
-housenumber: 976
+street: Dillon Road
+housenumber: "976"
 phone: ""
-opening_hours: "Mo-Fr 011:00-19:00; Sa 08:00-17:00"
-website: "https://rockbarbers.com/"
+opening_hours: Mo-Fr 011:00-19:00; Sa 08:00-17:00
+website: https://rockbarbers.com/

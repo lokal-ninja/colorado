@@ -1,11 +1,11 @@
 id: 1112486800
-type: way
+type: node
 latitude: 39.40281
 longitude: -104.88263
 postcode: "80109"
 city: Castle Rock
-street: "Limelight Avenue"
-housenumber: 3991
-phone: "+1-720-743-2538"
-opening_hours: "24/7"
-website: "https://good2gostores.com/"
+street: Limelight Avenue
+housenumber: "3991"
+phone: +1-720-743-2538
+opening_hours: 24/7
+website: https://good2gostores.com/

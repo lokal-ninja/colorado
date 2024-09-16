@@ -1,11 +1,11 @@
 id: 958677469
-type: way
+type: node
 latitude: 39.63762
 longitude: -104.82979
 postcode: "80015"
 city: Aurora
-street: "South Parker Road"
-housenumber: 4355
+street: South Parker Road
+housenumber: "4355"
 phone: ""
 opening_hours: ""
 website: ""

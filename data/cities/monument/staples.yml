@@ -1,11 +1,11 @@
 id: 377626131
-type: way
+type: node
 latitude: 39.06669
 longitude: -104.85084
 postcode: "80132"
 city: Monument
-street: "Jackson Creek Parkway"
-housenumber: 16096
+street: Jackson Creek Parkway
+housenumber: "16096"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://stores.staples.com/co/monument/16096-jackson-creek-parkway"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://stores.staples.com/co/monument/16096-jackson-creek-parkway

@@ -1,11 +1,11 @@
 id: 263444179
-type: way
+type: node
 latitude: 39.87208
 longitude: -104.89832
 postcode: "80640"
 city: Commerce City
-street: "East 96th Avenue"
-housenumber: 7911
+street: East 96th Avenue
+housenumber: "7911"
 phone: ""
 opening_hours: ""
 website: ""

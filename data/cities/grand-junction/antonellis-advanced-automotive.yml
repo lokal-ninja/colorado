@@ -1,11 +1,11 @@
 id: 288696785
-type: way
+type: node
 latitude: 39.05845
 longitude: -108.5449
 postcode: "81501"
 city: Grand Junction
-street: "Bonny Street"
-housenumber: 365
-phone: "+1 970 242 0580"
-opening_hours: "Mo-Fr 07:00-17:45"
-website: "https://www.antonellisadvancedauto.com/"
+street: Bonny Street
+housenumber: "365"
+phone: +1 970 242 0580
+opening_hours: Mo-Fr 07:00-17:45
+website: https://www.antonellisadvancedauto.com/

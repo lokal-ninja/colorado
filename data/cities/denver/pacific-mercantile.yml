@@ -4,8 +4,8 @@ latitude: 39.75168
 longitude: -104.99282
 postcode: "80202"
 city: Denver
-street: "Lawrence Street"
-housenumber: 1925
+street: Lawrence Street
+housenumber: "1925"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 09:00-14:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 09:00-14:00
 website: ""

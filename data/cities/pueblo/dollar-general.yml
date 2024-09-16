@@ -1,11 +1,11 @@
 id: 974172863
-type: way
+type: node
 latitude: 38.28217
 longitude: -104.57276
 postcode: "81001"
 city: Pueblo
-street: "Troy Avenue"
-housenumber: 1502
+street: Troy Avenue
+housenumber: "1502"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/co/pueblo/11132"
+website: https://www.dollargeneral.com/store-directory/co/pueblo/11132

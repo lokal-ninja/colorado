@@ -1,11 +1,11 @@
 id: 551962476
-type: way
+type: node
 latitude: 38.79942
 longitude: -107.7127
 postcode: "81419"
 city: Hotchkiss
-street: "6th Street"
-housenumber: 215
+street: 6th Street
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

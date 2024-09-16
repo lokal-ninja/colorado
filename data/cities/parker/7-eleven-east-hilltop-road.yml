@@ -1,11 +1,11 @@
 id: 296346295
-type: way
+type: node
 latitude: 39.5093
 longitude: -104.75876
 postcode: "80134"
 city: Parker
-street: "East Hilltop Road"
-housenumber: 19832
+street: East Hilltop Road
+housenumber: "19832"
 phone: ""
 opening_hours: ""
 website: ""

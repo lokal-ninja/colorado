@@ -1,11 +1,11 @@
 id: 180522342
-type: way
+type: node
 latitude: 40.57262
 longitude: -105.04645
 postcode: "80524"
 city: Fort Collins
-street: "Riverside Avenue"
-housenumber: 1540
+street: Riverside Avenue
+housenumber: "1540"
 phone: ""
-opening_hours: "Mo-Sa 07:30-17:30"
+opening_hours: Mo-Sa 07:30-17:30
 website: ""

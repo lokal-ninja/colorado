@@ -1,11 +1,11 @@
 id: 307410010
-type: way
+type: node
 latitude: 38.8355
 longitude: -104.82312
 postcode: "80903"
 city: Colorado Springs
-street: "North Tejon Street"
-housenumber: 101
-phone: "+1-719-634-1134"
+street: North Tejon Street
+housenumber: "101"
+phone: +1-719-634-1134
 opening_hours: ""
-website: "https://www.pds-mfp.com/"
+website: https://www.pds-mfp.com/

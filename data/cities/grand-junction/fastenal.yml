@@ -1,11 +1,11 @@
 id: 839511389
-type: way
+type: node
 latitude: 39.06265
 longitude: -108.54036
 postcode: "81501"
 city: Grand Junction
-street: "Riverside Parkway"
-housenumber: 2765
-phone: "+1-970-243-5754"
-opening_hours: "by appointment"
-website: "https://www.fastenal.com/locations/details/cogra"
+street: Riverside Parkway
+housenumber: "2765"
+phone: +1-970-243-5754
+opening_hours: '"by appointment"'
+website: https://www.fastenal.com/locations/details/cogra

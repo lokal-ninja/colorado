@@ -1,11 +1,11 @@
 id: 64301395
-type: way
+type: node
 latitude: 39.88667
 longitude: -105.08016
-postcode: "80021-6063"
+postcode: 80021-6063
 city: Westminster
-street: "Reed Street"
-housenumber: 10445
-phone: "+1 303-410-8310"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/westminster/1928"
+street: Reed Street
+housenumber: "10445"
+phone: +1 303-410-8310
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/westminster/1928

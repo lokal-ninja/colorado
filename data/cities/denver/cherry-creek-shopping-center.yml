@@ -1,11 +1,11 @@
 id: 542356524
-type: way
+type: node
 latitude: 39.71771
 longitude: -104.95469
 postcode: "80206"
 city: Denver
-street: "East 1st Avenue"
-housenumber: 3000
+street: East 1st Avenue
+housenumber: "3000"
 phone: ""
 opening_hours: ""
-website: "https://www.shopcherrycreek.com/"
+website: https://www.shopcherrycreek.com/

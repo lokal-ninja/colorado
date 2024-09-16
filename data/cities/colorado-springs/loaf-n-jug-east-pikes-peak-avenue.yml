@@ -1,11 +1,11 @@
 id: 205717414
-type: way
+type: node
 latitude: 38.83314
 longitude: -104.77526
 postcode: "80909"
 city: Colorado Springs
-street: "East Pikes Peak Avenue"
-housenumber: 2802
+street: East Pikes Peak Avenue
+housenumber: "2802"
 phone: ""
 opening_hours: ""
 website: ""

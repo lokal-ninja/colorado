@@ -1,11 +1,11 @@
 id: 377543631
-type: way
+type: node
 latitude: 39.05729
 longitude: -104.84442
 postcode: "80921"
 city: Monument
-street: "Baptist Road"
-housenumber: 1190
+street: Baptist Road
+housenumber: "1190"
 phone: ""
 opening_hours: ""
 website: ""

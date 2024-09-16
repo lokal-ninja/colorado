@@ -1,11 +1,11 @@
 id: 256670821
-type: way
+type: node
 latitude: 39.88029
 longitude: -104.98168
 postcode: "80229"
 city: Thornton
-street: "Grant Street"
-housenumber: 10160
+street: Grant Street
+housenumber: "10160"
 phone: ""
 opening_hours: ""
 website: ""

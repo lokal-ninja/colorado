@@ -1,11 +1,11 @@
 id: 510896525
-type: way
+type: node
 latitude: 39.09122
 longitude: -108.45493
 postcode: "81520"
 city: Clifton
-street: "F Road"
-housenumber: 3223
-phone: "+1-970-434-5094"
-opening_hours: "Mo-Sa 05:00-22:00; Su 06:00-21:00"
-website: "https://www.featherpetro.com/clifton"
+street: F Road
+housenumber: "3223"
+phone: +1-970-434-5094
+opening_hours: Mo-Sa 05:00-22:00; Su 06:00-21:00
+website: https://www.featherpetro.com/clifton

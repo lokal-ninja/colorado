@@ -1,11 +1,11 @@
 id: 426694653
-type: way
+type: node
 latitude: 39.15843
 longitude: -108.73173
 postcode: "81521"
 city: Fruita
-street: "East Aspen Avenue"
-housenumber: 220
+street: East Aspen Avenue
+housenumber: "220"
 phone: ""
-opening_hours: "06:30-19:00"
+opening_hours: 06:30-19:00
 website: ""

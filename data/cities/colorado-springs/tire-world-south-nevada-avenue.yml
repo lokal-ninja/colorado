@@ -1,11 +1,11 @@
 id: 204341895
-type: way
+type: node
 latitude: 38.82606
 longitude: -104.82123
 postcode: "80903"
 city: Colorado Springs
-street: "South Nevada Avenue"
-housenumber: 509
-phone: "+1-719-442-2228"
+street: South Nevada Avenue
+housenumber: "509"
+phone: +1-719-442-2228
 opening_hours: ""
-website: "https://www.tireworldinc.com/"
+website: https://www.tireworldinc.com/

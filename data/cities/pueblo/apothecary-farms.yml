@@ -1,11 +1,11 @@
 id: 949470915
-type: way
+type: node
 latitude: 38.24577
 longitude: -104.57531
 postcode: "81006"
 city: Pueblo
-street: "Santa Fe Drive"
-housenumber: 1917
+street: Santa Fe Drive
+housenumber: "1917"
 phone: ""
 opening_hours: ""
-website: "https://apothecaryfarms.com/contact/pueblo/"
+website: https://apothecaryfarms.com/contact/pueblo/

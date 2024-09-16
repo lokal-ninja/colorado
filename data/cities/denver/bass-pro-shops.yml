@@ -1,11 +1,11 @@
 id: 133013015
-type: way
+type: node
 latitude: 39.78149
 longitude: -104.89616
 postcode: "80238"
 city: Denver
-street: "Northfield Boulevard"
-housenumber: 7970
-phone: "+1 720 385 3600"
+street: Northfield Boulevard
+housenumber: "7970"
+phone: +1 720 385 3600
 opening_hours: ""
-website: "http://basspro.com"
+website: http://basspro.com

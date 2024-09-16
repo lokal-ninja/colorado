@@ -1,11 +1,11 @@
 id: 231254156
-type: way
+type: node
 latitude: 39.09103
 longitude: -108.60302
 postcode: "81505"
 city: Grand Junction
-street: "US Highway 6 and 50"
-housenumber: 2424
-phone: "+1-970-683-5000"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.cabelas.com/us/co/grand-junction/2424-us-hwy-6.html"
+street: US Highway 6 and 50
+housenumber: "2424"
+phone: +1-970-683-5000
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.cabelas.com/us/co/grand-junction/2424-us-hwy-6.html

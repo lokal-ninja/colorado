@@ -1,11 +1,11 @@
 id: 224603771
-type: way
+type: node
 latitude: 38.34212
 longitude: -104.62318
 postcode: "81008"
 city: Pueblo
-street: "North Elizabeth Street"
-housenumber: 6470
+street: North Elizabeth Street
+housenumber: "6470"
 phone: ""
 opening_hours: ""
 website: ""

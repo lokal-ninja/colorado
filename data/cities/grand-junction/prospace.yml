@@ -1,11 +1,11 @@
 id: 421115316
-type: way
+type: node
 latitude: 39.06778
 longitude: -108.56208
 postcode: "81501"
 city: Grand Junction
-street: "Main Street"
-housenumber: 634
-phone: "1-877-874-8006"
-opening_hours: "09:00-17:00"
-website: "https://prospace.biz/"
+street: Main Street
+housenumber: "634"
+phone: 1-877-874-8006
+opening_hours: 09:00-17:00
+website: https://prospace.biz/

@@ -1,11 +1,11 @@
 id: 521082209
-type: way
+type: node
 latitude: 40.16463
 longitude: -105.10271
 postcode: "80501"
 city: Longmont
-street: "Main Street"
-housenumber: 331
+street: Main Street
+housenumber: "331"
 phone: ""
 opening_hours: ""
 website: ""

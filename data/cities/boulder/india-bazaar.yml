@@ -4,8 +4,8 @@ latitude: 40.0138
 longitude: -105.25813
 postcode: "80303"
 city: Boulder
-street: "28th Street"
-housenumber: 1542
+street: 28th Street
+housenumber: "1542"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://sites.google.com/site/indiabazaarboulder/"
+opening_hours: Mo-Su 10:00-20:00
+website: https://sites.google.com/site/indiabazaarboulder/

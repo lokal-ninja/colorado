@@ -1,11 +1,11 @@
 id: 195847542
-type: way
+type: node
 latitude: 38.84927
 longitude: -104.77629
 postcode: "80909"
 city: Colorado Springs
-street: "North Circle Drive"
-housenumber: 1208
+street: North Circle Drive
+housenumber: "1208"
 phone: ""
 opening_hours: ""
 website: ""

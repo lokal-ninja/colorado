@@ -1,11 +1,11 @@
 id: 698244418
-type: way
+type: node
 latitude: 39.49276
 longitude: -104.75891
 postcode: "80134"
 city: Parker
-street: "South Parker Road"
-housenumber: 12332
+street: South Parker Road
+housenumber: "12332"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/co/parker/12332-s-parker-rd"
+website: https://stores.advanceautoparts.com/co/parker/12332-s-parker-rd

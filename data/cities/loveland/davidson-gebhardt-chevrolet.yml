@@ -1,11 +1,11 @@
 id: 450014913
-type: way
+type: node
 latitude: 40.43306
 longitude: -104.99375
 postcode: "80538"
 city: Loveland
-street: "Test Drive"
-housenumber: 3880
+street: Test Drive
+housenumber: "3880"
 phone: ""
 opening_hours: ""
 website: ""

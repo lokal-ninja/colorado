@@ -1,11 +1,11 @@
 id: 568801324
-type: way
+type: node
 latitude: 39.68539
 longitude: -104.86798
 postcode: "80012"
 city: Aurora
-street: "South Havana Street"
-housenumber: 1701
-phone: "+1 303-369-4222"
-opening_hours: "Mo-Sa 06:00-21:00, Su 08:00-20:00"
-website: "https://www.lowes.com/store/CO-Aurora/0102"
+street: South Havana Street
+housenumber: "1701"
+phone: +1 303-369-4222
+opening_hours: Mo-Sa 06:00-21:00, Su 08:00-20:00
+website: https://www.lowes.com/store/CO-Aurora/0102

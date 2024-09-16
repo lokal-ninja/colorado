@@ -1,11 +1,11 @@
 id: 219467443
-type: way
+type: node
 latitude: 39.82516
 longitude: -104.77108
 postcode: "80249"
 city: Denver
-street: "Tower Road"
-housenumber: 7080
-phone: "+1-303-371-8644"
-opening_hours: "24/7"
+street: Tower Road
+housenumber: "7080"
+phone: +1-303-371-8644
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 334955178
-type: way
+type: node
 latitude: 39.92994
 longitude: -105.14955
 postcode: "80027"
 city: Superior
-street: "Coalton Road"
-housenumber: 1615
+street: Coalton Road
+housenumber: "1615"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:30-17:00; Su 11:00-16:00"
-website: "https://johnsdrycleaners.com/"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:30-17:00; Su 11:00-16:00
+website: https://johnsdrycleaners.com/

@@ -1,11 +1,11 @@
 id: 959159875
-type: way
+type: node
 latitude: 39.94976
 longitude: -104.7861
 postcode: "80601"
 city: Brighton
-street: "Prairie Center Parkway"
-housenumber: 2555
-phone: "(303) 659-1862"
+street: Prairie Center Parkway
+housenumber: "2555"
+phone: (303) 659-1862
 opening_hours: ""
 website: ""

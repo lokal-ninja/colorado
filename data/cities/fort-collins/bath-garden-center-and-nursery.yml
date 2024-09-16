@@ -1,11 +1,11 @@
 id: 169502232
-type: way
+type: node
 latitude: 40.56806
 longitude: -105.04069
 postcode: "80525"
 city: Fort Collins
-street: "East Prospect Road"
-housenumber: 2000
-phone: "+1-800-748-0882"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://www.bathgardencenter.com/"
+street: East Prospect Road
+housenumber: "2000"
+phone: +1-800-748-0882
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
+website: https://www.bathgardencenter.com/

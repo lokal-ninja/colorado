@@ -1,11 +1,11 @@
 id: 55412302
-type: way
+type: node
 latitude: 40.53434
 longitude: -105.07553
 postcode: "80525"
 city: Fort Collins
-street: "Bockman Drive"
-housenumber: 135
-phone: "+1 970-692-5411"
-opening_hours: "Mo-Sa 07:30-19:00; Su 09:00-18:00"
-website: "https://www.murdochs.com/stores/fort-collins/"
+street: Bockman Drive
+housenumber: "135"
+phone: +1 970-692-5411
+opening_hours: Mo-Sa 07:30-19:00; Su 09:00-18:00
+website: https://www.murdochs.com/stores/fort-collins/

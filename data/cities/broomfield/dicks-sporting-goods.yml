@@ -1,11 +1,11 @@
 id: 366022879
-type: way
+type: node
 latitude: 39.93382
 longitude: -105.13298
 postcode: "80021"
 city: Broomfield
-street: "West Flatiron Crossing Drive"
-housenumber: 31
-phone: "+1 720-887-0900"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/co/broomfield/423/"
+street: West Flatiron Crossing Drive
+housenumber: "31"
+phone: +1 720-887-0900
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/co/broomfield/423/

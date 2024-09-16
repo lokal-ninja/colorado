@@ -1,11 +1,11 @@
 id: 502989371
-type: way
+type: node
 latitude: 38.82393
 longitude: -104.84062
 postcode: "80905"
 city: Colorado Springs
-street: "South 8th Street"
-housenumber: 720
+street: South 8th Street
+housenumber: "720"
 phone: ""
 opening_hours: ""
 website: ""

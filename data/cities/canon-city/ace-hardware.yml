@@ -1,11 +1,11 @@
 id: 603911646
-type: way
+type: node
 latitude: 38.44614
 longitude: -105.19312
-postcode: "81212-2731"
+postcode: 81212-2731
 city: Canon City
-street: "East Main Street"
-housenumber: 3090
-phone: "+1 719-275-1544"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 09:00-16:00"
+street: East Main Street
+housenumber: "3090"
+phone: +1 719-275-1544
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 09:00-16:00
 website: ""

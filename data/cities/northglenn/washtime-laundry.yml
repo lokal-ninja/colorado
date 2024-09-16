@@ -1,11 +1,11 @@
 id: 48210797
-type: way
+type: node
 latitude: 39.91253
 longitude: -104.97969
 postcode: "80233"
 city: Northglenn
-street: "East 120th Avenue"
-housenumber: 550
+street: East 120th Avenue
+housenumber: "550"
 phone: ""
-opening_hours: "Mo-Su 07:30-22:00"
+opening_hours: Mo-Su 07:30-22:00
 website: ""

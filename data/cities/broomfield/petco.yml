@@ -1,11 +1,11 @@
 id: 369320538
-type: way
+type: node
 latitude: 39.91724
 longitude: -105.05416
 postcode: "80020"
 city: Broomfield
-street: "Sheridan Boulevard"
-housenumber: 12163
-phone: "+1 303-635-1540"
-opening_hours: "Mo 09:00-19:00; Tu 10:00-20:00; We-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/co/broomfield/pet-supplies-broomfield-co-1411.html"
+street: Sheridan Boulevard
+housenumber: "12163"
+phone: +1 303-635-1540
+opening_hours: Mo 09:00-19:00; Tu 10:00-20:00; We-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/co/broomfield/pet-supplies-broomfield-co-1411.html

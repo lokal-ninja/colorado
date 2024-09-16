@@ -1,11 +1,11 @@
 id: 946612222
-type: way
+type: node
 latitude: 38.24557
 longitude: -104.64678
 postcode: "81005"
 city: Pueblo
-street: "South Prairie Avenue"
-housenumber: 1153
-phone: "+1-719-320-2475"
-opening_hours: "Tu-Su 09:00-16:00"
-website: "https://pueblo-trading-post.business.site/"
+street: South Prairie Avenue
+housenumber: "1153"
+phone: +1-719-320-2475
+opening_hours: Tu-Su 09:00-16:00
+website: https://pueblo-trading-post.business.site/

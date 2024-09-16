@@ -1,11 +1,11 @@
 id: 913228638
-type: way
+type: node
 latitude: 39.72284
 longitude: -105.18637
 postcode: "80401"
 city: Golden
-street: "West Colfax Avenue"
-housenumber: 16500
-phone: "+1 303-278-0152"
+street: West Colfax Avenue
+housenumber: "16500"
+phone: +1 303-278-0152
 opening_hours: ""
-website: "https://www.carmax.com/stores/6047"
+website: https://www.carmax.com/stores/6047

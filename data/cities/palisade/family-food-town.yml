@@ -1,11 +1,11 @@
 id: 497026510
-type: way
+type: node
 latitude: 39.11073
 longitude: -108.35125
 postcode: "81526"
 city: Palisade
-street: "West Third Street"
-housenumber: 112
+street: West Third Street
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

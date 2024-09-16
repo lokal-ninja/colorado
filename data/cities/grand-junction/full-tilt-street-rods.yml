@@ -4,8 +4,8 @@ latitude: 39.07581
 longitude: -108.50742
 postcode: "81504"
 city: Grand Junction
-street: "29 3/8 Road"
-housenumber: 2944
-phone: "+1-970-255-8890"
-opening_hours: "by appointment"
-website: "https://www.fulltiltstreetrods.com/"
+street: 29 3/8 Road
+housenumber: "2944"
+phone: +1-970-255-8890
+opening_hours: '"by appointment"'
+website: https://www.fulltiltstreetrods.com/

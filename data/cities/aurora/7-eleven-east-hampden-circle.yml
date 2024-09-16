@@ -1,11 +1,11 @@
 id: 670974265
-type: way
+type: node
 latitude: 39.65132
 longitude: -104.81063
 postcode: "80014"
 city: Aurora
-street: "East Hampden Circle"
-housenumber: 15296
+street: East Hampden Circle
+housenumber: "15296"
 phone: ""
 opening_hours: ""
 website: ""

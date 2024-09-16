@@ -1,11 +1,11 @@
 id: 972116104
-type: way
+type: node
 latitude: 37.16302
 longitude: -104.53007
 postcode: "81082"
 city: Trinidad
-street: "Highway 12"
-housenumber: 34390
+street: Highway 12
+housenumber: "34390"
 phone: ""
 opening_hours: ""
 website: ""

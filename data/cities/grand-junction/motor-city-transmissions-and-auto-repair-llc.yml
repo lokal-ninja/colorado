@@ -1,11 +1,11 @@
 id: 497200727
-type: way
+type: node
 latitude: 39.08311
 longitude: -108.58475
 postcode: "81505"
 city: Grand Junction
-street: "Bogart Lane"
-housenumber: 539
-phone: "+1-970-242-8726;+1-970-832-0710"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00 || Fr by appointment; Sa-Su off"
-website: "https://www.motorcitytransmissions.com/"
+street: Bogart Lane
+housenumber: "539"
+phone: +1-970-242-8726;+1-970-832-0710
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00 || Fr "by appointment"; Sa-Su off
+website: https://www.motorcitytransmissions.com/

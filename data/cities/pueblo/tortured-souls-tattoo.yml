@@ -1,11 +1,11 @@
 id: 550165947
-type: way
+type: node
 latitude: 38.30414
 longitude: -104.61581
 postcode: "81008"
 city: Pueblo
-street: "North Elizabeth Street"
-housenumber: 3309
-phone: "+1-719-296-1278"
-opening_hours: "Tu-Sa 09:00-17:00"
-website: "http://torturedsoulstattoos.com"
+street: North Elizabeth Street
+housenumber: "3309"
+phone: +1-719-296-1278
+opening_hours: Tu-Sa 09:00-17:00
+website: http://torturedsoulstattoos.com

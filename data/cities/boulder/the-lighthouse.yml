@@ -4,8 +4,8 @@ latitude: 40.01805
 longitude: -105.2799
 postcode: "80302"
 city: Boulder
-street: "Pearl Street Mall"
-housenumber: 1201
-phone: "+1-303-939-8355"
-opening_hours: "Mo-Th 10:00-18:00; Fr,Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.lighthousebookstoreofboulder.com/"
+street: Pearl Street Mall
+housenumber: "1201"
+phone: +1-303-939-8355
+opening_hours: Mo-Th 10:00-18:00; Fr,Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.lighthousebookstoreofboulder.com/

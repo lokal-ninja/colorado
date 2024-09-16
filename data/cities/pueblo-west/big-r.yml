@@ -1,11 +1,11 @@
 id: 1056330875
-type: way
+type: node
 latitude: 38.34131
 longitude: -104.74308
 postcode: "81007"
 city: Pueblo West
-street: "East Industrial Boulevard"
-housenumber: 115
+street: East Industrial Boulevard
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "https://bigronline.com/locations/"
+website: https://bigronline.com/locations/

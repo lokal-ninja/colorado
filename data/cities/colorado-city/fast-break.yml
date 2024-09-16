@@ -1,11 +1,11 @@
 id: 499816944
-type: way
+type: node
 latitude: 37.96242
 longitude: -104.79709
 postcode: "81004"
 city: Colorado City
-street: "State Highway 165"
-housenumber: 6654
+street: State Highway 165
+housenumber: "6654"
 phone: ""
 opening_hours: ""
 website: ""

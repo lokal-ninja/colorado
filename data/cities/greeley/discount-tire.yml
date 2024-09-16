@@ -1,11 +1,11 @@
 id: 658507258
-type: way
+type: node
 latitude: 40.39123
 longitude: -104.78708
-postcode: "80634-8412"
+postcode: 80634-8412
 city: Greeley
-street: "West 29th Street"
-housenumber: 6607
+street: West 29th Street
+housenumber: "6607"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

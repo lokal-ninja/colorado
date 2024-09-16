@@ -1,11 +1,11 @@
 id: 421353863
-type: way
+type: node
 latitude: 39.06717
 longitude: -108.56547
 postcode: "81501"
 city: Grand Junction
-street: "Main Street"
-housenumber: 425
-phone: "+1 970 242 7690"
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
-website: "http://www.brownsshoeco.com/ourStores/grandjunction.aspx?pic=grandjunction01"
+street: Main Street
+housenumber: "425"
+phone: +1 970 242 7690
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-17:00
+website: http://www.brownsshoeco.com/ourStores/grandjunction.aspx?pic=grandjunction01

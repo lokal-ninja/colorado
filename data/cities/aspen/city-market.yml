@@ -1,11 +1,11 @@
 id: 228881646
-type: way
+type: node
 latitude: 39.18725
 longitude: -106.81555
 postcode: "81611"
 city: Aspen
-street: "East Cooper Avenue"
-housenumber: 711
+street: East Cooper Avenue
+housenumber: "711"
 phone: ""
 opening_hours: ""
 website: ""

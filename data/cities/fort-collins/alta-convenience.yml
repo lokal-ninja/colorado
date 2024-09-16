@@ -1,11 +1,11 @@
 id: 128369373
-type: way
+type: node
 latitude: 40.5515
 longitude: -105.0966
 postcode: "80526"
 city: Fort Collins
-street: "West Drake Road"
-housenumber: 1113
-phone: "+1-970-204-0797"
-opening_hours: "Mo-Sa 06:00-23:00; Su 07:00-22:00"
-website: "https://altaconvenience.com/Alta-Convenience-6130"
+street: West Drake Road
+housenumber: "1113"
+phone: +1-970-204-0797
+opening_hours: Mo-Sa 06:00-23:00; Su 07:00-22:00
+website: https://altaconvenience.com/Alta-Convenience-6130

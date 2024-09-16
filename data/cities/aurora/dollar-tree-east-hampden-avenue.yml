@@ -1,11 +1,11 @@
 id: 670984693
-type: way
+type: node
 latitude: 39.65495
 longitude: -104.8083
 postcode: "80013"
 city: Aurora
-street: "East Hampden Avenue"
-housenumber: 15453
+street: East Hampden Avenue
+housenumber: "15453"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/co/aurora/3867/"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/co/aurora/3867/

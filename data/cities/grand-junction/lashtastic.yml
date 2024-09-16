@@ -4,8 +4,8 @@ latitude: 39.08137
 longitude: -108.58155
 postcode: "81505"
 city: Grand Junction
-street: "Independent Avenue"
-housenumber: 1048
-phone: "+1-970-201-3784"
-opening_hours: "Mo-Fr 10:00-18:00 by appointment; Sa-Su off"
-website: "https://lashtastic-102086.square.site/"
+street: Independent Avenue
+housenumber: "1048"
+phone: +1-970-201-3784
+opening_hours: Mo-Fr 10:00-18:00 "by appointment"; Sa-Su off
+website: https://lashtastic-102086.square.site/

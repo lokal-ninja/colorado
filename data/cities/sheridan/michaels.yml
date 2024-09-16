@@ -1,11 +1,11 @@
 id: 284758480
-type: way
+type: node
 latitude: 39.64893
 longitude: -105.00542
 postcode: "80110"
 city: Sheridan
-street: "River Point Parkway"
-housenumber: 3710
-phone: "+1 303-789-5234"
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://locations.michaels.com/CO/SHERIDAN/1189/"
+street: River Point Parkway
+housenumber: "3710"
+phone: +1 303-789-5234
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-20:00
+website: https://locations.michaels.com/CO/SHERIDAN/1189/

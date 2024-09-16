@@ -1,11 +1,11 @@
 id: 360434027
-type: way
+type: node
 latitude: 39.07725
 longitude: -108.55821
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 865
+street: North Avenue
+housenumber: "865"
 phone: ""
 opening_hours: ""
 website: ""

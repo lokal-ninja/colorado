@@ -1,11 +1,11 @@
 id: 307262711
-type: way
+type: node
 latitude: 38.83611
 longitude: -104.82359
 postcode: "80903"
 city: Colorado Springs
-street: "North Tejon Street"
-housenumber: 120
-phone: "+1-719-471-3235"
-opening_hours: "Mo-Sa 09:30-17:30,Su 12:00-16:00"
-website: "https://sparrowhawkcookware.com/"
+street: North Tejon Street
+housenumber: "120"
+phone: +1-719-471-3235
+opening_hours: Mo-Sa 09:30-17:30,Su 12:00-16:00
+website: https://sparrowhawkcookware.com/

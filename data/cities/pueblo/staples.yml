@@ -1,11 +1,11 @@
 id: 543804617
-type: way
+type: node
 latitude: 38.3102
 longitude: -104.62569
 postcode: "81008"
 city: Pueblo
-street: "West US Highway 50"
-housenumber: 1411
+street: West US Highway 50
+housenumber: "1411"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/co/pueblo/1411-highway-50-w"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/co/pueblo/1411-highway-50-w

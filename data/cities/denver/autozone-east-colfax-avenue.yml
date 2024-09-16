@@ -1,11 +1,11 @@
 id: 294093130
-type: way
+type: node
 latitude: 39.74061
 longitude: -104.88569
 postcode: "80220"
 city: Denver
-street: "East Colfax Avenue"
-housenumber: 8835
-phone: "720-941-1188"
+street: East Colfax Avenue
+housenumber: "8835"
+phone: 720-941-1188
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/denver/8835-e-colfax-ave.html"
+website: https://www.autozone.com/locations/co/denver/8835-e-colfax-ave.html

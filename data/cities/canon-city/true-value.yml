@@ -1,11 +1,11 @@
 id: 388616176
-type: way
+type: node
 latitude: 38.44645
 longitude: -105.22526
 postcode: "81212"
 city: Canon City
-street: "East Main Street"
-housenumber: 1630
-phone: "+1 719-275-6486"
+street: East Main Street
+housenumber: "1630"
+phone: +1 719-275-6486
 opening_hours: ""
-website: "https://truevalue.com"
+website: https://truevalue.com

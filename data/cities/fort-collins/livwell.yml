@@ -1,11 +1,11 @@
 id: 248410327
-type: way
+type: node
 latitude: 40.59898
 longitude: -105.07613
 postcode: "80524"
 city: Fort Collins
-street: "North College Avenue"
-housenumber: 900
-phone: "+1-970-484-8380"
-opening_hours: "Mo-Su 08:00-19:50"
-website: "https://www.livwell.com/"
+street: North College Avenue
+housenumber: "900"
+phone: +1-970-484-8380
+opening_hours: Mo-Su 08:00-19:50
+website: https://www.livwell.com/

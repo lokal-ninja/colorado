@@ -1,11 +1,11 @@
 id: 365398928
-type: way
+type: node
 latitude: 39.59373
 longitude: -104.80897
 postcode: "80016"
 city: Aurora
-street: "East Briarwood Circle"
-housenumber: 15405
+street: East Briarwood Circle
+housenumber: "15405"
 phone: ""
 opening_hours: ""
 website: ""

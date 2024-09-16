@@ -1,11 +1,11 @@
 id: 223578835
-type: way
+type: node
 latitude: 39.70807
 longitude: -105.01324
-postcode: "80223-1969"
+postcode: 80223-1969
 city: Denver
-street: "South Zuni Street"
-housenumber: 400
-phone: "+1 303-830-4529"
-opening_hours: "Mo-Sa 07:00-18:00; Su 08:00-16:00"
-website: "https://www.costco.com/warehouse-locations/denver-bus-ctr-denver-co-650.html"
+street: South Zuni Street
+housenumber: "400"
+phone: +1 303-830-4529
+opening_hours: Mo-Sa 07:00-18:00; Su 08:00-16:00
+website: https://www.costco.com/warehouse-locations/denver-bus-ctr-denver-co-650.html

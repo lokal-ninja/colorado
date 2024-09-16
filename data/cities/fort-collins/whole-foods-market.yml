@@ -1,11 +1,11 @@
 id: 333519611
-type: way
+type: node
 latitude: 40.5586
 longitude: -105.07839
 postcode: "80525"
 city: Fort Collins
-street: "South College Avenue"
-housenumber: 2201
-phone: "+1 970-267-9200"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/fortcollins"
+street: South College Avenue
+housenumber: "2201"
+phone: +1 970-267-9200
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/fortcollins

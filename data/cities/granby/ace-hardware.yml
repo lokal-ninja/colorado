@@ -1,11 +1,11 @@
 id: 315402308
-type: way
+type: node
 latitude: 40.08779
 longitude: -105.95081
 postcode: "80446"
 city: Granby
-street: "West Agate Avenue"
-housenumber: 627
-phone: "+1 970-887-3395"
-opening_hours: "Mo-Sa 07:00-19:00; Su 09:00-17:00"
+street: West Agate Avenue
+housenumber: "627"
+phone: +1 970-887-3395
+opening_hours: Mo-Sa 07:00-19:00; Su 09:00-17:00
 website: ""

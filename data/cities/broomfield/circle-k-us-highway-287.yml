@@ -1,11 +1,11 @@
 id: 366740749
-type: way
+type: node
 latitude: 39.92177
 longitude: -105.09161
 postcode: "80020"
 city: Broomfield
-street: "US Highway 287"
-housenumber: 425
-phone: "+1-303-466-0503"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/broomfield/425-w-hwy-287/2709873"
+street: US Highway 287
+housenumber: "425"
+phone: +1-303-466-0503
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/broomfield/425-w-hwy-287/2709873

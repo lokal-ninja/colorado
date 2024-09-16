@@ -1,11 +1,11 @@
 id: 669435765
-type: way
+type: node
 latitude: 39.71102
 longitude: -104.93638
 postcode: "80246"
 city: Denver
-street: "East Alameda Avenue"
-housenumber: 4380
-phone: "+1 303-565-3600"
+street: East Alameda Avenue
+housenumber: "4380"
+phone: +1 303-565-3600
 opening_hours: ""
-website: "https://www.cannabisstoredenver.com/"
+website: https://www.cannabisstoredenver.com/

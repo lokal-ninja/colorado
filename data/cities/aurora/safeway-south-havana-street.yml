@@ -1,11 +1,11 @@
 id: 192027130
-type: way
+type: node
 latitude: 39.68633
 longitude: -104.86874
 postcode: "80012"
 city: Aurora
-street: "South Havana Street"
-housenumber: 1677
-phone: "+1-303-481-2279"
-opening_hours: "Mo-Su 05:00-23:59"
-website: "https://local.safeway.com/safeway/co/aurora/1677-s-havana-st.html"
+street: South Havana Street
+housenumber: "1677"
+phone: +1-303-481-2279
+opening_hours: Mo-Su 05:00-23:59
+website: https://local.safeway.com/safeway/co/aurora/1677-s-havana-st.html

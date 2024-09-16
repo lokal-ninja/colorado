@@ -1,11 +1,11 @@
 id: 107625773
-type: way
+type: node
 latitude: 40.53001
 longitude: -105.07863
 postcode: "80525"
 city: Fort Collins
-street: "West Troutman Parkway"
-housenumber: 118
+street: West Troutman Parkway
+housenumber: "118"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-17:30; Su 09:30-17:30"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-17:30; Su 09:30-17:30
 website: ""

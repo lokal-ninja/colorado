@@ -1,11 +1,11 @@
 id: 147097963
-type: way
+type: node
 latitude: 40.17732
 longitude: -105.10338
 postcode: "80501"
 city: Longmont
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1041+main+st-longmont-co-80501/id=9598"
+website: https://www.walgreens.com/locator/walgreens-1041+main+st-longmont-co-80501/id=9598

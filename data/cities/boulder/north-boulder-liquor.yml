@@ -1,11 +1,11 @@
 id: 474268011
-type: way
+type: node
 latitude: 40.0477
 longitude: -105.28165
 postcode: "80304"
 city: Boulder
-street: "Broadway"
-housenumber: 3990
+street: Broadway
+housenumber: "3990"
 phone: "+13034420894"
-opening_hours: "Mo-Sa 10:00-20:00, Su 10-18:00"
+opening_hours: Mo-Sa 10:00-20:00, Su 10-18:00
 website: ""

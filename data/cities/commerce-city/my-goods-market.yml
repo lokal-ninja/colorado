@@ -1,11 +1,11 @@
 id: 258692935
-type: way
+type: node
 latitude: 39.88489
 longitude: -104.7741
 postcode: "80022"
 city: Commerce City
-street: "East 104th Avenue"
-housenumber: 18314
-phone: "+1-303-287-7174"
-opening_hours: "24/7"
+street: East 104th Avenue
+housenumber: "18314"
+phone: +1-303-287-7174
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 603512169
-type: way
+type: node
 latitude: 39.85707
 longitude: -104.97872
 postcode: "80229"
 city: Thornton
-street: "Pearl Street"
-housenumber: 8858
-phone: "+1-303-287-7567"
+street: Pearl Street
+housenumber: "8858"
+phone: +1-303-287-7567
 opening_hours: ""
-website: "https://www.sunharleydavidson.com/"
+website: https://www.sunharleydavidson.com/

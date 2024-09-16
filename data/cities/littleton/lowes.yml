@@ -1,11 +1,11 @@
 id: 44348697
-type: way
+type: node
 latitude: 39.62208
 longitude: -105.08877
 postcode: "80123"
 city: Littleton
-street: "South Wadsworth Boulevard"
-housenumber: 5258
-phone: "+1 720-981-0100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/co-littleton/1630"
+street: South Wadsworth Boulevard
+housenumber: "5258"
+phone: +1 720-981-0100
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/co-littleton/1630

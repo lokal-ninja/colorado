@@ -1,11 +1,11 @@
 id: 839876572
-type: way
+type: node
 latitude: 39.07424
 longitude: -108.4603
 postcode: "81520"
 city: Clifton
-street: "32 Road"
-housenumber: 479
+street: 32 Road
+housenumber: "479"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 344217882
-type: way
+type: node
 latitude: 39.68418
 longitude: -104.93961
 postcode: "80222"
 city: Denver
-street: "East Mexico Avenue"
-housenumber: 4100
-phone: "+1 303-756-0892"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petco.com/"
+street: East Mexico Avenue
+housenumber: "4100"
+phone: +1 303-756-0892
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petco.com/

@@ -1,11 +1,11 @@
 id: 1080433489
-type: way
+type: node
 latitude: 39.84222
 longitude: -105.05699
 postcode: "80003"
 city: Arvada
-street: "Chase Drive"
-housenumber: 8002
-phone: "+1 303-429-7715"
+street: Chase Drive
+housenumber: "8002"
+phone: +1 303-429-7715
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/co/arvada/8002-chase-dr-18594"
+website: https://www.7-eleven.com/locations/co/arvada/8002-chase-dr-18594

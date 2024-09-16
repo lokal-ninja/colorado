@@ -1,11 +1,11 @@
 id: 332765199
-type: way
+type: node
 latitude: 39.73249
 longitude: -104.98811
 postcode: "80203"
 city: Denver
-street: "Broadway"
-housenumber: 1001
+street: Broadway
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

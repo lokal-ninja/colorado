@@ -1,11 +1,11 @@
 id: 360434028
-type: way
+type: node
 latitude: 39.07722
 longitude: -108.55697
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 945
-phone: "+1-970-254-8377"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.furniturerow.com/locations/grand-junction/co/100112"
+street: North Avenue
+housenumber: "945"
+phone: +1-970-254-8377
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.furniturerow.com/locations/grand-junction/co/100112

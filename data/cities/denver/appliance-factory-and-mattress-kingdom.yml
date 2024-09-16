@@ -1,11 +1,11 @@
 id: 498435926
-type: way
+type: node
 latitude: 39.75684
 longitude: -104.9404
 postcode: "80207"
 city: Denver
-street: "Colorado Boulevard"
-housenumber: 2816
-phone: "+1-303-388-0823"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-18:00, Su 11:00-18:00"
+street: Colorado Boulevard
+housenumber: "2816"
+phone: +1-303-388-0823
+opening_hours: Mo-Fr 09:00-18:00, Sa 10:00-18:00, Su 11:00-18:00
 website: ""

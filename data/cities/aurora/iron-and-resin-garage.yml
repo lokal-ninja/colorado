@@ -1,11 +1,11 @@
 id: 1242060069
-type: way
+type: node
 latitude: 39.75346
 longitude: -104.8773
 postcode: "80010"
 city: Aurora
-street: "Dallas Street"
-housenumber: 2501
-phone: "+1-303-997-7917"
+street: Dallas Street
+housenumber: "2501"
+phone: +1-303-997-7917
 opening_hours: ""
-website: "https://ironandresin.com/"
+website: https://ironandresin.com/

@@ -1,11 +1,11 @@
 id: 439874645
-type: way
+type: node
 latitude: 38.26694
 longitude: -104.6129
 postcode: "81003"
 city: Pueblo
-street: "North Victoria Avenue"
-housenumber: 101
+street: North Victoria Avenue
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

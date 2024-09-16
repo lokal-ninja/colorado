@@ -4,8 +4,8 @@ latitude: 39.75119
 longitude: -105.00079
 postcode: "80202"
 city: Denver
-street: "16th Street Mall"
-housenumber: 1610
+street: 16th Street Mall
+housenumber: "1610"
 phone: ""
 opening_hours: ""
-website: "https://winedenver.net/"
+website: https://winedenver.net/

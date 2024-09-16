@@ -1,11 +1,11 @@
 id: 814042692
-type: way
+type: node
 latitude: 40.15925
 longitude: -104.94279
 postcode: "80504"
 city: Firestone
-street: "Colorado Boulevard"
-housenumber: 10925
+street: Colorado Boulevard
+housenumber: "10925"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/firestone/10925-colorado-blvd.html"
+website: https://www.autozone.com/locations/co/firestone/10925-colorado-blvd.html

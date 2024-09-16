@@ -1,11 +1,11 @@
 id: 365762970
-type: way
+type: node
 latitude: 39.73495
 longitude: -105.1833
 postcode: ""
 city: Golden
-street: "South Golden Road"
-housenumber: 16350
-phone: "303-472-3711"
+street: South Golden Road
+housenumber: "16350"
+phone: 303-472-3711
 opening_hours: ""
 website: ""

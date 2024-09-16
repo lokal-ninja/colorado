@@ -1,11 +1,11 @@
 id: 197477374
-type: way
+type: node
 latitude: 38.93682
 longitude: -104.75703
 postcode: "80918"
 city: Colorado Springs
-street: "Rangewood Drive"
-housenumber: 7350
+street: Rangewood Drive
+housenumber: "7350"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/co/coloradosprings/oil-change-fl0001.html"
+website: https://store.vioc.com/co/coloradosprings/oil-change-fl0001.html

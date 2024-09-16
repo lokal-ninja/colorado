@@ -1,11 +1,11 @@
 id: 816675199
-type: way
+type: node
 latitude: 39.58211
 longitude: -104.81758
 postcode: "80112"
 city: Englewood
-street: "South Eagle Street"
-housenumber: 7436
+street: South Eagle Street
+housenumber: "7436"
 phone: ""
 opening_hours: ""
 website: ""

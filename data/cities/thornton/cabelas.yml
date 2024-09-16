@@ -1,11 +1,11 @@
 id: 337252595
-type: way
+type: node
 latitude: 39.95213
 longitude: -104.98604
 postcode: "80023"
 city: Thornton
-street: "Lincoln Street"
-housenumber: 14050
+street: Lincoln Street
+housenumber: "14050"
 phone: ""
-opening_hours: "Mo-Sa 09:00-08:00; Su 09:00-18:00"
+opening_hours: Mo-Sa 09:00-08:00; Su 09:00-18:00
 website: ""

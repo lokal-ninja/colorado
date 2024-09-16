@@ -1,11 +1,11 @@
 id: 202062273
-type: way
+type: node
 latitude: 38.80589
 longitude: -104.75676
 postcode: "80916"
 city: Colorado Springs
-street: "South Academy Boulevard"
-housenumber: 1899
+street: South Academy Boulevard
+housenumber: "1899"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/colorado-springs/1899-s-academy-blvd.html"
+website: https://www.autozone.com/locations/co/colorado-springs/1899-s-academy-blvd.html

@@ -1,11 +1,11 @@
 id: 1068852171
-type: way
+type: node
 latitude: 39.74044
 longitude: -104.84773
 postcode: "80010"
 city: Aurora
-street: "East Colfax Avenue"
-housenumber: 12085
-phone: "+1 303-344-0902"
+street: East Colfax Avenue
+housenumber: "12085"
+phone: +1 303-344-0902
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/co/aurora/12085-e-colfax-39768"
+website: https://www.7-eleven.com/locations/co/aurora/12085-e-colfax-39768

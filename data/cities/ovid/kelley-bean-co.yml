@@ -1,11 +1,11 @@
 id: 801465074
-type: way
+type: node
 latitude: 40.95885
 longitude: -102.38793
 postcode: "80744"
 city: Ovid
-street: "Main Street"
-housenumber: 101
+street: Main Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

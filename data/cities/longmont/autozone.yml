@@ -1,11 +1,11 @@
 id: 147098194
-type: way
+type: node
 latitude: 40.1798
 longitude: -105.10198
 postcode: "80501"
 city: Longmont
-street: "Main Street"
-housenumber: 1210
+street: Main Street
+housenumber: "1210"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/longmont/1210-main-st.html"
+website: https://www.autozone.com/locations/co/longmont/1210-main-st.html

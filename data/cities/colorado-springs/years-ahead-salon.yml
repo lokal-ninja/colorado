@@ -1,11 +1,11 @@
 id: 311730011
-type: way
+type: node
 latitude: 38.82605
 longitude: -104.82476
 postcode: "80903"
 city: Colorado Springs
-street: "South Tejon Street"
-housenumber: 524
-phone: "+1-719-635-5552"
+street: South Tejon Street
+housenumber: "524"
+phone: +1-719-635-5552
 opening_hours: ""
-website: "http://www.yearsaheadsalon.com/"
+website: http://www.yearsaheadsalon.com/

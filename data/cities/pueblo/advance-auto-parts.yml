@@ -1,11 +1,11 @@
 id: 974169057
-type: way
+type: node
 latitude: 38.2866
 longitude: -104.59804
 postcode: "81001"
 city: Pueblo
-street: "North Hudson Avenue"
-housenumber: 2015
+street: North Hudson Avenue
+housenumber: "2015"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/co/pueblo/2015-n-hudson-ave"
+website: https://stores.advanceautoparts.com/co/pueblo/2015-n-hudson-ave

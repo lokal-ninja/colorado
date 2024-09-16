@@ -4,8 +4,8 @@ latitude: 39.72097
 longitude: -104.79186
 postcode: "80011"
 city: Aurora
-street: "Airport Boulevard"
-housenumber: 323
+street: Airport Boulevard
+housenumber: "323"
 phone: ""
 opening_hours: ""
-website: "https://caropractor.com/"
+website: https://caropractor.com/

@@ -1,11 +1,11 @@
 id: 130924429
-type: way
+type: node
 latitude: 38.84826
 longitude: -104.85035
 postcode: "80904"
 city: Colorado Springs
-street: "West Uintah Street"
-housenumber: 1902
-phone: "+1 719-635-0415"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/colorado-springs/1904-west-uintah-25902"
+street: West Uintah Street
+housenumber: "1902"
+phone: +1 719-635-0415
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/colorado-springs/1904-west-uintah-25902

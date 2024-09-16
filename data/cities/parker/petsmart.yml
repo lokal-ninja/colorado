@@ -1,11 +1,11 @@
 id: 396719408
-type: way
+type: node
 latitude: 39.51189
 longitude: -104.7651
 postcode: "80134"
 city: Parker
-street: "South Parker Road"
-housenumber: 11183
-phone: "+1 720-851-7790"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/co/parker-store1071.html"
+street: South Parker Road
+housenumber: "11183"
+phone: +1 720-851-7790
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/co/parker-store1071.html

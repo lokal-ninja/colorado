@@ -1,11 +1,11 @@
 id: 804485876
-type: way
+type: node
 latitude: 39.28513
 longitude: -103.27865
 postcode: "80804"
 city: Arriba
-street: "Pine Street"
-housenumber: 115
+street: Pine Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

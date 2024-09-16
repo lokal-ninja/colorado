@@ -1,11 +1,11 @@
 id: 420136795
-type: way
+type: node
 latitude: 38.44002
 longitude: -105.23309
 postcode: ""
 city: Cañon City
-street: "South 9th Street"
-housenumber: 500
+street: South 9th Street
+housenumber: "500"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00; PH closed"
+opening_hours: Mo-Fr 07:00-16:00; PH closed
 website: ""

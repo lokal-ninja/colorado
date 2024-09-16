@@ -1,11 +1,11 @@
 id: 264728293
-type: way
+type: node
 latitude: 38.32602
 longitude: -104.69788
 postcode: "81007"
 city: Pueblo
-street: "North Market Plaza"
-housenumber: 1017
-phone: "+1 719-547-2108"
+street: North Market Plaza
+housenumber: "1017"
+phone: +1 719-547-2108
 opening_hours: ""
-website: "https://local.safeway.com/safeway/co/pueblo/1017-n-market-plaza.html"
+website: https://local.safeway.com/safeway/co/pueblo/1017-n-market-plaza.html

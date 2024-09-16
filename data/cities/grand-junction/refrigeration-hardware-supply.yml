@@ -1,11 +1,11 @@
 id: 497202452
-type: way
+type: node
 latitude: 39.09621
 longitude: -108.58497
 postcode: "81505"
 city: Grand Junction
-street: "Foresight Circle"
-housenumber: 632
-phone: "+1-800-423-2446;+1-800-716-7788"
+street: Foresight Circle
+housenumber: "632"
+phone: +1-800-423-2446;+1-800-716-7788
 opening_hours: ""
-website: "https://www.rhsparts.com/"
+website: https://www.rhsparts.com/

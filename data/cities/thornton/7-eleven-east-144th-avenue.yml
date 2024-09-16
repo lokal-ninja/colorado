@@ -1,11 +1,11 @@
 id: 1039264658
-type: way
+type: node
 latitude: 39.95793
 longitude: -104.97618
 postcode: "80241"
 city: Thornton
-street: "East 144th Avenue"
-housenumber: 905
+street: East 144th Avenue
+housenumber: "905"
 phone: "+13036196076"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/thornton/905-e-144th-ave-38758"
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/thornton/905-e-144th-ave-38758

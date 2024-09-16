@@ -1,11 +1,11 @@
 id: 541381245
-type: way
+type: node
 latitude: 38.26321
 longitude: -104.614
 postcode: "81003"
 city: Pueblo
-street: "South Main Street"
-housenumber: 223
+street: South Main Street
+housenumber: "223"
 phone: ""
 opening_hours: ""
 website: ""

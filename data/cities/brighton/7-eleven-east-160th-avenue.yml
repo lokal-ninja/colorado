@@ -1,11 +1,11 @@
 id: 806194776
-type: way
+type: node
 latitude: 39.98646
 longitude: -104.80962
-postcode: "80601-2231"
+postcode: 80601-2231
 city: Brighton
-street: "East 160th Avenue"
-housenumber: 1012
-phone: "+1 303-654-0296"
+street: East 160th Avenue
+housenumber: "1012"
+phone: +1 303-654-0296
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/co/brighton/1012-bridge-st-13169"
+website: https://www.7-eleven.com/locations/co/brighton/1012-bridge-st-13169

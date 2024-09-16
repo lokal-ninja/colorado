@@ -1,11 +1,11 @@
 id: 776210856
-type: way
+type: node
 latitude: 39.95382
 longitude: -104.98455
 postcode: "80023"
 city: Thornton
-street: "Lincoln Stree"
-housenumber: 14200
-phone: "+1 720-278-7853"
-opening_hours: "09:00-23:00"
-website: "https://stores.burlington.com/co/thornton/1120"
+street: Lincoln Stree
+housenumber: "14200"
+phone: +1 720-278-7853
+opening_hours: 09:00-23:00
+website: https://stores.burlington.com/co/thornton/1120

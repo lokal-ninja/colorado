@@ -1,11 +1,11 @@
 id: 556554184
-type: way
+type: node
 latitude: 37.95324
 longitude: -104.81685
 postcode: "81019"
 city: Colorado City
-street: "State Highway 165"
-housenumber: 6850
+street: State Highway 165
+housenumber: "6850"
 phone: ""
 opening_hours: ""
 website: ""

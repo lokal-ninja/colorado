@@ -4,8 +4,8 @@ latitude: 39.61561
 longitude: -104.03988
 postcode: "80105"
 city: Deer Trail
-street: "7th Avenue"
-housenumber: 555
-phone: "+1-303-807-0769"
-opening_hours: "24/7"
+street: 7th Avenue
+housenumber: "555"
+phone: +1-303-807-0769
+opening_hours: 24/7
 website: ""

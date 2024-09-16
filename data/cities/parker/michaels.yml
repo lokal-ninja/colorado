@@ -1,11 +1,11 @@
 id: 307234456
-type: way
+type: node
 latitude: 39.50849
 longitude: -104.76851
 postcode: "80134"
 city: Parker
-street: "South Twenty Mile Road"
-housenumber: 11425
-phone: "+1 303-840-5891"
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://locations.michaels.com/co/parker/3751"
+street: South Twenty Mile Road
+housenumber: "11425"
+phone: +1 303-840-5891
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-20:00
+website: https://locations.michaels.com/co/parker/3751

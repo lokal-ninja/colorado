@@ -1,11 +1,11 @@
 id: 130574087
-type: way
+type: node
 latitude: 38.83541
 longitude: -106.12933
 postcode: "81211"
 city: Buena Vista
-street: "US Highway 24"
-housenumber: 610
-phone: "+1-719-395-2121"
-opening_hours: "24/7"
+street: US Highway 24
+housenumber: "610"
+phone: +1-719-395-2121
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 511539516
-type: way
+type: node
 latitude: 39.97168
 longitude: -104.77288
 postcode: "80601"
 city: Brighton
-street: "East Bromley Lane"
-housenumber: 3876
-phone: "+1-303-659-0376"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/brighton/3876-e-bromley-ln-35715"
+street: East Bromley Lane
+housenumber: "3876"
+phone: +1-303-659-0376
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/brighton/3876-e-bromley-ln-35715

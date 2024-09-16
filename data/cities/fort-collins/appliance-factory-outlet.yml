@@ -2,10 +2,10 @@ id: 9287275896
 type: node
 latitude: 40.52322
 longitude: -105.07773
-postcode: "80525-3741"
+postcode: 80525-3741
 city: Fort Collins
-street: "South Mason Street"
-housenumber: 4603
-phone: "+1-970-206-0640"
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.appliancefactory.com/locations/fort_collins.html"
+street: South Mason Street
+housenumber: "4603"
+phone: +1-970-206-0640
+opening_hours: Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.appliancefactory.com/locations/fort_collins.html

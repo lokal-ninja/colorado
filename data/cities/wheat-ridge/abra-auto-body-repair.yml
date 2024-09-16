@@ -1,11 +1,11 @@
 id: 689176664
-type: way
+type: node
 latitude: 39.78486
 longitude: -105.11626
 postcode: ""
 city: Wheat Ridge
-street: "West 48th Avenue"
-housenumber: 10501
+street: West 48th Avenue
+housenumber: "10501"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
 website: ""

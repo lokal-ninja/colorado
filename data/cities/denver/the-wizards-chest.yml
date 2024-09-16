@@ -1,11 +1,11 @@
 id: 129134763
-type: way
+type: node
 latitude: 39.72368
 longitude: -104.98834
 postcode: "80203"
 city: Denver
-street: "Broadway"
-housenumber: 451
-phone: "+1 303 321 4304"
-opening_hours: "Mo-Fr 11:00-19:00; Sa-Su 10:00-19:00"
-website: "https://www.wizardschest.com"
+street: Broadway
+housenumber: "451"
+phone: +1 303 321 4304
+opening_hours: Mo-Fr 11:00-19:00; Sa-Su 10:00-19:00
+website: https://www.wizardschest.com

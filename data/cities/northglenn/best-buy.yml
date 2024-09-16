@@ -1,11 +1,11 @@
 id: 149982991
-type: way
+type: node
 latitude: 39.88412
 longitude: -104.98924
 postcode: "80234"
 city: Northglenn
-street: "West 104th Avenue"
-housenumber: 104
-phone: "+1 303-252-8677"
+street: West 104th Avenue
+housenumber: "104"
+phone: +1 303-252-8677
 opening_hours: ""
-website: "https://stores.bestbuy.com/co/denver/104-w-104th-ave-1416.html"
+website: https://stores.bestbuy.com/co/denver/104-w-104th-ave-1416.html

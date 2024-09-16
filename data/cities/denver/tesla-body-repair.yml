@@ -4,8 +4,8 @@ latitude: 39.79028
 longitude: -104.98163
 postcode: "80216"
 city: Denver
-street: "East 52nd Avenue"
-housenumber: 450
+street: East 52nd Avenue
+housenumber: "450"
 phone: ""
 opening_hours: ""
-website: "https://www.tesla.com/support/body-shop-support"
+website: https://www.tesla.com/support/body-shop-support

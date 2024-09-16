@@ -1,11 +1,11 @@
 id: 45610829
-type: way
+type: node
 latitude: 39.91652
 longitude: -104.93901
 postcode: "80241"
 city: Thornton
-street: "Colorado Boulevard"
-housenumber: 12090
-phone: "+1 303-255-9700"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/co/thornton-345.shtml"
+street: Colorado Boulevard
+housenumber: "12090"
+phone: +1 303-255-9700
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/co/thornton-345.shtml

@@ -1,11 +1,11 @@
 id: 698244424
-type: way
+type: node
 latitude: 39.49221
 longitude: -104.75895
 postcode: "80134"
 city: Parker
-street: "South Parker Road"
-housenumber: 12340
-phone: "+1-303-805-9700"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: South Parker Road
+housenumber: "12340"
+phone: +1-303-805-9700
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.brakesplus.com

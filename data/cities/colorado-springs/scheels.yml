@@ -1,11 +1,11 @@
 id: 917663381
-type: way
+type: node
 latitude: 38.99365
 longitude: -104.8071
 postcode: "80921"
 city: Colorado Springs
-street: "Interquest Parkway"
-housenumber: 1226
+street: Interquest Parkway
+housenumber: "1226"
 phone: ""
 opening_hours: ""
 website: ""

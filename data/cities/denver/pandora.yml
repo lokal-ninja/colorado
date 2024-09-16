@@ -4,8 +4,8 @@ latitude: 39.7434
 longitude: -104.97131
 postcode: "80203"
 city: Denver
-street: "East 17th Avenue"
-housenumber: 1225
-phone: "+1-303-832-7073"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-17:00"
-website: "http://pandoraonthehill.com/"
+street: East 17th Avenue
+housenumber: "1225"
+phone: +1-303-832-7073
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-17:00
+website: http://pandoraonthehill.com/

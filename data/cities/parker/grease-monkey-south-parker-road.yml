@@ -1,11 +1,11 @@
 id: 229019101
-type: way
+type: node
 latitude: 39.51598
 longitude: -104.76547
 postcode: "80134"
 city: Parker
-street: "South Parker Road"
-housenumber: 11791
+street: South Parker Road
+housenumber: "11791"
 phone: ""
 opening_hours: ""
 website: ""

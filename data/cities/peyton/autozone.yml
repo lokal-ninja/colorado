@@ -1,11 +1,11 @@
 id: 477020112
-type: way
+type: node
 latitude: 38.94025
 longitude: -104.6094
 postcode: "80831"
 city: Peyton
-street: "Meridian Market Vw"
-housenumber: 11735
+street: Meridian Market Vw
+housenumber: "11735"
 phone: ""
-opening_hours: "07:30-22:00"
-website: "https://www.autozone.com/locations/co/peyton/11735-meridian-market-view.html"
+opening_hours: 07:30-22:00
+website: https://www.autozone.com/locations/co/peyton/11735-meridian-market-view.html

@@ -1,11 +1,11 @@
 id: 544400970
-type: way
+type: node
 latitude: 38.311
 longitude: -104.62858
 postcode: "81008"
 city: Pueblo
-street: "US 50"
-housenumber: 1617
+street: US 50
+housenumber: "1617"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/pueblo/1617-w-us-hwy-50--ste-170.html"
+website: https://www.autozone.com/locations/co/pueblo/1617-w-us-hwy-50--ste-170.html

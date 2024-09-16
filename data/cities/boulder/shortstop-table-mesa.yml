@@ -1,11 +1,11 @@
 id: 87325713
-type: way
+type: node
 latitude: 39.98561
 longitude: -105.23808
 postcode: "80305"
 city: Boulder
-street: "Table Mesa Drive"
-housenumber: 4742
-phone: "+1-303-494-8069"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.shortstopco.com/"
+street: Table Mesa Drive
+housenumber: "4742"
+phone: +1-303-494-8069
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.shortstopco.com/

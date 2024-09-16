@@ -1,11 +1,11 @@
 id: 286276933
-type: way
+type: node
 latitude: 39.07727
 longitude: -108.5704
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 101
-phone: "+1 970 628 3993"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00"
-website: "https://www.midas.com/store/co/grand-junction/101-north-avenue-81501?shopnum=5435"
+street: North Avenue
+housenumber: "101"
+phone: +1 970 628 3993
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00
+website: https://www.midas.com/store/co/grand-junction/101-north-avenue-81501?shopnum=5435

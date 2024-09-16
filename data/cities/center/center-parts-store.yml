@@ -1,11 +1,11 @@
 id: 785503025
-type: way
+type: node
 latitude: 37.75007
 longitude: -106.10351
 postcode: "81125"
 city: Center
-street: "South Torres Street"
-housenumber: 651
-phone: "+1-719-754-2766"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-12:00"
-website: "https://www.carquest.com/stores/co/center/5392"
+street: South Torres Street
+housenumber: "651"
+phone: +1-719-754-2766
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-12:00
+website: https://www.carquest.com/stores/co/center/5392

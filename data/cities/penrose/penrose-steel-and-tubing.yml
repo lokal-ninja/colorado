@@ -1,11 +1,11 @@
 id: 1087102614
-type: way
+type: node
 latitude: 38.45538
 longitude: -105.08759
 postcode: "81240"
 city: Penrose
-street: "County Road 123"
-housenumber: 5425
+street: County Road 123
+housenumber: "5425"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00"
+opening_hours: Mo-Fr 08:00-16:00
 website: ""

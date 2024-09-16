@@ -1,11 +1,11 @@
 id: 213206112
-type: way
+type: node
 latitude: 38.85059
 longitude: -104.8678
 postcode: "80904"
 city: Colorado Springs
-street: "West Colorado Avenue"
-housenumber: 2820
+street: West Colorado Avenue
+housenumber: "2820"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1291626027
-type: way
+type: node
 latitude: 39.12461
 longitude: -108.53431
 postcode: "81506"
 city: Grand Junction
-street: "Justice Court"
-housenumber: 826
-phone: "+1-970-778-3744"
-opening_hours: "Mo-Th 09:30-17:00; Fr-Su by appointment"
-website: "https://timberleaftrailers.com/"
+street: Justice Court
+housenumber: "826"
+phone: +1-970-778-3744
+opening_hours: Mo-Th 09:30-17:00; Fr-Su "by appointment"
+website: https://timberleaftrailers.com/

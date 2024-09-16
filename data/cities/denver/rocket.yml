@@ -1,11 +1,11 @@
 id: 449108226
-type: way
+type: node
 latitude: 39.83626
 longitude: -104.72046
 postcode: "80249"
 city: Denver
-street: "Peña Boulevard"
-housenumber: 7680
+street: Peña Boulevard
+housenumber: "7680"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

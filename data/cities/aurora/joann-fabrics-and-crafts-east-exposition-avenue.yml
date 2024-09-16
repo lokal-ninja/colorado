@@ -1,11 +1,11 @@
 id: 669372390
-type: way
+type: node
 latitude: 39.70511
 longitude: -104.82728
 postcode: "80012"
 city: Aurora
-street: "East Exposition Avenue"
-housenumber: 13861
-phone: "+1 303-344-9973"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/co/aurora/1672/"
+street: East Exposition Avenue
+housenumber: "13861"
+phone: +1 303-344-9973
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/co/aurora/1672/

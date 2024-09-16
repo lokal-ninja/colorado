@@ -4,8 +4,8 @@ latitude: 40.58514
 longitude: -105.05304
 postcode: "80524"
 city: Fort Collins
-street: "12th Street"
-housenumber: 226
-phone: "+1-970-484-1000"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "http://fortcollinsautosalvage.com"
+street: 12th Street
+housenumber: "226"
+phone: +1-970-484-1000
+opening_hours: Mo-Fr 09:00-17:00
+website: http://fortcollinsautosalvage.com

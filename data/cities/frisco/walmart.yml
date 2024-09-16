@@ -1,11 +1,11 @@
 id: 131021954
-type: way
+type: node
 latitude: 39.58747
 longitude: -106.09601
 postcode: "80443"
 city: Frisco
-street: "Summit Boulevard"
-housenumber: 840
-phone: "+1 970-668-3959"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/986/frisco-co/whats-new"
+street: Summit Boulevard
+housenumber: "840"
+phone: +1 970-668-3959
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/986/frisco-co/whats-new

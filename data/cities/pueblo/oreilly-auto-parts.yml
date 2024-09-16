@@ -1,11 +1,11 @@
 id: 543804615
-type: way
+type: node
 latitude: 38.30918
 longitude: -104.62267
 postcode: "81008"
 city: Pueblo
-street: "West US Highway 50"
-housenumber: 1005
+street: West US Highway 50
+housenumber: "1005"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/pueblo/autoparts-2933.html"
+website: https://locations.oreillyauto.com/co/pueblo/autoparts-2933.html

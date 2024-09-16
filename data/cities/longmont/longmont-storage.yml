@@ -1,11 +1,11 @@
 id: 1140395983
-type: way
+type: node
 latitude: 40.15258
 longitude: -105.14266
 postcode: "80503"
 city: Longmont
-street: "Nelson Road"
-housenumber: 3026
+street: Nelson Road
+housenumber: "3026"
 phone: ""
 opening_hours: ""
-website: "https://www.longmontstorage.com/"
+website: https://www.longmontstorage.com/

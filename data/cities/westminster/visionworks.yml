@@ -1,11 +1,11 @@
 id: 230750263
-type: way
+type: node
 latitude: 39.86841
 longitude: -105.05254
 postcode: "80031"
 city: Westminster
-street: "Sheridan Boulevard"
-housenumber: 9410
-phone: "+1-303-429-1382"
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "https://locations.visionworks.com/ll/US/CO/Westminster/9410-Sheridan-Blvd"
+street: Sheridan Boulevard
+housenumber: "9410"
+phone: +1-303-429-1382
+opening_hours: Mo-Sa 11:00-18:00
+website: https://locations.visionworks.com/ll/US/CO/Westminster/9410-Sheridan-Blvd

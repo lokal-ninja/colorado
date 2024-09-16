@@ -4,8 +4,8 @@ latitude: 39.66928
 longitude: -104.94028
 postcode: "80222"
 city: Denver
-street: "South Colorado Boulevard"
-housenumber: 2600
-phone: "+1-303-504-0101"
-opening_hours: "Mo-Fr 08:00-20:00, Su 09:00-19:00"
-website: "https://www.batteriesplus.com/"
+street: South Colorado Boulevard
+housenumber: "2600"
+phone: +1-303-504-0101
+opening_hours: Mo-Fr 08:00-20:00, Su 09:00-19:00
+website: https://www.batteriesplus.com/

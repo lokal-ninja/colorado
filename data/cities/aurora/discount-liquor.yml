@@ -1,11 +1,11 @@
 id: 673160635
-type: way
+type: node
 latitude: 39.66809
 longitude: -104.82937
 postcode: "80014"
 city: Aurora
-street: "East Yale Avenue"
-housenumber: 13751
+street: East Yale Avenue
+housenumber: "13751"
 phone: ""
 opening_hours: ""
 website: ""

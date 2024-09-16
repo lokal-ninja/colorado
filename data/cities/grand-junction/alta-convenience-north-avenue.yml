@@ -1,11 +1,11 @@
 id: 428085725
-type: way
+type: node
 latitude: 39.07848
 longitude: -108.49759
 postcode: "81504"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 2998
-phone: "+1-970-245-3466"
-opening_hours: "Mo-Su 05:00-21:30"
-website: "https://altaconvenience.com/locations/alta-convenience-6125/"
+street: North Avenue
+housenumber: "2998"
+phone: +1-970-245-3466
+opening_hours: Mo-Su 05:00-21:30
+website: https://altaconvenience.com/locations/alta-convenience-6125/

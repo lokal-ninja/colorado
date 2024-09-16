@@ -1,11 +1,11 @@
 id: 143804755
-type: way
+type: node
 latitude: 39.92064
 longitude: -105.08991
 postcode: "80020"
 city: Broomfield
-street: "West Midway Boulevard"
-housenumber: 1660
+street: West Midway Boulevard
+housenumber: "1660"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
 website: ""

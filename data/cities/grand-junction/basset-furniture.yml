@@ -1,11 +1,11 @@
 id: 497201045
-type: way
+type: node
 latitude: 39.0727
 longitude: -108.57374
 postcode: "81501"
 city: Grand Junction
-street: "West Gunnison Avenue"
-housenumber: 325
+street: West Gunnison Avenue
+housenumber: "325"
 phone: ""
 opening_hours: ""
 website: ""

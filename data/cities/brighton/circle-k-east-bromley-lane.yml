@@ -1,11 +1,11 @@
 id: 450266868
-type: way
+type: node
 latitude: 39.97181
 longitude: -104.75747
 postcode: "80601"
 city: Brighton
-street: "East Bromley Lane"
-housenumber: 4780
-phone: "+1-303-659-1352"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/brighton/4780-e-bromley-ln/2741125"
+street: East Bromley Lane
+housenumber: "4780"
+phone: +1-303-659-1352
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/brighton/4780-e-bromley-ln/2741125

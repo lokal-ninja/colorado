@@ -1,11 +1,11 @@
 id: 679944119
-type: way
+type: node
 latitude: 39.11231
 longitude: -108.64839
 postcode: "81505"
 city: Grand Junction
-street: "US Highway 6 and 50"
-housenumber: 2195
-phone: "+1-970-245-1491"
-opening_hours: "24/7"
-website: "https://locations.pilotflyingj.com/us/co/grand-junction/2195-hwy-6-and-50"
+street: US Highway 6 and 50
+housenumber: "2195"
+phone: +1-970-245-1491
+opening_hours: 24/7
+website: https://locations.pilotflyingj.com/us/co/grand-junction/2195-hwy-6-and-50

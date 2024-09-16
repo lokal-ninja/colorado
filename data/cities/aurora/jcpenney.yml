@@ -1,11 +1,11 @@
 id: 361469676
-type: way
+type: node
 latitude: 39.60235
 longitude: -104.70532
 postcode: "80016"
 city: Aurora
-street: "South Central Street"
-housenumber: 6302
+street: South Central Street
+housenumber: "6302"
 phone: ""
 opening_hours: ""
 website: ""

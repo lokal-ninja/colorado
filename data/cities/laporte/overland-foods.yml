@@ -1,11 +1,11 @@
 id: 278753797
-type: way
+type: node
 latitude: 40.62671
 longitude: -105.13912
-postcode: "80535-9362"
+postcode: 80535-9362
 city: LaPorte
-street: "County Road 54G"
-housenumber: 3333
+street: County Road 54G
+housenumber: "3333"
 phone: ""
-opening_hours: "Mo-Su 06:30-21:00"
+opening_hours: Mo-Su 06:30-21:00
 website: ""

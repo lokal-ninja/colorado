@@ -1,11 +1,11 @@
 id: 219971942
-type: way
+type: node
 latitude: 39.94435
 longitude: -105.01496
 postcode: "80023"
 city: Broomfield
-street: "West 136th Avenue"
-housenumber: 2355
+street: West 136th Avenue
+housenumber: "2355"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.01839
 longitude: -105.27697
 postcode: "80302"
 city: Boulder
-street: "Pearl Street"
-housenumber: 1408
+street: Pearl Street
+housenumber: "1408"
 phone: ""
 opening_hours: ""
-website: "https://intothewind.com/"
+website: https://intothewind.com/

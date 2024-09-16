@@ -1,11 +1,11 @@
 id: 208958165
-type: way
+type: node
 latitude: 38.89534
 longitude: -104.85541
 postcode: "80907"
 city: Colorado Springs
-street: "Garden of the Gods Road"
-housenumber: 1483
-phone: "+1 (719) 687-7475"
-opening_hours: "Tu-Sa 10:00-17:00"
-website: "https://cycledifferent.com/"
+street: Garden of the Gods Road
+housenumber: "1483"
+phone: +1 (719) 687-7475
+opening_hours: Tu-Sa 10:00-17:00
+website: https://cycledifferent.com/

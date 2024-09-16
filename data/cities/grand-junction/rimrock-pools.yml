@@ -1,11 +1,11 @@
 id: 1300776715
-type: way
+type: node
 latitude: 39.07832
 longitude: -108.57409
 postcode: "81505"
 city: Grand Junction
-street: "US Highway 6 and 50"
-housenumber: 2586
-phone: "+1-970-644-5094"
-opening_hours: "Mo-Sa 09:00-17:00; Su off"
-website: "https://rimrockpools.com/"
+street: US Highway 6 and 50
+housenumber: "2586"
+phone: +1-970-644-5094
+opening_hours: Mo-Sa 09:00-17:00; Su off
+website: https://rimrockpools.com/

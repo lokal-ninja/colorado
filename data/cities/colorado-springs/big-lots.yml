@@ -1,11 +1,11 @@
 id: 73534007
-type: way
+type: node
 latitude: 38.87548
 longitude: -104.71761
 postcode: "80922"
 city: Colorado Springs
-street: "New Center Point"
-housenumber: 2975
-phone: "+1 719-380-7213"
-opening_hours: "09:00-21:00"
-website: "https://local.biglots.com/co/colorado-springs/2975-new-center-point"
+street: New Center Point
+housenumber: "2975"
+phone: +1 719-380-7213
+opening_hours: 09:00-21:00
+website: https://local.biglots.com/co/colorado-springs/2975-new-center-point

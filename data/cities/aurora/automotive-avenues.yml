@@ -1,11 +1,11 @@
 id: 270786928
-type: way
+type: node
 latitude: 39.67803
 longitude: -104.86442
 postcode: "80014"
 city: Aurora
-street: "South Havana Street"
-housenumber: 2150
-phone: "(303) 750-5000"
+street: South Havana Street
+housenumber: "2150"
+phone: (303) 750-5000
 opening_hours: ""
-website: "http://www.autoaves.com/Aurora"
+website: http://www.autoaves.com/Aurora

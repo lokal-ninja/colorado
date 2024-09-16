@@ -1,11 +1,11 @@
 id: 276418113
-type: way
+type: node
 latitude: 39.40855
 longitude: -104.85641
-postcode: "80108-7838"
+postcode: 80108-7838
 city: Castle Rock
-street: "Founders Parkway"
-housenumber: 5010
-phone: "+1 303-663-4322"
-opening_hours: "Mo-Sa 08:00-22:00; Su 08:00-21:00"
-website: "https://www.target.com/sl/castle-rock/1326"
+street: Founders Parkway
+housenumber: "5010"
+phone: +1 303-663-4322
+opening_hours: Mo-Sa 08:00-22:00; Su 08:00-21:00
+website: https://www.target.com/sl/castle-rock/1326

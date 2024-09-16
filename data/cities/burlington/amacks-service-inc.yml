@@ -4,8 +4,8 @@ latitude: 39.30162
 longitude: -102.25252
 postcode: "80807"
 city: Burlington
-street: "Rose Avenue"
-housenumber: 100
+street: Rose Avenue
+housenumber: "100"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

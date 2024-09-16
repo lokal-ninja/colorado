@@ -1,11 +1,11 @@
 id: 512454970
-type: way
+type: node
 latitude: 39.98745
 longitude: -104.80014
 postcode: "80601"
 city: Brighton
-street: "East Bridge Street"
-housenumber: 1821
+street: East Bridge Street
+housenumber: "1821"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1821+e+bridge+st-brighton-co-80601/id=6344"
+website: https://www.walgreens.com/locator/walgreens-1821+e+bridge+st-brighton-co-80601/id=6344

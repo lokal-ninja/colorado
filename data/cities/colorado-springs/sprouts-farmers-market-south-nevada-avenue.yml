@@ -1,11 +1,11 @@
 id: 1195823167
-type: way
+type: node
 latitude: 38.80946
 longitude: -104.8234
 postcode: "80905"
 city: Colorado Springs
-street: "South Nevada Avenue"
-housenumber: 1720
-phone: "+1 719-719-1957"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/co/colorado-springs/south-nevada-ave/"
+street: South Nevada Avenue
+housenumber: "1720"
+phone: +1 719-719-1957
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/co/colorado-springs/south-nevada-ave/

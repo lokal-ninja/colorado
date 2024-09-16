@@ -1,11 +1,11 @@
 id: 1312940476
-type: way
+type: node
 latitude: 39.40636
 longitude: -104.88007
 postcode: "80108"
 city: Castle Rock
-street: "Regent Street"
-housenumber: 4390
-phone: "+1-303-469-6900"
+street: Regent Street
+housenumber: "4390"
+phone: +1-303-469-6900
 opening_hours: ""
-website: "https://www.storhauscondos.com/"
+website: https://www.storhauscondos.com/

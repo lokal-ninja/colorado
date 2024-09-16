@@ -1,11 +1,11 @@
 id: 535678506
-type: way
+type: node
 latitude: 40.52249
 longitude: -104.71363
 postcode: "80615"
 city: Eaton
-street: "Elm Avenue"
-housenumber: 180
+street: Elm Avenue
+housenumber: "180"
 phone: ""
-opening_hours: "06:00-21:00"
+opening_hours: 06:00-21:00
 website: ""

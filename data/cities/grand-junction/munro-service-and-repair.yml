@@ -1,11 +1,11 @@
 id: 490989770
-type: way
+type: node
 latitude: 39.05996
 longitude: -108.55749
 postcode: "81501"
 city: Grand Junction
-street: "South 9th Street"
-housenumber: 812
-phone: "+1 800 933 1290"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.munrosupply.com/"
+street: South 9th Street
+housenumber: "812"
+phone: +1 800 933 1290
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.munrosupply.com/

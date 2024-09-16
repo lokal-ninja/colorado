@@ -1,11 +1,11 @@
 id: 247975064
-type: way
+type: node
 latitude: 40.40672
 longitude: -104.98827
 postcode: "80534"
 city: Johnstown
-street: "East Eisenhower Boulevard"
-housenumber: 6150
+street: East Eisenhower Boulevard
+housenumber: "6150"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 1262414171
-type: way
+type: node
 latitude: 39.40661
 longitude: -104.87896
 postcode: "80108"
 city: Castle Rock
-street: "Lombard Street"
-housenumber: 4455
-phone: "+1-720-812-5224"
-opening_hours: "24/7"
-website: "https://www.maverik.com/"
+street: Lombard Street
+housenumber: "4455"
+phone: +1-720-812-5224
+opening_hours: 24/7
+website: https://www.maverik.com/

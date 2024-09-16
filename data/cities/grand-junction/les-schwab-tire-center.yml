@@ -1,11 +1,11 @@
 id: 1278311850
-type: way
+type: node
 latitude: 39.07606
 longitude: -108.516
 postcode: "81501"
 city: Grand Junction
-street: "Sparn Street"
-housenumber: 492
-phone: "+1-970-712-5112"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.lesschwab.com/stores/co/grand-junction/492-sparn-st"
+street: Sparn Street
+housenumber: "492"
+phone: +1-970-712-5112
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.lesschwab.com/stores/co/grand-junction/492-sparn-st

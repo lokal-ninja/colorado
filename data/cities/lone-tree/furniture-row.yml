@@ -1,11 +1,11 @@
 id: 37836449
-type: way
+type: node
 latitude: 39.56376
 longitude: -104.89604
 postcode: "80124"
 city: Lone Tree
-street: "Park Meadows Drive"
-housenumber: 8375
-phone: "+1-303-799-8804"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
+street: Park Meadows Drive
+housenumber: "8375"
+phone: +1-303-799-8804
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
 website: ""

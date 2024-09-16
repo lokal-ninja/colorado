@@ -4,8 +4,8 @@ latitude: 40.0191
 longitude: -105.25192
 postcode: "80301"
 city: Boulder
-street: "30th Street"
-housenumber: 1850
-phone: "+1 303-449-0201"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-19:00"
-website: "https://www.petsmart.com/stores/us/co/boulder-store1915.html"
+street: 30th Street
+housenumber: "1850"
+phone: +1 303-449-0201
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-19:00
+website: https://www.petsmart.com/stores/us/co/boulder-store1915.html

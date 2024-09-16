@@ -1,11 +1,11 @@
 id: 1254451684
-type: way
+type: node
 latitude: 40.38979
 longitude: -104.73721
 postcode: "80634"
 city: Greeley
-street: "35th Avenue"
-housenumber: 2825
-phone: "+1 970-339-8600"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/co/greeley/office-depot-2161"
+street: 35th Avenue
+housenumber: "2825"
+phone: +1 970-339-8600
+opening_hours: Mo-Fr 08:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/co/greeley/office-depot-2161

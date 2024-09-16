@@ -1,11 +1,11 @@
 id: 343083245
-type: way
+type: node
 latitude: 39.9606
 longitude: -104.99166
 postcode: "80023"
 city: Westminster
-street: "Delaware Street"
-housenumber: 14533
+street: Delaware Street
+housenumber: "14533"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
 website: ""

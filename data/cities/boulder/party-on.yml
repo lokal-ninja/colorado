@@ -4,8 +4,8 @@ latitude: 40.01378
 longitude: -105.25828
 postcode: "80303"
 city: Boulder
-street: "28th Street"
-housenumber: 1538
-phone: "+1-303-444-4060"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 9:00-17:00"
-website: "http://www.partyonboulderstore.com/"
+street: 28th Street
+housenumber: "1538"
+phone: +1-303-444-4060
+opening_hours: Mo-Fr 09:00-19:00; Sa 9:00-17:00
+website: http://www.partyonboulderstore.com/

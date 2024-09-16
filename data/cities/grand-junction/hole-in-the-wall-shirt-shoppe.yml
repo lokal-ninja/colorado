@@ -1,11 +1,11 @@
 id: 473708048
-type: way
+type: node
 latitude: 39.07498
 longitude: -108.57042
 postcode: "81501"
 city: Grand Junction
-street: "North 1st Street"
-housenumber: 826
-phone: "+1-970-241-5581"
-opening_hours: "Mo-Th 09:30-17:30; Fr 09:30-16:00; Sa-Su off"
-website: "https://holeinthewallshirtshoppe.com/"
+street: North 1st Street
+housenumber: "826"
+phone: +1-970-241-5581
+opening_hours: Mo-Th 09:30-17:30; Fr 09:30-16:00; Sa-Su off
+website: https://holeinthewallshirtshoppe.com/

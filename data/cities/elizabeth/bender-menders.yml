@@ -1,11 +1,11 @@
 id: 701411874
-type: way
+type: node
 latitude: 39.36375
 longitude: -104.59186
 postcode: "80107"
 city: Elizabeth
-street: "Crossroads Circle"
-housenumber: 763
-phone: "+1-303-646-3378"
+street: Crossroads Circle
+housenumber: "763"
+phone: +1-303-646-3378
 opening_hours: ""
-website: "https://bendermenders.com/"
+website: https://bendermenders.com/

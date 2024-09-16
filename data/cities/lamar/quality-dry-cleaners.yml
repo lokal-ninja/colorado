@@ -1,11 +1,11 @@
 id: 802057425
-type: way
+type: node
 latitude: 38.08855
 longitude: -102.62025
 postcode: "81052"
 city: Lamar
-street: "West Olive Street"
-housenumber: 116
+street: West Olive Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

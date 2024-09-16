@@ -1,11 +1,11 @@
 id: 203936472
-type: way
+type: node
 latitude: 39.70037
 longitude: -105.32541
 postcode: "80439"
 city: Evergreen
-street: "Swede Gulch Road"
-housenumber: 1002
+street: Swede Gulch Road
+housenumber: "1002"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://sherwin-williams.com"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://sherwin-williams.com

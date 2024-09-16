@@ -1,11 +1,11 @@
 id: 402278357
-type: way
+type: node
 latitude: 38.32403
 longitude: -104.74206
 postcode: "81007"
 city: Pueblo West
-street: "South Joe Martinez Boulevard"
-housenumber: 271
+street: South Joe Martinez Boulevard
+housenumber: "271"
 phone: ""
 opening_hours: ""
 website: ""

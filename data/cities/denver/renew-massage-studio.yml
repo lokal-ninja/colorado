@@ -4,8 +4,8 @@ latitude: 39.70269
 longitude: -104.95977
 postcode: "80209"
 city: Denver
-street: "South University Boulevard"
-housenumber: 763
+street: South University Boulevard
+housenumber: "763"
 phone: ""
-opening_hours: "Mo 10:00-19:00; Tu off; We 11:00-19:00; Th-Su 10:00-20:00"
-website: "https://www.renewmassagestudio.com/"
+opening_hours: Mo 10:00-19:00; Tu off; We 11:00-19:00; Th-Su 10:00-20:00
+website: https://www.renewmassagestudio.com/

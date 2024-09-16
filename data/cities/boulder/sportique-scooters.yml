@@ -1,11 +1,11 @@
 id: 209808129
-type: way
+type: node
 latitude: 40.02242
 longitude: -105.2626
 postcode: "80302"
 city: Boulder
-street: "Spruce Street"
-housenumber: 2506
+street: Spruce Street
+housenumber: "2506"
 phone: ""
-opening_hours: "Tu-Sa 10:30-17:00"
-website: "https://sportiqueboulder.com"
+opening_hours: Tu-Sa 10:30-17:00
+website: https://sportiqueboulder.com

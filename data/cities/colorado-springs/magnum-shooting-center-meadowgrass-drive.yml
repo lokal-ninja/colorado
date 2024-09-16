@@ -1,11 +1,11 @@
 id: 520389145
-type: way
+type: node
 latitude: 39.02558
 longitude: -104.8228
 postcode: "80921"
 city: Colorado Springs
-street: "Meadowgrass Drive"
-housenumber: 13372
-phone: "+1 (719) 487-3193"
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://magnumshootingcenter.com/#north-location"
+street: Meadowgrass Drive
+housenumber: "13372"
+phone: +1 (719) 487-3193
+opening_hours: Mo-Su 11:00-19:00
+website: https://magnumshootingcenter.com/#north-location

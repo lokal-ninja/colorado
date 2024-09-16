@@ -1,11 +1,11 @@
 id: 701411877
-type: way
+type: node
 latitude: 39.36085
 longitude: -104.59249
 postcode: "80107"
 city: Elizabeth
-street: "East Kiowa Avenue"
-housenumber: 712
-phone: "+1-303-646-6917"
+street: East Kiowa Avenue
+housenumber: "712"
+phone: +1-303-646-6917
 opening_hours: ""
-website: "https://www.runningcreekautocenter.com/services"
+website: https://www.runningcreekautocenter.com/services

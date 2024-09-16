@@ -1,11 +1,11 @@
 id: 298236864
-type: way
+type: node
 latitude: 39.09657
 longitude: -108.60317
 postcode: "81505"
 city: Grand Junction
-street: "24 1/2 Road"
-housenumber: 637
-phone: "+1-970-434-4874"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 09:00-17:00"
-website: "https://www.all-terrainmoto.com/"
+street: 24 1/2 Road
+housenumber: "637"
+phone: +1-970-434-4874
+opening_hours: Tu-Fr 08:00-18:00; Sa 09:00-17:00
+website: https://www.all-terrainmoto.com/

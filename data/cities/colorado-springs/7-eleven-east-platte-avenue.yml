@@ -1,11 +1,11 @@
 id: 197615850
-type: way
+type: node
 latitude: 38.83824
 longitude: -104.81839
 postcode: "80903"
 city: Colorado Springs
-street: "East Platte Avenue"
-housenumber: 328
-phone: "+1-719-634-4066"
+street: East Platte Avenue
+housenumber: "328"
+phone: +1-719-634-4066
 opening_hours: ""
 website: ""

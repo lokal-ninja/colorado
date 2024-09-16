@@ -1,11 +1,11 @@
 id: 418130940
-type: way
+type: node
 latitude: 38.79669
 longitude: -104.77727
 postcode: "80910"
 city: Colorado Springs
-street: "Hancock Expressway"
-housenumber: 2350
-phone: "+1-719-392-4001"
-opening_hours: "24/7"
+street: Hancock Expressway
+housenumber: "2350"
+phone: +1-719-392-4001
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 474086196
-type: way
+type: node
 latitude: 40.40765
 longitude: -105.06026
-postcode: "80537-3925"
+postcode: 80537-3925
 city: Loveland
-street: "East Eisenhower Boulevard"
-housenumber: 1119
+street: East Eisenhower Boulevard
+housenumber: "1119"
 phone: ""
 opening_hours: ""
 website: ""

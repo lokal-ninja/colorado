@@ -1,11 +1,11 @@
 id: 296716560
-type: way
+type: node
 latitude: 39.96088
 longitude: -104.99323
 postcode: "80023"
 city: Westminster
-street: "Delaware Street"
-housenumber: 14535
+street: Delaware Street
+housenumber: "14535"
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/co/westminster/orchard-town-center_354.html"
+website: https://www.macys.com/stores/co/westminster/orchard-town-center_354.html

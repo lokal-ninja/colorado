@@ -1,11 +1,11 @@
 id: 574891104
-type: way
+type: node
 latitude: 40.14586
 longitude: -105.13372
 postcode: "80503"
 city: Longmont
-street: "South Hover Street"
-housenumber: 1101
-phone: "+1 303-834-4124"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/co/longmont/longmont/"
+street: South Hover Street
+housenumber: "1101"
+phone: +1 303-834-4124
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/co/longmont/longmont/

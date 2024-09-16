@@ -1,11 +1,11 @@
 id: 210073922
-type: way
+type: node
 latitude: 39.79309
 longitude: -105.0835
 postcode: "80002"
 city: Arvada
-street: "Wadsworth Boulevard"
-housenumber: 5215
-phone: "+1 303-456-4000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Arvada/CO/Arvada/80002/1502"
+street: Wadsworth Boulevard
+housenumber: "5215"
+phone: +1 303-456-4000
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Arvada/CO/Arvada/80002/1502

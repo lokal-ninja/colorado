@@ -1,11 +1,11 @@
 id: 463526040
-type: way
+type: node
 latitude: 39.07754
 longitude: -108.55091
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 1316
-phone: "+1-970-245-6821"
-opening_hours: "Mo-Fr 09:00-17:30; Sa-Su off"
-website: "https://eyeglasses-gj.info/"
+street: North Avenue
+housenumber: "1316"
+phone: +1-970-245-6821
+opening_hours: Mo-Fr 09:00-17:30; Sa-Su off
+website: https://eyeglasses-gj.info/

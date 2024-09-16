@@ -4,8 +4,8 @@ latitude: 38.80522
 longitude: -104.84007
 postcode: "80905"
 city: Colorado Springs
-street: "South 8th Street"
-housenumber: 1785
-phone: "+1 719-715-0007"
-opening_hours: "Mo-Fr 08:00-20:00,Sa 08:00-19:00, Su 09:00-18:00"
-website: "https://www.acehardware.com/store-details/18351"
+street: South 8th Street
+housenumber: "1785"
+phone: +1 719-715-0007
+opening_hours: Mo-Fr 08:00-20:00,Sa 08:00-19:00, Su 09:00-18:00
+website: https://www.acehardware.com/store-details/18351

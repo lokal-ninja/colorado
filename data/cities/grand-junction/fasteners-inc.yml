@@ -1,11 +1,11 @@
 id: 497201452
-type: way
+type: node
 latitude: 39.08882
 longitude: -108.58844
 postcode: "81505"
 city: Grand Junction
-street: "Weslo Avenue"
-housenumber: 2504
+street: Weslo Avenue
+housenumber: "2504"
 phone: ""
 opening_hours: ""
 website: ""

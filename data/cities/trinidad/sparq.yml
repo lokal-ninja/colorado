@@ -1,11 +1,11 @@
 id: 1158214775
-type: way
+type: node
 latitude: 37.18399
 longitude: -104.49967
 postcode: "81082"
 city: Trinidad
-street: "East Goddard Avenue"
-housenumber: 806
+street: East Goddard Avenue
+housenumber: "806"
 phone: ""
 opening_hours: ""
 website: ""

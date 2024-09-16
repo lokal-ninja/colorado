@@ -1,11 +1,11 @@
 id: 143399739
-type: way
+type: node
 latitude: 39.67381
 longitude: -104.86698
 postcode: "80014"
 city: Aurora
-street: "South Havana Street"
-housenumber: 2393
-phone: "+1 303-368-8025"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 08:30-22:00; Su 09:00-22:00"
-website: "https://rossstores.com/"
+street: South Havana Street
+housenumber: "2393"
+phone: +1 303-368-8025
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 08:30-22:00; Su 09:00-22:00
+website: https://rossstores.com/

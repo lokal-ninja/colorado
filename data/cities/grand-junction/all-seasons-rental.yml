@@ -1,11 +1,11 @@
 id: 497020794
-type: way
+type: node
 latitude: 39.07585
 longitude: -108.50407
 postcode: "81504"
 city: Grand Junction
-street: "I 70 Business Loop"
-housenumber: 2956
-phone: "+1-970-241-4368"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 09:00-15:00"
-website: "https://www.getallseasons.com/"
+street: I 70 Business Loop
+housenumber: "2956"
+phone: +1-970-241-4368
+opening_hours: Mo-Fr 07:30-17:30; Sa 09:00-15:00
+website: https://www.getallseasons.com/

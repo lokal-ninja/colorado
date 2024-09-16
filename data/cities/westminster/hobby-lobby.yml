@@ -1,11 +1,11 @@
 id: 151963035
-type: way
+type: node
 latitude: 39.8648
 longitude: -105.05532
 postcode: "80031"
 city: Westminster
-street: "Sheridan Boulevard"
-housenumber: 9219
+street: Sheridan Boulevard
+housenumber: "9219"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 164125614
-type: way
+type: node
 latitude: 39.66002
 longitude: -104.8499
 postcode: "80014"
 city: Aurora
-street: "South Parker Road"
-housenumber: 3130
-phone: "+1-303-752-2662"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-17:00, Su closed"
+street: South Parker Road
+housenumber: "3130"
+phone: +1-303-752-2662
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-17:00, Su closed
 website: ""

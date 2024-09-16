@@ -1,11 +1,11 @@
 id: 436785226
-type: way
+type: node
 latitude: 39.88129
 longitude: -105.0828
 postcode: "80021"
 city: Westminster
-street: "Wadsworth Boulevard"
-housenumber: 10195
+street: Wadsworth Boulevard
+housenumber: "10195"
 phone: ""
-opening_hours: "09:00-18:00"
+opening_hours: 09:00-18:00
 website: ""

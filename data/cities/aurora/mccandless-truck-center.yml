@@ -1,11 +1,11 @@
 id: 126055955
-type: way
+type: node
 latitude: 39.76139
 longitude: -104.79303
 postcode: "80011"
 city: Aurora
-street: "East 32nd Avenue"
-housenumber: 16704
+street: East 32nd Avenue
+housenumber: "16704"
 phone: ""
 opening_hours: ""
 website: ""

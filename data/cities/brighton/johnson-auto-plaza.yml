@@ -1,11 +1,11 @@
 id: 616213492
-type: way
+type: node
 latitude: 39.9416
 longitude: -104.8442
 postcode: "80601"
 city: Brighton
-street: "East 136th Avenue"
-housenumber: 12410
-phone: "+1 303 654 1940"
-opening_hours: "08:00-19:30"
-website: "http://www.johnsonautoplaza.net"
+street: East 136th Avenue
+housenumber: "12410"
+phone: +1 303 654 1940
+opening_hours: 08:00-19:30
+website: http://www.johnsonautoplaza.net

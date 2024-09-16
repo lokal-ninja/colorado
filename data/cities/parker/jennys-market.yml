@@ -1,11 +1,11 @@
 id: 379544049
-type: way
+type: node
 latitude: 39.53445
 longitude: -104.7943
 postcode: "80134"
 city: Parker
-street: "Jordan Road"
-housenumber: 10011
+street: Jordan Road
+housenumber: "10011"
 phone: ""
 opening_hours: ""
 website: ""

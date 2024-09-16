@@ -1,11 +1,11 @@
 id: 202894678
-type: way
+type: node
 latitude: 40.47964
 longitude: -104.90707
 postcode: "80550"
 city: Windsor
-street: "Main Street"
-housenumber: 629
+street: Main Street
+housenumber: "629"
 phone: ""
 opening_hours: ""
 website: ""

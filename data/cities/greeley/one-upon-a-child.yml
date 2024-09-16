@@ -4,8 +4,8 @@ latitude: 40.40604
 longitude: -104.7345
 postcode: "80634"
 city: Greeley
-street: "35th Avenue"
-housenumber: 2000
+street: 35th Avenue
+housenumber: "2000"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-17:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-17:00
 website: ""

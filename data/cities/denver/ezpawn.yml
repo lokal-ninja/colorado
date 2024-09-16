@@ -4,8 +4,8 @@ latitude: 39.73256
 longitude: -104.98764
 postcode: "80203"
 city: Denver
-street: "Broadway"
-housenumber: 1025
-phone: "+1-303-893-8956"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://ezpawn.com/stores/co/denver/1025-broadway-blvd"
+street: Broadway
+housenumber: "1025"
+phone: +1-303-893-8956
+opening_hours: Mo-Sa 09:00-18:00
+website: https://ezpawn.com/stores/co/denver/1025-broadway-blvd

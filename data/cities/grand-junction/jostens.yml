@@ -4,8 +4,8 @@ latitude: 39.07653
 longitude: -108.55716
 postcode: "81501"
 city: Grand Junction
-street: "North 9th Street"
-housenumber: 1000
-phone: "+1-970-242-5030"
-opening_hours: "by appointment"
-website: "https://www.jostens.com/"
+street: North 9th Street
+housenumber: "1000"
+phone: +1-970-242-5030
+opening_hours: '"by appointment"'
+website: https://www.jostens.com/

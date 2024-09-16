@@ -1,11 +1,11 @@
 id: 205677903
-type: way
+type: node
 latitude: 39.77172
 longitude: -104.90815
 postcode: "80207"
 city: Denver
-street: "Oneida Street"
-housenumber: 3955
+street: Oneida Street
+housenumber: "3955"
 phone: ""
 opening_hours: ""
 website: ""

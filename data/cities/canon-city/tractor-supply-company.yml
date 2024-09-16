@@ -1,11 +1,11 @@
 id: 514351176
-type: way
+type: node
 latitude: 38.44746
 longitude: -105.21963
 postcode: "81212"
 city: Canon City
-street: "East Main Street"
-housenumber: 1919
-phone: "+1 719-275-2116"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: East Main Street
+housenumber: "1919"
+phone: +1 719-275-2116
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

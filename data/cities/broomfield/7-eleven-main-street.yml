@@ -1,11 +1,11 @@
 id: 693326778
-type: way
+type: node
 latitude: 39.90147
 longitude: -105.07289
 postcode: "80020"
 city: Broomfield
-street: "Main Street"
-housenumber: 11275
-phone: "+1-720-668-7101"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/broomfield/11275-main-st-38135"
+street: Main Street
+housenumber: "11275"
+phone: +1-720-668-7101
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/broomfield/11275-main-st-38135

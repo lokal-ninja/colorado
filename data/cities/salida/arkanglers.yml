@@ -1,11 +1,11 @@
 id: 511865812
-type: way
+type: node
 latitude: 38.52387
 longitude: -106.01601
 postcode: "81201"
 city: Salida
-street: "US 50"
-housenumber: 7500
-phone: "+1 719 539 4223"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-12:00"
-website: "https://www.arkanglers.com/"
+street: US 50
+housenumber: "7500"
+phone: +1 719 539 4223
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-12:00
+website: https://www.arkanglers.com/

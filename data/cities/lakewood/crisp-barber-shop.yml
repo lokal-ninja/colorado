@@ -4,8 +4,8 @@ latitude: 39.72479
 longitude: -105.09897
 postcode: "80215"
 city: Lakewood
-street: "West 6th Avenue"
-housenumber: 9116
-phone: "+1-303-238-0303"
-opening_hours: "Mo-Sa 10:00-19:00, Su closed"
-website: "https://www.schedulicity.com/scheduling/cbsgfe"
+street: West 6th Avenue
+housenumber: "9116"
+phone: +1-303-238-0303
+opening_hours: Mo-Sa 10:00-19:00, Su closed
+website: https://www.schedulicity.com/scheduling/cbsgfe

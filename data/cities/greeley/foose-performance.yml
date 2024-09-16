@@ -1,11 +1,11 @@
 id: 658496261
-type: way
+type: node
 latitude: 40.40992
 longitude: -104.68068
 postcode: "80631"
 city: Greeley
-street: "18th Street"
-housenumber: 310
+street: 18th Street
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

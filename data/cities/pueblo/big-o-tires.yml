@@ -1,11 +1,11 @@
 id: 535378003
-type: way
+type: node
 latitude: 38.31986
 longitude: -104.61397
 postcode: "81008"
 city: Pueblo
-street: "Eagleridge Boulevard"
-housenumber: 430
+street: Eagleridge Boulevard
+housenumber: "430"
 phone: ""
 opening_hours: ""
 website: ""

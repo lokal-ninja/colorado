@@ -1,11 +1,11 @@
 id: 59149224
-type: way
+type: node
 latitude: 39.56778
 longitude: -104.96166
 postcode: "80122"
 city: Centennial
-street: "South University Boulevard"
-housenumber: 8281
-phone: "+1-303-221-4140"
-opening_hours: "Su 11:00-18:00; Mo-Sa 10:00-19:00"
-website: "https://www.woodleys.com/centennialstore.inc"
+street: South University Boulevard
+housenumber: "8281"
+phone: +1-303-221-4140
+opening_hours: Su 11:00-18:00; Mo-Sa 10:00-19:00
+website: https://www.woodleys.com/centennialstore.inc

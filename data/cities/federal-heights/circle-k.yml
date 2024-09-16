@@ -1,11 +1,11 @@
 id: 845517117
-type: way
+type: node
 latitude: 39.84944
 longitude: -104.99696
 postcode: "80260"
 city: Federal Heights
-street: "West 84th Avenue"
-housenumber: 801
-phone: "+1-303-427-4963"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/federal-heights/801-w-84th-ave/2744101"
+street: West 84th Avenue
+housenumber: "801"
+phone: +1-303-427-4963
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/federal-heights/801-w-84th-ave/2744101

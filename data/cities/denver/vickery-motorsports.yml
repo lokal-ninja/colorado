@@ -1,11 +1,11 @@
 id: 192007018
-type: way
+type: node
 latitude: 39.676
 longitude: -104.87284
 postcode: "80231"
 city: Denver
-street: "South Parker Road"
-housenumber: 2231
-phone: "+1-303-755-4387"
+street: South Parker Road
+housenumber: "2231"
+phone: +1-303-755-4387
 opening_hours: ""
-website: "http://www.vickerymotorsports.com/"
+website: http://www.vickerymotorsports.com/

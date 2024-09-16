@@ -1,11 +1,11 @@
 id: 948481034
-type: way
+type: node
 latitude: 39.59128
 longitude: -104.82879
 postcode: "80112"
 city: Centennial
-street: "East Briarwood Avenue"
-housenumber: 13750
+street: East Briarwood Avenue
+housenumber: "13750"
 phone: ""
 opening_hours: ""
 website: ""

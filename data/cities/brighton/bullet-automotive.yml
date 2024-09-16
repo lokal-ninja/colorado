@@ -1,11 +1,11 @@
 id: 821548148
-type: way
+type: node
 latitude: 39.98708
 longitude: -104.81512
 postcode: "80601"
 city: Brighton
-street: "East Bridge Street"
-housenumber: 607
-phone: "+1-720-998-6936"
+street: East Bridge Street
+housenumber: "607"
+phone: +1-720-998-6936
 opening_hours: ""
-website: "https://www.bullet-automotive.com/"
+website: https://www.bullet-automotive.com/

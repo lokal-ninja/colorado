@@ -1,11 +1,11 @@
 id: 916057303
-type: way
+type: node
 latitude: 39.59568
 longitude: -104.81702
 postcode: "80016"
 city: Aurora
-street: "East Arapahoe Road"
-housenumber: 14755
+street: East Arapahoe Road
+housenumber: "14755"
 phone: "+17207898352"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.cbac.com/arapahoe-road/"
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.cbac.com/arapahoe-road/

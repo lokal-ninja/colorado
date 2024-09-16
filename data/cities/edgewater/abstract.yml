@@ -1,11 +1,11 @@
 id: 1289236335
-type: way
+type: node
 latitude: 39.74917
 longitude: -105.05758
 postcode: "80214"
 city: Edgewater
-street: "West 20th Avenue"
-housenumber: 5505
-phone: "+1-303-588-1148"
+street: West 20th Avenue
+housenumber: "5505"
+phone: +1-303-588-1148
 opening_hours: ""
-website: "https://www.abstractdenver.com/"
+website: https://www.abstractdenver.com/

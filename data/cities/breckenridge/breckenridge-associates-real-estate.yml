@@ -1,11 +1,11 @@
 id: 202320968
-type: way
+type: node
 latitude: 39.47968
 longitude: -106.04603
 postcode: "80424"
 city: Breckenridge
-street: "South Main Street"
-housenumber: 229
+street: South Main Street
+housenumber: "229"
 phone: ""
 opening_hours: ""
 website: ""

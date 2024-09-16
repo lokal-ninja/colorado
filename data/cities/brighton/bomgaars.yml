@@ -1,11 +1,11 @@
 id: 543482305
-type: way
+type: node
 latitude: 39.98535
 longitude: -104.79318
 postcode: "80601"
 city: Brighton
-street: "East Bridge Street"
-housenumber: 2350
-phone: "+1-303-637-9583"
+street: East Bridge Street
+housenumber: "2350"
+phone: +1-303-637-9583
 opening_hours: ""
-website: "https://www.bomgaars.com/"
+website: https://www.bomgaars.com/

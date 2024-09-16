@@ -4,8 +4,8 @@ latitude: 40.01976
 longitude: -105.27155
 postcode: "80302"
 city: Boulder
-street: "Pearl Street"
-housenumber: 1815
+street: Pearl Street
+housenumber: "1815"
 phone: ""
-opening_hours: "Mo-Su 08:00-17:00"
-website: "https://www.rapha.cc/us/en_US/clubhouses/boulder"
+opening_hours: Mo-Su 08:00-17:00
+website: https://www.rapha.cc/us/en_US/clubhouses/boulder

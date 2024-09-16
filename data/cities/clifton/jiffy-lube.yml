@@ -1,11 +1,11 @@
 id: 480949987
-type: way
+type: node
 latitude: 39.09198
 longitude: -108.45109
 postcode: "81520"
 city: Clifton
-street: "F Road"
-housenumber: 3242
-phone: "+1-970-434-9159"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off"
-website: "https://www.jiffylube.com/locations/co/clifton/3703"
+street: F Road
+housenumber: "3242"
+phone: +1-970-434-9159
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off
+website: https://www.jiffylube.com/locations/co/clifton/3703

@@ -1,11 +1,11 @@
 id: 473936782
-type: way
+type: node
 latitude: 39.08718
 longitude: -108.56142
 postcode: "81501"
 city: Grand Junction
-street: "North 7th Street"
-housenumber: 2119
-phone: "+1-970-644-5411"
-opening_hours: "by appointment"
+street: North 7th Street
+housenumber: "2119"
+phone: +1-970-644-5411
+opening_hours: '"by appointment"'
 website: ""

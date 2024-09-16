@@ -1,11 +1,11 @@
 id: 822923335
-type: way
+type: node
 latitude: 39.60865
 longitude: -104.98778
 postcode: "80121"
 city: Littleton
-street: "South Broadway"
-housenumber: 6000
+street: South Broadway
+housenumber: "6000"
 phone: ""
 opening_hours: ""
-website: "https://www.mcdonaldvw.com"
+website: https://www.mcdonaldvw.com

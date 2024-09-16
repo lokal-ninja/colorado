@@ -1,11 +1,11 @@
 id: 472862301
-type: way
+type: node
 latitude: 40.03612
 longitude: -105.25904
 postcode: "80301"
 city: Boulder
-street: "28th Street"
-housenumber: 3375
-phone: "+1-303-443-0970"
-opening_hours: "24/7"
-website: "https://rocketstores.com/"
+street: 28th Street
+housenumber: "3375"
+phone: +1-303-443-0970
+opening_hours: 24/7
+website: https://rocketstores.com/

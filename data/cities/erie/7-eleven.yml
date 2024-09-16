@@ -1,11 +1,11 @@
 id: 168943015
-type: way
+type: node
 latitude: 40.00091
 longitude: -105.01883
 postcode: "80516"
 city: Erie
-street: "Village Vista Drive"
-housenumber: 3240
-phone: "+1-303-665-1143"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/erie/3240-village-vista-dr-34168"
+street: Village Vista Drive
+housenumber: "3240"
+phone: +1-303-665-1143
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/erie/3240-village-vista-dr-34168

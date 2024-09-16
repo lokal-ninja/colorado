@@ -1,11 +1,11 @@
 id: 311730047
-type: way
+type: node
 latitude: 38.82651
 longitude: -104.82532
 postcode: "80903"
 city: Colorado Springs
-street: "East Cimarron Street"
-housenumber: 7
-phone: "+1-719-636-1684"
+street: East Cimarron Street
+housenumber: "7"
+phone: +1-719-636-1684
 opening_hours: ""
-website: "https://www.the-sound-shop.com/"
+website: https://www.the-sound-shop.com/

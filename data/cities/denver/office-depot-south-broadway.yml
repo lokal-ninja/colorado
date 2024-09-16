@@ -1,11 +1,11 @@
 id: 108400395
-type: way
+type: node
 latitude: 39.71089
 longitude: -104.98962
 postcode: "80209"
 city: Denver
-street: "South Broadway"
-housenumber: 313
-phone: "+1 303-722-1411"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/co/denver/officemax-6148"
+street: South Broadway
+housenumber: "313"
+phone: +1 303-722-1411
+opening_hours: Mo-Fr 08:00-19:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/co/denver/officemax-6148

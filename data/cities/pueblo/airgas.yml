@@ -1,11 +1,11 @@
 id: 318296705
-type: way
+type: node
 latitude: 38.26921
 longitude: -104.61543
 postcode: "81003"
 city: Pueblo
-street: "West 3rd Street"
-housenumber: 604
+street: West 3rd Street
+housenumber: "604"
 phone: ""
 opening_hours: ""
 website: ""

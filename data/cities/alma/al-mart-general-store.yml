@@ -1,11 +1,11 @@
 id: 131693463
-type: way
+type: node
 latitude: 39.28341
 longitude: -106.06276
 postcode: "80420"
 city: Alma
-street: "South Main Street"
-housenumber: 11
-phone: "+1-719-836-9977"
+street: South Main Street
+housenumber: "11"
+phone: +1-719-836-9977
 opening_hours: ""
-website: "https://almartcolorado.com/"
+website: https://almartcolorado.com/

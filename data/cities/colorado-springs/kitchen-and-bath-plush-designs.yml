@@ -1,11 +1,11 @@
 id: 206054638
-type: way
+type: node
 latitude: 38.83057
 longitude: -104.81882
 postcode: "80903"
 city: Colorado Springs
-street: "South Wahsatch Avenue"
-housenumber: 202
-phone: "+1-719-578-0001"
+street: South Wahsatch Avenue
+housenumber: "202"
+phone: +1-719-578-0001
 opening_hours: ""
-website: "https://www.plushdesigns.com/"
+website: https://www.plushdesigns.com/

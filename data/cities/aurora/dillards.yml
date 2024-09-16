@@ -1,11 +1,11 @@
 id: 669368511
-type: way
+type: node
 latitude: 39.70806
 longitude: -104.82306
 postcode: "80012"
 city: Aurora
-street: "East Alameda Avenue"
-housenumber: 14200
-phone: "+1-303-360-5900"
+street: East Alameda Avenue
+housenumber: "14200"
+phone: +1-303-360-5900
 opening_hours: ""
 website: ""

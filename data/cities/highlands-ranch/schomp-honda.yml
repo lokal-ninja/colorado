@@ -1,11 +1,11 @@
 id: 908566403
-type: way
+type: node
 latitude: 39.55976
 longitude: -105.00081
 postcode: "80129"
 city: Highlands Ranch
-street: "Plum Valley Lane"
-housenumber: 1003
+street: Plum Valley Lane
+housenumber: "1003"
 phone: ""
 opening_hours: ""
 website: ""

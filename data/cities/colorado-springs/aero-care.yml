@@ -4,8 +4,8 @@ latitude: 38.91311
 longitude: -104.77662
 postcode: "80918"
 city: Colorado Springs
-street: "North Union Boulevard"
-housenumber: 5620
+street: North Union Boulevard
+housenumber: "5620"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 09:00-17:00"
-website: "https://www.majormed.com/location/colorado-springs/"
+opening_hours: Mo-Th 08:00-17:00; Fr 09:00-17:00
+website: https://www.majormed.com/location/colorado-springs/

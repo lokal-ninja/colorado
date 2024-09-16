@@ -1,11 +1,11 @@
 id: 364564141
-type: way
+type: node
 latitude: 39.72128
 longitude: -104.99932
 postcode: "80223"
 city: Denver
-street: "Santa Fe Drive"
-housenumber: 303
+street: Santa Fe Drive
+housenumber: "303"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

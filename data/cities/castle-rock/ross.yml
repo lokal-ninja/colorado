@@ -4,8 +4,8 @@ latitude: 39.41404
 longitude: -104.87852
 postcode: "80108"
 city: Castle Rock
-street: "New Beale Street"
-housenumber: 1361
-phone: "+1 303-660-3808"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 10:00-21:30; Su 10:00-20:00"
+street: New Beale Street
+housenumber: "1361"
+phone: +1 303-660-3808
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 10:00-21:30; Su 10:00-20:00
 website: ""

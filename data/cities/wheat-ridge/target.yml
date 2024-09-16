@@ -1,11 +1,11 @@
 id: 481124132
-type: way
+type: node
 latitude: 39.7888
 longitude: -105.11369
-postcode: "80033-2251"
+postcode: 80033-2251
 city: Wheat Ridge
-street: "Kipling Street"
-housenumber: 5071
-phone: "+1 303-209-1848"
-opening_hours: "Mo-Th 07:00-22:00; Fr-Sa 07:00-23:00; Su 07:00-22:00"
-website: "https://www.target.com/sl/wheat-ridge/2021"
+street: Kipling Street
+housenumber: "5071"
+phone: +1 303-209-1848
+opening_hours: Mo-Th 07:00-22:00; Fr-Sa 07:00-23:00; Su 07:00-22:00
+website: https://www.target.com/sl/wheat-ridge/2021

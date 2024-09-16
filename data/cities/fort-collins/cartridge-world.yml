@@ -2,10 +2,10 @@ id: 1223175921
 type: node
 latitude: 40.55126
 longitude: -105.03695
-postcode: "80525-3403"
+postcode: 80525-3403
 city: Fort Collins
-street: "South Timberline Road"
-housenumber: 2614
-phone: "+1-970-484-4465"
-opening_hours: "Mo-Sa 08:00-18:00; Su 12:00-16:00"
-website: "https://www.cartridgeworld.com/usa/usa400"
+street: South Timberline Road
+housenumber: "2614"
+phone: +1-970-484-4465
+opening_hours: Mo-Sa 08:00-18:00; Su 12:00-16:00
+website: https://www.cartridgeworld.com/usa/usa400

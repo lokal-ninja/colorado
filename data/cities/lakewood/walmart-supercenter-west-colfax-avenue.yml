@@ -1,11 +1,11 @@
 id: 357569613
-type: way
+type: node
 latitude: 39.74293
 longitude: -105.08072
 postcode: "80214"
 city: Lakewood
-street: "West Colfax Avenue"
-housenumber: 7455
-phone: "+1 303-274-5211"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2125/lakewood-co/whats-new"
+street: West Colfax Avenue
+housenumber: "7455"
+phone: +1 303-274-5211
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2125/lakewood-co/whats-new

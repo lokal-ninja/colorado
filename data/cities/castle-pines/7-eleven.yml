@@ -1,11 +1,11 @@
 id: 1138235058
-type: way
+type: node
 latitude: 39.47193
 longitude: -104.87752
 postcode: "80108"
 city: Castle Pines
-street: "Village Square Drive"
-housenumber: 7530
-phone: "+1 720-829-6935"
+street: Village Square Drive
+housenumber: "7530"
+phone: +1 720-829-6935
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/co/castle-pines/7520-village-square-dr-41861"
+website: https://www.7-eleven.com/locations/co/castle-pines/7520-village-square-dr-41861

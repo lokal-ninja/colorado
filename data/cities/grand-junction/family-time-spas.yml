@@ -1,11 +1,11 @@
 id: 630371811
-type: way
+type: node
 latitude: 39.07685
 longitude: -108.57535
 postcode: "81505"
 city: Grand Junction
-street: "Highway 6 and 50"
-housenumber: 2583
-phone: "+1-970-773-4099"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-17:00"
-website: "https://familytimespasgj.com/"
+street: Highway 6 and 50
+housenumber: "2583"
+phone: +1-970-773-4099
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-17:00
+website: https://familytimespasgj.com/

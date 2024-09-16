@@ -1,11 +1,11 @@
 id: 45812366
-type: way
+type: node
 latitude: 39.87701
 longitude: -104.98687
 postcode: "80229"
 city: Thornton
-street: "Grant Street"
-housenumber: 9901
-phone: "+1 303-451-1003"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1231/thornton-co/whats-new"
+street: Grant Street
+housenumber: "9901"
+phone: +1 303-451-1003
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1231/thornton-co/whats-new

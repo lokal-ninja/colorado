@@ -1,11 +1,11 @@
 id: 678472605
-type: way
+type: node
 latitude: 39.74101
 longitude: -105.05643
 postcode: "80214"
 city: Lakewood
-street: "West Colfax Avenue"
-housenumber: 5495
+street: West Colfax Avenue
+housenumber: "5495"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/lakewood/5495-w-colfax.html"
+website: https://www.autozone.com/locations/co/lakewood/5495-w-colfax.html

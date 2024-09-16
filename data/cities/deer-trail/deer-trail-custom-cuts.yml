@@ -4,8 +4,8 @@ latitude: 39.62326
 longitude: -104.05325
 postcode: "80105"
 city: Deer Trail
-street: "1st Avenue"
-housenumber: 1408
-phone: "+1-720-215-0226;+1-303-769-4544"
-opening_hours: "Mo-Fr 07:30-16:30; Sa-Su by appointment"
-website: "https://deertrailcustomcuts.com/"
+street: 1st Avenue
+housenumber: "1408"
+phone: +1-720-215-0226;+1-303-769-4544
+opening_hours: Mo-Fr 07:30-16:30; Sa-Su "by appointment"
+website: https://deertrailcustomcuts.com/

@@ -1,11 +1,11 @@
 id: 198238230
-type: way
+type: node
 latitude: 39.71275
 longitude: -105.07283
 postcode: "80226"
 city: Lakewood
-street: "West Alameda Avenue"
-housenumber: 6803
-phone: "+1-303-274-1502"
+street: West Alameda Avenue
+housenumber: "6803"
+phone: +1-303-274-1502
 opening_hours: ""
-website: "https://www.dav.org/"
+website: https://www.dav.org/

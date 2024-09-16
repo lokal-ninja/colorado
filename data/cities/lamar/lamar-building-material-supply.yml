@@ -1,11 +1,11 @@
 id: 801828847
-type: way
+type: node
 latitude: 38.09225
 longitude: -102.61937
 postcode: "81052"
 city: Lamar
-street: "Main Street"
-housenumber: 224
-phone: "+1 719-336-7793"
+street: Main Street
+housenumber: "224"
+phone: +1 719-336-7793
 opening_hours: ""
-website: "https://www.truevalue.com/lamarbms"
+website: https://www.truevalue.com/lamarbms

@@ -1,11 +1,11 @@
 id: 203936454
-type: way
+type: node
 latitude: 39.69928
 longitude: -105.32717
 postcode: "80439"
 city: Evergreen
-street: "El Rancho Road"
-housenumber: 1014
-phone: "+1 303-526-4347"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Evergreen/CO/Evergreen/80439/1535"
+street: El Rancho Road
+housenumber: "1014"
+phone: +1 303-526-4347
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Evergreen/CO/Evergreen/80439/1535

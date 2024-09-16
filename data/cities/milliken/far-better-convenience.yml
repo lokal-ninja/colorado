@@ -1,11 +1,11 @@
 id: 679548807
-type: way
+type: node
 latitude: 40.33001
 longitude: -104.8688
 postcode: "80543"
 city: Milliken
-street: "South Quentine Avenue"
-housenumber: 101
+street: South Quentine Avenue
+housenumber: "101"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

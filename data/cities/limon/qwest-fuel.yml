@@ -1,11 +1,11 @@
 id: 162342745
-type: way
+type: node
 latitude: 39.27164
 longitude: -103.70847
 postcode: "80828"
 city: Limon
-street: "Hwy US 24"
-housenumber: 915
+street: Hwy US 24
+housenumber: "915"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 224299281
-type: way
+type: node
 latitude: 39.63159
 longitude: -106.41791
 postcode: "81657"
 city: Vail
-street: "North Frontage Road West"
-housenumber: 2131
-phone: "+1 970-476-3561"
-opening_hours: "06:00-23:00"
-website: "https://local.safeway.com/safeway/co/vail/2131-n-frontage-rd-w.html"
+street: North Frontage Road West
+housenumber: "2131"
+phone: +1 970-476-3561
+opening_hours: 06:00-23:00
+website: https://local.safeway.com/safeway/co/vail/2131-n-frontage-rd-w.html

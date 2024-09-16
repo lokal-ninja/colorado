@@ -1,11 +1,11 @@
 id: 238018212
-type: way
+type: node
 latitude: 39.92843
 longitude: -105.1466
 postcode: "80027"
 city: Superior
-street: "Coalton Road"
-housenumber: 1600
+street: Coalton Road
+housenumber: "1600"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1600+coalton+rd-superior-co-80027/id=6467"
+website: https://www.walgreens.com/locator/walgreens-1600+coalton+rd-superior-co-80027/id=6467

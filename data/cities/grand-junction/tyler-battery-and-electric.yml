@@ -1,11 +1,11 @@
 id: 497023271
-type: way
+type: node
 latitude: 39.07139
 longitude: -108.52496
 postcode: "81501"
 city: Grand Junction
-street: "28 1/2 Road"
-housenumber: 459
-phone: "+1-970-243-6323"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.tylerbattery.com/"
+street: 28 1/2 Road
+housenumber: "459"
+phone: +1-970-243-6323
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.tylerbattery.com/

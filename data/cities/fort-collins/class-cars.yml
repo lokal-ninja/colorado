@@ -1,11 +1,11 @@
 id: 236668033
-type: way
+type: node
 latitude: 40.58172
 longitude: -105.05188
 postcode: "80524"
 city: Fort Collins
-street: "East Mulberry Street"
-housenumber: 1406
+street: East Mulberry Street
+housenumber: "1406"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

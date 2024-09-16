@@ -4,8 +4,8 @@ latitude: 39.75461
 longitude: -104.9642
 postcode: "80205"
 city: Denver
-street: "East 26th Avenue"
-housenumber: 1919
-phone: "+1-303-455-2855"
-opening_hours: "Tu-Sa 11:00-19:00; Su-Mo closed"
-website: "http://www.mammothamerican.com/"
+street: East 26th Avenue
+housenumber: "1919"
+phone: +1-303-455-2855
+opening_hours: Tu-Sa 11:00-19:00; Su-Mo closed
+website: http://www.mammothamerican.com/

@@ -1,11 +1,11 @@
 id: 1242051511
-type: way
+type: node
 latitude: 39.75319
 longitude: -104.87722
 postcode: "80010"
 city: Aurora
-street: "Dallas Street"
-housenumber: 2501
-phone: "+1-720-572-4195"
-opening_hours: "Mo-Th 10:30-18:00; Fr-Sa 10:00-19:00; Su 10:30-17:00"
-website: "https://shoptruestyle.com/"
+street: Dallas Street
+housenumber: "2501"
+phone: +1-720-572-4195
+opening_hours: Mo-Th 10:30-18:00; Fr-Sa 10:00-19:00; Su 10:30-17:00
+website: https://shoptruestyle.com/

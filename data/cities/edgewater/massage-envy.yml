@@ -1,11 +1,11 @@
 id: 1289247533
-type: way
+type: node
 latitude: 39.74849
 longitude: -105.0565
 postcode: "80214"
 city: Edgewater
-street: "West 20th Avenue"
-housenumber: 5465
-phone: "+1-720-833-3700"
+street: West 20th Avenue
+housenumber: "5465"
+phone: +1-720-833-3700
 opening_hours: ""
-website: "https://locations.massageenvy.com/colorado/denver/5465-w-20th-ave.html"
+website: https://locations.massageenvy.com/colorado/denver/5465-w-20th-ave.html

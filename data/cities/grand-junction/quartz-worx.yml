@@ -1,11 +1,11 @@
 id: 890500286
-type: way
+type: node
 latitude: 39.08626
 longitude: -108.58833
 postcode: "81505"
 city: Grand Junction
-street: "West Pinyon Avenue"
-housenumber: 2502
+street: West Pinyon Avenue
+housenumber: "2502"
 phone: ""
 opening_hours: ""
 website: ""

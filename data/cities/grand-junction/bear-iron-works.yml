@@ -1,11 +1,11 @@
 id: 497022324
-type: way
+type: node
 latitude: 39.07297
 longitude: -108.51887
 postcode: "81501"
 city: Grand Junction
-street: "I 70 Business Loop"
-housenumber: 2872
-phone: "+1-970-210-6152"
+street: I 70 Business Loop
+housenumber: "2872"
+phone: +1-970-210-6152
 opening_hours: ""
-website: "https://bearironworks.net/"
+website: https://bearironworks.net/

@@ -1,11 +1,11 @@
 id: 225577906
-type: way
+type: node
 latitude: 39.49056
 longitude: -106.048
 postcode: ""
 city: Breckenridge
-street: "North Park Avenue"
-housenumber: 435
+street: North Park Avenue
+housenumber: "435"
 phone: ""
 opening_hours: ""
 website: ""

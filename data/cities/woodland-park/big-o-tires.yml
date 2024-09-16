@@ -1,11 +1,11 @@
 id: 95608580
-type: way
+type: node
 latitude: 38.99078
 longitude: -105.04747
 postcode: "80863"
 city: Woodland Park
-street: "East Midland Avenue"
-housenumber: 121
+street: East Midland Avenue
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

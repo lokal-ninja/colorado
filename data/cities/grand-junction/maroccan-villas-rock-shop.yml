@@ -1,11 +1,11 @@
 id: 497196299
-type: way
+type: node
 latitude: 39.06451
 longitude: -108.56895
 postcode: "81501"
 city: Grand Junction
-street: "South 2nd Street"
-housenumber: 338
+street: South 2nd Street
+housenumber: "338"
 phone: ""
 opening_hours: ""
 website: ""

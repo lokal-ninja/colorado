@@ -1,11 +1,11 @@
 id: 1200897949
-type: way
+type: node
 latitude: 39.79281
 longitude: -104.91003
 postcode: "80022"
 city: Commerce City
-street: "Newport Street"
-housenumber: 5345
-phone: "+1 303-952-7400"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://coloradogolfcars.com"
+street: Newport Street
+housenumber: "5345"
+phone: +1 303-952-7400
+opening_hours: Mo-Fr 08:00-17:00
+website: https://coloradogolfcars.com

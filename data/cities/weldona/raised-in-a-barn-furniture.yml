@@ -1,11 +1,11 @@
 id: 1136881516
-type: way
+type: node
 latitude: 40.34581
 longitude: -103.96956
 postcode: "80653"
 city: Weldona
-street: "County Road 9"
-housenumber: 23691
+street: County Road 9
+housenumber: "23691"
 phone: "+19705182883"
 opening_hours: ""
-website: "https://raisedinabarnfurniture.com/"
+website: https://raisedinabarnfurniture.com/

@@ -4,8 +4,8 @@ latitude: 40.01918
 longitude: -105.25956
 postcode: "80301"
 city: Boulder
-street: "28th Street"
-housenumber: 1789
-phone: "+1-303-583-9970"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.rei.com/stores/boulder"
+street: 28th Street
+housenumber: "1789"
+phone: +1-303-583-9970
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.rei.com/stores/boulder

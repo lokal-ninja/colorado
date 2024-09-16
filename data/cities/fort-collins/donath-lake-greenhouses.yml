@@ -1,11 +1,11 @@
 id: 355851570
-type: way
+type: node
 latitude: 40.46851
 longitude: -105.05467
 postcode: "80525"
 city: Fort Collins
-street: "South Lemay Avenue"
-housenumber: 8420
+street: South Lemay Avenue
+housenumber: "8420"
 phone: ""
-opening_hours: "Apr-Jun 09:00-17:00"
+opening_hours: Apr-Jun 09:00-17:00
 website: ""

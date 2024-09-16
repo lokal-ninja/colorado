@@ -1,11 +1,11 @@
 id: 258823307
-type: way
+type: node
 latitude: 39.66063
 longitude: -105.00898
 postcode: "80110"
 city: Englewood
-street: "West Dartmouth Avenue"
-housenumber: 1895
+street: West Dartmouth Avenue
+housenumber: "1895"
 phone: ""
 opening_hours: ""
 website: ""

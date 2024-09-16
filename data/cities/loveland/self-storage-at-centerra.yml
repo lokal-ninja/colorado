@@ -1,11 +1,11 @@
 id: 448735668
-type: way
+type: node
 latitude: 40.42917
 longitude: -105.00559
 postcode: "80538"
 city: Loveland
-street: "Aldrin Drive"
-housenumber: 3702
+street: Aldrin Drive
+housenumber: "3702"
 phone: ""
 opening_hours: ""
 website: ""

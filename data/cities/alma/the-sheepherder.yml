@@ -1,11 +1,11 @@
 id: 131692917
-type: way
+type: node
 latitude: 39.28496
 longitude: -106.06346
 postcode: "80420"
 city: Alma
-street: "North Main Street"
-housenumber: 112
-phone: "+1-719-836-3383"
+street: North Main Street
+housenumber: "112"
+phone: +1-719-836-3383
 opening_hours: ""
-website: "https://customsheepskinjackets.com/"
+website: https://customsheepskinjackets.com/

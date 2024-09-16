@@ -1,11 +1,12 @@
 id: 473708147
-type: way
+type: node
 latitude: 39.0742
 longitude: -108.57033
 postcode: "81501"
 city: Grand Junction
-street: "North 1st Street"
-housenumber: 748
-phone: "+1-970-676-2103"
-opening_hours: "Mo-Sa 09:00-19:00 sales || Mo-Fr 07:30-17:30 service; Sa 09:00-14:00 service; Su off; Dec 24 off"
-website: "https://www.redrockhonda.com/"
+street: North 1st Street
+housenumber: "748"
+phone: +1-970-676-2103
+opening_hours: Mo-Sa 09:00-19:00 "sales" || Mo-Fr 07:30-17:30 "service"; Sa 09:00-14:00
+    "service"; Su off; Dec 24 off
+website: https://www.redrockhonda.com/

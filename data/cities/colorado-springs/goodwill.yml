@@ -1,11 +1,11 @@
 id: 203440731
-type: way
+type: node
 latitude: 38.79506
 longitude: -104.7918
 postcode: "80906"
 city: Colorado Springs
-street: "South Circle Drive"
-housenumber: 2007
+street: South Circle Drive
+housenumber: "2007"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-19:00"
-website: "https://www.discovermygoodwill.org/shop/locations/"
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-19:00
+website: https://www.discovermygoodwill.org/shop/locations/

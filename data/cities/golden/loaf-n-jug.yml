@@ -1,11 +1,11 @@
 id: 131486392
-type: way
+type: node
 latitude: 39.7645
 longitude: -105.23312
 postcode: "80403"
 city: Golden
-street: "North Rubey Drive"
-housenumber: 102
-phone: "+1-303-215-0883"
-opening_hours: "24/7"
-website: "https://www.loafnjug.com/"
+street: North Rubey Drive
+housenumber: "102"
+phone: +1-303-215-0883
+opening_hours: 24/7
+website: https://www.loafnjug.com/

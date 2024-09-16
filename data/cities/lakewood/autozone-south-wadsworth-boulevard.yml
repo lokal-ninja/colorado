@@ -1,11 +1,11 @@
 id: 858332876
-type: way
+type: node
 latitude: 39.62141
 longitude: -105.09212
 postcode: "80123"
 city: Lakewood
-street: "South Wadsworth Boulevard"
-housenumber: 5365
+street: South Wadsworth Boulevard
+housenumber: "5365"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/lakewood/5365-s-wadsworth-blvd.html"
+website: https://www.autozone.com/locations/co/lakewood/5365-s-wadsworth-blvd.html

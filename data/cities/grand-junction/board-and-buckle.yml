@@ -1,11 +1,12 @@
 id: 436457984
-type: way
+type: node
 latitude: 39.07776
 longitude: -108.52978
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 2822
-phone: "+1 970 242 2822"
-opening_hours: "Dec-Feb Mo-Sa 09:00-18:00; Dec-Feb 08:00-18:00 open Rental; Mar-Nov Mo-Fr 09:00-18:00; Mar-Nov Sa 09:00-17:00"
-website: "https://boardandbuckle.com/"
+street: North Avenue
+housenumber: "2822"
+phone: +1 970 242 2822
+opening_hours: Dec-Feb Mo-Sa 09:00-18:00; Dec-Feb 08:00-18:00 open "Rental"; Mar-Nov
+    Mo-Fr 09:00-18:00; Mar-Nov Sa 09:00-17:00
+website: https://boardandbuckle.com/

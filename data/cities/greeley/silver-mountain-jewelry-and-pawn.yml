@@ -1,11 +1,11 @@
 id: 1020407287
-type: way
+type: node
 latitude: 40.42337
 longitude: -104.73331
 postcode: "80634"
 city: Greeley
-street: "West 10th Street"
-housenumber: 3301
+street: West 10th Street
+housenumber: "3301"
 phone: "+9703522256"
 opening_hours: ""
 website: ""

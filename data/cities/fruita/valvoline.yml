@@ -1,11 +1,11 @@
 id: 408754061
-type: way
+type: node
 latitude: 39.15839
 longitude: -108.73445
 postcode: "81521"
 city: Fruita
-street: "South Plum Street"
-housenumber: 130
+street: South Plum Street
+housenumber: "130"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/co/fruita/oil-change-gt0005.html"
+website: https://store.vioc.com/co/fruita/oil-change-gt0005.html

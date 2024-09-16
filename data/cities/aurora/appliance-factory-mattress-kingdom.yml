@@ -4,8 +4,8 @@ latitude: 39.69697
 longitude: -104.81884
 postcode: "80012"
 city: Aurora
-street: "South Sable Boulevard"
-housenumber: 1096
-phone: "+1-303-597-0146"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 10:00-19:00, Su 11:00-18:00"
-website: "https://www.appliancefactory.com/index.html"
+street: South Sable Boulevard
+housenumber: "1096"
+phone: +1-303-597-0146
+opening_hours: Mo-Fr 09:00-19:00, Sa 10:00-19:00, Su 11:00-18:00
+website: https://www.appliancefactory.com/index.html

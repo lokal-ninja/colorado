@@ -1,11 +1,11 @@
 id: 473709495
-type: way
+type: node
 latitude: 39.07433
 longitude: -108.55253
 postcode: "81501"
 city: Grand Junction
-street: "North 12th Street"
-housenumber: 721
-phone: "+1-800-219-0199"
+street: North 12th Street
+housenumber: "721"
+phone: +1-800-219-0199
 opening_hours: ""
-website: "https://mjthomasphoto.com/"
+website: https://mjthomasphoto.com/

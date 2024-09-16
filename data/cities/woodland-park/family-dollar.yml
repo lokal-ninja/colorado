@@ -1,11 +1,11 @@
 id: 228771756
-type: way
+type: node
 latitude: 38.99037
 longitude: -105.06073
 postcode: "80863"
 city: Woodland Park
-street: "Old Country Road"
-housenumber: 729
+street: Old Country Road
+housenumber: "729"
 phone: ""
 opening_hours: ""
 website: ""

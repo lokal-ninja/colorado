@@ -1,11 +1,11 @@
 id: 183384948
-type: way
+type: node
 latitude: 40.58807
 longitude: -105.04444
 postcode: "80524"
 city: Fort Collins
-street: "Racquette Drive"
-housenumber: 200
+street: Racquette Drive
+housenumber: "200"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

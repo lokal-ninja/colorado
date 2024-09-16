@@ -1,11 +1,11 @@
 id: 921571566
-type: way
+type: node
 latitude: 39.27156
 longitude: -103.71411
 postcode: "80828"
 city: Limon
-street: "6th Street"
-housenumber: 2720
-phone: "+1-719-297-3100"
+street: 6th Street
+housenumber: "2720"
+phone: +1-719-297-3100
 opening_hours: ""
-website: "https://www.transwestchryslerdodge.com/"
+website: https://www.transwestchryslerdodge.com/

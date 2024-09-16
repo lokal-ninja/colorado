@@ -1,11 +1,11 @@
 id: 180740569
-type: way
+type: node
 latitude: 39.72912
 longitude: -105.16666
 postcode: "80401"
 city: Lakewood
-street: "Indiana Street"
-housenumber: 801
-phone: "303-277-9339"
+street: Indiana Street
+housenumber: "801"
+phone: 303-277-9339
 opening_hours: ""
-website: "https://www.stevinsonlexusoflakewood.com/"
+website: https://www.stevinsonlexusoflakewood.com/

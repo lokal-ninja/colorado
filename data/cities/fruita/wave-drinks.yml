@@ -1,11 +1,11 @@
 id: 1022114844
-type: way
+type: node
 latitude: 39.15695
 longitude: -108.73459
 postcode: "81521"
 city: Fruita
-street: "West McCune Avenue"
-housenumber: 132
+street: West McCune Avenue
+housenumber: "132"
 phone: ""
-opening_hours: "Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-20:30"
+opening_hours: Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-20:30
 website: ""

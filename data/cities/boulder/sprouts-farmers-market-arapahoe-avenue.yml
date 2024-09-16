@@ -4,8 +4,8 @@ latitude: 40.01581
 longitude: -105.26166
 postcode: "80302"
 city: Boulder
-street: "Arapahoe Avenue"
-housenumber: 2525
-phone: "+1 303-449-0777"
-opening_hours: "07:00-22:00"
-website: "https://www.sprouts.com/store/co/boulder/boulder-arapahoe-ave/"
+street: Arapahoe Avenue
+housenumber: "2525"
+phone: +1 303-449-0777
+opening_hours: 07:00-22:00
+website: https://www.sprouts.com/store/co/boulder/boulder-arapahoe-ave/

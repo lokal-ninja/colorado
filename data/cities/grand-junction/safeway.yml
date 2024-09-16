@@ -1,11 +1,12 @@
 id: 286012025
-type: way
+type: node
 latitude: 39.06645
 longitude: -108.58892
 postcode: "81503"
 city: Grand Junction
-street: "Broadway"
-housenumber: 2512
-phone: "+1 970-257-0072"
-opening_hours: "Mo-Fr 09:00-21:00 open pharmacy, Sa 09:00-18:00 open pharmacy, Su 10:00-18:00 open pharmacy || Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/co/grand-junction/2512-broadway.html"
+street: Broadway
+housenumber: "2512"
+phone: +1 970-257-0072
+opening_hours: Mo-Fr 09:00-21:00 open "pharmacy", Sa 09:00-18:00 open "pharmacy",
+    Su 10:00-18:00 open "pharmacy" || Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/co/grand-junction/2512-broadway.html

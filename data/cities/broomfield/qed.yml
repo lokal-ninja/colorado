@@ -1,11 +1,11 @@
 id: 837910002
-type: way
+type: node
 latitude: 39.98921
 longitude: -105.01214
 postcode: "80023"
 city: Broomfield
-street: "West 160th Avenue"
-housenumber: 1785
-phone: "(720) 462-4100"
+street: West 160th Avenue
+housenumber: "1785"
+phone: (720) 462-4100
 opening_hours: ""
-website: "https://www.qedelectric.com/about/location/broomfield"
+website: https://www.qedelectric.com/about/location/broomfield

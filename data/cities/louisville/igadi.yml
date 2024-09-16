@@ -4,8 +4,8 @@ latitude: 39.9861
 longitude: -105.12824
 postcode: "80027"
 city: Louisville
-street: "Courtesy Road"
-housenumber: 1655
-phone: "+1-720-242-7281"
-opening_hours: "Monday-Sunday: 8am-9pm"
-website: "https://igadiltd.com/louisville"
+street: Courtesy Road
+housenumber: "1655"
+phone: +1-720-242-7281
+opening_hours: 'Monday-Sunday: 8am-9pm'
+website: https://igadiltd.com/louisville

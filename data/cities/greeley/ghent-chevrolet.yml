@@ -1,11 +1,11 @@
 id: 870670543
-type: way
+type: node
 latitude: 40.39376
 longitude: -104.73653
 postcode: "80634"
 city: Greeley
-street: "35th Avenue"
-housenumber: 2715
+street: 35th Avenue
+housenumber: "2715"
 phone: ""
 opening_hours: ""
 website: ""

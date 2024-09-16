@@ -1,11 +1,11 @@
 id: 683431908
-type: way
+type: node
 latitude: 39.70591
 longitude: -104.98739
 postcode: "80209"
 city: Denver
-street: "East Center Avenue"
-housenumber: 592
+street: East Center Avenue
+housenumber: "592"
 phone: ""
 opening_hours: ""
 website: ""

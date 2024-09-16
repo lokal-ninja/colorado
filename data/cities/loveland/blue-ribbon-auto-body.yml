@@ -1,11 +1,11 @@
 id: 473467234
-type: way
+type: node
 latitude: 40.38865
 longitude: -105.0736
 postcode: ""
 city: Loveland
-street: "South Lincoln Avenue"
-housenumber: 401
+street: South Lincoln Avenue
+housenumber: "401"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 778383626
-type: way
+type: node
 latitude: 38.29341
 longitude: -104.60817
 postcode: "81003"
 city: Pueblo
-street: "North Freeway"
-housenumber: 2516
+street: North Freeway
+housenumber: "2516"
 phone: ""
 opening_hours: ""
 website: ""

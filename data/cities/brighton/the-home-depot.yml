@@ -1,11 +1,11 @@
 id: 220893020
-type: way
+type: node
 latitude: 39.95214
 longitude: -104.78778
 postcode: "80601"
 city: Brighton
-street: "Buckley Road"
-housenumber: 2440
-phone: "+1 303-655-1686"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/brighton-co/co/brighton/80601/1547"
+street: Buckley Road
+housenumber: "2440"
+phone: +1 303-655-1686
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/brighton-co/co/brighton/80601/1547

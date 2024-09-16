@@ -1,11 +1,11 @@
 id: 260050667
-type: way
+type: node
 latitude: 39.82692
 longitude: -104.91524
 postcode: "80022"
 city: Commerce City
-street: "East 72nd Avenue"
-housenumber: 6302
-phone: "+1 303 287 8035"
+street: East 72nd Avenue
+housenumber: "6302"
+phone: +1 303 287 8035
 opening_hours: ""
 website: ""

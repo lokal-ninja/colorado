@@ -1,11 +1,11 @@
 id: 337262377
-type: way
+type: node
 latitude: 39.95645
 longitude: -104.98517
 postcode: "80023"
 city: Thornton
-street: "Lincoln Street"
-housenumber: 14375
-phone: "+1 (303) 254-6319"
+street: Lincoln Street
+housenumber: "14375"
+phone: +1 (303) 254-6319
 opening_hours: ""
-website: "https://www.murphyusa.com/"
+website: https://www.murphyusa.com/

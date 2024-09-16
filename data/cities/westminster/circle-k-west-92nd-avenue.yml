@@ -1,11 +1,11 @@
 id: 478946162
-type: way
+type: node
 latitude: 39.86326
 longitude: -105.08505
 postcode: "80021"
 city: Westminster
-street: "West 92nd Avenue"
-housenumber: 7805
-phone: "+1-303-420-2875"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/westminster/7805-w-92nd-ave/2709882"
+street: West 92nd Avenue
+housenumber: "7805"
+phone: +1-303-420-2875
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/westminster/7805-w-92nd-ave/2709882

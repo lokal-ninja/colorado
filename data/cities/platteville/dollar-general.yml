@@ -1,11 +1,11 @@
 id: 738999335
-type: way
+type: node
 latitude: 40.20755
 longitude: -104.82301
 postcode: ""
 city: Platteville
-street: "Justin Avenue"
-housenumber: 395
+street: Justin Avenue
+housenumber: "395"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/co/platteville/10886"
+website: https://www.dollargeneral.com/store-directory/co/platteville/10886

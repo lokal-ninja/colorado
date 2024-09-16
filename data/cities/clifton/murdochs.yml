@@ -1,11 +1,12 @@
 id: 497020168
-type: way
+type: node
 latitude: 39.0882
 longitude: -108.45504
 postcode: "81520"
 city: Clifton
-street: "I 70 Business Loop"
-housenumber: 3217
-phone: "+1 970 523 7515"
-opening_hours: "Mo-Sa 07:30-19:00; Su 09:00-18:00; Jan 01 off; Easter off; Jul 04 off; Nov 22-28 Th off; Dec 25 off"
-website: "https://www.murdochs.com/stores/clifton/"
+street: I 70 Business Loop
+housenumber: "3217"
+phone: +1 970 523 7515
+opening_hours: Mo-Sa 07:30-19:00; Su 09:00-18:00; Jan 01 off; Easter off; Jul 04 off;
+    Nov 22-28 Th off; Dec 25 off
+website: https://www.murdochs.com/stores/clifton/

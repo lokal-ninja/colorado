@@ -4,8 +4,8 @@ latitude: 39.76699
 longitude: -104.90063
 postcode: "80238"
 city: Denver
-street: "East 36th Avenue"
-housenumber: 7506
-phone: "+1 303-320-6004"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 08:30-22:00; Su 09:00-22:00"
+street: East 36th Avenue
+housenumber: "7506"
+phone: +1 303-320-6004
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 08:30-22:00; Su 09:00-22:00
 website: ""

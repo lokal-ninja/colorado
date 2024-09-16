@@ -1,11 +1,11 @@
 id: 130665363
-type: way
+type: node
 latitude: 37.13935
 longitude: -104.52278
 postcode: "81082"
 city: Trinidad
-street: "Toupal Drive"
-housenumber: 2921
-phone: "+1-719-846-4477"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/962/trinidad-co/whats-new"
+street: Toupal Drive
+housenumber: "2921"
+phone: +1-719-846-4477
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/962/trinidad-co/whats-new

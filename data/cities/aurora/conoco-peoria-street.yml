@@ -4,8 +4,8 @@ latitude: 39.76292
 longitude: -104.84606
 postcode: "80010"
 city: Aurora
-street: "Peoria Street"
-housenumber: 3202
+street: Peoria Street
+housenumber: "3202"
 phone: ""
 opening_hours: ""
-website: "http://conoco.com"
+website: http://conoco.com

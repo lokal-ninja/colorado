@@ -1,11 +1,11 @@
 id: 205311922
-type: way
+type: node
 latitude: 38.83265
 longitude: -104.83781
 postcode: "80905"
 city: Colorado Springs
-street: "West Colorado Avenue"
-housenumber: 701
+street: West Colorado Avenue
+housenumber: "701"
 phone: ""
 opening_hours: ""
-website: "http://buckleyshomesteadsupply.com/"
+website: http://buckleyshomesteadsupply.com/

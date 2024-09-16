@@ -1,11 +1,11 @@
 id: 497023276
-type: way
+type: node
 latitude: 39.07207
 longitude: -108.52616
 postcode: "81501"
 city: Grand Junction
-street: "Chipeta Avenue"
-housenumber: 2845
-phone: "+1-877-218-7951"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.capitalbooksandwellness.com/"
+street: Chipeta Avenue
+housenumber: "2845"
+phone: +1-877-218-7951
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.capitalbooksandwellness.com/

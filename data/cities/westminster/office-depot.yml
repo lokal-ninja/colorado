@@ -1,11 +1,11 @@
 id: 151963340
-type: way
+type: node
 latitude: 39.86593
 longitude: -105.05624
 postcode: "80031"
 city: Westminster
-street: "Sheridan Boulevard"
-housenumber: 9349
-phone: "+1 303-650-8722"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/co/westminster/office-depot-567"
+street: Sheridan Boulevard
+housenumber: "9349"
+phone: +1 303-650-8722
+opening_hours: Mo-Fr 08:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/co/westminster/office-depot-567

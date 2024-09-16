@@ -1,11 +1,11 @@
 id: 46209178
-type: way
+type: node
 latitude: 39.65619
 longitude: -104.99346
 postcode: "80110"
 city: Englewood
-street: "Englewood Parkway"
-housenumber: 401
-phone: "303-762-8835"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Englewood Parkway
+housenumber: "401"
+phone: 303-762-8835
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

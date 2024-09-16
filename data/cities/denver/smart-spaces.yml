@@ -1,11 +1,11 @@
 id: 673192474
-type: way
+type: node
 latitude: 39.69316
 longitude: -104.9929
 postcode: "80223"
 city: Denver
-street: "South Santa Fe Drive"
-housenumber: 
+street: South Santa Fe Drive
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00"
+opening_hours: Mo-Sa 10:00-17:00
 website: ""

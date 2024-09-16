@@ -1,11 +1,11 @@
 id: 211229113
-type: way
+type: node
 latitude: 38.9267
 longitude: -104.79458
 postcode: "80918"
 city: Colorado Springs
-street: "Dublin Boulevard"
-housenumber: 1730
-phone: "+1 719-590-8890"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/co/colorado-springs/colorado-springs/"
+street: Dublin Boulevard
+housenumber: "1730"
+phone: +1 719-590-8890
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/co/colorado-springs/colorado-springs/

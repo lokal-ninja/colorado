@@ -1,11 +1,11 @@
 id: 530725180
-type: way
+type: node
 latitude: 39.71163
 longitude: -105.01646
 postcode: "80223"
 city: Denver
-street: "West Alameda Avenue"
-housenumber: 2475
+street: West Alameda Avenue
+housenumber: "2475"
 phone: ""
 opening_hours: ""
 website: ""

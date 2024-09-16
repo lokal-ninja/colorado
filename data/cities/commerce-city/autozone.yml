@@ -1,11 +1,11 @@
 id: 260051044
-type: way
+type: node
 latitude: 39.82618
 longitude: -104.91601
 postcode: "80022"
 city: Commerce City
-street: "East 71st Place"
-housenumber: 6200
-phone: "+1-303-287-2000"
+street: East 71st Place
+housenumber: "6200"
+phone: +1-303-287-2000
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/commerce-city/6200-e-71st-place.html"
+website: https://www.autozone.com/locations/co/commerce-city/6200-e-71st-place.html

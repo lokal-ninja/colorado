@@ -1,11 +1,11 @@
 id: 670483046
-type: way
+type: node
 latitude: 39.5947
 longitude: -104.82947
 postcode: "80112"
 city: Centennial
-street: "South Potomac Street"
-housenumber: 6722
-phone: "+1-303-799-8136"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off"
+street: South Potomac Street
+housenumber: "6722"
+phone: +1-303-799-8136
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
 website: ""

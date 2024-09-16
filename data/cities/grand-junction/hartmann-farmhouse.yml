@@ -1,11 +1,11 @@
 id: 292447117
-type: way
+type: node
 latitude: 39.07744
 longitude: -108.63437
 postcode: "81507"
 city: Grand Junction
-street: "Broadway"
-housenumber: 2251
-phone: "+1-970-640-6796"
-opening_hours: "Mo-Fr 11:00-17:00; Sa 09:00-16:00; Su 11:00-16:00"
-website: "https://www.hartmannfarmhouse.com/"
+street: Broadway
+housenumber: "2251"
+phone: +1-970-640-6796
+opening_hours: Mo-Fr 11:00-17:00; Sa 09:00-16:00; Su 11:00-16:00
+website: https://www.hartmannfarmhouse.com/

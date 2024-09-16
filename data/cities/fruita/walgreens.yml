@@ -1,11 +1,11 @@
 id: 408756104
-type: way
+type: node
 latitude: 39.15836
 longitude: -108.7368
 postcode: "81521"
 city: Fruita
-street: "West Aspen Avenue"
-housenumber: 316
+street: West Aspen Avenue
+housenumber: "316"
 phone: ""
 opening_hours: ""
 website: ""

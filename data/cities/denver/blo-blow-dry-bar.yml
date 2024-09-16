@@ -1,11 +1,11 @@
 id: 812665183
-type: way
+type: node
 latitude: 39.75454
 longitude: -105.00048
 postcode: "80202"
 city: Denver
-street: "Wewatta Street"
-housenumber: 1750
+street: Wewatta Street
+housenumber: "1750"
 phone: ""
 opening_hours: ""
 website: ""

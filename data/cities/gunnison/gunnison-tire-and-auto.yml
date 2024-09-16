@@ -1,11 +1,11 @@
 id: 231164696
-type: way
+type: node
 latitude: 38.54483
 longitude: -106.93265
 postcode: "81230"
 city: Gunnison
-street: "West Tomichi Avenue"
-housenumber: 508
-phone: "+1 970 641 0801"
+street: West Tomichi Avenue
+housenumber: "508"
+phone: +1 970 641 0801
 opening_hours: ""
 website: ""

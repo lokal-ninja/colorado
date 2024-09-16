@@ -1,11 +1,11 @@
 id: 320894099
-type: way
+type: node
 latitude: 39.75884
 longitude: -104.84796
 postcode: "80010"
 city: Aurora
-street: "East 30th Avenue"
-housenumber: 12072
-phone: "+1-303-340-2121"
+street: East 30th Avenue
+housenumber: "12072"
+phone: +1-303-340-2121
 opening_hours: ""
-website: "https://www.u-stor.com/Colorado/Aurora/U-StorPeoria.html"
+website: https://www.u-stor.com/Colorado/Aurora/U-StorPeoria.html

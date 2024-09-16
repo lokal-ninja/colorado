@@ -4,8 +4,8 @@ latitude: 38.75149
 longitude: -104.74511
 postcode: "80911"
 city: Colorado Springs
-street: "US 85 #87"
-housenumber: 5510
+street: 'US 85 #87'
+housenumber: "5510"
 phone: ""
 opening_hours: ""
 website: ""

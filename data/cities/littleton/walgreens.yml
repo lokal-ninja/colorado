@@ -1,11 +1,11 @@
 id: 627920121
-type: way
+type: node
 latitude: 39.57268
 longitude: -104.98798
 postcode: "80122"
 city: Littleton
-street: "East Mineral Avenue"
-housenumber: 100
+street: East Mineral Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-100+e+mineral+ave-littleton-co-80122/id=17807"
+website: https://www.walgreens.com/locator/walgreens-100+e+mineral+ave-littleton-co-80122/id=17807

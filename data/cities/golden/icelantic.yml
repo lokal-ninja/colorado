@@ -1,11 +1,11 @@
 id: 667524697
-type: way
+type: node
 latitude: 39.75419
 longitude: -105.22067
 postcode: "80401"
 city: Golden
-street: "Washington Avenue"
-housenumber: 1300
+street: Washington Avenue
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

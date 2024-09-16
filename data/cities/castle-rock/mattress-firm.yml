@@ -1,11 +1,11 @@
 id: 1262414175
-type: way
+type: node
 latitude: 39.41156
 longitude: -104.87242
 postcode: "80108"
 city: Castle Rock
-street: "New Memphis Court"
-housenumber: 830
-phone: "+1 303-660-8282"
+street: New Memphis Court
+housenumber: "830"
+phone: +1 303-660-8282
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/co/castle-rock/003070/"
+website: https://www.mattressfirm.com/en-us/stores/co/castle-rock/003070/

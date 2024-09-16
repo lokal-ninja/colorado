@@ -1,11 +1,11 @@
 id: 239702331
-type: way
+type: node
 latitude: 40.53669
 longitude: -105.07848
 postcode: "80525"
 city: Fort Collins
-street: "South College Avenue"
-housenumber: 3663
-phone: "+1-970-225-1040"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.buttercreamcupcakery.com"
+street: South College Avenue
+housenumber: "3663"
+phone: +1-970-225-1040
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.buttercreamcupcakery.com

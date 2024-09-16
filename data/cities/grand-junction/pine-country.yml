@@ -1,11 +1,11 @@
 id: 423684206
-type: way
+type: node
 latitude: 39.08283
 longitude: -108.58618
 postcode: "81505"
 city: Grand Junction
-street: "US Highway 6 and 50"
-housenumber: 2520
-phone: "+1 970 241 5428"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su off"
-website: "https://www.pinecountryinc.com/"
+street: US Highway 6 and 50
+housenumber: "2520"
+phone: +1 970 241 5428
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su off
+website: https://www.pinecountryinc.com/

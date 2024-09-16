@@ -1,11 +1,11 @@
 id: 738325850
-type: way
+type: node
 latitude: 39.87041
 longitude: -104.88515
 postcode: "80640"
 city: Henderson
-street: "East 95th Place"
-housenumber: 8804
-phone: "+1-303-287-4068"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/commerce-city/8836-e-96th-ave-37570"
+street: East 95th Place
+housenumber: "8804"
+phone: +1-303-287-4068
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/commerce-city/8836-e-96th-ave-37570

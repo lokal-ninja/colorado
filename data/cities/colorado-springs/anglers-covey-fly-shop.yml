@@ -1,11 +1,11 @@
 id: 191841694
-type: way
+type: node
 latitude: 38.84037
 longitude: -104.85825
 postcode: "80904"
 city: Colorado Springs
-street: "South 21st Street"
-housenumber: 295
+street: South 21st Street
+housenumber: "295"
 phone: ""
 opening_hours: ""
 website: ""

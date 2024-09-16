@@ -1,11 +1,11 @@
 id: 366025524
-type: way
+type: node
 latitude: 39.93207
 longitude: -105.13254
 postcode: "80021"
 city: Broomfield
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-18:00"
-website: "https://www.flatironcrossing.com"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-18:00
+website: https://www.flatironcrossing.com

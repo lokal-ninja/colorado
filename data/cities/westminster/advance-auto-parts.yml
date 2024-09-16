@@ -1,11 +1,11 @@
 id: 448429648
-type: way
+type: node
 latitude: 39.86425
 longitude: -105.08043
 postcode: "80021"
 city: Westminster
-street: "West 92nd Avenue"
-housenumber: 7485
+street: West 92nd Avenue
+housenumber: "7485"
 phone: ""
-opening_hours: "08:00-21:00"
-website: "https://stores.advanceautoparts.com/co/westminster/7485-w-92nd-ave"
+opening_hours: 08:00-21:00
+website: https://stores.advanceautoparts.com/co/westminster/7485-w-92nd-ave

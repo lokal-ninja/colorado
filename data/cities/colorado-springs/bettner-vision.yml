@@ -4,8 +4,8 @@ latitude: 38.96418
 longitude: -104.75713
 postcode: "80920"
 city: Colorado Springs
-street: "North Union Boulevard"
-housenumber: 9205
-phone: "+1-719-625-8144"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-17:00 || by appointment"
-website: "https://bettnervision.com/"
+street: North Union Boulevard
+housenumber: "9205"
+phone: +1-719-625-8144
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-17:00 || "by appointment"
+website: https://bettnervision.com/

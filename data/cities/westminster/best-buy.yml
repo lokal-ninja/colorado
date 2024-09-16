@@ -1,11 +1,11 @@
 id: 151960573
-type: way
+type: node
 latitude: 39.86689
 longitude: -105.05669
 postcode: "80031"
 city: Westminster
-street: "Sheridan Boulevard"
-housenumber: 9369
-phone: "+1 303-426-4434"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://stores.bestbuy.com/co/westminster/9369-sheridan-blvd-209.html"
+street: Sheridan Boulevard
+housenumber: "9369"
+phone: +1 303-426-4434
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://stores.bestbuy.com/co/westminster/9369-sheridan-blvd-209.html

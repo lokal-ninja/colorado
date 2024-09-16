@@ -1,11 +1,11 @@
 id: 795475523
-type: way
+type: node
 latitude: 39.82696
 longitude: -104.90383
 postcode: "80022"
 city: Commerce City
-street: "Quebec Street"
-housenumber: 7191
+street: Quebec Street
+housenumber: "7191"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 497214793
-type: way
+type: node
 latitude: 39.11441
 longitude: -108.64615
 postcode: "81505"
 city: Grand Junction
-street: "22 Road"
-housenumber: 748
-phone: "+1-970-241-3337"
-opening_hours: "24/7"
+street: 22 Road
+housenumber: "748"
+phone: +1-970-241-3337
+opening_hours: 24/7
 website: ""

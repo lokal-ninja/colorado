@@ -1,11 +1,11 @@
 id: 158268891
-type: way
+type: node
 latitude: 39.87935
 longitude: -105.09802
 postcode: "80021"
 city: Westminster
-street: "Wadsworth Parkway"
-housenumber: 10071
+street: Wadsworth Parkway
+housenumber: "10071"
 phone: ""
 opening_hours: ""
 website: ""

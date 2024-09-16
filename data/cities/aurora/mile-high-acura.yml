@@ -1,11 +1,11 @@
 id: 162809268
-type: way
+type: node
 latitude: 39.66475
 longitude: -104.86682
 postcode: "80014"
 city: Aurora
-street: "South Havana Street"
-housenumber: 2799
-phone: "(303) 369-1549"
+street: South Havana Street
+housenumber: "2799"
+phone: (303) 369-1549
 opening_hours: ""
-website: "https://milehighacura.com/"
+website: https://milehighacura.com/

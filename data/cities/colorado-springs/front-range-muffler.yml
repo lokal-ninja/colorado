@@ -1,11 +1,11 @@
 id: 305941083
-type: way
+type: node
 latitude: 38.83772
 longitude: -104.82443
 postcode: "80903"
 city: Colorado Springs
-street: "North Cascade Avenue"
-housenumber: 229
-phone: "+1-719-442-6740"
+street: North Cascade Avenue
+housenumber: "229"
+phone: +1-719-442-6740
 opening_hours: ""
-website: "https://www.frontrangemuffler.com/"
+website: https://www.frontrangemuffler.com/

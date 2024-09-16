@@ -1,11 +1,11 @@
 id: 814034666
-type: way
+type: node
 latitude: 40.16177
 longitude: -104.94435
 postcode: "80504"
 city: Firestone
-street: "Cimmarron Street"
-housenumber: 11052
+street: Cimmarron Street
+housenumber: "11052"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 60912017
-type: way
+type: node
 latitude: 39.69619
 longitude: -104.97955
 postcode: "80209"
 city: Denver
-street: "South Washington Street"
-housenumber: 1111
-phone: "+1 303-733-6201"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/washingtonpark"
+street: South Washington Street
+housenumber: "1111"
+phone: +1 303-733-6201
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.wholefoodsmarket.com/stores/washingtonpark

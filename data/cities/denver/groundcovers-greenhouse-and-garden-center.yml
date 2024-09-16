@@ -1,11 +1,11 @@
 id: 591129305
-type: way
+type: node
 latitude: 39.67656
 longitude: -104.93727
 postcode: "80222"
 city: Denver
-street: "East Iliff Avenue"
-housenumber: 4301
-phone: "+1-303-758-8957"
-opening_hours: "Mo-Sa 09:00-18:00, Su 09:00-17:00"
-website: "http://www.groundcoversgreenhousegardencenter.com/"
+street: East Iliff Avenue
+housenumber: "4301"
+phone: +1-303-758-8957
+opening_hours: Mo-Sa 09:00-18:00, Su 09:00-17:00
+website: http://www.groundcoversgreenhousegardencenter.com/

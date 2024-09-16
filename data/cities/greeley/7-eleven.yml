@@ -1,11 +1,11 @@
 id: 866441150
-type: way
+type: node
 latitude: 40.4135
 longitude: -104.69249
 postcode: "80631"
 city: Greeley
-street: "16th Street"
-housenumber: 830
-phone: "+1 970-352-5150"
-opening_hours: "24/7"
+street: 16th Street
+housenumber: "830"
+phone: +1 970-352-5150
+opening_hours: 24/7
 website: ""

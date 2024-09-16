@@ -1,11 +1,11 @@
 id: 44868320
-type: way
+type: node
 latitude: 39.55839
 longitude: -104.87768
-postcode: "80124-5129"
+postcode: 80124-5129
 city: Littleton
-street: "Park Meadows Center Drive"
-housenumber: 8686
-phone: "+1 303-708-0012"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/douglas-county-littleton-co-468.html"
+street: Park Meadows Center Drive
+housenumber: "8686"
+phone: +1 303-708-0012
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/douglas-county-littleton-co-468.html

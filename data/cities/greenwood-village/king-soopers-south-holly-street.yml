@@ -1,11 +1,11 @@
 id: 44028499
-type: way
+type: node
 latitude: 39.60763
 longitude: -104.92136
 postcode: "80111"
 city: Greenwood Village
-street: "South Holly Street"
-housenumber: 6000
-phone: "+1-720-488-3401"
-opening_hours: "05:00-24:00"
-website: "https://www.kingsoopers.com/storeHours?store"
+street: South Holly Street
+housenumber: "6000"
+phone: +1-720-488-3401
+opening_hours: 05:00-24:00
+website: https://www.kingsoopers.com/storeHours?store

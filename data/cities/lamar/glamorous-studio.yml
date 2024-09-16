@@ -1,11 +1,11 @@
 id: 802057435
-type: way
+type: node
 latitude: 38.0891
 longitude: -102.62022
 postcode: "81052"
 city: Lamar
-street: "West Beech Street"
-housenumber: 115
+street: West Beech Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

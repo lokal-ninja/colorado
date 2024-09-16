@@ -1,11 +1,11 @@
 id: 814321340
-type: way
+type: node
 latitude: 40.08711
 longitude: -104.92931
 postcode: "80514"
 city: Dacono
-street: "8th Street"
-housenumber: 1020
+street: 8th Street
+housenumber: "1020"
 phone: ""
 opening_hours: ""
 website: ""

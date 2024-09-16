@@ -1,11 +1,11 @@
 id: 421376296
-type: way
+type: node
 latitude: 39.06745
 longitude: -108.56505
 postcode: "81501"
 city: Grand Junction
-street: "Main Street"
-housenumber: 444
-phone: "+1-970-245-1617"
-opening_hours: "Mo-Fr 09:30-17:30; Sa 09:30-17:00; Su 11:00-16:00"
-website: "https://www.mesajewelers.com/"
+street: Main Street
+housenumber: "444"
+phone: +1-970-245-1617
+opening_hours: Mo-Fr 09:30-17:30; Sa 09:30-17:00; Su 11:00-16:00
+website: https://www.mesajewelers.com/

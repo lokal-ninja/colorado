@@ -1,11 +1,11 @@
 id: 406894340
-type: way
+type: node
 latitude: 39.15807
 longitude: -108.73503
 postcode: "81521"
 city: Fruita
-street: "South Plum Street"
-housenumber: 135
+street: South Plum Street
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

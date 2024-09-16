@@ -1,11 +1,11 @@
 id: 1064455466
-type: way
+type: node
 latitude: 37.46803
 longitude: -105.87381
 postcode: "81101"
 city: Alamosa
-street: "Main Street"
-housenumber: 1114
+street: Main Street
+housenumber: "1114"
 phone: ""
 opening_hours: ""
-website: "https://www.accentonflowersalamosa.net"
+website: https://www.accentonflowersalamosa.net

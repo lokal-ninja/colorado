@@ -1,11 +1,11 @@
 id: 242851832
-type: way
+type: node
 latitude: 39.5901
 longitude: -104.86285
 postcode: "80112"
 city: Centennial
-street: "East Briarwood Avenue"
-housenumber: 10900
-phone: "+1-303-706-0071"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3313/centennial-co/whats-new"
+street: East Briarwood Avenue
+housenumber: "10900"
+phone: +1-303-706-0071
+opening_hours: 24/7
+website: https://www.walmart.com/store/3313/centennial-co/whats-new

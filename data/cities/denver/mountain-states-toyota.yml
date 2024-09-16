@@ -1,11 +1,11 @@
 id: 205680901
-type: way
+type: node
 latitude: 39.8247
 longitude: -104.99005
 postcode: "80221"
 city: Denver
-street: "West 70th Avenue"
-housenumber: 201
-phone: "+1-844-283-1824"
-opening_hours: "Monday - Saturday: 09:00-20:00"
-website: "https://www.mountainstatestoyota.com/"
+street: West 70th Avenue
+housenumber: "201"
+phone: +1-844-283-1824
+opening_hours: 'Monday - Saturday: 09:00-20:00'
+website: https://www.mountainstatestoyota.com/

@@ -1,11 +1,11 @@
 id: 672729439
-type: way
+type: node
 latitude: 39.67266
 longitude: -104.79152
 postcode: "80013"
 city: Aurora
-street: "South Buckley Road"
-housenumber: 2351
+street: South Buckley Road
+housenumber: "2351"
 phone: ""
 opening_hours: ""
 website: ""

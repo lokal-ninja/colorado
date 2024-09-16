@@ -1,11 +1,11 @@
 id: 477238530
-type: way
+type: node
 latitude: 40.20004
 longitude: -105.10198
 postcode: "80501"
 city: Longmont
-street: "Main Street"
-housenumber: 2320
-phone: "+1 303-485-5386"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/2320-main-st-longmont-80501?number=704"
+street: Main Street
+housenumber: "2320"
+phone: +1 303-485-5386
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/2320-main-st-longmont-80501?number=704

@@ -1,11 +1,11 @@
 id: 497021419
-type: way
+type: node
 latitude: 39.0899
 longitude: -108.45436
 postcode: "81520"
 city: Clifton
-street: "I 70 Business Loop"
-housenumber: 3221
-phone: "+1-970-434-4117"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/co/clifton/autoparts-2993.html"
+street: I 70 Business Loop
+housenumber: "3221"
+phone: +1-970-434-4117
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/co/clifton/autoparts-2993.html

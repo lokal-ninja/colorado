@@ -1,11 +1,11 @@
 id: 131021949
-type: way
+type: node
 latitude: 39.59016
 longitude: -106.09717
 postcode: "80443"
 city: Frisco
-street: "Summit Boulevard"
-housenumber: 1008
-phone: "+1 970-668-5144"
+street: Summit Boulevard
+housenumber: "1008"
+phone: +1 970-668-5144
 opening_hours: ""
-website: "https://local.safeway.com/safeway/co/frisco/1008-summit-blvd.html"
+website: https://local.safeway.com/safeway/co/frisco/1008-summit-blvd.html

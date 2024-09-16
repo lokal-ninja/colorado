@@ -1,11 +1,11 @@
 id: 526509454
-type: way
+type: node
 latitude: 39.28807
 longitude: -103.06205
 postcode: "80815"
 city: Flagler
-street: "South Ruffner Avenue"
-housenumber: 21
+street: South Ruffner Avenue
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

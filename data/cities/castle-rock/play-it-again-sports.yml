@@ -1,11 +1,11 @@
 id: 222255260
-type: way
+type: node
 latitude: 39.37821
 longitude: -104.85976
 postcode: "80104"
 city: Castle Rock
-street: "North Wilcox Street"
-housenumber: 740
-phone: "+1-720-479-8245"
+street: North Wilcox Street
+housenumber: "740"
+phone: +1-720-479-8245
 opening_hours: ""
-website: "https://www.playitagainsports.com/locations/castle-rock-co"
+website: https://www.playitagainsports.com/locations/castle-rock-co

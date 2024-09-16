@@ -1,11 +1,11 @@
 id: 497018272
-type: way
+type: node
 latitude: 39.08223
 longitude: -108.45996
 postcode: "81504"
 city: Grand Junction
-street: "Mesa Avenue"
-housenumber: 3199
+street: Mesa Avenue
+housenumber: "3199"
 phone: ""
 opening_hours: ""
 website: ""

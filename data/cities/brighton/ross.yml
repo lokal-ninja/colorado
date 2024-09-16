@@ -1,11 +1,11 @@
 id: 468698368
-type: way
+type: node
 latitude: 39.9549
 longitude: -104.78149
-postcode: "80601-7000"
+postcode: 80601-7000
 city: Brighton
-street: "Prairie Center Parkway"
-housenumber: 2275
-phone: "+1 303-659-3399"
-opening_hours: "Mo-Su 07:00-24:00"
+street: Prairie Center Parkway
+housenumber: "2275"
+phone: +1 303-659-3399
+opening_hours: Mo-Su 07:00-24:00
 website: ""

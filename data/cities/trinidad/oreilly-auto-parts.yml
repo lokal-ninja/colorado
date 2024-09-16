@@ -1,11 +1,11 @@
 id: 130665361
-type: way
+type: node
 latitude: 37.13964
 longitude: -104.5209
 postcode: "81082"
 city: Trinidad
-street: "Toupal Drive"
-housenumber: 2905
+street: Toupal Drive
+housenumber: "2905"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/trinidad/autoparts-3004.html"
+website: https://locations.oreillyauto.com/co/trinidad/autoparts-3004.html

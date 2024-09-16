@@ -4,8 +4,8 @@ latitude: 39.75802
 longitude: -105.01107
 postcode: "80021"
 city: Denver
-street: "15th Street"
-housenumber: 2525
+street: 15th Street
+housenumber: "2525"
 phone: ""
 opening_hours: ""
-website: "http://shapessalonandstudio.com/"
+website: http://shapessalonandstudio.com/

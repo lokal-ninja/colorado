@@ -1,11 +1,11 @@
 id: 976944568
-type: way
+type: node
 latitude: 39.07664
 longitude: -108.49989
 postcode: "81504"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 2985
-phone: "+1 970 242 0560"
-opening_hours: "Mo-Fr 09:00-16:00; Sa by appointment"
-website: "https://www.selfstoragegrandjunction.com/storage-units/colorado/grand-junction/north-avenue-storage-2-3501390/"
+street: North Avenue
+housenumber: "2985"
+phone: +1 970 242 0560
+opening_hours: Mo-Fr 09:00-16:00; Sa "by appointment"
+website: https://www.selfstoragegrandjunction.com/storage-units/colorado/grand-junction/north-avenue-storage-2-3501390/

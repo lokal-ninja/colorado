@@ -1,11 +1,11 @@
 id: 188422690
-type: way
+type: node
 latitude: 39.62324
 longitude: -104.90345
 postcode: "80111"
 city: Greenwood Village
-street: "South Quebec Street"
-housenumber: 5150
-phone: "+1 888-918-4078"
+street: South Quebec Street
+housenumber: "5150"
+phone: +1 888-918-4078
 opening_hours: ""
 website: ""

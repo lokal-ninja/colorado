@@ -1,11 +1,11 @@
 id: 369322582
-type: way
+type: node
 latitude: 39.91562
 longitude: -105.05489
 postcode: "80020"
 city: Broomfield
-street: "East 1st Avenue"
-housenumber: 1285
+street: East 1st Avenue
+housenumber: "1285"
 phone: ""
-opening_hours: "Mo-We 09:30-18:00; Th 09:30-19:00; Fr 09:30-18:00; Sa 09:30-17:00"
+opening_hours: Mo-We 09:30-18:00; Th 09:30-19:00; Fr 09:30-18:00; Sa 09:30-17:00
 website: ""

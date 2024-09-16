@@ -1,11 +1,11 @@
 id: 496995880
-type: way
+type: node
 latitude: 39.09136
 longitude: -108.50907
 postcode: "81504"
 city: Grand Junction
-street: "Patterson Road"
-housenumber: 2935
-phone: "+1-970-628-4000"
+street: Patterson Road
+housenumber: "2935"
+phone: +1-970-628-4000
 opening_hours: ""
-website: "https://www.mesamortuary.com/"
+website: https://www.mesamortuary.com/

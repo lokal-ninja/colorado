@@ -4,8 +4,8 @@ latitude: 40.0282
 longitude: -105.25919
 postcode: "80304"
 city: Boulder
-street: "28th Street"
-housenumber: 2863
+street: 28th Street
+housenumber: "2863"
 phone: ""
-opening_hours: "Mo-Fr 9:30-17:30; Sa 9:30-14:00"
-website: "https://www.tebocoin.com/"
+opening_hours: Mo-Fr 9:30-17:30; Sa 9:30-14:00
+website: https://www.tebocoin.com/

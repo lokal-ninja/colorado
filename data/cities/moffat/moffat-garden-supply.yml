@@ -4,8 +4,8 @@ latitude: 38.00555
 longitude: -105.90692
 postcode: "81143"
 city: Moffat
-street: "Lincoln Avenue"
-housenumber: 909
-phone: "+1-719-937-7687"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00; Su closed"
-website: "https://www.moffatgardensupply.com/"
+street: Lincoln Avenue
+housenumber: "909"
+phone: +1-719-937-7687
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-16:00; Su closed
+website: https://www.moffatgardensupply.com/

@@ -1,11 +1,11 @@
 id: 611397415
-type: way
+type: node
 latitude: 39.66278
 longitude: -104.865
 postcode: "80014"
 city: Aurora
-street: "South Havana Street"
-housenumber: 2950
-phone: "(720) 707-6200"
+street: South Havana Street
+housenumber: "2950"
+phone: (720) 707-6200
 opening_hours: ""
-website: "https://www.shortlinemitsubishi.com/"
+website: https://www.shortlinemitsubishi.com/

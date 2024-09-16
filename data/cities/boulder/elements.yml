@@ -4,8 +4,8 @@ latitude: 40.0244
 longitude: -105.25512
 postcode: "80301"
 city: Boulder
-street: "30th Street"
-housenumber: 2321
+street: 30th Street
+housenumber: "2321"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://elementsmassage.com/boulder/"
+opening_hours: Mo-Su 09:00-21:00
+website: https://elementsmassage.com/boulder/

@@ -1,11 +1,11 @@
 id: 421353883
-type: way
+type: node
 latitude: 39.06745
 longitude: -108.56324
 postcode: "81501"
 city: Grand Junction
-street: "Main Street"
-housenumber: 552
-phone: "+1-970-549-1095"
-opening_hours: "We-Sa 12:00-20:00; Su 12:00-17:00"
-website: "https://www.fatcatpotterygj.com/"
+street: Main Street
+housenumber: "552"
+phone: +1-970-549-1095
+opening_hours: We-Sa 12:00-20:00; Su 12:00-17:00
+website: https://www.fatcatpotterygj.com/

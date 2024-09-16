@@ -1,11 +1,11 @@
 id: 311219989
-type: way
+type: node
 latitude: 38.83065
 longitude: -104.82142
 postcode: "80903"
 city: Colorado Springs
-street: "South Nevada Avenue"
-housenumber: 201
-phone: "+1-719-471-4410"
+street: South Nevada Avenue
+housenumber: "201"
+phone: +1-719-471-4410
 opening_hours: ""
-website: "https://coloradosprings.jiffylube.com/"
+website: https://coloradosprings.jiffylube.com/

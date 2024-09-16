@@ -1,11 +1,11 @@
 id: 288251641
-type: way
+type: node
 latitude: 39.76272
 longitude: -104.85145
 postcode: "80010"
 city: Aurora
-street: "Oakland Street"
-housenumber: 3233
-phone: "+1-303-360-7110"
+street: Oakland Street
+housenumber: "3233"
+phone: +1-303-360-7110
 opening_hours: ""
-website: "https://ecpower.com/"
+website: https://ecpower.com/

@@ -1,11 +1,11 @@
 id: 962411901
-type: way
+type: node
 latitude: 39.59963
 longitude: -104.80198
 postcode: "80016"
 city: Aurora
-street: "South Parker Road"
-housenumber: 6472
-phone: "+1 720-543-8885"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://stores.burlington.com/co/aurora/1104"
+street: South Parker Road
+housenumber: "6472"
+phone: +1 720-543-8885
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00
+website: https://stores.burlington.com/co/aurora/1104

@@ -1,11 +1,11 @@
 id: 514868780
-type: way
+type: node
 latitude: 40.15275
 longitude: -105.11283
 postcode: "80501"
 city: Longmont
-street: "Ken Pratt Boulevard"
-housenumber: 1230
+street: Ken Pratt Boulevard
+housenumber: "1230"
 phone: ""
 opening_hours: ""
 website: ""

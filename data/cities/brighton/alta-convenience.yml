@@ -1,11 +1,11 @@
 id: 572111020
-type: way
+type: node
 latitude: 39.98716
 longitude: -104.80415
 postcode: "80601"
 city: Brighton
-street: "East Bridge Street"
-housenumber: 1351
-phone: "+1-303-659-8621"
+street: East Bridge Street
+housenumber: "1351"
+phone: +1-303-659-8621
 opening_hours: ""
-website: "https://altaconvenience.com/Alta-Convenience-6112"
+website: https://altaconvenience.com/Alta-Convenience-6112

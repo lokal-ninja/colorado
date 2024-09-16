@@ -1,11 +1,11 @@
 id: 45711738
-type: way
+type: node
 latitude: 39.8897
 longitude: -104.98932
 postcode: "80234"
 city: Northglenn
-street: "West 104th Avenue"
-housenumber: 261
-phone: "+1 303-280-1166"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/co-northglenn/0246"
+street: West 104th Avenue
+housenumber: "261"
+phone: +1 303-280-1166
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/co-northglenn/0246

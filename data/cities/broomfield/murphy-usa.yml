@@ -1,11 +1,11 @@
 id: 366762203
-type: way
+type: node
 latitude: 39.9148
 longitude: -105.04679
 postcode: "80020"
 city: Broomfield
-street: "West 121st Avenue"
-housenumber: 4620
+street: West 121st Avenue
+housenumber: "4620"
 phone: ""
 opening_hours: ""
 website: ""

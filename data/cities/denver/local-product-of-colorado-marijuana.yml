@@ -4,8 +4,8 @@ latitude: 39.73699
 longitude: -104.99345
 postcode: "80204"
 city: Denver
-street: "West 13th Avenue"
-housenumber: 419
-phone: "+1-303-736-8041"
-opening_hours: "Mo-Fr 08:00-21:30"
+street: West 13th Avenue
+housenumber: "419"
+phone: +1-303-736-8041
+opening_hours: Mo-Fr 08:00-21:30
 website: ""

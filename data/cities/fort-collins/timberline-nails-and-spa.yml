@@ -1,11 +1,11 @@
 id: 1265437040
-type: way
+type: node
 latitude: 40.55191
 longitude: -105.03719
-postcode: "80525-2803"
+postcode: 80525-2803
 city: Fort Collins
-street: "South Timberline Road"
-housenumber: 2608
-phone: "+1-970-225-2000"
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-17:00"
+street: South Timberline Road
+housenumber: "2608"
+phone: +1-970-225-2000
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-17:00
 website: ""

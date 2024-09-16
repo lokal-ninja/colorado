@@ -1,11 +1,11 @@
 id: 415117690
-type: way
+type: node
 latitude: 38.88465
 longitude: -104.721
 postcode: "80917"
 city: Colorado Springs
-street: "North Carefree Circle"
-housenumber: 5771
+street: North Carefree Circle
+housenumber: "5771"
 phone: ""
 opening_hours: ""
-website: "https://www.kumandgo.com/store-locator?details=0663"
+website: https://www.kumandgo.com/store-locator?details=0663

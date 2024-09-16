@@ -4,8 +4,8 @@ latitude: 39.61826
 longitude: -104.04074
 postcode: "80105"
 city: Deer Trail
-street: "7th Avenue"
-housenumber: 733
-phone: "+1-719-740-1003;+1-719-740-3326"
+street: 7th Avenue
+housenumber: "733"
+phone: +1-719-740-1003;+1-719-740-3326
 opening_hours: ""
-website: "https://www.andrewsspacecenter.com/"
+website: https://www.andrewsspacecenter.com/

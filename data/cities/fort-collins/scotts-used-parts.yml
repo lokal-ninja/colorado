@@ -1,11 +1,11 @@
 id: 183384976
-type: way
+type: node
 latitude: 40.58864
 longitude: -105.04917
 postcode: "80524"
 city: Fort Collins
-street: "North Link Lane"
-housenumber: 209
-phone: "+1-970-498-0662"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.hondapartsused.com/"
+street: North Link Lane
+housenumber: "209"
+phone: +1-970-498-0662
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.hondapartsused.com/

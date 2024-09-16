@@ -1,11 +1,11 @@
 id: 497022978
-type: way
+type: node
 latitude: 39.07155
 longitude: -108.52305
 postcode: "81501"
 city: Grand Junction
-street: "I70 Business Loop"
-housenumber: 2860
-phone: "+1-970-242-5575"
-opening_hours: "Mo-Fr 07:30-16:00; PH off"
-website: "https://www.brickyardcolorado.com/grand-junction/"
+street: I70 Business Loop
+housenumber: "2860"
+phone: +1-970-242-5575
+opening_hours: Mo-Fr 07:30-16:00; PH off
+website: https://www.brickyardcolorado.com/grand-junction/

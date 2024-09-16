@@ -1,11 +1,11 @@
 id: 234301619
-type: way
+type: node
 latitude: 40.4863
 longitude: -106.83605
 postcode: "80487"
 city: Steamboat Springs
-street: "9th Street"
-housenumber: 
+street: 9th Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

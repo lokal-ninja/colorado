@@ -1,11 +1,11 @@
 id: 149966751
-type: way
+type: node
 latitude: 39.53741
 longitude: -105.3015
 postcode: "80433"
 city: Aspen Park
-street: "Main Street"
-housenumber: 26591
-phone: "+1-303-816-7422"
+street: Main Street
+housenumber: "26591"
+phone: +1-303-816-7422
 opening_hours: ""
-website: "https://www.carquest.com"
+website: https://www.carquest.com

@@ -1,11 +1,11 @@
 id: 311866189
-type: way
+type: node
 latitude: 38.82615
 longitude: -104.82278
 postcode: "80903"
 city: Colorado Springs
-street: "South Nevada Avenue"
-housenumber: 518
-phone: "+1-719-635-4444"
+street: South Nevada Avenue
+housenumber: "518"
+phone: +1-719-635-4444
 opening_hours: ""
-website: "http://www.beckony.com/"
+website: http://www.beckony.com/

@@ -4,8 +4,8 @@ latitude: 39.75564
 longitude: -105.02434
 postcode: "80211"
 city: Denver
-street: "Federal Boulevard"
-housenumber: 2660
-phone: "+1 303-477-5091"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/co/denver/2660-n-federal-blvd.html"
+street: Federal Boulevard
+housenumber: "2660"
+phone: +1 303-477-5091
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/co/denver/2660-n-federal-blvd.html

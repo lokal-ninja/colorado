@@ -1,11 +1,11 @@
 id: 200656648
-type: way
+type: node
 latitude: 38.86928
 longitude: -106.9815
 postcode: "81224"
 city: Crested Butte
-street: "6th Street"
-housenumber: 419
+street: 6th Street
+housenumber: "419"
 phone: ""
-opening_hours: "10:00-17:00"
+opening_hours: 10:00-17:00
 website: ""

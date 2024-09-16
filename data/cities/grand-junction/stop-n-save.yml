@@ -1,11 +1,11 @@
 id: 292437030
-type: way
+type: node
 latitude: 39.09535
 longitude: -108.60901
 postcode: "81505"
 city: Grand Junction
-street: "24 Road"
-housenumber: 621
+street: 24 Road
+housenumber: "621"
 phone: ""
 opening_hours: ""
 website: ""

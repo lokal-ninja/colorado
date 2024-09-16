@@ -1,11 +1,11 @@
 id: 340025843
-type: way
+type: node
 latitude: 39.67528
 longitude: -104.89072
 postcode: "80231"
 city: Denver
-street: "East Iliff Avenue"
-housenumber: 8301
-phone: "+1-303-872-9120"
+street: East Iliff Avenue
+housenumber: "8301"
+phone: +1-303-872-9120
 opening_hours: ""
-website: "http://www.subieauto.com/"
+website: http://www.subieauto.com/

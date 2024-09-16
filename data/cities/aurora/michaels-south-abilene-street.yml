@@ -1,11 +1,11 @@
 id: 133732674
-type: way
+type: node
 latitude: 39.71457
 longitude: -104.82599
 postcode: "80012"
 city: Aurora
-street: "South Abilene Street"
-housenumber: 80
-phone: "+1 303-343-7049"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/co/aurora/5041"
+street: South Abilene Street
+housenumber: "80"
+phone: +1 303-343-7049
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/co/aurora/5041

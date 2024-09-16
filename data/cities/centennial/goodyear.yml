@@ -1,11 +1,11 @@
 id: 43419901
-type: way
+type: node
 latitude: 39.56662
 longitude: -104.90545
 postcode: "80112"
 city: Centennial
-street: "South Quebec Street"
-housenumber: 8273
+street: South Quebec Street
+housenumber: "8273"
 phone: ""
 opening_hours: ""
 website: ""

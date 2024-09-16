@@ -1,11 +1,11 @@
 id: 1056755647
-type: way
+type: node
 latitude: 39.75095
 longitude: -104.93354
 postcode: "80207"
 city: Denver
-street: "East 23rd Avenue"
-housenumber: 4614
-phone: "(303) 322-6235"
+street: East 23rd Avenue
+housenumber: "4614"
+phone: (303) 322-6235
 opening_hours: ""
 website: ""

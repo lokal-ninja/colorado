@@ -1,11 +1,11 @@
 id: 968033730
-type: way
+type: node
 latitude: 38.48697
 longitude: -107.85894
 postcode: "81401"
 city: Montrose
-street: "Rose Lane"
-housenumber: 107
-phone: "(970) 240-9471"
+street: Rose Lane
+housenumber: "107"
+phone: (970) 240-9471
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 226188434
-type: way
+type: node
 latitude: 40.52716
 longitude: -104.99091
-postcode: "80547-4416"
+postcode: 80547-4416
 city: Timnath
-street: "Weitzel Street"
-housenumber: 4500
-phone: "+1 970-484-0328"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4599/timnath-co/whats-new"
+street: Weitzel Street
+housenumber: "4500"
+phone: +1 970-484-0328
+opening_hours: 24/7
+website: https://www.walmart.com/store/4599/timnath-co/whats-new

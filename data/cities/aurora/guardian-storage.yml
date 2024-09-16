@@ -1,11 +1,11 @@
 id: 1296750303
-type: way
+type: node
 latitude: 39.76745
 longitude: -104.7735
 postcode: "80011"
 city: Aurora
-street: "North Walden Circle"
-housenumber: 3633
-phone: "+1 720 730 5491"
+street: North Walden Circle
+housenumber: "3633"
+phone: +1 720 730 5491
 opening_hours: ""
-website: "https://www.guardianstorage.com/locations/all/aurora/"
+website: https://www.guardianstorage.com/locations/all/aurora/

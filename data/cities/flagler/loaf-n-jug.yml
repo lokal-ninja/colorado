@@ -1,11 +1,11 @@
 id: 350479315
-type: way
+type: node
 latitude: 39.28795
 longitude: -103.06224
 postcode: "80815"
 city: Flagler
-street: "East High Street"
-housenumber: 317
-phone: "+1-719-765-4895"
+street: East High Street
+housenumber: "317"
+phone: +1-719-765-4895
 opening_hours: ""
-website: "https://loafnjug.com"
+website: https://loafnjug.com

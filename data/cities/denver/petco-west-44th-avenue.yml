@@ -1,11 +1,11 @@
 id: 628152915
-type: way
+type: node
 latitude: 39.77905
 longitude: -105.05876
 postcode: "80212"
 city: Denver
-street: "West 44th Avenue"
-housenumber: 5709
-phone: "+1 720-475-3517"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/co/denver/pet-supplies-denver-co-2455.html"
+street: West 44th Avenue
+housenumber: "5709"
+phone: +1 720-475-3517
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/co/denver/pet-supplies-denver-co-2455.html

@@ -1,11 +1,11 @@
 id: 387732276
-type: way
+type: node
 latitude: 38.44239
 longitude: -105.2342
 postcode: "81212"
 city: Cañon City
-street: "Royal Gorge Boulevard"
-housenumber: 912
+street: Royal Gorge Boulevard
+housenumber: "912"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

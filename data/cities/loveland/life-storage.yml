@@ -1,11 +1,11 @@
 id: 693668212
-type: way
+type: node
 latitude: 40.43636
 longitude: -105.07775
 postcode: "80538"
 city: Loveland
-street: "West 43rd Street"
-housenumber: 120
+street: West 43rd Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
-website: "https://www.lifestorage.com/storage-units/colorado/loveland/80538/1119-in-loveland/"
+website: https://www.lifestorage.com/storage-units/colorado/loveland/80538/1119-in-loveland/

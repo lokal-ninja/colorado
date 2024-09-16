@@ -1,11 +1,11 @@
 id: 1213669430
-type: way
+type: node
 latitude: 40.2062
 longitude: -104.82174
 postcode: ""
 city: Platteville
-street: "Justin Avenue"
-housenumber: 350
+street: Justin Avenue
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

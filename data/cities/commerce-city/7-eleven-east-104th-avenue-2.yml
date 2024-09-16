@@ -1,11 +1,11 @@
 id: 863216799
-type: way
+type: node
 latitude: 39.88583
 longitude: -104.84503
 postcode: "80022"
 city: Commerce City
-street: "East 104th Avenue"
-housenumber: 12241
-phone: "+1-303-287-0886"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/commerce-city/12241-e-104th-ave-37291"
+street: East 104th Avenue
+housenumber: "12241"
+phone: +1-303-287-0886
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/commerce-city/12241-e-104th-ave-37291

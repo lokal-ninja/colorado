@@ -1,11 +1,11 @@
 id: 191532213
-type: way
+type: node
 latitude: 38.89123
 longitude: -104.75391
 postcode: "80917"
 city: Colorado Springs
-street: "Austin Bluffs Parkway"
-housenumber: 4125
+street: Austin Bluffs Parkway
+housenumber: "4125"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/colorado-springs/4125-austin-bluffs-pkwy.html"
+website: https://www.autozone.com/locations/co/colorado-springs/4125-austin-bluffs-pkwy.html

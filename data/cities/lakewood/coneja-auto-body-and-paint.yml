@@ -1,11 +1,11 @@
 id: 920614592
-type: way
+type: node
 latitude: 39.7396
 longitude: -105.05965
 postcode: "80214"
 city: Lakewood
-street: "Eaton Street"
-housenumber: 1471
+street: Eaton Street
+housenumber: "1471"
 phone: ""
 opening_hours: ""
 website: ""

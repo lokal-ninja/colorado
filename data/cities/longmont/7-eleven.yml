@@ -1,11 +1,11 @@
 id: 134292933
-type: way
+type: node
 latitude: 40.18825
 longitude: -105.10182
 postcode: "80501"
 city: Longmont
-street: "Main Street"
-housenumber: 1650
-phone: "+1 303-651-2930"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/longmont/1650-main-st-25476"
+street: Main Street
+housenumber: "1650"
+phone: +1 303-651-2930
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/longmont/1650-main-st-25476

@@ -1,11 +1,11 @@
 id: 916057306
-type: way
+type: node
 latitude: 39.55229
 longitude: -104.79273
 postcode: "80134"
 city: Parker
-street: "Parkerhouse Road"
-housenumber: 17001
-phone: "+1-720-316-5970"
+street: Parkerhouse Road
+housenumber: "17001"
+phone: +1-720-316-5970
 opening_hours: ""
-website: "https://www.circlek.com"
+website: https://www.circlek.com

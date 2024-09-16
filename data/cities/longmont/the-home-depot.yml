@@ -1,11 +1,11 @@
 id: 259553270
-type: way
+type: node
 latitude: 40.15591
 longitude: -105.13413
 postcode: "80503"
 city: Longmont
-street: "South Hover Street"
-housenumber: 393
-phone: "+1 720-494-0319"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/longmont/co/longmont/80501/1521"
+street: South Hover Street
+housenumber: "393"
+phone: +1 720-494-0319
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/longmont/co/longmont/80501/1521

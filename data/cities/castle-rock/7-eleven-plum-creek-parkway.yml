@@ -1,11 +1,11 @@
 id: 222030523
-type: way
+type: node
 latitude: 39.36466
 longitude: -104.86188
 postcode: "80104"
 city: Castle Rock
-street: "Plum Creek Parkway"
-housenumber: 80
+street: Plum Creek Parkway
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 184250351
-type: way
+type: node
 latitude: 40.52626
 longitude: -105.07254
 postcode: "80525"
 city: Fort Collins
-street: "Pavilion Lane"
-housenumber: 315
+street: Pavilion Lane
+housenumber: "315"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-19:00"
-website: "https://www.goodwilldenver.org"
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-19:00
+website: https://www.goodwilldenver.org

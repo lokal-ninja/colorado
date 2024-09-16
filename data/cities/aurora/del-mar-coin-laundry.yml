@@ -1,11 +1,11 @@
 id: 295452927
-type: way
+type: node
 latitude: 39.72845
 longitude: -104.8456
 postcode: "80011"
 city: Aurora
-street: "Del Mar Circle"
-housenumber: 122
-phone: "+1-720-858-0410"
+street: Del Mar Circle
+housenumber: "122"
+phone: +1-720-858-0410
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 38407682
-type: way
+type: node
 latitude: 38.85793
 longitude: -104.91628
 postcode: "80829"
 city: Manitou Springs
-street: "Canon Ave"
-housenumber: 102
-phone: "1-719-685-1008"
-opening_hours: "Mo-Su 10:00-20:00"
+street: Canon Ave
+housenumber: "102"
+phone: 1-719-685-1008
+opening_hours: Mo-Su 10:00-20:00
 website: ""

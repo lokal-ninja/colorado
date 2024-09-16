@@ -1,11 +1,11 @@
 id: 972142254
-type: way
+type: node
 latitude: 37.1736
 longitude: -104.50877
 postcode: "81082"
 city: Trinidad
-street: "Arizona Avenue"
-housenumber: 614
+street: Arizona Avenue
+housenumber: "614"
 phone: ""
 opening_hours: ""
 website: ""

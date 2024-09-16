@@ -1,11 +1,11 @@
 id: 525751912
-type: way
+type: node
 latitude: 39.87034
 longitude: -105.02432
 postcode: "80260"
 city: Federal Heights
-street: "Federal Boulevard"
-housenumber: 9590
-phone: "+1-303-430-4180"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/federal-heights/9590-federal-39774"
+street: Federal Boulevard
+housenumber: "9590"
+phone: +1-303-430-4180
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/federal-heights/9590-federal-39774

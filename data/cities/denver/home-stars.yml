@@ -4,8 +4,8 @@ latitude: 39.66837
 longitude: -104.99647
 postcode: "80223"
 city: Denver
-street: "South Santa Fe Drive"
-housenumber: 2645
-phone: "+1-303-979-1200"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://homestarsdirect.com"
+street: South Santa Fe Drive
+housenumber: "2645"
+phone: +1-303-979-1200
+opening_hours: Mo-Fr 09:00-18:00
+website: https://homestarsdirect.com

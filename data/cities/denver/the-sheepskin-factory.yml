@@ -1,11 +1,11 @@
 id: 337084353
-type: way
+type: node
 latitude: 39.67934
 longitude: -104.94048
 postcode: "80222"
 city: Denver
-street: "South Colorado Boulevard"
-housenumber: 2040
-phone: "+1-303-329-8400"
+street: South Colorado Boulevard
+housenumber: "2040"
+phone: +1-303-329-8400
 opening_hours: ""
-website: "http://www.sheepskinfactory.com"
+website: http://www.sheepskinfactory.com

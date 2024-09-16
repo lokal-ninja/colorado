@@ -1,11 +1,11 @@
 id: 693105020
-type: way
+type: node
 latitude: 39.10032
 longitude: -108.60656
 postcode: "81505"
 city: Grand Junction
-street: "Market Street"
-housenumber: 653
-phone: "866-981-9294"
-opening_hours: "Mo-Fr 08:30-19:00, Sa 08:30-18:00"
-website: "https://www.grandjunctionvolkswagen.com/"
+street: Market Street
+housenumber: "653"
+phone: 866-981-9294
+opening_hours: Mo-Fr 08:30-19:00, Sa 08:30-18:00
+website: https://www.grandjunctionvolkswagen.com/

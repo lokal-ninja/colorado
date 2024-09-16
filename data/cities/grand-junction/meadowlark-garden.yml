@@ -1,11 +1,11 @@
 id: 496723136
-type: way
+type: node
 latitude: 39.07689
 longitude: -108.63528
 postcode: "81507"
 city: Grand Junction
-street: "Broadway"
-housenumber: 2259
-phone: "+1-970-241-6003"
-opening_hours: "Tu-Su 08:30-17:30"
-website: "https://www.meadowlarkgardencenter.com/"
+street: Broadway
+housenumber: "2259"
+phone: +1-970-241-6003
+opening_hours: Tu-Su 08:30-17:30
+website: https://www.meadowlarkgardencenter.com/

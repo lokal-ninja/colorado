@@ -1,11 +1,11 @@
 id: 695897929
-type: way
+type: node
 latitude: 38.9398
 longitude: -104.73135
 postcode: "80923"
 city: Colorado Springs
-street: "New Car Drive"
-housenumber: 5120
+street: New Car Drive
+housenumber: "5120"
 phone: ""
 opening_hours: ""
 website: ""

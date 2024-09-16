@@ -1,11 +1,11 @@
 id: 61951736
-type: way
+type: node
 latitude: 39.96304
 longitude: -105.16304
 postcode: "80027"
 city: Louisville
-street: "McCaslin Boulevard"
-housenumber: 520
-phone: "+1-303-604-2887"
-opening_hours: "24/7"
-website: "https://www.conoco.com/station/CON-CF-UNITED-APRO-LLC-2704526-0000880405"
+street: McCaslin Boulevard
+housenumber: "520"
+phone: +1-303-604-2887
+opening_hours: 24/7
+website: https://www.conoco.com/station/CON-CF-UNITED-APRO-LLC-2704526-0000880405

@@ -1,11 +1,11 @@
 id: 424130822
-type: way
+type: node
 latitude: 39.02676
 longitude: -104.81479
 postcode: "80921"
 city: Colorado Springs
-street: "Voyager Parkway"
-housenumber: 13415
-phone: "+1 719-884-7900"
-opening_hours: "07:00-22:00"
-website: "https://www.sprouts.com/store/co/colorado-springs/colorado-springs-northgate/"
+street: Voyager Parkway
+housenumber: "13415"
+phone: +1 719-884-7900
+opening_hours: 07:00-22:00
+website: https://www.sprouts.com/store/co/colorado-springs/colorado-springs-northgate/

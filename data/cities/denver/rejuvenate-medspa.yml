@@ -4,8 +4,8 @@ latitude: 39.70696
 longitude: -104.93449
 postcode: "80246"
 city: Denver
-street: "South Cherry Street"
-housenumber: 501
-phone: "+1-303-951-2102"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.rejuvenatecolorado.com/"
+street: South Cherry Street
+housenumber: "501"
+phone: +1-303-951-2102
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.rejuvenatecolorado.com/

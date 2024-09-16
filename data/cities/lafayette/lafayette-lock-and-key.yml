@@ -1,11 +1,11 @@
 id: 101893573
-type: way
+type: node
 latitude: 40.00013
 longitude: -105.09122
 postcode: "80026"
 city: Lafayette
-street: "West Baseline Road"
-housenumber: 102
-phone: "+1 303 665-1444"
+street: West Baseline Road
+housenumber: "102"
+phone: +1 303 665-1444
 opening_hours: ""
 website: ""

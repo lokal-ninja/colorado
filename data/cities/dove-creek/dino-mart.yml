@@ -1,11 +1,11 @@
 id: 723573659
-type: way
+type: node
 latitude: 37.76519
 longitude: -108.91202
 postcode: "81324"
 city: Dove Creek
-street: "West Highway 491"
-housenumber: 419
+street: West Highway 491
+housenumber: "419"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 203936449
-type: way
+type: node
 latitude: 39.69867
 longitude: -105.33068
 postcode: "80439"
 city: Evergreen
-street: "Crossroads Lane"
-housenumber: 29032
+street: Crossroads Lane
+housenumber: "29032"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00"
-website: "https://bigotires.com"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00
+website: https://bigotires.com

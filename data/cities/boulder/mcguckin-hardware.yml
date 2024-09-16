@@ -1,11 +1,11 @@
 id: 108782302
-type: way
+type: node
 latitude: 40.01647
 longitude: -105.26237
-postcode: "80302-6720"
+postcode: 80302-6720
 city: Boulder
-street: "Arapahoe Avenue"
-housenumber: 2525
-phone: "+1 303-443-1822"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-18:00"
-website: "https://www.mcguckin.com/"
+street: Arapahoe Avenue
+housenumber: "2525"
+phone: +1 303-443-1822
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-18:00
+website: https://www.mcguckin.com/

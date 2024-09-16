@@ -1,11 +1,11 @@
 id: 795129744
-type: way
+type: node
 latitude: 40.08683
 longitude: -104.97612
 postcode: "80514"
 city: Dacono
-street: "Laura Court"
-housenumber: 107
-phone: "+1-303-833-0591"
+street: Laura Court
+housenumber: "107"
+phone: +1-303-833-0591
 opening_hours: ""
-website: "https://maverik.com/"
+website: https://maverik.com/

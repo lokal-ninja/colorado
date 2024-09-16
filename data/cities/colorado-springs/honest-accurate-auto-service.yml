@@ -1,11 +1,11 @@
 id: 201371294
-type: way
+type: node
 latitude: 38.89457
 longitude: -104.82004
 postcode: "80907"
 city: Colorado Springs
-street: "Nevada Mesa View"
-housenumber: 426
-phone: "+1 719 598 6306"
+street: Nevada Mesa View
+housenumber: "426"
+phone: +1 719 598 6306
 opening_hours: ""
-website: "https://honestaccurateauto.com/"
+website: https://honestaccurateauto.com/

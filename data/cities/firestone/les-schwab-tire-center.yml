@@ -1,11 +1,11 @@
 id: 814042683
-type: way
+type: node
 latitude: 40.16028
 longitude: -104.94367
 postcode: "80504"
 city: Firestone
-street: "Firestone Boulevard"
-housenumber: 5920
+street: Firestone Boulevard
+housenumber: "5920"
 phone: ""
 opening_hours: ""
 website: ""

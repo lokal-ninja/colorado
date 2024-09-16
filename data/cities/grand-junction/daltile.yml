@@ -1,11 +1,11 @@
 id: 1167546473
-type: way
+type: node
 latitude: 39.07832
 longitude: -108.5099
 postcode: "81504"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 2930
-phone: "+1-970-241-9418"
-opening_hours: "Mo-Fr 08:00-15:00 || Mo-Fr 07:00-16:00 contractor office"
-website: "https://locations.daltile.com/co/grand-junction/250/"
+street: North Avenue
+housenumber: "2930"
+phone: +1-970-241-9418
+opening_hours: Mo-Fr 08:00-15:00 || Mo-Fr 07:00-16:00 "contractor office"
+website: https://locations.daltile.com/co/grand-junction/250/

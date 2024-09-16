@@ -1,11 +1,11 @@
 id: 240207962
-type: way
+type: node
 latitude: 39.78066
 longitude: -104.88928
 postcode: "80238"
 city: Denver
-street: "East 49th Avenue"
-housenumber: 8568
+street: East 49th Avenue
+housenumber: "8568"
 phone: ""
 opening_hours: ""
 website: ""

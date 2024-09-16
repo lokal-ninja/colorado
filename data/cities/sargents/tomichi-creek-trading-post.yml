@@ -1,11 +1,11 @@
 id: 202754929
-type: way
+type: node
 latitude: 38.40626
 longitude: -106.41644
 postcode: ""
 city: Sargents
-street: "US 50"
-housenumber: 71420
+street: US 50
+housenumber: "71420"
 phone: ""
 opening_hours: ""
 website: ""

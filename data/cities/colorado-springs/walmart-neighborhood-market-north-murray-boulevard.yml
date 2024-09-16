@@ -1,11 +1,11 @@
 id: 208663047
-type: way
+type: node
 latitude: 38.84281
 longitude: -104.74732
 postcode: "80915"
 city: Colorado Springs
-street: "North Murray Boulevard"
-housenumber: 665
-phone: "+1-719-596-1294"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3083/colorado-springs-co/whats-new"
+street: North Murray Boulevard
+housenumber: "665"
+phone: +1-719-596-1294
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3083/colorado-springs-co/whats-new

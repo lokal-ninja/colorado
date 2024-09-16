@@ -1,11 +1,11 @@
 id: 547172227
-type: way
+type: node
 latitude: 39.82425
 longitude: -104.97752
 postcode: "80229"
 city: Denver
-street: "Washington Street"
-housenumber: 7000
+street: Washington Street
+housenumber: "7000"
 phone: ""
 opening_hours: ""
 website: ""

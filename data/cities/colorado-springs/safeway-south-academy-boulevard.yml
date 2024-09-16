@@ -1,11 +1,11 @@
 id: 36860283
-type: way
+type: node
 latitude: 38.76768
 longitude: -104.81551
 postcode: "80906"
 city: Colorado Springs
-street: "South Academy Boulevard"
-housenumber: 6520
-phone: "+1 719-527-0146"
+street: South Academy Boulevard
+housenumber: "6520"
+phone: +1 719-527-0146
 opening_hours: ""
-website: "https://local.safeway.com/safeway/co/colorado-springs/6520-s-academy-blvd.html"
+website: https://local.safeway.com/safeway/co/colorado-springs/6520-s-academy-blvd.html

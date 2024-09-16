@@ -1,11 +1,11 @@
 id: 318175352
-type: way
+type: node
 latitude: 39.77462
 longitude: -104.92439
 postcode: "80216"
 city: Denver
-street: "Grape Street"
-housenumber: 4140
+street: Grape Street
+housenumber: "4140"
 phone: ""
 opening_hours: ""
 website: ""

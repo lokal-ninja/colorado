@@ -1,11 +1,11 @@
 id: 771381303
-type: way
+type: node
 latitude: 38.90341
 longitude: -104.82145
-postcode: "80918-8609"
+postcode: 80918-8609
 city: Colorado Springs
-street: "North Nevada Avenue"
-housenumber: 5020
-phone: "+1 719-266-1224"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/co/coloradosprings/pet-supplies-coloradosprings-co-2422.html"
+street: North Nevada Avenue
+housenumber: "5020"
+phone: +1 719-266-1224
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/co/coloradosprings/pet-supplies-coloradosprings-co-2422.html

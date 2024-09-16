@@ -1,11 +1,11 @@
 id: 860493219
-type: way
+type: node
 latitude: 39.7006
 longitude: -104.93893
 postcode: "80246"
 city: Glendale
-street: "East Kentucky Avenue"
-housenumber: 4151
-phone: "+1-720-501-2373"
-opening_hours: "Mo-Fr 08:00-23:45"
-website: "https://www.tgscolorado.com/stores/glendale"
+street: East Kentucky Avenue
+housenumber: "4151"
+phone: +1-720-501-2373
+opening_hours: Mo-Fr 08:00-23:45
+website: https://www.tgscolorado.com/stores/glendale

@@ -1,11 +1,11 @@
 id: 485377955
-type: way
+type: node
 latitude: 40.48515
 longitude: -103.35702
 postcode: "80741"
 city: Merino
-street: "Lee Street"
-housenumber: 427
+street: Lee Street
+housenumber: "427"
 phone: ""
 opening_hours: ""
 website: ""

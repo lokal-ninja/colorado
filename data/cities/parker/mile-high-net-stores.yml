@@ -1,11 +1,11 @@
 id: 401005101
-type: way
+type: node
 latitude: 39.52998
 longitude: -104.76989
 postcode: "80134"
 city: Parker
-street: "Progress Way"
-housenumber: 10311
+street: Progress Way
+housenumber: "10311"
 phone: ""
 opening_hours: ""
 website: ""

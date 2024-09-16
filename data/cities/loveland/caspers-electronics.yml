@@ -1,11 +1,11 @@
 id: 57961276
-type: way
+type: node
 latitude: 40.45306
 longitude: -104.99371
 postcode: "80538"
 city: Loveland
-street: "Byrd Drive"
-housenumber: 5840
+street: Byrd Drive
+housenumber: "5840"
 phone: ""
 opening_hours: ""
 website: ""

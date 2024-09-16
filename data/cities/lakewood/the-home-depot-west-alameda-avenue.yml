@@ -1,11 +1,11 @@
 id: 198238207
-type: way
+type: node
 latitude: 39.71257
 longitude: -105.07051
 postcode: "80226"
 city: Lakewood
-street: "West Alameda Avenue"
-housenumber: 6701
-phone: "+1 303-232-6303"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/lakewood-co/co/lakewood/80226/1514"
+street: West Alameda Avenue
+housenumber: "6701"
+phone: +1 303-232-6303
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/lakewood-co/co/lakewood/80226/1514

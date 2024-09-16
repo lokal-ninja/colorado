@@ -1,11 +1,11 @@
 id: 55528412
-type: way
+type: node
 latitude: 40.41986
 longitude: -104.98971
 postcode: "80538"
 city: Loveland
-street: "Sky Pond Drive"
-housenumber: 6075
-phone: "+1 970-203-0601"
+street: Sky Pond Drive
+housenumber: "6075"
+phone: +1 970-203-0601
 opening_hours: ""
-website: "https://stores.bestbuy.com/co/loveland/6075-sky-pond-dr-693.html"
+website: https://stores.bestbuy.com/co/loveland/6075-sky-pond-dr-693.html

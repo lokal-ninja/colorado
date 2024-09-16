@@ -1,11 +1,11 @@
 id: 197678449
-type: way
+type: node
 latitude: 39.41099
 longitude: -104.87581
 postcode: "80108"
 city: Castle Rock
-street: "New Beale Street"
-housenumber: 1360
-phone: "+1 720-239-0355"
-opening_hours: "Mo-Sa 06:00-22:00,Su 08:00-20:00"
-website: "https://www.lowes.com/"
+street: New Beale Street
+housenumber: "1360"
+phone: +1 720-239-0355
+opening_hours: Mo-Sa 06:00-22:00,Su 08:00-20:00
+website: https://www.lowes.com/

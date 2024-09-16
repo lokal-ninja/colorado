@@ -1,11 +1,11 @@
 id: 176803957
-type: way
+type: node
 latitude: 40.56079
 longitude: -105.07646
 postcode: "80525"
 city: Fort Collins
-street: "South College Avenue"
-housenumber: 2040
+street: South College Avenue
+housenumber: "2040"
 phone: ""
 opening_hours: ""
 website: ""

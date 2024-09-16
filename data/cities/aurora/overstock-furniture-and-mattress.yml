@@ -1,11 +1,11 @@
 id: 669218049
-type: way
+type: node
 latitude: 39.71638
 longitude: -104.82375
 postcode: "80012"
 city: Aurora
-street: "East Ellsworth Avenue"
-housenumber: 14140
+street: East Ellsworth Avenue
+housenumber: "14140"
 phone: ""
 opening_hours: ""
 website: ""

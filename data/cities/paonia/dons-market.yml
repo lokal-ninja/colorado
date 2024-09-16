@@ -4,8 +4,8 @@ latitude: 38.86652
 longitude: -107.59695
 postcode: "81428"
 city: Paonia
-street: "2nd Street"
-housenumber: 213
-phone: "+1-970-527-4522"
+street: 2nd Street
+housenumber: "213"
+phone: +1-970-527-4522
 opening_hours: ""
-website: "https://dons-super-market.hub.biz/"
+website: https://dons-super-market.hub.biz/

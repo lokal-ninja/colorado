@@ -1,11 +1,11 @@
 id: 365735215
-type: way
+type: node
 latitude: 39.63815
 longitude: -104.8273
 postcode: "80015"
 city: Aurora
-street: "East Quincy Avenue"
-housenumber: 13790
-phone: "+1 303-690-6088"
+street: East Quincy Avenue
+housenumber: "13790"
+phone: +1 303-690-6088
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/co/aurora/13790-e-quincy-23154"
+website: https://www.7-eleven.com/locations/co/aurora/13790-e-quincy-23154

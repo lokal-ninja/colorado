@@ -4,8 +4,8 @@ latitude: 39.68814
 longitude: -104.94201
 postcode: "80222"
 city: Denver
-street: "S Colorado Blvd"
-housenumber: 1585
-phone: "303-759-9100"
-opening_hours: "Mon-Fri 11am-9pm, Sat 10am-9pm, Sun 10am-7pm"
+street: S Colorado Blvd
+housenumber: "1585"
+phone: 303-759-9100
+opening_hours: Mon-Fri 11am-9pm, Sat 10am-9pm, Sun 10am-7pm
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.19364
 longitude: -106.81836
 postcode: ""
 city: Aspen
-street: "North Mill Street"
-housenumber: 465
+street: North Mill Street
+housenumber: "465"
 phone: ""
 opening_hours: ""
-website: "https://aspenvelo.com/"
+website: https://aspenvelo.com/

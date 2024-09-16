@@ -1,11 +1,11 @@
 id: 706776506
-type: way
+type: node
 latitude: 39.73978
 longitude: -105.00945
 postcode: "80204"
 city: Denver
-street: "West Colfax Avenue"
-housenumber: 1709
+street: West Colfax Avenue
+housenumber: "1709"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 234301636
-type: way
+type: node
 latitude: 40.48557
 longitude: -106.83667
-postcode: "80477-4703"
+postcode: 80477-4703
 city: Steamboat Springs
-street: "Yampa Street"
-housenumber: 841
-phone: "+1 970 879 6249"
+street: Yampa Street
+housenumber: "841"
+phone: +1 970 879 6249
 opening_hours: ""
-website: "https://www.backdoorsports.com/"
+website: https://www.backdoorsports.com/

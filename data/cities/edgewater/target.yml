@@ -1,11 +1,11 @@
 id: 219064057
-type: way
+type: node
 latitude: 39.74575
 longitude: -105.05553
 postcode: "80214"
 city: Edgewater
-street: "Sheridan Boulevard"
-housenumber: 1985
-phone: "+1 720-274-3665"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/edgewater/2225"
+street: Sheridan Boulevard
+housenumber: "1985"
+phone: +1 720-274-3665
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/edgewater/2225

@@ -4,8 +4,8 @@ latitude: 40.03117
 longitude: -105.25903
 postcode: "80304"
 city: Boulder
-street: "28th Street"
-housenumber: 3121
+street: 28th Street
+housenumber: "3121"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-16:00"
-website: "https://www.sportiqueeyewear.com/"
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-16:00
+website: https://www.sportiqueeyewear.com/

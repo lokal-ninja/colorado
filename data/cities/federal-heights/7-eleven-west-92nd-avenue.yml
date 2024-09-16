@@ -1,11 +1,11 @@
 id: 609851781
-type: way
+type: node
 latitude: 39.86303
 longitude: -105.00654
 postcode: "80260"
 city: Federal Heights
-street: "West 92nd Avenue"
-housenumber: 1600
-phone: "+1 303-426-8827"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/federal-heights/1605-west-92nd-ave-15403"
+street: West 92nd Avenue
+housenumber: "1600"
+phone: +1 303-426-8827
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/federal-heights/1605-west-92nd-ave-15403

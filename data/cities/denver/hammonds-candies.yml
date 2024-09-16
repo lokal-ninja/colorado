@@ -4,8 +4,8 @@ latitude: 39.7998
 longitude: -104.97998
 postcode: "80216"
 city: Denver
-street: "Washington Street"
-housenumber: 5735
-phone: "+1-303-333-5588"
+street: Washington Street
+housenumber: "5735"
+phone: +1-303-333-5588
 opening_hours: ""
-website: "https://hammondscandies.com/"
+website: https://hammondscandies.com/

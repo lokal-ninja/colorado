@@ -1,11 +1,11 @@
 id: 497199183
-type: way
+type: node
 latitude: 39.07761
 longitude: -108.56214
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 616
-phone: "+1-970-245-0535"
-opening_hours: "Tu-Th 09:00-19:00; Fr-Sa 09:00-16:00"
-website: "https://www.zumahairstudio.com/"
+street: North Avenue
+housenumber: "616"
+phone: +1-970-245-0535
+opening_hours: Tu-Th 09:00-19:00; Fr-Sa 09:00-16:00
+website: https://www.zumahairstudio.com/

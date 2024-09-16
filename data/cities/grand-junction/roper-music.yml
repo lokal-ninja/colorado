@@ -1,11 +1,11 @@
 id: 497023795
-type: way
+type: node
 latitude: 39.0784
 longitude: -108.53543
 postcode: "81501"
 city: Grand Junction
-street: "North 25th Street"
-housenumber: 1224
-phone: "+1-970-242-3272"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.ropermusic.com/"
+street: North 25th Street
+housenumber: "1224"
+phone: +1-970-242-3272
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.ropermusic.com/

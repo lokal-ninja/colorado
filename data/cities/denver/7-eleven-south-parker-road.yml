@@ -1,11 +1,11 @@
 id: 192024115
-type: way
+type: node
 latitude: 39.69621
 longitude: -104.89631
 postcode: "80231"
 city: Denver
-street: "South Parker Road"
-housenumber: 1120
-phone: "(303) 750-9684"
+street: South Parker Road
+housenumber: "1120"
+phone: (303) 750-9684
 opening_hours: ""
 website: ""

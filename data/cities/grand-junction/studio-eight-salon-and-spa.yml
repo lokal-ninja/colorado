@@ -4,8 +4,8 @@ latitude: 39.07108
 longitude: -108.57267
 postcode: "81501"
 city: Grand Junction
-street: "West Grand Avenue"
-housenumber: 200
-phone: "+1-970-314-7309"
-opening_hours: "Mo-Sa 09:00-17:00 || by appointment; Su off"
-website: "https://www.studioeightsalonandspa.com/"
+street: West Grand Avenue
+housenumber: "200"
+phone: +1-970-314-7309
+opening_hours: Mo-Sa 09:00-17:00 || "by appointment"; Su off
+website: https://www.studioeightsalonandspa.com/

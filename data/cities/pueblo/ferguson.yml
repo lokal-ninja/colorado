@@ -1,11 +1,11 @@
 id: 541567896
-type: way
+type: node
 latitude: 38.26596
 longitude: -104.60756
 postcode: "81003"
 city: Pueblo
-street: "South Santa Fe Avenue"
-housenumber: 175
+street: South Santa Fe Avenue
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

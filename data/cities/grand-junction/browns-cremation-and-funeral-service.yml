@@ -1,11 +1,11 @@
 id: 473709120
-type: way
+type: node
 latitude: 39.07553
 longitude: -108.56063
 postcode: "81501"
 city: Grand Junction
-street: "North 7th Street"
-housenumber: 904
-phone: "+1-970-255-8888"
-opening_hours: "Mo-Fr 09:00-16:30; Sa-Su,PH by appointment"
-website: "https://www.brownscremationservice.com/"
+street: North 7th Street
+housenumber: "904"
+phone: +1-970-255-8888
+opening_hours: Mo-Fr 09:00-16:30; Sa-Su,PH "by appointment"
+website: https://www.brownscremationservice.com/

@@ -1,11 +1,11 @@
 id: 202918438
-type: way
+type: node
 latitude: 38.87437
 longitude: -104.82622
 postcode: "80709"
 city: Colorado Springs
-street: "West Fillmore Street"
-housenumber: 201
+street: West Fillmore Street
+housenumber: "201"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

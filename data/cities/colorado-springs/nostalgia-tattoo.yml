@@ -1,11 +1,11 @@
 id: 307410053
-type: way
+type: node
 latitude: 38.83611
 longitude: -104.82191
 postcode: "80903"
 city: Colorado Springs
-street: "North Nevada Avenue"
-housenumber: 118
-phone: "+1-719-434-8882"
+street: North Nevada Avenue
+housenumber: "118"
+phone: +1-719-434-8882
 opening_hours: ""
-website: "http://www.nostalgiatattoos.com/"
+website: http://www.nostalgiatattoos.com/

@@ -4,8 +4,8 @@ latitude: 39.72698
 longitude: -105.09973
 postcode: "80215"
 city: Lakewood
-street: "Garrison Street"
-housenumber: 610
-phone: "+1-303-238-8651"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-17:00, Su closed"
-website: "https://www.dmh-studio.com/"
+street: Garrison Street
+housenumber: "610"
+phone: +1-303-238-8651
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-17:00, Su closed
+website: https://www.dmh-studio.com/

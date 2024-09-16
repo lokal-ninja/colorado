@@ -1,11 +1,11 @@
 id: 1197258607
-type: way
+type: node
 latitude: 39.06272
 longitude: -108.54284
 postcode: "81501"
 city: Grand Junction
-street: "Riverside Parkway"
-housenumber: 2751
-phone: "+1-970-242-3126"
-opening_hours: "Tu-Fr 10:00-17:00; Sa 10:00-16:00"
-website: "https://coloradoebikes.com/"
+street: Riverside Parkway
+housenumber: "2751"
+phone: +1-970-242-3126
+opening_hours: Tu-Fr 10:00-17:00; Sa 10:00-16:00
+website: https://coloradoebikes.com/

@@ -1,11 +1,11 @@
 id: 307393605
-type: way
+type: node
 latitude: 39.68098
 longitude: -104.8655
 postcode: "80014"
 city: Aurora
-street: "South Havana Street"
-housenumber: 1960
-phone: "+1-303-337-2886"
-opening_hours: "Mo-Sa 10:00-18:00, Su closed"
-website: "https://www.adiautosport.com/"
+street: South Havana Street
+housenumber: "1960"
+phone: +1-303-337-2886
+opening_hours: Mo-Sa 10:00-18:00, Su closed
+website: https://www.adiautosport.com/

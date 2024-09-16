@@ -1,11 +1,11 @@
 id: 155311527
-type: way
+type: node
 latitude: 38.97156
 longitude: -104.74898
 postcode: "80920"
 city: Colorado Springs
-street: "Royal Pine Drive"
-housenumber: 4252
-phone: "+1 719-799-1400"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/CO-Colorado-Springs/2578"
+street: Royal Pine Drive
+housenumber: "4252"
+phone: +1 719-799-1400
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/CO-Colorado-Springs/2578

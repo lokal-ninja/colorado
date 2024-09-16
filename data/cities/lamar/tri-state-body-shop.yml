@@ -1,11 +1,11 @@
 id: 801841816
-type: way
+type: node
 latitude: 38.09134
 longitude: -102.62104
 postcode: "81052"
 city: Lamar
-street: "West Poplar Street"
-housenumber: 204
+street: West Poplar Street
+housenumber: "204"
 phone: ""
 opening_hours: ""
 website: ""

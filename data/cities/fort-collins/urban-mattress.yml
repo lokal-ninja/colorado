@@ -1,11 +1,11 @@
 id: 106992461
-type: way
+type: node
 latitude: 40.5481
 longitude: -105.07638
 postcode: "80525"
 city: Fort Collins
-street: "South College Avenue"
-housenumber: 2830
+street: South College Avenue
+housenumber: "2830"
 phone: ""
 opening_hours: ""
-website: "https://fortcollins.urbanmattress.com/"
+website: https://fortcollins.urbanmattress.com/

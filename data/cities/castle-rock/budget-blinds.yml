@@ -1,11 +1,11 @@
 id: 1283040330
-type: way
+type: node
 latitude: 39.36145
 longitude: -104.81712
 postcode: "80104"
 city: Castle Rock
-street: "Ridge Oaks Drive"
-housenumber: 1065
-phone: "+1-720-344-4188"
+street: Ridge Oaks Drive
+housenumber: "1065"
+phone: +1-720-344-4188
 opening_hours: ""
-website: "https://budgetblinds.com/HighlandsRanch/"
+website: https://budgetblinds.com/HighlandsRanch/

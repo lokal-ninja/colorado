@@ -4,8 +4,8 @@ latitude: 40.01882
 longitude: -105.28015
 postcode: "80302"
 city: Boulder
-street: "Broadway"
-housenumber: 2098
+street: Broadway
+housenumber: "2098"
 phone: ""
 opening_hours: ""
-website: "https://www.cleanyourdirtyface.com/boulder"
+website: https://www.cleanyourdirtyface.com/boulder

@@ -1,11 +1,11 @@
 id: 212749241
-type: way
+type: node
 latitude: 38.79555
 longitude: -104.76042
 postcode: "80910"
 city: Colorado Springs
-street: "Astrozon Boulevard"
-housenumber: 3744
-phone: "+1-719-390-7454"
+street: Astrozon Boulevard
+housenumber: "3744"
+phone: +1-719-390-7454
 opening_hours: ""
 website: ""

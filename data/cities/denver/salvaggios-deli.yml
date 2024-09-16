@@ -4,8 +4,8 @@ latitude: 39.74555
 longitude: -104.99053
 postcode: "80202"
 city: Denver
-street: "17th Street"
-housenumber: 600
+street: 17th Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

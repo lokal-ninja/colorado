@@ -1,11 +1,11 @@
 id: 669836833
-type: way
+type: node
 latitude: 39.72208
 longitude: -104.81754
 postcode: "80011"
 city: Aurora
-street: "East 4th Avenue"
-housenumber: 14706
+street: East 4th Avenue
+housenumber: "14706"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 542154535
-type: way
+type: node
 latitude: 38.2701
 longitude: -104.67671
 postcode: "81003"
 city: Pueblo
-street: "Nature Center Road"
-housenumber: 5220
-phone: "+1-719-549-2230"
-opening_hours: "Tu-Su 11:00-16:00"
-website: "https://hikeandlearn.org/"
+street: Nature Center Road
+housenumber: "5220"
+phone: +1-719-549-2230
+opening_hours: Tu-Su 11:00-16:00
+website: https://hikeandlearn.org/

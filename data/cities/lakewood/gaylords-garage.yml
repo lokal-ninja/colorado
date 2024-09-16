@@ -1,11 +1,11 @@
 id: 920614581
-type: way
+type: node
 latitude: 39.7393
 longitude: -105.05835
 postcode: "80214"
 city: Lakewood
-street: "Depew Street"
-housenumber: 1451
+street: Depew Street
+housenumber: "1451"
 phone: ""
 opening_hours: ""
 website: ""

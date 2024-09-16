@@ -1,11 +1,11 @@
 id: 229119401
-type: way
+type: node
 latitude: 39.53326
 longitude: -104.79517
 postcode: "80134"
 city: Parker
-street: "Keystone Boulevard"
-housenumber: 16534
+street: Keystone Boulevard
+housenumber: "16534"
 phone: ""
 opening_hours: ""
 website: ""

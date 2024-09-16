@@ -1,11 +1,11 @@
 id: 295248284
-type: way
+type: node
 latitude: 39.07351
 longitude: -108.57223
 postcode: "81501"
 city: Grand Junction
-street: "North 1st Street"
-housenumber: 655
-phone: "+1-970-434-3225"
-opening_hours: "by appointment"
-website: "https://dahlplumbing.com/keenan-dahl-of-grand-junction/"
+street: North 1st Street
+housenumber: "655"
+phone: +1-970-434-3225
+opening_hours: '"by appointment"'
+website: https://dahlplumbing.com/keenan-dahl-of-grand-junction/

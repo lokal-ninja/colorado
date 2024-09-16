@@ -1,11 +1,11 @@
 id: 366761773
-type: way
+type: node
 latitude: 39.91414
 longitude: -105.07701
 postcode: "80020"
 city: Broomfield
-street: "Teller Street"
-housenumber: 11985
+street: Teller Street
+housenumber: "11985"
 phone: ""
 opening_hours: ""
 website: ""

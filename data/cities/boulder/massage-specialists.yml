@@ -1,11 +1,11 @@
 id: 466530321
-type: way
+type: node
 latitude: 40.01383
 longitude: -105.27842
 postcode: ""
 city: Boulder
-street: "Broadway"
-housenumber: 1640
+street: Broadway
+housenumber: "1640"
 phone: ""
 opening_hours: ""
-website: "https://www.massagespecialists.com"
+website: https://www.massagespecialists.com

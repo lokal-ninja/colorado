@@ -1,11 +1,11 @@
 id: 497031165
-type: way
+type: node
 latitude: 39.0767
 longitude: -108.49881
 postcode: "81504"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 2991
-phone: "+1-970-243-2236"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su off"
-website: "https://www.guirys.com/pages/grand-junction"
+street: North Avenue
+housenumber: "2991"
+phone: +1-970-243-2236
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su off
+website: https://www.guirys.com/pages/grand-junction

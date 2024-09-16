@@ -4,8 +4,8 @@ latitude: 39.74515
 longitude: -104.99189
 postcode: "80202"
 city: Denver
-street: "California Street"
-housenumber: 1600
-phone: "+1 303-222-7520"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 08:00-22:00; Su 08:00-20:00"
-website: "https://www.target.com/sl/denver-downtown/3279"
+street: California Street
+housenumber: "1600"
+phone: +1 303-222-7520
+opening_hours: Mo-Fr 07:00-21:00; Sa 08:00-22:00; Su 08:00-20:00
+website: https://www.target.com/sl/denver-downtown/3279

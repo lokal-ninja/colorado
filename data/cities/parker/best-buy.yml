@@ -1,11 +1,11 @@
 id: 229362552
-type: way
+type: node
 latitude: 39.51168
 longitude: -104.76201
 postcode: "80138"
 city: Parker
-street: "South Pikes Peak Drive"
-housenumber: 11267
-phone: "+1 303-840-5501"
+street: South Pikes Peak Drive
+housenumber: "11267"
+phone: +1 303-840-5501
 opening_hours: ""
-website: "https://stores.bestbuy.com/co/parker/11267-pikes-peak-dr-1410.html"
+website: https://stores.bestbuy.com/co/parker/11267-pikes-peak-dr-1410.html

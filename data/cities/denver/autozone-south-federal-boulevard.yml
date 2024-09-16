@@ -1,11 +1,11 @@
 id: 200994802
-type: way
+type: node
 latitude: 39.69519
 longitude: -105.02487
 postcode: "80219"
 city: Denver
-street: "South Federal Boulevard"
-housenumber: 1194
+street: South Federal Boulevard
+housenumber: "1194"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/denver/1194-s-federal-blvd.html"
+website: https://www.autozone.com/locations/co/denver/1194-s-federal-blvd.html

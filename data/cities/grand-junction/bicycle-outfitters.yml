@@ -1,11 +1,11 @@
 id: 422031496
-type: way
+type: node
 latitude: 39.07213
 longitude: -108.5714
 postcode: "81501"
 city: Grand Junction
-street: "North 1st Street"
-housenumber: 537
-phone: "+1-970-245-2699"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-15:00"
-website: "https://www.gjbikes.com/"
+street: North 1st Street
+housenumber: "537"
+phone: +1-970-245-2699
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-15:00
+website: https://www.gjbikes.com/

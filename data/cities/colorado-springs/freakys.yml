@@ -1,11 +1,11 @@
 id: 197615838
-type: way
+type: node
 latitude: 38.8382
 longitude: -104.81914
 postcode: "80903"
 city: Colorado Springs
-street: "East Platte Avenue"
-housenumber: 308
-phone: "+1-719-536-0400"
+street: East Platte Avenue
+housenumber: "308"
+phone: +1-719-536-0400
 opening_hours: ""
-website: "https://freakys.com/"
+website: https://freakys.com/

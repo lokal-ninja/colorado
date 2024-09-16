@@ -1,11 +1,11 @@
 id: 243096281
-type: way
+type: node
 latitude: 40.02381
 longitude: -105.25896
 postcode: "80302"
 city: Boulder
-street: "28th Street"
-housenumber: 2121
+street: 28th Street
+housenumber: "2121"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-17:30, Su 11:00-17:00"
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-17:30, Su 11:00-17:00
 website: ""

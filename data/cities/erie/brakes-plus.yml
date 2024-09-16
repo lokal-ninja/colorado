@@ -1,11 +1,11 @@
 id: 1068103432
-type: way
+type: node
 latitude: 40.00136
 longitude: -105.01352
 postcode: "80516"
 city: Erie
-street: "Village Vista Drive"
-housenumber: 2150
+street: Village Vista Drive
+housenumber: "2150"
 phone: ""
 opening_hours: ""
 website: ""

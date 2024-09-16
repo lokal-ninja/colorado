@@ -1,11 +1,11 @@
 id: 384271468
-type: way
+type: node
 latitude: 40.05971
 longitude: -106.39877
 postcode: "80459"
 city: Kremmling
-street: "West Park Avenue"
-housenumber: 101
+street: West Park Avenue
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

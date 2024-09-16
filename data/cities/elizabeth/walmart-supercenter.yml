@@ -1,11 +1,11 @@
 id: 631399876
-type: way
+type: node
 latitude: 39.35971
 longitude: -104.62399
 postcode: "80107"
 city: Elizabeth
-street: "Legacy Loop"
-housenumber: 2100
-phone: "+1 303-646-2599"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4639/elizabeth-co/whats-new"
+street: Legacy Loop
+housenumber: "2100"
+phone: +1 303-646-2599
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4639/elizabeth-co/whats-new

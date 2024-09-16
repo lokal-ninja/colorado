@@ -1,11 +1,11 @@
 id: 73534001
-type: way
+type: node
 latitude: 38.87802
 longitude: -104.71871
 postcode: "80922"
 city: Colorado Springs
-street: "New Center Point"
-housenumber: 3130
+street: New Center Point
+housenumber: "3130"
 phone: ""
 opening_hours: ""
 website: ""

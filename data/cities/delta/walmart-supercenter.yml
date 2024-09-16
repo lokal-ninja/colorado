@@ -1,11 +1,11 @@
 id: 794603311
-type: way
+type: node
 latitude: 38.74908
 longitude: -108.05344
 postcode: "81416"
 city: Delta
-street: "Stafford Lane"
-housenumber: 37
-phone: "+1 970-874-1585"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5458/delta-co/whats-new"
+street: Stafford Lane
+housenumber: "37"
+phone: +1 970-874-1585
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5458/delta-co/whats-new

@@ -1,11 +1,11 @@
 id: 658745453
-type: way
+type: node
 latitude: 39.75323
 longitude: -105.00027
 postcode: "80202"
 city: Denver
-street: "Wynkoop Street"
-housenumber: 1701
+street: Wynkoop Street
+housenumber: "1701"
 phone: ""
 opening_hours: ""
 website: ""

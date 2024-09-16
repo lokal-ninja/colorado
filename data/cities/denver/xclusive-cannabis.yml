@@ -1,11 +1,11 @@
 id: 205677909
-type: way
+type: node
 latitude: 39.77176
 longitude: -104.90404
 postcode: "80207"
 city: Denver
-street: "East Smith Road"
-housenumber: 7200
+street: East Smith Road
+housenumber: "7200"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:45"
+opening_hours: Mo-Su 09:00-21:45
 website: ""

@@ -1,11 +1,11 @@
 id: 423698887
-type: way
+type: node
 latitude: 39.06745
 longitude: -108.56368
 postcode: "81501"
 city: Grand Junction
-street: "Main Street"
-housenumber: 530
+street: Main Street
+housenumber: "530"
 phone: ""
-opening_hours: "Tu-Sa 10:00-18:00; Su 11:00-16:00"
+opening_hours: Tu-Sa 10:00-18:00; Su 11:00-16:00
 website: ""

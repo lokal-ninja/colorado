@@ -1,11 +1,11 @@
 id: 1113696038
-type: way
+type: node
 latitude: 39.60192
 longitude: -104.71758
 postcode: "80016"
 city: Aurora
-street: "East Smoky Hill Road"
-housenumber: 23290
+street: East Smoky Hill Road
+housenumber: "23290"
 phone: ""
 opening_hours: ""
 website: ""

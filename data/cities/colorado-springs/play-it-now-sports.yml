@@ -1,11 +1,11 @@
 id: 193155224
-type: way
+type: node
 latitude: 38.90363
 longitude: -104.77202
 postcode: "80918"
 city: Colorado Springs
-street: "North Academy Boulevard"
-housenumber: 5025
-phone: "+1-719-591-6010"
+street: North Academy Boulevard
+housenumber: "5025"
+phone: +1-719-591-6010
 opening_hours: ""
-website: "https://www.playitnowsports.com"
+website: https://www.playitnowsports.com

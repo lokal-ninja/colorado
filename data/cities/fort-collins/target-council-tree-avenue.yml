@@ -1,11 +1,11 @@
 id: 131940828
-type: way
+type: node
 latitude: 40.52793
 longitude: -105.0237
-postcode: "80525-6300"
+postcode: 80525-6300
 city: Fort Collins
-street: "Council Tree Avenue"
-housenumber: 2936
-phone: "+1 970-530-3120"
-opening_hours: "PH,Mo-Su 07:00-22:00"
-website: "https://www.target.com/sl/fort-collins-east/2403"
+street: Council Tree Avenue
+housenumber: "2936"
+phone: +1 970-530-3120
+opening_hours: PH,Mo-Su 07:00-22:00
+website: https://www.target.com/sl/fort-collins-east/2403

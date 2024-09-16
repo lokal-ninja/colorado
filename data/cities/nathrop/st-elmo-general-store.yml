@@ -1,11 +1,11 @@
 id: 913045419
-type: way
+type: node
 latitude: 38.70371
 longitude: -106.34531
 postcode: "81236"
 city: Nathrop
-street: "Co. Rd. 162"
-housenumber: 25865
+street: Co. Rd. 162
+housenumber: "25865"
 phone: ""
-opening_hours: "Mo-Su 09:00-17:00"
-website: "http://www.st-elmo.com"
+opening_hours: Mo-Su 09:00-17:00
+website: http://www.st-elmo.com

@@ -4,8 +4,8 @@ latitude: 38.75089
 longitude: -108.04907
 postcode: "81416"
 city: Delta
-street: "Stafford Lane"
-housenumber: 300
-phone: "+1-970-874-3200"
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00"
-website: "https://www.aarons.com/"
+street: Stafford Lane
+housenumber: "300"
+phone: +1-970-874-3200
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00
+website: https://www.aarons.com/

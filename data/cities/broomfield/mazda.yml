@@ -1,11 +1,11 @@
 id: 143919719
-type: way
+type: node
 latitude: 39.91844
 longitude: -105.08825
 postcode: "80020"
 city: Broomfield
-street: "US Highway 287"
-housenumber: 1480
+street: US Highway 287
+housenumber: "1480"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 1431051913
 type: node
 latitude: 39.74053
 longitude: -104.95037
-postcode: "80206-1709"
+postcode: 80206-1709
 city: Denver
-street: "East Colfax"
-housenumber: 3177
-phone: "+1 303-322-2357"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/denver/3177-east-colfax-18730"
+street: East Colfax
+housenumber: "3177"
+phone: +1 303-322-2357
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/denver/3177-east-colfax-18730

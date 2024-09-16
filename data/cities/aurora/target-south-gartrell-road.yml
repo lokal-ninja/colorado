@@ -1,11 +1,11 @@
 id: 363661144
-type: way
+type: node
 latitude: 39.58046
 longitude: -104.72217
-postcode: "80016-4236"
+postcode: 80016-4236
 city: Aurora
-street: "South Gartrell Road"
-housenumber: 7400
-phone: "+1 303-209-2827"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/aurora-saddle-rock/1976"
+street: South Gartrell Road
+housenumber: "7400"
+phone: +1 303-209-2827
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/aurora-saddle-rock/1976

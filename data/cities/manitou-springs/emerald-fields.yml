@@ -1,11 +1,11 @@
 id: 85010062
-type: way
+type: node
 latitude: 38.85706
 longitude: -104.89016
 postcode: "80829"
 city: Manitou Springs
-street: "Manitou Avenue"
-housenumber: 27
-phone: "719-375-0554"
-opening_hours: "Mo-Su 08:00-23:55"
-website: "https://emeraldfields.com/locations/manitou-springs-marijuana-dispensary/"
+street: Manitou Avenue
+housenumber: "27"
+phone: 719-375-0554
+opening_hours: Mo-Su 08:00-23:55
+website: https://emeraldfields.com/locations/manitou-springs-marijuana-dispensary/

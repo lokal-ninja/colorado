@@ -1,11 +1,11 @@
 id: 330175598
-type: way
+type: node
 latitude: 40.39417
 longitude: -104.74851
 postcode: "80634"
 city: Greeley
-street: "Centerplace Drive"
-housenumber: 4224
-phone: "+1 970-330-0489"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/co/greeley-569.shtml"
+street: Centerplace Drive
+housenumber: "4224"
+phone: +1 970-330-0489
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/co/greeley-569.shtml

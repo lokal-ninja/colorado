@@ -1,11 +1,11 @@
 id: 88615868
-type: way
+type: node
 latitude: 39.69082
 longitude: -104.9873
 postcode: "80210"
 city: Denver
-street: "South Broadway"
-housenumber: 1416
-phone: "+1 303-777-7653"
-opening_hours: "Mo-Sa 10:30-17:30; Su 12:00-17:00; "
-website: "https://printedpagebookshop.com/"
+street: South Broadway
+housenumber: "1416"
+phone: +1 303-777-7653
+opening_hours: 'Mo-Sa 10:30-17:30; Su 12:00-17:00; '
+website: https://printedpagebookshop.com/

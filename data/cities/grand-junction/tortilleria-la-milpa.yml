@@ -1,11 +1,11 @@
 id: 497000526
-type: way
+type: node
 latitude: 39.07934
 longitude: -108.49564
 postcode: "81504"
 city: Grand Junction
-street: "30 Road"
-housenumber: 514
-phone: "+1-970-434-3415"
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
-website: "https://www.lamilpatortillafactory.com/"
+street: 30 Road
+housenumber: "514"
+phone: +1-970-434-3415
+opening_hours: Mo-Sa 09:00-19:00; Su off
+website: https://www.lamilpatortillafactory.com/

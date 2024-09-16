@@ -1,11 +1,11 @@
 id: 292625387
-type: way
+type: node
 latitude: 39.06976
 longitude: -108.57134
 postcode: "81501"
 city: Grand Junction
-street: "North 1st Street"
-housenumber: 333
+street: North 1st Street
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""

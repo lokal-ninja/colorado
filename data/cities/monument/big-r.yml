@@ -1,11 +1,11 @@
 id: 768675950
-type: way
+type: node
 latitude: 39.04853
 longitude: -104.8444
 postcode: "80921"
 city: Monument
-street: "Spanish Bit Drive"
-housenumber: 840
-phone: "+1-719-488-0000"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-19:00"
-website: "https://www.bigronline.com/monument"
+street: Spanish Bit Drive
+housenumber: "840"
+phone: +1-719-488-0000
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-19:00
+website: https://www.bigronline.com/monument

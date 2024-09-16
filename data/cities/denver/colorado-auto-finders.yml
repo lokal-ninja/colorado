@@ -1,11 +1,11 @@
 id: 192016774
-type: way
+type: node
 latitude: 39.67669
 longitude: -104.87251
 postcode: "80231"
 city: Denver
-street: "South Parker Road"
-housenumber: 2200
-phone: "+1-303-636-9000"
+street: South Parker Road
+housenumber: "2200"
+phone: +1-303-636-9000
 opening_hours: ""
-website: "https://coautofinders.com/"
+website: https://coautofinders.com/

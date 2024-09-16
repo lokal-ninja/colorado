@@ -1,11 +1,11 @@
 id: 56176009
-type: way
+type: node
 latitude: 39.71105
 longitude: -105.13371
 postcode: "80228"
 city: Lakewood
-street: "South Union Boulevard"
-housenumber: 305
+street: South Union Boulevard
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

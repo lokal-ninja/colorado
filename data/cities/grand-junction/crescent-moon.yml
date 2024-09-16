@@ -1,11 +1,11 @@
 id: 423706518
-type: way
+type: node
 latitude: 39.06718
 longitude: -108.5635
 postcode: "81501"
 city: Grand Junction
-street: "Main Street"
-housenumber: 535
+street: Main Street
+housenumber: "535"
 phone: ""
-opening_hours: "Mo-Fr 11:00-17:00; Sa 11:00-17:00; Su 12:00-16:0000"
-website: "https://www.facebook.com/crescentmoonGJ/"
+opening_hours: Mo-Fr 11:00-17:00; Sa 11:00-17:00; Su 12:00-16:0000
+website: https://www.facebook.com/crescentmoonGJ/

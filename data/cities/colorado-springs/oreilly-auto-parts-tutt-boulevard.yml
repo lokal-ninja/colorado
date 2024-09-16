@@ -1,11 +1,11 @@
 id: 202369467
-type: way
+type: node
 latitude: 38.89475
 longitude: -104.71601
 postcode: "80922"
 city: Colorado Springs
-street: "Tutt Boulevard"
-housenumber: 4410
+street: Tutt Boulevard
+housenumber: "4410"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/coloradosprings/autoparts-3658.html"
+website: https://locations.oreillyauto.com/co/coloradosprings/autoparts-3658.html

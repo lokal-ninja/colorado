@@ -1,11 +1,11 @@
 id: 778389097
-type: way
+type: node
 latitude: 38.31317
 longitude: -104.61291
 postcode: "81008"
 city: Pueblo
-street: "North Freeway"
-housenumber: 4250
+street: North Freeway
+housenumber: "4250"
 phone: ""
-opening_hours: "10:00-22:00; PH off"
-website: "https://www.ddsdiscounts.com"
+opening_hours: 10:00-22:00; PH off
+website: https://www.ddsdiscounts.com

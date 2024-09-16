@@ -1,11 +1,11 @@
 id: 560815138
-type: way
+type: node
 latitude: 39.63412
 longitude: -105.08643
 postcode: "80236"
 city: Littleton
-street: "West Tufts Avenue"
-housenumber: 7977
+street: West Tufts Avenue
+housenumber: "7977"
 phone: ""
 opening_hours: ""
 website: ""

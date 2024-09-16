@@ -1,11 +1,11 @@
 id: 310908722
-type: way
+type: node
 latitude: 38.83143
 longitude: -104.82092
 postcode: "80903"
 city: Colorado Springs
-street: "South Nevada Avenue"
-housenumber: 125
-phone: "+1-719-632-8848"
+street: South Nevada Avenue
+housenumber: "125"
+phone: +1-719-632-8848
 opening_hours: ""
-website: "https://www.goodyear.com/"
+website: https://www.goodyear.com/

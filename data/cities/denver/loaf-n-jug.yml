@@ -1,11 +1,11 @@
 id: 257035236
-type: way
+type: node
 latitude: 39.68953
 longitude: -104.94118
 postcode: "80222"
 city: Denver
-street: "South Colorado Boulevard"
-housenumber: 1495
-phone: "+1-303-759-5911"
-opening_hours: "24/7"
-website: "https://www.loafnjug.com/"
+street: South Colorado Boulevard
+housenumber: "1495"
+phone: +1-303-759-5911
+opening_hours: 24/7
+website: https://www.loafnjug.com/

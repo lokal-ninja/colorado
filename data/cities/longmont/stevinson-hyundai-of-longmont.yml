@@ -1,11 +1,11 @@
 id: 514847000
-type: way
+type: node
 latitude: 40.15182
 longitude: -105.10217
 postcode: "80501"
 city: Longmont
-street: "South Main Street"
-housenumber: 600
+street: South Main Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
-website: "https://www.stevinsonhyundai.com/"
+website: https://www.stevinsonhyundai.com/

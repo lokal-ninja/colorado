@@ -1,11 +1,11 @@
 id: 420521364
-type: way
+type: node
 latitude: 39.52777
 longitude: -104.76578
 postcode: "80138"
 city: Parker
-street: "South Parkglenn Way"
-housenumber: 10431
+street: South Parkglenn Way
+housenumber: "10431"
 phone: ""
 opening_hours: ""
 website: ""

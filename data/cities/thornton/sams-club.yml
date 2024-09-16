@@ -1,11 +1,11 @@
 id: 45813749
-type: way
+type: node
 latitude: 39.87206
 longitude: -104.98444
 postcode: "80229"
 city: Thornton
-street: "Grant Street"
-housenumber: 9601
-phone: "+1 303-453-4945"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/thornton-co-sams-club/4745"
+street: Grant Street
+housenumber: "9601"
+phone: +1 303-453-4945
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/thornton-co-sams-club/4745

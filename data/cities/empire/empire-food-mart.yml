@@ -1,11 +1,11 @@
 id: 151621126
-type: way
+type: node
 latitude: 39.76102
 longitude: -105.68197
 postcode: "80438"
 city: Empire
-street: "East Park Avenue"
-housenumber: 83
+street: East Park Avenue
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

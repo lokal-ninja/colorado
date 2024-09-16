@@ -1,11 +1,11 @@
 id: 541729628
-type: way
+type: node
 latitude: 38.26849
 longitude: -104.60977
 postcode: "81003"
 city: Pueblo
-street: "West 2nd Street"
-housenumber: 224
+street: West 2nd Street
+housenumber: "224"
 phone: ""
 opening_hours: ""
 website: ""

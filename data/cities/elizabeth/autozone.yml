@@ -1,11 +1,11 @@
 id: 631399879
-type: way
+type: node
 latitude: 39.36072
 longitude: -104.62022
 postcode: "80107"
 city: Elizabeth
-street: "Legacy Circle"
-housenumber: 2320
+street: Legacy Circle
+housenumber: "2320"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 439892306
-type: way
+type: node
 latitude: 38.29976
 longitude: -104.61039
 postcode: "81008"
 city: Pueblo
-street: "Hart Road"
-housenumber: 3001
+street: Hart Road
+housenumber: "3001"
 phone: ""
 opening_hours: ""
 website: ""

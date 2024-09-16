@@ -1,11 +1,11 @@
 id: 814291176
-type: way
+type: node
 latitude: 40.16004
 longitude: -104.97221
 postcode: "80504"
 city: Firestone
-street: "City Centre Road"
-housenumber: 4415
+street: City Centre Road
+housenumber: "4415"
 phone: ""
 opening_hours: ""
 website: ""

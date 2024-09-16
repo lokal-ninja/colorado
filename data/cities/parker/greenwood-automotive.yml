@@ -1,11 +1,11 @@
 id: 1286094112
-type: way
+type: node
 latitude: 39.53999
 longitude: -104.77422
 postcode: "80134"
 city: Parker
-street: "South Twenty Mile Road"
-housenumber: 18945
+street: South Twenty Mile Road
+housenumber: "18945"
 phone: ""
 opening_hours: ""
 website: ""

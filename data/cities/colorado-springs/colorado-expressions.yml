@@ -1,11 +1,11 @@
 id: 307410046
-type: way
+type: node
 latitude: 38.83543
 longitude: -104.82242
 postcode: "80903"
 city: Colorado Springs
-street: "East Kiowa Street"
-housenumber: 122
-phone: "+1-719-258-9168"
+street: East Kiowa Street
+housenumber: "122"
+phone: +1-719-258-9168
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 208774618
-type: way
+type: node
 latitude: 38.89262
 longitude: -104.76068
 postcode: "80918"
 city: Colorado Springs
-street: "Austin Bluffs Parkway"
-housenumber: 3620
-phone: "+1-719-598-1891"
-opening_hours: "06:00-23:00"
-website: "https://www.kingsoopers.com/"
+street: Austin Bluffs Parkway
+housenumber: "3620"
+phone: +1-719-598-1891
+opening_hours: 06:00-23:00
+website: https://www.kingsoopers.com/

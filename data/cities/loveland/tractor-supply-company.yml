@@ -1,11 +1,11 @@
 id: 679269271
-type: way
+type: node
 latitude: 40.44888
 longitude: -105.07656
 postcode: "80538"
 city: Loveland
-street: "North Garfield Avenue"
-housenumber: 5428
-phone: "+1 970-663-2722"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Garfield Avenue
+housenumber: "5428"
+phone: +1 970-663-2722
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

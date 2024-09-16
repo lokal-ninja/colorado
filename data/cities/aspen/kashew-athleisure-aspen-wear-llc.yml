@@ -1,11 +1,11 @@
 id: 228760016
-type: way
+type: node
 latitude: 39.18874
 longitude: -106.81948
 postcode: "81611"
 city: Aspen
-street: "East Hyman Avenue"
-housenumber: 411
+street: East Hyman Avenue
+housenumber: "411"
 phone: ""
 opening_hours: ""
 website: ""

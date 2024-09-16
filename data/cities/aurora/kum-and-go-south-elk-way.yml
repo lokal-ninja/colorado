@@ -1,11 +1,11 @@
 id: 1200024602
-type: way
+type: node
 latitude: 39.61
 longitude: -104.70686
 postcode: "80016"
 city: Aurora
-street: "South Elk Way"
-housenumber: 5880
+street: South Elk Way
+housenumber: "5880"
 phone: ""
 opening_hours: ""
-website: "https://www.kumandgo.com/store-locator?details=2304"
+website: https://www.kumandgo.com/store-locator?details=2304

@@ -1,11 +1,11 @@
 id: 302349347
-type: way
+type: node
 latitude: 39.74047
 longitude: -104.94409
 postcode: "80206"
 city: Denver
-street: "East Colfax Avenue"
-housenumber: 3705
-phone: "+1-303-355-2012"
+street: East Colfax Avenue
+housenumber: "3705"
+phone: +1-303-355-2012
 opening_hours: ""
-website: "http://unleashedby.petco.com/"
+website: http://unleashedby.petco.com/

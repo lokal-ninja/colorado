@@ -1,11 +1,11 @@
 id: 520611196
-type: way
+type: node
 latitude: 40.00487
 longitude: -105.10229
 postcode: "80026"
 city: Lafayette
-street: "North Highway 287"
-housenumber: 680
-phone: "+1-303-665-8005"
+street: North Highway 287
+housenumber: "680"
+phone: +1-303-665-8005
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/co/lafayette/680-hwy-287"
+website: https://stores.advanceautoparts.com/co/lafayette/680-hwy-287

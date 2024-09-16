@@ -1,11 +1,11 @@
 id: 803165824
-type: way
+type: node
 latitude: 39.73682
 longitude: -105.06294
 postcode: "80214"
 city: Lakewood
-street: "Harlan Street"
-housenumber: 1301
-phone: "303-238-2799"
+street: Harlan Street
+housenumber: "1301"
+phone: 303-238-2799
 opening_hours: ""
 website: ""

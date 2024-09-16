@@ -1,11 +1,11 @@
 id: 851416578
-type: way
+type: node
 latitude: 40.13168
 longitude: -105.28093
 postcode: "80302"
 city: Boulder
-street: "North Foothills Highway"
-housenumber: 8632
+street: North Foothills Highway
+housenumber: "8632"
 phone: ""
 opening_hours: ""
-website: "http://tribblestone.com"
+website: http://tribblestone.com

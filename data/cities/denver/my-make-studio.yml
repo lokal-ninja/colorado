@@ -4,8 +4,8 @@ latitude: 39.66593
 longitude: -104.91376
 postcode: "80222"
 city: Denver
-street: "East Yale Avenue"
-housenumber: 6460
-phone: "+1-720-334-8001"
-opening_hours: "Mo closed, Tu-Th 12:00-19:00, Fr-Su 11:30-20:00"
-website: "https://www.mymakestudio.com/"
+street: East Yale Avenue
+housenumber: "6460"
+phone: +1-720-334-8001
+opening_hours: Mo closed, Tu-Th 12:00-19:00, Fr-Su 11:30-20:00
+website: https://www.mymakestudio.com/

@@ -1,11 +1,11 @@
 id: 946614803
-type: way
+type: node
 latitude: 38.28829
 longitude: -104.59502
 postcode: "81001"
 city: Pueblo
-street: "Bonforte Boulevard"
-housenumber: 1110
-phone: "+1-719-544-6057"
-opening_hours: "08:00-21:00"
-website: "https://savealot.com/grocery-stores/pueblo-81001-23844/"
+street: Bonforte Boulevard
+housenumber: "1110"
+phone: +1-719-544-6057
+opening_hours: 08:00-21:00
+website: https://savealot.com/grocery-stores/pueblo-81001-23844/

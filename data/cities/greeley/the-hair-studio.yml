@@ -1,11 +1,11 @@
 id: 1059941612
-type: way
+type: node
 latitude: 40.42367
 longitude: -104.73709
-postcode: "80634-9998"
+postcode: 80634-9998
 city: Greeley
-street: "9th Street"
-housenumber: 3536
+street: 9th Street
+housenumber: "3536"
 phone: "+9703534802"
 opening_hours: ""
 website: ""

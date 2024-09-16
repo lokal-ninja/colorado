@@ -1,11 +1,11 @@
 id: 645753278
-type: way
+type: node
 latitude: 40.08696
 longitude: -108.80036
 postcode: "81648"
 city: Rangely
-street: "East Main Street"
-housenumber: 255
+street: East Main Street
+housenumber: "255"
 phone: ""
 opening_hours: ""
-website: "https://www.kumandgo.com/store-locator?details=0919"
+website: https://www.kumandgo.com/store-locator?details=0919

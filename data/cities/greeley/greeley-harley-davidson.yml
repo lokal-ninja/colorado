@@ -1,11 +1,11 @@
 id: 735016174
-type: way
+type: node
 latitude: 40.38952
 longitude: -104.72671
 postcode: "80631"
 city: Greeley
-street: "29th Street"
-housenumber: 3010
+street: 29th Street
+housenumber: "3010"
 phone: ""
 opening_hours: ""
 website: ""

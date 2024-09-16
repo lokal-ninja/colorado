@@ -1,11 +1,11 @@
 id: 957027874
-type: way
+type: node
 latitude: 39.73985
 longitude: -105.11574
 postcode: "80215"
 city: Lakewood
-street: "West Colfax Avenue"
-housenumber: 10550
-phone: "+1-303-202-1855"
+street: West Colfax Avenue
+housenumber: "10550"
+phone: +1-303-202-1855
 opening_hours: ""
-website: "https://www.fascinations.net"
+website: https://www.fascinations.net

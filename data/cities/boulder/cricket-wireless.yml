@@ -4,8 +4,8 @@ latitude: 40.01881
 longitude: -105.25283
 postcode: "80301"
 city: Boulder
-street: "30th Street"
-housenumber: 1832
+street: 30th Street
+housenumber: "1832"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 256661839
-type: way
+type: node
 latitude: 38.93591
 longitude: -104.79627
 postcode: "80920"
 city: Colorado Springs
-street: "North Academy Boulevard"
-housenumber: 7165
-phone: "+1 719-593-7792"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/7165-n-academy-blvd-colorado-spring-80920?number=603"
+street: North Academy Boulevard
+housenumber: "7165"
+phone: +1 719-593-7792
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/7165-n-academy-blvd-colorado-spring-80920?number=603

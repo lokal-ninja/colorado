@@ -1,11 +1,11 @@
 id: 293803808
-type: way
+type: node
 latitude: 39.07784
 longitude: -108.53142
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 2814
-phone: "+1-970-245-3286"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://carol-s-oriental-food-gifts-co.hub.biz/"
+street: North Avenue
+housenumber: "2814"
+phone: +1-970-245-3286
+opening_hours: Mo-Sa 10:00-18:00
+website: https://carol-s-oriental-food-gifts-co.hub.biz/

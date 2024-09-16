@@ -4,8 +4,8 @@ latitude: 39.73058
 longitude: -104.97463
 postcode: "80218"
 city: Denver
-street: "East 9th Avenue"
-housenumber: 1017
-phone: "+1-303-837-8846"
-opening_hours: "Su 12:00-17:00; Mo-Th 10:00-20:00; Fr, Sa 10:00-18:00"
-website: "https://denver.thegreatframeup.com/"
+street: East 9th Avenue
+housenumber: "1017"
+phone: +1-303-837-8846
+opening_hours: Su 12:00-17:00; Mo-Th 10:00-20:00; Fr, Sa 10:00-18:00
+website: https://denver.thegreatframeup.com/

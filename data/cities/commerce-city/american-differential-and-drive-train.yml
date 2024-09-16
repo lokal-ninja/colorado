@@ -1,11 +1,11 @@
 id: 263590955
-type: way
+type: node
 latitude: 39.82875
 longitude: -104.91326
 postcode: "80022"
 city: Commerce City
-street: "Locust Street"
-housenumber: 7270
-phone: "+1 303 227 0121"
+street: Locust Street
+housenumber: "7270"
+phone: +1 303 227 0121
 opening_hours: ""
 website: ""

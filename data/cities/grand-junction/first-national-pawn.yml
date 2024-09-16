@@ -1,11 +1,11 @@
 id: 497021915
-type: way
+type: node
 latitude: 39.07766
 longitude: -108.51658
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 2892
-phone: "+1-970-243-3503"
-opening_hours: "Mo-Sa 09:00-17:00; Su off"
+street: North Avenue
+housenumber: "2892"
+phone: +1-970-243-3503
+opening_hours: Mo-Sa 09:00-17:00; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 461220155
-type: way
+type: node
 latitude: 40.5833
 longitude: -105.00584
 postcode: "80524"
 city: Fort Collins
-street: "Weicker Drive"
-housenumber: 3801
+street: Weicker Drive
+housenumber: "3801"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 234729587
-type: way
+type: node
 latitude: 39.6927
 longitude: -104.86336
 postcode: "80012"
 city: Aurora
-street: "South Ironton Street"
-housenumber: 1350
-phone: "+1 303-745-3022"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/co/aurora-1241.shtml"
+street: South Ironton Street
+housenumber: "1350"
+phone: +1 303-745-3022
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/co/aurora-1241.shtml

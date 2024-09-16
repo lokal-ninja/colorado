@@ -1,11 +1,11 @@
 id: 1288982762
-type: way
+type: node
 latitude: 39.1112
 longitude: -108.54152
 postcode: "81506"
 city: Grand Junction
-street: "Horizon Drive"
-housenumber: 739
+street: Horizon Drive
+housenumber: "739"
 phone: ""
 opening_hours: ""
 website: ""

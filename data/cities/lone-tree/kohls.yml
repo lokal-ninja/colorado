@@ -1,11 +1,11 @@
 id: 50593220
-type: way
+type: node
 latitude: 39.55931
 longitude: -104.90343
 postcode: "80124"
 city: Lone Tree
-street: "South Quebec Street"
-housenumber: 8660
-phone: "+1 303-790-8000"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/co/lonetree-341.shtml"
+street: South Quebec Street
+housenumber: "8660"
+phone: +1 303-790-8000
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/co/lonetree-341.shtml

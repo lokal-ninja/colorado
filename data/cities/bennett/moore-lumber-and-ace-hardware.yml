@@ -1,11 +1,11 @@
 id: 498966662
-type: way
+type: node
 latitude: 39.73637
 longitude: -104.43436
 postcode: "80102"
 city: Bennett
-street: "South 1st Street"
-housenumber: 1555
-phone: "+1 303-644-5000"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 09:00-16:00"
+street: South 1st Street
+housenumber: "1555"
+phone: +1 303-644-5000
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 09:00-16:00
 website: ""

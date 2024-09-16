@@ -1,11 +1,11 @@
 id: 183384829
-type: way
+type: node
 latitude: 40.58977
 longitude: -105.04699
 postcode: "80524"
 city: Fort Collins
-street: "Commerce Drive"
-housenumber: 101
+street: Commerce Drive
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

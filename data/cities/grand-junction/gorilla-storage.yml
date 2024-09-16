@@ -4,8 +4,8 @@ latitude: 39.0794
 longitude: -108.48942
 postcode: "81504"
 city: Grand Junction
-street: "I 70 Business Loop"
-housenumber: 3038
-phone: "+1-970-434-8431"
-opening_hours: "Su-Mo off; Tu-Fr 09:00-17:00; Sa 09:00-13:00 || 06:00-21:00 gate access"
-website: "https://www.gorillastorage.com/"
+street: I 70 Business Loop
+housenumber: "3038"
+phone: +1-970-434-8431
+opening_hours: Su-Mo off; Tu-Fr 09:00-17:00; Sa 09:00-13:00 || 06:00-21:00 "gate access"
+website: https://www.gorillastorage.com/

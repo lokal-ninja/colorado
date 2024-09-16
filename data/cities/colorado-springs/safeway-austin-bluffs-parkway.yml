@@ -1,11 +1,11 @@
 id: 197122823
-type: way
+type: node
 latitude: 38.93298
 longitude: -104.7391
 postcode: "80923"
 city: Colorado Springs
-street: "Austin Bluffs Parkway"
-housenumber: 7055
-phone: "+1 719-264-8650"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/co/colorado-springs/7055-austin-bluffs-pkwy.html"
+street: Austin Bluffs Parkway
+housenumber: "7055"
+phone: +1 719-264-8650
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/co/colorado-springs/7055-austin-bluffs-pkwy.html

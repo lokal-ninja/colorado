@@ -1,11 +1,11 @@
 id: 822923334
-type: way
+type: node
 latitude: 39.60595
 longitude: -104.98771
 postcode: "80121"
 city: Littleton
-street: "South Broadway"
-housenumber: 6100
+street: South Broadway
+housenumber: "6100"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00"
-website: "https://www.mcdonaldmazda.com"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00
+website: https://www.mcdonaldmazda.com

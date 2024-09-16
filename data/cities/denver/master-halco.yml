@@ -1,11 +1,11 @@
 id: 205680922
-type: way
+type: node
 latitude: 39.8171
 longitude: -104.96736
 postcode: "80229"
 city: Denver
-street: "East 66th Avenue"
-housenumber: 1725
-phone: "+1-303-287-3461"
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "MasterHalco.com"
+street: East 66th Avenue
+housenumber: "1725"
+phone: +1-303-287-3461
+opening_hours: Mo-Fr 07:00-16:00
+website: MasterHalco.com

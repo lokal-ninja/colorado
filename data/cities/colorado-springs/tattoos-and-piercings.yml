@@ -1,11 +1,11 @@
 id: 1282928979
-type: way
+type: node
 latitude: 38.78799
 longitude: -104.7535
 postcode: "80916"
 city: Colorado Springs
-street: "Jet Wing Drive"
-housenumber: 3047
+street: Jet Wing Drive
+housenumber: "3047"
 phone: ""
 opening_hours: ""
 website: ""

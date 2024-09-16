@@ -4,8 +4,8 @@ latitude: 39.67864
 longitude: -104.94005
 postcode: "80222"
 city: Denver
-street: "East Evans Avenue"
-housenumber: 4055
-phone: "+1-720-524-0500"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: East Evans Avenue
+housenumber: "4055"
+phone: +1-720-524-0500
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.brakesplus.com

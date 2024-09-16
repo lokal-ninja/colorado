@@ -1,11 +1,11 @@
 id: 1017608586
-type: way
+type: node
 latitude: 39.68912
 longitude: -104.81725
 postcode: "80012"
 city: Aurora
-street: "East Florida Avenue"
-housenumber: 14632
+street: East Florida Avenue
+housenumber: "14632"
 phone: "+17203400086"
-opening_hours: "Mo,Tu off; We 11:00-17:00; Th 09:00-15:00; Fr 14:00-20:00; Sa 12:00-18:00"
+opening_hours: Mo,Tu off; We 11:00-17:00; Th 09:00-15:00; Fr 14:00-20:00; Sa 12:00-18:00
 website: ""

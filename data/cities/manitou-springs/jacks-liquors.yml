@@ -1,11 +1,11 @@
 id: 37584603
-type: way
+type: node
 latitude: 38.85707
 longitude: -104.89916
 postcode: "80829"
 city: Manitou Springs
-street: "Manitou Avenue"
-housenumber: 304
+street: Manitou Avenue
+housenumber: "304"
 phone: ""
 opening_hours: ""
 website: ""

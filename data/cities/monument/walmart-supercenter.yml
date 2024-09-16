@@ -1,11 +1,11 @@
 id: 377541306
-type: way
+type: node
 latitude: 39.06729
 longitude: -104.85502
 postcode: "80132"
 city: Monument
-street: "Jackson Creek Parkway"
-housenumber: 16218
-phone: "+1 719-484-0912"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3227/monument-co/whats-new"
+street: Jackson Creek Parkway
+housenumber: "16218"
+phone: +1 719-484-0912
+opening_hours: 24/7
+website: https://www.walmart.com/store/3227/monument-co/whats-new

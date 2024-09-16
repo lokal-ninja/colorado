@@ -4,8 +4,8 @@ latitude: 40.3931
 longitude: -104.71642
 postcode: "80634"
 city: Greeley
-street: "23rd Avenue"
-housenumber: 2707
-phone: "+1-970-330-2100"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: 23rd Avenue
+housenumber: "2707"
+phone: +1-970-330-2100
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.brakesplus.com

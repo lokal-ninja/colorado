@@ -1,11 +1,11 @@
 id: 819960878
-type: way
+type: node
 latitude: 39.8991
 longitude: -104.96577
 postcode: "80233"
 city: Northglenn
-street: "East 112th Avenue"
-housenumber: 1720
+street: East 112th Avenue
+housenumber: "1720"
 phone: ""
-opening_hours: "Mo-Su 05:30-23:00"
+opening_hours: Mo-Su 05:30-23:00
 website: ""

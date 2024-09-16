@@ -1,11 +1,11 @@
 id: 192051576
-type: way
+type: node
 latitude: 39.68508
 longitude: -104.86533
 postcode: "80012"
 city: Aurora
-street: "South Havana Street"
-housenumber: 1740
-phone: "+1-303-369-5630"
+street: South Havana Street
+housenumber: "1740"
+phone: +1-303-369-5630
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/aurora/autoparts-3813.html"
+website: https://locations.oreillyauto.com/co/aurora/autoparts-3813.html

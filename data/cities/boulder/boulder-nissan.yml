@@ -1,11 +1,11 @@
 id: 147841196
-type: way
+type: node
 latitude: 40.02519
 longitude: -105.25954
 postcode: "80301"
 city: Boulder
-street: "28th Street"
-housenumber: 2285
+street: 28th Street
+housenumber: "2285"
 phone: ""
 opening_hours: ""
-website: "https://www.bouldernissan.com/"
+website: https://www.bouldernissan.com/

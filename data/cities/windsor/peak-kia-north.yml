@@ -1,11 +1,11 @@
 id: 474478915
-type: way
+type: node
 latitude: 40.40844
 longitude: -104.91294
 postcode: "80550"
 city: Windsor
-street: "Southgate Drive"
-housenumber: 1111
+street: Southgate Drive
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

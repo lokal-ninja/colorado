@@ -1,11 +1,11 @@
 id: 678893339
-type: way
+type: node
 latitude: 38.75005
 longitude: -108.07018
 postcode: "81416"
 city: Delta
-street: "Gunnison River Drive"
-housenumber: 111
+street: Gunnison River Drive
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su closed"
-website: "https://www.bigotires.com/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su closed
+website: https://www.bigotires.com/

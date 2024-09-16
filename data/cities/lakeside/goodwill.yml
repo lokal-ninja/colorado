@@ -4,8 +4,8 @@ latitude: 39.7778
 longitude: -105.05959
 postcode: "80212"
 city: Lakeside
-street: "West 44th Avenue"
-housenumber: 5825
+street: West 44th Avenue
+housenumber: "5825"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-19:00"
-website: "https://www.goodwilldenver.org"
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-19:00
+website: https://www.goodwilldenver.org

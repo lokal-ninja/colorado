@@ -1,11 +1,11 @@
 id: 264538543
-type: way
+type: node
 latitude: 40.02959
 longitude: -105.26298
 postcode: "80304"
 city: Boulder
-street: "Valmont Road"
-housenumber: 2605
-phone: "+1 303-443-2286"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/boulder/2605-valmont-rd-13164"
+street: Valmont Road
+housenumber: "2605"
+phone: +1 303-443-2286
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/boulder/2605-valmont-rd-13164

@@ -1,11 +1,11 @@
 id: 1305067456
-type: way
+type: node
 latitude: 39.7708
 longitude: -104.95584
 postcode: "80205"
 city: Denver
-street: "Steele Street"
-housenumber: 3893
+street: Steele Street
+housenumber: "3893"
 phone: ""
 opening_hours: ""
 website: ""

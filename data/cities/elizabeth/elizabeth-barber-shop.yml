@@ -1,11 +1,11 @@
 id: 701411870
-type: way
+type: node
 latitude: 39.36171
 longitude: -104.59757
 postcode: "80107"
 city: Elizabeth
-street: "East Kiowa Avenue"
-housenumber: 251
-phone: "+1-303-646-4805"
+street: East Kiowa Avenue
+housenumber: "251"
+phone: +1-303-646-4805
 opening_hours: ""
 website: ""

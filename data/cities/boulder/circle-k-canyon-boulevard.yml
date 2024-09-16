@@ -1,11 +1,11 @@
 id: 243075873
-type: way
+type: node
 latitude: 40.0165
 longitude: -105.27561
 postcode: "80302"
 city: Boulder
-street: "Canyon Boulevard"
-housenumber: 1480
-phone: "+1-303-939-8805"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/boulder/1480-canyon-blvd/2709851"
+street: Canyon Boulevard
+housenumber: "1480"
+phone: +1-303-939-8805
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/boulder/1480-canyon-blvd/2709851

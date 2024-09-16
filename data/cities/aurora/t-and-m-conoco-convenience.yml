@@ -1,11 +1,11 @@
 id: 350455841
-type: way
+type: node
 latitude: 39.67516
 longitude: -104.8082
 postcode: "80013"
 city: Aurora
-street: "East Iliff Avenue"
-housenumber: 15351
+street: East Iliff Avenue
+housenumber: "15351"
 phone: ""
 opening_hours: ""
 website: ""

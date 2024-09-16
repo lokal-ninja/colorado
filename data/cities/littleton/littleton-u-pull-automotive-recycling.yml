@@ -4,8 +4,9 @@ latitude: 39.48723
 longitude: -104.99723
 postcode: "80125"
 city: Littleton
-street: "Aspen Leaf Drive"
-housenumber: 5100
-phone: "+1-303-791-1380"
-opening_hours: "Apr-Oct: Mo-Sa 08:30-17:30, Su 08:30-16:00; Nov-Mar: Mo-Sa 08:30-17:00, Su 08:30-16:00"
-website: "http://www.littletonupull.com/"
+street: Aspen Leaf Drive
+housenumber: "5100"
+phone: +1-303-791-1380
+opening_hours: 'Apr-Oct: Mo-Sa 08:30-17:30, Su 08:30-16:00; Nov-Mar: Mo-Sa 08:30-17:00,
+    Su 08:30-16:00'
+website: http://www.littletonupull.com/

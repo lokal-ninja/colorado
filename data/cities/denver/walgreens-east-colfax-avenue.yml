@@ -1,11 +1,11 @@
 id: 426927379
-type: way
+type: node
 latitude: 39.73934
 longitude: -104.91579
 postcode: "80220"
 city: Denver
-street: "East Colfax Avenue"
-housenumber: 6200
+street: East Colfax Avenue
+housenumber: "6200"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-6200+e+colfax+ave-denver-co-80220/id=3867"
+website: https://www.walgreens.com/locator/walgreens-6200+e+colfax+ave-denver-co-80220/id=3867

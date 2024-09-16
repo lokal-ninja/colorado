@@ -1,11 +1,11 @@
 id: 223096550
-type: way
+type: node
 latitude: 39.36253
 longitude: -104.86518
 postcode: "80104"
 city: Castle Rock
-street: "South Wilcox Street"
-housenumber: 800
+street: South Wilcox Street
+housenumber: "800"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

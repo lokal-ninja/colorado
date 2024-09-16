@@ -1,11 +1,11 @@
 id: 804756290
-type: way
+type: node
 latitude: 39.28411
 longitude: -103.06223
 postcode: "80815"
 city: Flagler
-street: "County Road 5"
-housenumber: 16995
+street: County Road 5
+housenumber: "16995"
 phone: ""
 opening_hours: ""
 website: ""

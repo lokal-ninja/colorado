@@ -1,11 +1,11 @@
 id: 972142248
-type: way
+type: node
 latitude: 37.17436
 longitude: -104.50818
 postcode: "81082"
 city: Trinidad
-street: "North Commercial Street"
-housenumber: 732
+street: North Commercial Street
+housenumber: "732"
 phone: ""
 opening_hours: ""
 website: ""

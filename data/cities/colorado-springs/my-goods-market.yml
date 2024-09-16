@@ -1,11 +1,11 @@
 id: 204568039
-type: way
+type: node
 latitude: 38.87241
 longitude: -104.72145
 postcode: "80917"
 city: Colorado Springs
-street: "North Powers Boulevard"
-housenumber: 2790
+street: North Powers Boulevard
+housenumber: "2790"
 phone: ""
 opening_hours: ""
 website: ""

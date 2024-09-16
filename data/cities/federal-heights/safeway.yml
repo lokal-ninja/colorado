@@ -1,11 +1,11 @@
 id: 295262958
-type: way
+type: node
 latitude: 39.88389
 longitude: -105.02293
 postcode: "80260"
 city: Federal Heights
-street: "Federal Boulevard"
-housenumber: 10300
-phone: "+1-303-469-0990"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.safeway.com/safeway/co/federal-heights/10300-federal-blvd.html"
+street: Federal Boulevard
+housenumber: "10300"
+phone: +1-303-469-0990
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.safeway.com/safeway/co/federal-heights/10300-federal-blvd.html

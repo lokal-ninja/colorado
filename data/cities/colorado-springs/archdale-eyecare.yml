@@ -1,11 +1,11 @@
 id: 197477390
-type: way
+type: node
 latitude: 38.93627
 longitude: -104.75918
 postcode: "80918"
 city: Colorado Springs
-street: "Lexington Drive"
-housenumber: 7095
+street: Lexington Drive
+housenumber: "7095"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 972113606
-type: way
+type: node
 latitude: 37.16965
 longitude: -104.51349
 postcode: "81082"
 city: Trinidad
-street: "University Street"
-housenumber: 440
+street: University Street
+housenumber: "440"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 533374891
-type: way
+type: node
 latitude: 39.06332
 longitude: -108.56775
 postcode: ""
 city: Grand Junction
-street: "South Avenue"
-housenumber: 245
+street: South Avenue
+housenumber: "245"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 300594641
-type: way
+type: node
 latitude: 37.27361
 longitude: -107.8805
 postcode: "81301"
 city: Durango
-street: "Main Avenue"
-housenumber: 920
+street: Main Avenue
+housenumber: "920"
 phone: ""
 opening_hours: ""
 website: ""

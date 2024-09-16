@@ -4,8 +4,8 @@ latitude: 40.0181
 longitude: -105.27969
 postcode: "80302"
 city: Boulder
-street: "Pearl Street"
-housenumber: 1211
+street: Pearl Street
+housenumber: "1211"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://www.kuchatea.com/"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
+website: https://www.kuchatea.com/

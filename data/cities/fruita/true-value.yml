@@ -1,11 +1,11 @@
 id: 510877131
-type: way
+type: node
 latitude: 39.16043
 longitude: -108.74119
 postcode: "81521"
 city: Fruita
-street: "US Highway 6 and 50"
-housenumber: 1690
-phone: "+1 970-858-3100"
+street: US Highway 6 and 50
+housenumber: "1690"
+phone: +1 970-858-3100
 opening_hours: ""
-website: "https://www.truevalue.com/fruitatv"
+website: https://www.truevalue.com/fruitatv

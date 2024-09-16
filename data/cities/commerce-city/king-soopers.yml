@@ -1,11 +1,11 @@
 id: 131426308
-type: way
+type: node
 latitude: 39.80904
 longitude: -104.93014
 postcode: "80022"
 city: Commerce City
-street: "East 62nd Avenue"
-housenumber: 4850
-phone: "+1 303 287 3419"
+street: East 62nd Avenue
+housenumber: "4850"
+phone: +1 303 287 3419
 opening_hours: ""
-website: "https://www.kingsoopers.com/"
+website: https://www.kingsoopers.com/

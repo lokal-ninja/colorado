@@ -1,11 +1,11 @@
 id: 1078016143
-type: way
+type: node
 latitude: 38.55694
 longitude: -106.9285
 postcode: "81230"
 city: Gunnison
-street: "North Main Street"
-housenumber: 1125
-phone: "+1 970-641-2287"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Main Street
+housenumber: "1125"
+phone: +1 970-641-2287
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

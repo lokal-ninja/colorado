@@ -4,8 +4,8 @@ latitude: 40.48027
 longitude: -104.90836
 postcode: "80550"
 city: Windsor
-street: "Main Street"
-housenumber: 700
+street: Main Street
+housenumber: "700"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/co/windsor/3697/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/co/windsor/3697/

@@ -1,11 +1,11 @@
 id: 61602521
-type: way
+type: node
 latitude: 39.95716
 longitude: -105.17382
 postcode: "80027"
 city: Superior
-street: "Marshall Road"
-housenumber: 410
-phone: "+1 720-304-3224"
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://locations.michaels.com/co/superior/2059"
+street: Marshall Road
+housenumber: "410"
+phone: +1 720-304-3224
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-20:00
+website: https://locations.michaels.com/co/superior/2059

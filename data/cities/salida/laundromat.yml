@@ -1,11 +1,11 @@
 id: 202593759
-type: way
+type: node
 latitude: 38.52484
 longitude: -106.00194
 postcode: "81201"
 city: Salida
-street: "E Street"
-housenumber: 1410
+street: E Street
+housenumber: "1410"
 phone: ""
 opening_hours: ""
 website: ""

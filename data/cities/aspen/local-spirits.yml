@@ -1,11 +1,11 @@
 id: 228760025
-type: way
+type: node
 latitude: 39.19038
 longitude: -106.81849
 postcode: "81611"
 city: Aspen
-street: "East Main Street"
-housenumber: 435
+street: East Main Street
+housenumber: "435"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 292429102
-type: way
+type: node
 latitude: 39.07707
 longitude: -108.58493
 postcode: "81505"
 city: Grand Junction
-street: "Rimrock Avenue"
-housenumber: 2525
-phone: "+1-970-683-4760"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/co-grand-junction/1554"
+street: Rimrock Avenue
+housenumber: "2525"
+phone: +1-970-683-4760
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/co-grand-junction/1554

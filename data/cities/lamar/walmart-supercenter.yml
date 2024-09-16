@@ -1,11 +1,11 @@
 id: 551740916
-type: way
+type: node
 latitude: 38.0871
 longitude: -102.60851
 postcode: ""
 city: Lamar
-street: "East Olive Street"
-housenumber: 1432
+street: East Olive Street
+housenumber: "1432"
 phone: ""
 opening_hours: ""
 website: ""

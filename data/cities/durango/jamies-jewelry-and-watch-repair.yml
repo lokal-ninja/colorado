@@ -1,11 +1,11 @@
 id: 422123175
-type: way
+type: node
 latitude: 37.27455
 longitude: -107.87947
 postcode: ""
 city: Durango
-street: "East 10th Street"
-housenumber: 125
+street: East 10th Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

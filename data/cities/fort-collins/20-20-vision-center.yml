@@ -1,11 +1,12 @@
 id: 332623570
-type: way
+type: node
 latitude: 40.53885
 longitude: -105.09654
 postcode: "80526"
 city: Fort Collins
-street: "South Shields Street"
-housenumber: 3501
+street: South Shields Street
+housenumber: "3501"
 phone: ""
-opening_hours: "Mo-We 09:00-17:00; Th 10:00-19:00; Fr 09:00-17:00; Sa 09:00-13:00 Not Summer || Mo-We 09:00-17:00; Th 10:00-19:00; Fr 09:00-17:00 Summer"
+opening_hours: Mo-We 09:00-17:00; Th 10:00-19:00; Fr 09:00-17:00; Sa 09:00-13:00 "Not
+    Summer" || Mo-We 09:00-17:00; Th 10:00-19:00; Fr 09:00-17:00 "Summer"
 website: ""

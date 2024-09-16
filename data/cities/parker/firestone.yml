@@ -1,11 +1,11 @@
 id: 916397002
-type: way
+type: node
 latitude: 39.48015
 longitude: -104.75741
 postcode: "80134"
 city: Parker
-street: "Copperhead Trail"
-housenumber: 13055
-phone: "+1-303-416-8536"
-opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-18:00, Su 09:00-17:00"
-website: "https://www.firestonecompleteautocare.com/"
+street: Copperhead Trail
+housenumber: "13055"
+phone: +1-303-416-8536
+opening_hours: Mo-Fr 07:00-19:00, Sa 07:00-18:00, Su 09:00-17:00
+website: https://www.firestonecompleteautocare.com/

@@ -1,11 +1,11 @@
 id: 318159970
-type: way
+type: node
 latitude: 39.69186
 longitude: -104.8857
 postcode: "80247"
 city: Denver
-street: "East Florida Avenue"
-housenumber: 8881
-phone: "+1-303-369-7867"
+street: East Florida Avenue
+housenumber: "8881"
+phone: +1-303-369-7867
 opening_hours: ""
-website: "https://storagemasters.net/locations/denver-co/"
+website: https://storagemasters.net/locations/denver-co/

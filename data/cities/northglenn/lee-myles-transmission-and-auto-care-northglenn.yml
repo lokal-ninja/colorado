@@ -1,11 +1,11 @@
 id: 83714073
-type: way
+type: node
 latitude: 39.90336
 longitude: -104.97878
 postcode: "80233"
 city: Northglenn
-street: "Malley Drive"
-housenumber: 501
+street: Malley Drive
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

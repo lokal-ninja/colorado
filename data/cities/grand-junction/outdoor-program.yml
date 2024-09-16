@@ -1,11 +1,11 @@
 id: 231534191
-type: way
+type: node
 latitude: 39.07779
 longitude: -108.55497
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 1060
-phone: "+1-970-248-1428"
-opening_hours: "Su-Sa 09:00-17:00; PH off"
-website: "https://www.coloradomesa.edu/outdoor-program/index.html"
+street: North Avenue
+housenumber: "1060"
+phone: +1-970-248-1428
+opening_hours: Su-Sa 09:00-17:00; PH off
+website: https://www.coloradomesa.edu/outdoor-program/index.html

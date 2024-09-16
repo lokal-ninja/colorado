@@ -1,11 +1,11 @@
 id: 88175777
-type: way
+type: node
 latitude: 39.99212
 longitude: -104.98445
 postcode: "80023"
 city: Thornton
-street: "Washington Street"
-housenumber: 16375
-phone: "+1 303-474-3247"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/thornton-co-629.html"
+street: Washington Street
+housenumber: "16375"
+phone: +1 303-474-3247
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/thornton-co-629.html

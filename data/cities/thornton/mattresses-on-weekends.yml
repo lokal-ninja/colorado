@@ -1,11 +1,11 @@
 id: 571841992
-type: way
+type: node
 latitude: 39.84856
 longitude: -104.9809
 postcode: "80229"
 city: Thornton
-street: "East 84th Avenue"
-housenumber: 450
+street: East 84th Avenue
+housenumber: "450"
 phone: ""
 opening_hours: ""
 website: ""

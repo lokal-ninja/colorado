@@ -1,11 +1,11 @@
 id: 497024020
-type: way
+type: node
 latitude: 39.09174
 longitude: -108.38499
 postcode: "81526"
 city: Palisade
-street: "36 Road"
-housenumber: 599
+street: 36 Road
+housenumber: "599"
 phone: ""
 opening_hours: ""
 website: ""

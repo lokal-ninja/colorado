@@ -1,11 +1,11 @@
 id: 1090903155
-type: way
+type: node
 latitude: 40.74893
 longitude: -106.28125
 postcode: "80480"
 city: Walden
-street: "County Road 42"
-housenumber: 401
-phone: "+1-970-723-8211"
+street: County Road 42
+housenumber: "401"
+phone: +1-970-723-8211
 opening_hours: ""
 website: ""

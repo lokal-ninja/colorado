@@ -1,11 +1,11 @@
 id: 497200089
-type: way
+type: node
 latitude: 39.07979
 longitude: -108.57768
 postcode: "81505"
 city: Grand Junction
-street: "Motor Street"
-housenumber: 1359
-phone: "+1-970-241-6699"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-15:00; Su off"
-website: "https://katzauto.com/"
+street: Motor Street
+housenumber: "1359"
+phone: +1-970-241-6699
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-15:00; Su off
+website: https://katzauto.com/

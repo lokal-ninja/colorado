@@ -1,11 +1,11 @@
 id: 631402917
-type: way
+type: node
 latitude: 39.36203
 longitude: -104.6073
 postcode: "80107"
 city: Elizabeth
-street: "County Road 13"
-housenumber: 34013
+street: County Road 13
+housenumber: "34013"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 132901810
-type: way
+type: node
 latitude: 40.006
 longitude: -105.10229
 postcode: "80026"
 city: Lafayette
-street: "North Highway 287"
-housenumber: 740
-phone: "+1-303-248-5680"
+street: North Highway 287
+housenumber: "740"
+phone: +1-303-248-5680
 opening_hours: ""
-website: "https://www.discounttire.com/store/co/lafayette/s/1826"
+website: https://www.discounttire.com/store/co/lafayette/s/1826

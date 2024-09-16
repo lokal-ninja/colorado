@@ -1,11 +1,11 @@
 id: 778379518
-type: way
+type: node
 latitude: 38.21576
 longitude: -104.62099
 postcode: "81004"
 city: Pueblo
-street: "Greenhorn Drive"
-housenumber: 19
+street: Greenhorn Drive
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

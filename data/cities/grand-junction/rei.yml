@@ -1,11 +1,11 @@
 id: 298428082
-type: way
+type: node
 latitude: 39.08051
 longitude: -108.58075
 postcode: "81505"
 city: Grand Junction
-street: "Independent Avenue"
-housenumber: 925
-phone: "+1-970-254-8970"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00"
-website: "https://www.rei.com/stores/grand-junction"
+street: Independent Avenue
+housenumber: "925"
+phone: +1-970-254-8970
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
+website: https://www.rei.com/stores/grand-junction

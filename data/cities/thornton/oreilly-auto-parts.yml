@@ -1,11 +1,11 @@
 id: 453221673
-type: way
+type: node
 latitude: 39.94532
 longitude: -104.9409
 postcode: "80602"
 city: Thornton
-street: "Colorado Boulevard"
-housenumber: 13701
+street: Colorado Boulevard
+housenumber: "13701"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/thornton/autoparts-3816.html"
+website: https://locations.oreillyauto.com/co/thornton/autoparts-3816.html

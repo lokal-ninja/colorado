@@ -1,11 +1,11 @@
 id: 850657578
-type: way
+type: node
 latitude: 39.81264
 longitude: -105.12353
 postcode: "80004"
 city: Arvada
-street: "Ralston Rd."
-housenumber: 11100
+street: Ralston Rd.
+housenumber: "11100"
 phone: ""
 opening_hours: ""
 website: ""

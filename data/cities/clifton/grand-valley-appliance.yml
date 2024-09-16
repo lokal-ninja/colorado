@@ -1,11 +1,11 @@
 id: 497021661
-type: way
+type: node
 latitude: 39.09167
 longitude: -108.44674
 postcode: "81520"
 city: Clifton
-street: "F Road"
-housenumber: 3267
-phone: "+1-970-640-6715"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-15:00"
-website: "https://grandvalleyappliance.com/"
+street: F Road
+housenumber: "3267"
+phone: +1-970-640-6715
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-15:00
+website: https://grandvalleyappliance.com/

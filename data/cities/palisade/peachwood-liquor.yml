@@ -1,11 +1,11 @@
 id: 726030015
-type: way
+type: node
 latitude: 39.10561
 longitude: -108.35295
 postcode: "81526"
 city: Palisade
-street: "West 8th Street"
-housenumber: 309
+street: West 8th Street
+housenumber: "309"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

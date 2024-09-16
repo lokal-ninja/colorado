@@ -1,11 +1,11 @@
 id: 48210795
-type: way
+type: node
 latitude: 39.91254
 longitude: -104.98048
 postcode: "80233"
 city: Northglenn
-street: "East 120th Avenue"
-housenumber: 500
-phone: "+1 303-450-2462"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.safeway.com/safeway/co/northglenn/500-e-120th-ave.html"
+street: East 120th Avenue
+housenumber: "500"
+phone: +1 303-450-2462
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.safeway.com/safeway/co/northglenn/500-e-120th-ave.html

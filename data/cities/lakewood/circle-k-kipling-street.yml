@@ -1,11 +1,11 @@
 id: 335160423
-type: way
+type: node
 latitude: 39.72864
 longitude: -105.1093
 postcode: "80215"
 city: Lakewood
-street: "Kipling Street"
-housenumber: 722
+street: Kipling Street
+housenumber: "722"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1289236319
-type: way
+type: node
 latitude: 39.74914
 longitude: -105.05734
 postcode: "80214"
 city: Edgewater
-street: "West 20th Avenue"
-housenumber: 5505
+street: West 20th Avenue
+housenumber: "5505"
 phone: ""
-opening_hours: "Mo-Th 11:00-19:00; Fr-Su 09:00-19:00"
-website: "https://bibamba.com/"
+opening_hours: Mo-Th 11:00-19:00; Fr-Su 09:00-19:00
+website: https://bibamba.com/

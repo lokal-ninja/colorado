@@ -1,11 +1,11 @@
 id: 1067759397
-type: way
+type: node
 latitude: 38.24353
 longitude: -104.64478
 postcode: "81005"
 city: Pueblo
-street: "West Northern Avenue"
-housenumber: 2900
-phone: "+1 719 561 9728"
-opening_hours: "07:00-23:00"
-website: "https://www.walgreens.com/locator/walgreens-2900+w+northern+ave-pueblo-co-81005/id=4721"
+street: West Northern Avenue
+housenumber: "2900"
+phone: +1 719 561 9728
+opening_hours: 07:00-23:00
+website: https://www.walgreens.com/locator/walgreens-2900+w+northern+ave-pueblo-co-81005/id=4721

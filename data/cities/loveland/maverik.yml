@@ -1,11 +1,11 @@
 id: 337429760
-type: way
+type: node
 latitude: 40.43876
 longitude: -105.07656
 postcode: "80538"
 city: Loveland
-street: "Knobcone Drive"
-housenumber: 115
+street: Knobcone Drive
+housenumber: "115"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

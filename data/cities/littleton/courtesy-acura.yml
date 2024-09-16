@@ -1,11 +1,11 @@
 id: 665140600
-type: way
+type: node
 latitude: 39.57997
 longitude: -104.98766
 postcode: "80122"
 city: Littleton
-street: "South Broadway"
-housenumber: 7590
+street: South Broadway
+housenumber: "7590"
 phone: ""
 opening_hours: ""
 website: ""

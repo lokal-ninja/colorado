@@ -1,11 +1,11 @@
 id: 991891725
-type: way
+type: node
 latitude: 38.13104
 longitude: -108.29035
 postcode: "81423"
 city: Norwood
-street: "Grand Avenue"
-housenumber: 1525
+street: Grand Avenue
+housenumber: "1525"
 phone: ""
 opening_hours: ""
 website: ""

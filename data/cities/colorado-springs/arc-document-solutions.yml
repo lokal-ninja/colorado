@@ -1,11 +1,11 @@
 id: 308686241
-type: way
+type: node
 latitude: 38.8333
 longitude: -104.81918
 postcode: "80903"
 city: Colorado Springs
-street: "East Pikes Peak Avenue"
-housenumber: 315
-phone: "+1-719-633-5564"
+street: East Pikes Peak Avenue
+housenumber: "315"
+phone: +1-719-633-5564
 opening_hours: ""
-website: "https://www.e-arc.com/"
+website: https://www.e-arc.com/

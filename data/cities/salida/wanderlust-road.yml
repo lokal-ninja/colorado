@@ -1,11 +1,11 @@
 id: 420041888
-type: way
+type: node
 latitude: 38.53689
 longitude: -105.99264
 postcode: ""
 city: Salida
-street: "West 1st Street"
-housenumber: 146
+street: West 1st Street
+housenumber: "146"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 516247274
-type: way
+type: node
 latitude: 38.88271
 longitude: -104.75811
 postcode: "80917"
 city: Colorado Springs
-street: "North Academy Boulevard"
-housenumber: 3502
+street: North Academy Boulevard
+housenumber: "3502"
 phone: ""
 opening_hours: ""
 website: ""

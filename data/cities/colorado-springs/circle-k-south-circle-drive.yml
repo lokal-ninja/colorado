@@ -1,11 +1,11 @@
 id: 208365001
-type: way
+type: node
 latitude: 38.79684
 longitude: -104.79587
 postcode: "80906"
 city: Colorado Springs
-street: "South Circle Drive"
-housenumber: 2890
+street: South Circle Drive
+housenumber: "2890"
 phone: ""
 opening_hours: ""
 website: ""

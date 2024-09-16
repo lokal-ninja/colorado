@@ -1,11 +1,11 @@
 id: 309259403
-type: way
+type: node
 latitude: 39.96534
 longitude: -105.50508
 postcode: "80466"
 city: Nederland
-street: "East Street"
-housenumber: 584
-phone: "+1-303-258-3881"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: East Street
+housenumber: "584"
+phone: +1-303-258-3881
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

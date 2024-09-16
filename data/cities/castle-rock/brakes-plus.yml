@@ -1,11 +1,11 @@
 id: 598908602
-type: way
+type: node
 latitude: 39.40636
 longitude: -104.85759
 postcode: "80104"
 city: Castle Rock
-street: "Barranca Lane"
-housenumber: 4455
-phone: "+1-720-258-8423"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: Barranca Lane
+housenumber: "4455"
+phone: +1-720-258-8423
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.brakesplus.com

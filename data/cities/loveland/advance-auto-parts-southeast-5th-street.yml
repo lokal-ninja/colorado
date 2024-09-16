@@ -1,11 +1,11 @@
 id: 547306636
-type: way
+type: node
 latitude: 40.38803
 longitude: -105.0738
 postcode: "80537"
 city: Loveland
-street: "Southeast 5th Street"
-housenumber: 250
+street: Southeast 5th Street
+housenumber: "250"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-19:00"
-website: "https://stores.advanceautoparts.com/co/loveland/250-5th-st-se"
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-19:00
+website: https://stores.advanceautoparts.com/co/loveland/250-5th-st-se

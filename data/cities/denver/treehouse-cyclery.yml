@@ -4,8 +4,8 @@ latitude: 39.75716
 longitude: -104.97361
 postcode: "80205"
 city: Denver
-street: "Downing Street"
-housenumber: 2801
-phone: "+1-720-769-4005"
-opening_hours: "Tu-Sa 10:00-18:00"
+street: Downing Street
+housenumber: "2801"
+phone: +1-720-769-4005
+opening_hours: Tu-Sa 10:00-18:00
 website: ""

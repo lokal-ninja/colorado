@@ -1,11 +1,11 @@
 id: 488130564
-type: way
+type: node
 latitude: 39.7265
 longitude: -105.11407
 postcode: "80215"
 city: Lakewood
-street: "West 6th Avenue"
-housenumber: 10301
-phone: "(303) 275-0011"
-opening_hours: "Mo-Sa 10:00-20:00, Su 12:00-18:00"
-website: "https://www.furniturerow.com/shared/location/FurnitureStoresInLakewoodCOFurnitureRowShoppingCenter/100052"
+street: West 6th Avenue
+housenumber: "10301"
+phone: (303) 275-0011
+opening_hours: Mo-Sa 10:00-20:00, Su 12:00-18:00
+website: https://www.furniturerow.com/shared/location/FurnitureStoresInLakewoodCOFurnitureRowShoppingCenter/100052

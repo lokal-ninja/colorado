@@ -1,11 +1,11 @@
 id: 329063174
-type: way
+type: node
 latitude: 39.75252
 longitude: -105.0536
 postcode: "80214"
 city: Edgewater
-street: "Sheridan Boulevard"
-housenumber: 2479
-phone: "303-233-3006"
+street: Sheridan Boulevard
+housenumber: "2479"
+phone: 303-233-3006
 opening_hours: ""
 website: ""

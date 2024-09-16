@@ -1,11 +1,11 @@
 id: 389118118
-type: way
+type: node
 latitude: 38.44942
 longitude: -105.19198
 postcode: "81212"
 city: Canon City
-street: "Royal Gorge Boulevard"
-housenumber: 3105
-phone: "+1 719-275-2375"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1019/canon-city-co/whats-new"
+street: Royal Gorge Boulevard
+housenumber: "3105"
+phone: +1 719-275-2375
+opening_hours: 24/7
+website: https://www.walmart.com/store/1019/canon-city-co/whats-new

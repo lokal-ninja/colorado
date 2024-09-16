@@ -4,8 +4,8 @@ latitude: 40.10352
 longitude: -105.17253
 postcode: "80544"
 city: Niwot
-street: "2nd Avenue"
-housenumber: 112
+street: 2nd Avenue
+housenumber: "112"
 phone: ""
 opening_hours: ""
-website: "https://www.littlebirdniwot.com/"
+website: https://www.littlebirdniwot.com/

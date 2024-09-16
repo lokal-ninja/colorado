@@ -1,10 +1,10 @@
 id: 243075877
-type: way
+type: node
 latitude: 40.01489
 longitude: -105.27629
 postcode: "80302"
 city: Boulder
-street: "14th Street"
+street: 14th Street
 housenumber: 1707;1705
 phone: ""
 opening_hours: ""

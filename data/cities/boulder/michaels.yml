@@ -4,8 +4,8 @@ latitude: 40.01942
 longitude: -105.25185
 postcode: "80301"
 city: Boulder
-street: "30th Street"
-housenumber: 1830
-phone: "+1 303-800-3852"
-opening_hours: "Mo-Sa 09:00-21:00; Th off; Fr 07:00-21:00; Su 10:00-20:00"
-website: "https://locations.michaels.com/co/boulder/5115/"
+street: 30th Street
+housenumber: "1830"
+phone: +1 303-800-3852
+opening_hours: Mo-Sa 09:00-21:00; Th off; Fr 07:00-21:00; Su 10:00-20:00
+website: https://locations.michaels.com/co/boulder/5115/

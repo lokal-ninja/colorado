@@ -1,11 +1,11 @@
 id: 211226311
-type: way
+type: node
 latitude: 38.93364
 longitude: -104.79997
 postcode: "80920"
 city: Colorado Springs
-street: "East Woodmen Road"
-housenumber: 1376
-phone: "+1-719-260-1455"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.rei.com/stores/colorado-springs"
+street: East Woodmen Road
+housenumber: "1376"
+phone: +1-719-260-1455
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.rei.com/stores/colorado-springs

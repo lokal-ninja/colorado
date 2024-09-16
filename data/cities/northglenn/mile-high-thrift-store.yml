@@ -1,11 +1,11 @@
 id: 83714021
-type: way
+type: node
 latitude: 39.90203
 longitude: -104.9791
 postcode: "80233"
 city: Northglenn
-street: "Malley Drive"
-housenumber: 650
+street: Malley Drive
+housenumber: "650"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "http://redwhiteandbluethriftstore.com/northglenn-co/"
+opening_hours: Mo-Sa 09:00-18:00
+website: http://redwhiteandbluethriftstore.com/northglenn-co/

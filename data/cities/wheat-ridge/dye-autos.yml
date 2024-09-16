@@ -1,11 +1,11 @@
 id: 689176662
-type: way
+type: node
 latitude: 39.78493
 longitude: -105.11511
 postcode: "80033"
 city: Wheat Ridge
-street: "Miller Street"
-housenumber: 4855
+street: Miller Street
+housenumber: "4855"
 phone: ""
 opening_hours: ""
 website: ""

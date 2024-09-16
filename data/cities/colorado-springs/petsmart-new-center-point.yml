@@ -1,11 +1,11 @@
 id: 73534006
-type: way
+type: node
 latitude: 38.87515
 longitude: -104.71771
 postcode: "80922"
 city: Colorado Springs
-street: "New Center Point"
-housenumber: 2965
-phone: "+1 719-637-3308"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/co/colorado-springs-store1124.html"
+street: New Center Point
+housenumber: "2965"
+phone: +1 719-637-3308
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/co/colorado-springs-store1124.html

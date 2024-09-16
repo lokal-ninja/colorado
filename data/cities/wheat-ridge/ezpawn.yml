@@ -1,11 +1,11 @@
 id: 658861956
-type: way
+type: node
 latitude: 39.78006
 longitude: -105.08184
 postcode: "80033"
 city: Wheat Ridge
-street: "Wadsworth Boulevard"
-housenumber: 4595
+street: Wadsworth Boulevard
+housenumber: "4595"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

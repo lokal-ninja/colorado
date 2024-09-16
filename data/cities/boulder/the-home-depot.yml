@@ -1,11 +1,11 @@
 id: 98564034
-type: way
+type: node
 latitude: 40.01624
 longitude: -105.25571
 postcode: "80301"
 city: Boulder
-street: "29th Street"
-housenumber: 1600
-phone: "+1 303-449-4221"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Boulder/CO/Boulder/80301/1546"
+street: 29th Street
+housenumber: "1600"
+phone: +1 303-449-4221
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Boulder/CO/Boulder/80301/1546

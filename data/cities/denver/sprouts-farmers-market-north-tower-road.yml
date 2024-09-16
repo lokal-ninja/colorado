@@ -1,11 +1,11 @@
 id: 1133524813
-type: way
+type: node
 latitude: 39.80008
 longitude: -104.77076
 postcode: "80249"
 city: Denver
-street: "North Tower Road"
-housenumber: 5670
-phone: "+1 720-850-5026"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/co/denver/335-denver-tower-rd-and-e-56th/"
+street: North Tower Road
+housenumber: "5670"
+phone: +1 720-850-5026
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/co/denver/335-denver-tower-rd-and-e-56th/

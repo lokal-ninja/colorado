@@ -2,10 +2,10 @@ id: 2342938617
 type: node
 latitude: 38.89317
 longitude: -104.84986
-postcode: "80907-3770"
+postcode: 80907-3770
 city: Colorado Springs
-street: "Centennial Boulevard"
-housenumber: 4201
-phone: "+1 719-955-0428"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-17:00"
+street: Centennial Boulevard
+housenumber: "4201"
+phone: +1 719-955-0428
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-17:00
 website: ""

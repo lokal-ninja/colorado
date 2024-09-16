@@ -4,8 +4,8 @@ latitude: 39.66681
 longitude: -104.91528
 postcode: "80222"
 city: Denver
-street: "East Yale Avenue"
-housenumber: 6440
-phone: "+1-303-691-9991"
-opening_hours: "Mo-Sa 09:30-17:00, Su closed"
-website: "http://trevas.com/"
+street: East Yale Avenue
+housenumber: "6440"
+phone: +1-303-691-9991
+opening_hours: Mo-Sa 09:30-17:00, Su closed
+website: http://trevas.com/

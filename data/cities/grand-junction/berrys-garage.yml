@@ -1,11 +1,11 @@
 id: 497021916
-type: way
+type: node
 latitude: 39.07814
 longitude: -108.51741
 postcode: "81501"
 city: Grand Junction
-street: "Melody Lane"
-housenumber: 508
-phone: "+1-970-243-4298"
-opening_hours: "Mo-Th 07:30-18:30"
-website: "https://berrysgarage.com/"
+street: Melody Lane
+housenumber: "508"
+phone: +1-970-243-4298
+opening_hours: Mo-Th 07:30-18:30
+website: https://berrysgarage.com/

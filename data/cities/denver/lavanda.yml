@@ -4,8 +4,8 @@ latitude: 39.69102
 longitude: -104.89045
 postcode: "80231"
 city: Denver
-street: "South Parker Road"
-housenumber: 1402
+street: South Parker Road
+housenumber: "1402"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-17:00, Su closed"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-17:00, Su closed
 website: ""

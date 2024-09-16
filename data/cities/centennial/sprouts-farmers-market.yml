@@ -1,11 +1,11 @@
 id: 288509190
-type: way
+type: node
 latitude: 39.60875
 longitude: -104.74558
 postcode: "80015"
 city: Centennial
-street: "East Smoky Hill Road"
-housenumber: 20831
-phone: "+1 720-305-0959"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/co/centennial/centennial/"
+street: East Smoky Hill Road
+housenumber: "20831"
+phone: +1 720-305-0959
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/co/centennial/centennial/

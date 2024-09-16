@@ -1,11 +1,11 @@
 id: 423684214
-type: way
+type: node
 latitude: 39.07795
 longitude: -108.57128
 postcode: "81501"
 city: Grand Junction
-street: "North 1st Street"
-housenumber: 1105
-phone: "+1-970-433-7111"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.axismotorwerks.com/"
+street: North 1st Street
+housenumber: "1105"
+phone: +1-970-433-7111
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.axismotorwerks.com/

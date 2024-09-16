@@ -1,11 +1,11 @@
 id: 288700720
-type: way
+type: node
 latitude: 39.09669
 longitude: -108.59812
 postcode: "81505"
 city: Grand Junction
-street: "24 1/2 Road"
-housenumber: 630
-phone: "+1 970 243 1745"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
-website: "https://www.discovermygoodwill.org/shop/locations/"
+street: 24 1/2 Road
+housenumber: "630"
+phone: +1 970 243 1745
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
+website: https://www.discovermygoodwill.org/shop/locations/

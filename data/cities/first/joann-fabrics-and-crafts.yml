@@ -1,11 +1,11 @@
 id: 73533934
-type: way
+type: node
 latitude: 38.88814
 longitude: -104.71497
-postcode: "80922-3201"
+postcode: 80922-3201
 city: First
-street: "Bloomington Street"
-housenumber: 3795
-phone: "+1 719-596-4640"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.joann.com/co/colorado-springs/2062/"
+street: Bloomington Street
+housenumber: "3795"
+phone: +1 719-596-4640
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.joann.com/co/colorado-springs/2062/

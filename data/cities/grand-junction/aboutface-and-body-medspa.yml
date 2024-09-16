@@ -1,11 +1,11 @@
 id: 1312138555
-type: way
+type: node
 latitude: 39.09234
 longitude: -108.57442
 postcode: "81505"
 city: Grand Junction
-street: "Patterson Road"
-housenumber: 2584
-phone: "+1-970-200-7983"
-opening_hours: "by appointment"
-website: "https://www.aboutfaceandbodymedspa.com/"
+street: Patterson Road
+housenumber: "2584"
+phone: +1-970-200-7983
+opening_hours: '"by appointment"'
+website: https://www.aboutfaceandbodymedspa.com/

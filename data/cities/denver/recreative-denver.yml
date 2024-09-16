@@ -4,8 +4,8 @@ latitude: 39.72849
 longitude: -104.99877
 postcode: "80204"
 city: Denver
-street: "Santa Fe Drive"
-housenumber: 765
+street: Santa Fe Drive
+housenumber: "765"
 phone: ""
-opening_hours: "Mo-Su 12:00-18:00"
-website: "https://www.recreativedenver.org/"
+opening_hours: Mo-Su 12:00-18:00
+website: https://www.recreativedenver.org/

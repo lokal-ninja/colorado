@@ -1,11 +1,11 @@
 id: 497200737
-type: way
+type: node
 latitude: 39.08147
 longitude: -108.57797
 postcode: "81505"
 city: Grand Junction
-street: "Independent Avenue"
-housenumber: 700
-phone: "+1-970-644-5171"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su by appointment"
-website: "https://acmechopshop.com/"
+street: Independent Avenue
+housenumber: "700"
+phone: +1-970-644-5171
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su "by appointment"
+website: https://acmechopshop.com/

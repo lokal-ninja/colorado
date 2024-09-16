@@ -1,11 +1,11 @@
 id: 266477984
-type: way
+type: node
 latitude: 39.97199
 longitude: -104.76975
 postcode: "80601"
 city: Brighton
-street: "East Bromley Lane"
-housenumber: 4040
+street: East Bromley Lane
+housenumber: "4040"
 phone: ""
 opening_hours: ""
 website: ""

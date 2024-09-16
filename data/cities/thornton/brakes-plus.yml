@@ -1,11 +1,11 @@
 id: 53144059
-type: way
+type: node
 latitude: 39.91474
 longitude: -104.98325
 postcode: "80233"
 city: Thornton
-street: "East 120th Avenue"
-housenumber: 405
-phone: "+1-303-255-9600"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: East 120th Avenue
+housenumber: "405"
+phone: +1-303-255-9600
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.brakesplus.com

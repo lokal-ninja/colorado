@@ -1,11 +1,11 @@
 id: 226575323
-type: way
+type: node
 latitude: 39.58614
 longitude: -106.09393
 postcode: "80443"
 city: Frisco
-street: "Summit Boulevard"
-housenumber: 805
-phone: "+1 970-668-5417"
-opening_hours: "08:00-19:00"
-website: "https://www.christysports.com/store?storeID=1222"
+street: Summit Boulevard
+housenumber: "805"
+phone: +1 970-668-5417
+opening_hours: 08:00-19:00
+website: https://www.christysports.com/store?storeID=1222

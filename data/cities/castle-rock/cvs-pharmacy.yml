@@ -1,11 +1,11 @@
 id: 879356471
-type: way
+type: node
 latitude: 39.40322
 longitude: -104.88679
 postcode: "80109"
 city: Castle Rock
-street: "Future St"
-housenumber: 4050
+street: Future St
+housenumber: "4050"
 phone: "+13034745227"
 opening_hours: ""
 website: ""

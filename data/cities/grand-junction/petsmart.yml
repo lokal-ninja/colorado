@@ -1,11 +1,12 @@
 id: 292436999
-type: way
+type: node
 latitude: 39.09619
 longitude: -108.60313
 postcode: "81505"
 city: Grand Junction
-street: "F Road"
-housenumber: 2428
-phone: "+1 970-255-9305"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00; Mo-Sa 07:00-21:00 Grooming Salon; Su 08:00-18:00 Grooming Salon"
-website: "https://www.petsmart.com/stores/us/co/grand-junction-store0249.html"
+street: F Road
+housenumber: "2428"
+phone: +1 970-255-9305
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00; Mo-Sa 07:00-21:00 "Grooming Salon";
+    Su 08:00-18:00 "Grooming Salon"
+website: https://www.petsmart.com/stores/us/co/grand-junction-store0249.html

@@ -1,11 +1,11 @@
 id: 306484475
-type: way
+type: node
 latitude: 38.83875
 longitude: -104.82309
 postcode: "80903"
 city: Colorado Springs
-street: "North Tejon Street"
-housenumber: 315
-phone: "+1-719-389-0696"
+street: North Tejon Street
+housenumber: "315"
+phone: +1-719-389-0696
 opening_hours: ""
-website: "http://www.coloradoco-oponline.com/"
+website: http://www.coloradoco-oponline.com/

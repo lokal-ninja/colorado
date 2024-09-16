@@ -1,11 +1,11 @@
 id: 1070052731
-type: way
+type: node
 latitude: 39.76737
 longitude: -104.90412
 postcode: "80207"
 city: Denver
-street: "East 36th Avenue"
-housenumber: 7260
+street: East 36th Avenue
+housenumber: "7260"
 phone: ""
 opening_hours: ""
 website: ""

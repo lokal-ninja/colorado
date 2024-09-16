@@ -1,11 +1,11 @@
 id: 1012322861
-type: way
+type: node
 latitude: 39.84934
 longitude: -105.1644
 postcode: "80005"
 city: Arvada
-street: "West 84th Place"
-housenumber: 14725
-phone: "+1-719-895-1130"
-opening_hours: "24/7"
-website: "https://www.kumandgo.com/store-locator?details=2306"
+street: West 84th Place
+housenumber: "14725"
+phone: +1-719-895-1130
+opening_hours: 24/7
+website: https://www.kumandgo.com/store-locator?details=2306

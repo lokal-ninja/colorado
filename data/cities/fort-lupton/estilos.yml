@@ -1,11 +1,11 @@
 id: 814761950
-type: way
+type: node
 latitude: 40.08959
 longitude: -104.81087
 postcode: "80621"
 city: Fort Lupton
-street: "Denver Avenue"
-housenumber: 1051
+street: Denver Avenue
+housenumber: "1051"
 phone: ""
 opening_hours: ""
 website: ""

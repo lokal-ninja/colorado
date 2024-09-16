@@ -1,11 +1,11 @@
 id: 231528364
-type: way
+type: node
 latitude: 38.84599
 longitude: -104.82049
 postcode: "80903"
 city: Colorado Springs
-street: "North Nevada Avenue"
-housenumber: 825
-phone: "+1-719-520-9767"
+street: North Nevada Avenue
+housenumber: "825"
+phone: +1-719-520-9767
 opening_hours: ""
 website: ""

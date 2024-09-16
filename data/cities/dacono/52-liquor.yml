@@ -1,11 +1,11 @@
 id: 814321353
-type: way
+type: node
 latitude: 40.08726
 longitude: -104.93182
 postcode: "80514"
 city: Dacono
-street: "Carbondale Drive"
-housenumber: 901
+street: Carbondale Drive
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

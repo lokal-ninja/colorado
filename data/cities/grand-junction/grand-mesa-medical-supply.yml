@@ -1,11 +1,11 @@
 id: 463526029
-type: way
+type: node
 latitude: 39.07767
 longitude: -108.54483
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 1708
-phone: "+1-970-241-0833"
-opening_hours: "Mo-Fr 08:30-17:30; Sa-Su off"
-website: "https://grandmesamedical.com/"
+street: North Avenue
+housenumber: "1708"
+phone: +1-970-241-0833
+opening_hours: Mo-Fr 08:30-17:30; Sa-Su off
+website: https://grandmesamedical.com/

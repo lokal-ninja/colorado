@@ -1,11 +1,11 @@
 id: 771381318
-type: way
+type: node
 latitude: 38.90715
 longitude: -104.81753
 postcode: "80918"
 city: Colorado Springs
-street: "North Nevada Avenue"
-housenumber: 5342
-phone: "+1 719-264-0123"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/co/colorado-springs/305/"
+street: North Nevada Avenue
+housenumber: "5342"
+phone: +1 719-264-0123
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/co/colorado-springs/305/

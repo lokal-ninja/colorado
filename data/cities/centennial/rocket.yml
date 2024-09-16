@@ -1,11 +1,11 @@
 id: 291264816
-type: way
+type: node
 latitude: 39.61124
 longitude: -104.80974
 postcode: "80015"
 city: Centennial
-street: "East Orchard Road"
-housenumber: 15371
+street: East Orchard Road
+housenumber: "15371"
 phone: ""
 opening_hours: ""
 website: ""

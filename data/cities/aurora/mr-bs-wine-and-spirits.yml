@@ -1,11 +1,11 @@
 id: 1242051543
-type: way
+type: node
 latitude: 39.75306
 longitude: -104.8773
 postcode: "80010"
 city: Aurora
-street: "Dallas Street"
-housenumber: 2501
-phone: "+1-720-531-6010"
-opening_hours: "Su-Tu 10:00-20:00; We-Sa 10:00-21:00"
-website: "https://mrbswineandspirits.com/"
+street: Dallas Street
+housenumber: "2501"
+phone: +1-720-531-6010
+opening_hours: Su-Tu 10:00-20:00; We-Sa 10:00-21:00
+website: https://mrbswineandspirits.com/

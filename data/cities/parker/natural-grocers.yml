@@ -1,11 +1,11 @@
 id: 257506295
-type: way
+type: node
 latitude: 39.50985
 longitude: -104.76258
 postcode: "80134"
 city: Parker
-street: "South Parker Road"
-housenumber: 11402
-phone: "+1-303-805-1285"
+street: South Parker Road
+housenumber: "11402"
+phone: +1-303-805-1285
 opening_hours: ""
-website: "https://www.naturalgrocers.com/"
+website: https://www.naturalgrocers.com/

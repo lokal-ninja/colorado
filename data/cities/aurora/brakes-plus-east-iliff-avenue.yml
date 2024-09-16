@@ -1,11 +1,11 @@
 id: 672724867
-type: way
+type: node
 latitude: 39.67311
 longitude: -104.79321
 postcode: "80013"
 city: Aurora
-street: "East Iliff Avenue"
-housenumber: 16770
-phone: "+1-303-743-9600"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: East Iliff Avenue
+housenumber: "16770"
+phone: +1-303-743-9600
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.brakesplus.com

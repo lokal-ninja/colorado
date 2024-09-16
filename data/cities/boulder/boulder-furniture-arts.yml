@@ -1,11 +1,11 @@
 id: 243092552
-type: way
+type: node
 latitude: 40.02247
 longitude: -105.26128
 postcode: "80302"
 city: Boulder
-street: "26th Street"
-housenumber: 2055
+street: 26th Street
+housenumber: "2055"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.boulderfurniturearts.com/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.boulderfurniturearts.com/

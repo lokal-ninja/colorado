@@ -1,11 +1,11 @@
 id: 1135816402
-type: way
+type: node
 latitude: 38.24505
 longitude: -104.64712
 postcode: "81005"
 city: Pueblo
-street: "Cambridge Avenue"
-housenumber: 40
-phone: "+1 719-561-1282"
+street: Cambridge Avenue
+housenumber: "40"
+phone: +1 719-561-1282
 opening_hours: ""
-website: "https://www.truevalue.com/ashleyhardware"
+website: https://www.truevalue.com/ashleyhardware

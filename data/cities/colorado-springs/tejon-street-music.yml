@@ -1,11 +1,11 @@
 id: 306484461
-type: way
+type: node
 latitude: 38.83935
 longitude: -104.82369
 postcode: "80903"
 city: Colorado Springs
-street: "North Tejon Street"
-housenumber: 330
-phone: "+1-719-634-2228"
+street: North Tejon Street
+housenumber: "330"
+phone: +1-719-634-2228
 opening_hours: ""
-website: "https://tejonstreetmusic.com/"
+website: https://tejonstreetmusic.com/

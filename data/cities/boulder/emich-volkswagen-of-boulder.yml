@@ -1,11 +1,11 @@
 id: 382368745
-type: way
+type: node
 latitude: 40.02263
 longitude: -105.23728
 postcode: "80301"
 city: Boulder
-street: "49th Street"
-housenumber: 2470
+street: 49th Street
+housenumber: "2470"
 phone: ""
 opening_hours: ""
-website: "https://www.emichvwofboulder.com/"
+website: https://www.emichvwofboulder.com/

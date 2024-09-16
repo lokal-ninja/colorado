@@ -4,8 +4,8 @@ latitude: 39.73678
 longitude: -104.97911
 postcode: "80203"
 city: Denver
-street: "East 13th Avenue"
-housenumber: 624
-phone: "+1-303-815-1979"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://kilgorebooks.com/"
+street: East 13th Avenue
+housenumber: "624"
+phone: +1-303-815-1979
+opening_hours: Mo-Su 10:00-18:00
+website: https://kilgorebooks.com/

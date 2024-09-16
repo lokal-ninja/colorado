@@ -1,11 +1,11 @@
 id: 45810511
-type: way
+type: node
 latitude: 39.88065
 longitude: -104.98636
 postcode: "80229"
 city: Thornton
-street: "Grant Street"
-housenumber: 10003
-phone: "+1 303-255-8000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Thornton/CO/Thornton/80229/1503"
+street: Grant Street
+housenumber: "10003"
+phone: +1 303-255-8000
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Thornton/CO/Thornton/80229/1503

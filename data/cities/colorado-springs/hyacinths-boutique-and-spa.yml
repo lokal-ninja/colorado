@@ -1,11 +1,11 @@
 id: 306643297
-type: way
+type: node
 latitude: 38.83687
 longitude: -104.82406
 postcode: "80903"
 city: Colorado Springs
-street: "East Bijou Street"
-housenumber: 24
-phone: "+1-719-473-5101"
+street: East Bijou Street
+housenumber: "24"
+phone: +1-719-473-5101
 opening_hours: ""
-website: "http://www.hyacinthsboutiqueandspa.com/"
+website: http://www.hyacinthsboutiqueandspa.com/

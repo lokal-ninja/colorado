@@ -1,11 +1,11 @@
 id: 770071134
-type: way
+type: node
 latitude: 38.88495
 longitude: -104.72206
 postcode: "80917"
 city: Colorado Springs
-street: "North Carefree Circle"
-housenumber: 5721
+street: North Carefree Circle
+housenumber: "5721"
 phone: ""
 opening_hours: ""
 website: ""

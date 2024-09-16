@@ -1,11 +1,11 @@
 id: 503468951
-type: way
+type: node
 latitude: 39.87697
 longitude: -104.93985
 postcode: "80229"
 city: Thornton
-street: "East 100th Avenue"
-housenumber: 4000
-phone: "+1-303-450-7152"
-opening_hours: "Mo-Su 06:00-23:00"
+street: East 100th Avenue
+housenumber: "4000"
+phone: +1-303-450-7152
+opening_hours: Mo-Su 06:00-23:00
 website: ""

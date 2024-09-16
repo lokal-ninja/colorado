@@ -1,11 +1,11 @@
 id: 193971559
-type: way
+type: node
 latitude: 38.89113
 longitude: -104.76109
 postcode: "80918"
 city: Colorado Springs
-street: "Austin Bluffs Parkway"
-housenumber: 3610
+street: Austin Bluffs Parkway
+housenumber: "3610"
 phone: ""
 opening_hours: ""
 website: ""

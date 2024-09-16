@@ -1,11 +1,11 @@
 id: 555973739
-type: way
+type: node
 latitude: 38.91042
 longitude: -104.7178
 postcode: "80922"
 city: Colorado Springs
-street: "Stetson Hills Boulevard"
-housenumber: 5845
+street: Stetson Hills Boulevard
+housenumber: "5845"
 phone: ""
 opening_hours: ""
 website: ""

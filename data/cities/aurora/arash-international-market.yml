@@ -1,11 +1,11 @@
 id: 192564034
-type: way
+type: node
 latitude: 39.66727
 longitude: -104.86117
 postcode: "80014"
 city: Aurora
-street: "South Parker Road"
-housenumber: 2720
-phone: "+1-303-752-9272"
+street: South Parker Road
+housenumber: "2720"
+phone: +1-303-752-9272
 opening_hours: ""
-website: "http://www.farsinet.com/baghghali/colorado.html"
+website: http://www.farsinet.com/baghghali/colorado.html

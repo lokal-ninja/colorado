@@ -1,11 +1,11 @@
 id: 332453855
-type: way
+type: node
 latitude: 39.97424
 longitude: -105.08917
 postcode: "80026"
 city: Lafayette
-street: "South US Highway 287"
-housenumber: 2346
-phone: "+1-303-665-9449"
+street: South US Highway 287
+housenumber: "2346"
+phone: +1-303-665-9449
 opening_hours: ""
-website: "https://www.murphyusa.com/murphyusa"
+website: https://www.murphyusa.com/murphyusa

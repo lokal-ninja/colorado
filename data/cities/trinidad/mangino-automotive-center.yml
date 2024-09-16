@@ -1,11 +1,11 @@
 id: 972135700
-type: way
+type: node
 latitude: 37.17667
 longitude: -104.48965
 postcode: "81082"
 city: Trinidad
-street: "East Main Street"
-housenumber: 1631
+street: East Main Street
+housenumber: "1631"
 phone: ""
 opening_hours: ""
 website: ""

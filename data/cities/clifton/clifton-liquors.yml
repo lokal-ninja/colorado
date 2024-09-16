@@ -1,11 +1,11 @@
 id: 497021415
-type: way
+type: node
 latitude: 39.09157
 longitude: -108.44934
 postcode: "81520"
 city: Clifton
-street: "F Road"
-housenumber: 3255
-phone: "+1 970 434 6039"
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://clifton-liquors.com/"
+street: F Road
+housenumber: "3255"
+phone: +1 970 434 6039
+opening_hours: Mo-Su 08:00-23:00
+website: https://clifton-liquors.com/

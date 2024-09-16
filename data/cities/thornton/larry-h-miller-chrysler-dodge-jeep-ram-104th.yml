@@ -1,11 +1,11 @@
 id: 448694918
-type: way
+type: node
 latitude: 39.88488
 longitude: -105.00869
 postcode: "80234"
 city: Thornton
-street: "West 104th Avenue"
-housenumber: 1800
-phone: "(303) 465-2350"
-opening_hours: "Mo-Sa 08:30-21:00; Su closed"
-website: "https://www.lhmdenverjeep.com/"
+street: West 104th Avenue
+housenumber: "1800"
+phone: (303) 465-2350
+opening_hours: Mo-Sa 08:30-21:00; Su closed
+website: https://www.lhmdenverjeep.com/

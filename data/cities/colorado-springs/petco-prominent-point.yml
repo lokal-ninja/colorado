@@ -1,11 +1,11 @@
 id: 210339399
-type: way
+type: node
 latitude: 38.97405
 longitude: -104.74599
 postcode: "80924"
 city: Colorado Springs
-street: "Prominent Point"
-housenumber: 9690
-phone: "+1 719-495-4337"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petco.com/"
+street: Prominent Point
+housenumber: "9690"
+phone: +1 719-495-4337
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petco.com/

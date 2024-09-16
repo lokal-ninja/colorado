@@ -4,8 +4,8 @@ latitude: 39.6411
 longitude: -106.37355
 postcode: "81657"
 city: Vail
-street: "Bridge Street"
-housenumber: 230
+street: Bridge Street
+housenumber: "230"
 phone: ""
 opening_hours: ""
-website: "https://kemosabe.com"
+website: https://kemosabe.com

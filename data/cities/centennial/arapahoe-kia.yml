@@ -1,11 +1,11 @@
 id: 747936044
-type: way
+type: node
 latitude: 39.59595
 longitude: -104.87506
 postcode: "80112"
 city: Centennial
-street: "East Arapahoe Road"
-housenumber: 9701
-phone: "+1 303-874-2500"
+street: East Arapahoe Road
+housenumber: "9701"
+phone: +1 303-874-2500
 opening_hours: ""
-website: "https://www.coloradokia.com/"
+website: https://www.coloradokia.com/

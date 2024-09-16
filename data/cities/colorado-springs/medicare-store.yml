@@ -1,11 +1,11 @@
 id: 436175601
-type: way
+type: node
 latitude: 38.85322
 longitude: -104.80323
 postcode: "80903"
 city: Colorado Springs
-street: "North Hancock Avenue"
-housenumber: 1412
+street: North Hancock Avenue
+housenumber: "1412"
 phone: ""
 opening_hours: ""
 website: ""

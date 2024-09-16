@@ -1,11 +1,11 @@
 id: 685682912
-type: way
+type: node
 latitude: 40.30455
 longitude: -105.10329
 postcode: "80513"
 city: Berthoud
-street: "Meadowlark Drive"
-housenumber: 425
+street: Meadowlark Drive
+housenumber: "425"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 58345892
-type: way
+type: node
 latitude: 39.70549
 longitude: -105.13635
 postcode: "80228"
 city: Lakewood
-street: "West Alameda Parkway"
-housenumber: 12180
-phone: "+1-303-969-8231"
+street: West Alameda Parkway
+housenumber: "12180"
+phone: +1-303-969-8231
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/lakewood/autoparts-2696.html"
+website: https://locations.oreillyauto.com/co/lakewood/autoparts-2696.html

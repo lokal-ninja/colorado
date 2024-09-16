@@ -1,11 +1,11 @@
 id: 682964013
-type: way
+type: node
 latitude: 39.73896
 longitude: -104.86721
 postcode: "80010"
 city: Aurora
-street: "East Colfax Avenue"
-housenumber: 10400
-phone: "+1-303-537-9808"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/6178/aurora-co/whats-new"
+street: East Colfax Avenue
+housenumber: "10400"
+phone: +1-303-537-9808
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/6178/aurora-co/whats-new

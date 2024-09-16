@@ -1,11 +1,11 @@
 id: 756392284
-type: way
+type: node
 latitude: 37.46857
 longitude: -105.86778
 postcode: "81101"
 city: Alamosa
-street: "Main Street"
-housenumber: 713
+street: Main Street
+housenumber: "713"
 phone: ""
 opening_hours: ""
-website: "https://m.facebook.com/TreasureAlleyCO"
+website: https://m.facebook.com/TreasureAlleyCO

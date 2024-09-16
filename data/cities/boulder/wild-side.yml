@@ -4,8 +4,8 @@ latitude: 40.00758
 longitude: -105.27641
 postcode: ""
 city: Boulder
-street: "13th Street"
-housenumber: 1111
+street: 13th Street
+housenumber: "1111"
 phone: ""
-opening_hours: "10:00-22:00"
-website: "https://twitter.com/wildsideco"
+opening_hours: 10:00-22:00
+website: https://twitter.com/wildsideco

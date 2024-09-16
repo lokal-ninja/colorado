@@ -1,11 +1,11 @@
 id: 971895575
-type: way
+type: node
 latitude: 38.24961
 longitude: -104.45892
 postcode: "81006"
 city: Pueblo
-street: "36th Lane"
-housenumber: 936
+street: 36th Lane
+housenumber: "936"
 phone: ""
 opening_hours: ""
 website: ""

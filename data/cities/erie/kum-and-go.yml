@@ -1,11 +1,11 @@
 id: 468093892
-type: way
+type: node
 latitude: 40.00124
 longitude: -105.03637
 postcode: "80026"
 city: Erie
-street: "Bonanza Drive"
-housenumber: 2999
-phone: "+1-720-974-1604"
-opening_hours: "24/7"
-website: "https://www.kumandgo.com/store-locator?details=0316"
+street: Bonanza Drive
+housenumber: "2999"
+phone: +1-720-974-1604
+opening_hours: 24/7
+website: https://www.kumandgo.com/store-locator?details=0316

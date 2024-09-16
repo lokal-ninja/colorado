@@ -1,11 +1,11 @@
 id: 798985492
-type: way
+type: node
 latitude: 38.93998
 longitude: -104.76125
 postcode: "80920"
 city: Colorado Springs
-street: "Hartsel Drive"
-housenumber: 3560
+street: Hartsel Drive
+housenumber: "3560"
 phone: ""
 opening_hours: ""
 website: ""

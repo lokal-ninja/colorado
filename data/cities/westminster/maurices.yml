@@ -1,11 +1,11 @@
 id: 550559912
-type: way
+type: node
 latitude: 39.96074
 longitude: -104.99538
 postcode: "80023"
 city: Westminster
-street: "Orchard Parkway"
-housenumber: 14685
+street: Orchard Parkway
+housenumber: "14685"
 phone: ""
 opening_hours: ""
 website: ""

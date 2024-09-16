@@ -1,11 +1,11 @@
 id: 296783033
-type: way
+type: node
 latitude: 39.78194
 longitude: -104.84787
 postcode: "80239"
 city: Denver
-street: "North Peoria Street"
-housenumber: 4695
-phone: "+1 303-307-0331"
+street: North Peoria Street
+housenumber: "4695"
+phone: +1 303-307-0331
 opening_hours: ""
-website: "https://www.bigotires.com/"
+website: https://www.bigotires.com/

@@ -1,11 +1,11 @@
 id: 563675975
-type: way
+type: node
 latitude: 39.77933
 longitude: -105.0598
 postcode: "80212"
 city: Lakeside
-street: "West 44th Avenue"
-housenumber: 5809
+street: West 44th Avenue
+housenumber: "5809"
 phone: ""
-opening_hours: "Mon-Fri 9:00 AM-10:00 PM"
+opening_hours: Mon-Fri 9:00 AM-10:00 PM
 website: ""

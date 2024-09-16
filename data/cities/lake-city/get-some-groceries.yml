@@ -1,11 +1,11 @@
 id: 719419814
-type: way
+type: node
 latitude: 38.0271
 longitude: -107.31658
 postcode: "81235"
 city: Lake City
-street: "North Gunnison Avenue"
-housenumber: 130
-phone: "+1-970-944-0547"
+street: North Gunnison Avenue
+housenumber: "130"
+phone: +1-970-944-0547
 opening_hours: ""
-website: "https://www.facebook.com/getsomegrocerieslc/"
+website: https://www.facebook.com/getsomegrocerieslc/

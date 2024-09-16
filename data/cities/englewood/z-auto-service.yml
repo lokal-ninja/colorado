@@ -1,11 +1,11 @@
 id: 782842558
-type: way
+type: node
 latitude: 39.64714
 longitude: -105.00273
 postcode: "80110"
 city: Englewood
-street: "West Lehigh Place"
-housenumber: 1231
-phone: "303-781-2855"
+street: West Lehigh Place
+housenumber: "1231"
+phone: 303-781-2855
 opening_hours: ""
-website: "https://www.zautoservice.com/"
+website: https://www.zautoservice.com/

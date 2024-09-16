@@ -1,11 +1,11 @@
 id: 730046610
-type: way
+type: node
 latitude: 39.59468
 longitude: -105.07044
 postcode: "80128"
 city: Columbine
-street: "West Coal Mine Avenue"
-housenumber: 6762
-phone: "+1-(303)-978-1283"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-18:00"
-website: "https://smokerfriendly.com/"
+street: West Coal Mine Avenue
+housenumber: "6762"
+phone: +1-(303)-978-1283
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-18:00
+website: https://smokerfriendly.com/

@@ -1,11 +1,11 @@
 id: 421346140
-type: way
+type: node
 latitude: 39.06651
 longitude: -108.56421
 postcode: "81501"
 city: Grand Junction
-street: "Colorado Avenue"
-housenumber: 502
+street: Colorado Avenue
+housenumber: "502"
 phone: "9704243957"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://www.facebook.com/nakedbikeworks2020/"
+opening_hours: Mo-Fr 08:00-16:00
+website: https://www.facebook.com/nakedbikeworks2020/

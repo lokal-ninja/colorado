@@ -1,11 +1,11 @@
 id: 211226235
-type: way
+type: node
 latitude: 38.94144
 longitude: -104.79775
 postcode: ""
 city: Colorado Springs
-street: "North Academy Boulevard"
-housenumber: 7625
+street: North Academy Boulevard
+housenumber: "7625"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 365776477
-type: way
+type: node
 latitude: 39.61213
 longitude: -104.75469
 postcode: "80015"
 city: Centennial
-street: "East Smoky Hill Road"
-housenumber: 20051
+street: East Smoky Hill Road
+housenumber: "20051"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-20051+e+smoky+hill+rd-centennial-co-80015/id=4470"
+website: https://www.walgreens.com/locator/walgreens-20051+e+smoky+hill+rd-centennial-co-80015/id=4470

@@ -1,11 +1,11 @@
 id: 263446261
-type: way
+type: node
 latitude: 40.53978
 longitude: -105.07788
 postcode: "80525"
 city: Fort Collins
-street: "West Monroe Drive"
-housenumber: 101
+street: West Monroe Drive
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-16:00
 website: ""

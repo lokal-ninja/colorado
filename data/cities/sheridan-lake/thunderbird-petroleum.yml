@@ -1,11 +1,11 @@
 id: 260854741
-type: way
+type: node
 latitude: 38.46558
 longitude: -102.29263
 postcode: "81071"
 city: Sheridan Lake
-street: "CO-96"
-housenumber: 322
+street: CO-96
+housenumber: "322"
 phone: ""
 opening_hours: ""
 website: ""

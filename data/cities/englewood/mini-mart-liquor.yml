@@ -1,11 +1,11 @@
 id: 50003706
-type: way
+type: node
 latitude: 39.66733
 longitude: -104.98798
 postcode: "80113"
 city: Englewood
-street: "South Broadway"
-housenumber: 2709
+street: South Broadway
+housenumber: "2709"
 phone: ""
 opening_hours: ""
 website: ""

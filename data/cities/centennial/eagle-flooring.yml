@@ -1,11 +1,11 @@
 id: 200993007
-type: way
+type: node
 latitude: 39.58887
 longitude: -104.83868
 postcode: "80112"
 city: Centennial
-street: "South Revere Parkway"
-housenumber: 7074
+street: South Revere Parkway
+housenumber: "7074"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 497517835
-type: way
+type: node
 latitude: 39.77884
 longitude: -105.06202
 postcode: "80212"
 city: Lakeside
-street: "West 44th Avenue"
-housenumber: 5957
-phone: "+1 303-222-4455"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5957/lakeside-co/whats-new"
+street: West 44th Avenue
+housenumber: "5957"
+phone: +1 303-222-4455
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5957/lakeside-co/whats-new

@@ -1,11 +1,11 @@
 id: 889976757
-type: way
+type: node
 latitude: 39.06622
 longitude: -108.56421
 postcode: "81501"
 city: Grand Junction
-street: "Colorado Avenue"
-housenumber: 503
+street: Colorado Avenue
+housenumber: "503"
 phone: ""
 opening_hours: ""
-website: "https://www.allcopyproducts.com/"
+website: https://www.allcopyproducts.com/

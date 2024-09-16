@@ -1,11 +1,11 @@
 id: 326165232
-type: way
+type: node
 latitude: 39.69745
 longitude: -104.86402
 postcode: "80012"
 city: Aurora
-street: "South Ironton Street"
-housenumber: 1073
-phone: "+1-720-350-2600"
-opening_hours: "Mo-Th 08:00-17:00, Fr 07:00-16:00, Sa-Su closed"
-website: "https://golfcartdoctor.com/"
+street: South Ironton Street
+housenumber: "1073"
+phone: +1-720-350-2600
+opening_hours: Mo-Th 08:00-17:00, Fr 07:00-16:00, Sa-Su closed
+website: https://golfcartdoctor.com/

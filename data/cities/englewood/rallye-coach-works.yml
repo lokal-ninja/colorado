@@ -1,11 +1,11 @@
 id: 782842451
-type: way
+type: node
 latitude: 39.65857
 longitude: -105.00078
 postcode: "80110"
 city: Englewood
-street: "South Santa Fe Drive Frontage Road"
-housenumber: 3237
-phone: "+1-303-761-4401"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://rallyecoachworks.com"
+street: South Santa Fe Drive Frontage Road
+housenumber: "3237"
+phone: +1-303-761-4401
+opening_hours: Mo-Fr 08:00-17:00
+website: https://rallyecoachworks.com

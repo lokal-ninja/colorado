@@ -1,11 +1,11 @@
 id: 664034843
-type: way
+type: node
 latitude: 38.99472
 longitude: -105.06381
 postcode: "80863"
 city: Woodland Park
-street: "Spruce Haven Drive"
-housenumber: 919
-phone: "+1 719-686-0401"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Spruce Haven Drive
+housenumber: "919"
+phone: +1 719-686-0401
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

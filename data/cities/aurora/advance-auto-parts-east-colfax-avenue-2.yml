@@ -1,11 +1,11 @@
 id: 295191060
-type: way
+type: node
 latitude: 39.74091
 longitude: -104.81773
 postcode: "80011"
 city: Aurora
-street: "East Colfax Avenue"
-housenumber: 14651
-phone: "303-341-4517"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/co/aurora/14651-e-colfax-ave"
+street: East Colfax Avenue
+housenumber: "14651"
+phone: 303-341-4517
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/co/aurora/14651-e-colfax-ave

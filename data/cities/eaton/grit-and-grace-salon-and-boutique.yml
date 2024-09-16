@@ -4,8 +4,8 @@ latitude: 40.5258
 longitude: -104.7134
 postcode: "80615"
 city: Eaton
-street: "1st Street"
-housenumber: 212
+street: 1st Street
+housenumber: "212"
 phone: ""
-opening_hours: "Tu 08:00-15:30; We 12:00-19:00; Th 08:00-16:00; Sa 10:00-15:00"
+opening_hours: Tu 08:00-15:30; We 12:00-19:00; Th 08:00-16:00; Sa 10:00-15:00
 website: ""

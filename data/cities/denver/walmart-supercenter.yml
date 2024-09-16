@@ -1,11 +1,11 @@
 id: 39142797
-type: way
+type: node
 latitude: 39.65129
 longitude: -104.87829
 postcode: "80231"
 city: Denver
-street: "East Hampden Avenue"
-housenumber: 9400
-phone: "+1 720-748-1000"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3566/denver-co/"
+street: East Hampden Avenue
+housenumber: "9400"
+phone: +1 720-748-1000
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3566/denver-co/

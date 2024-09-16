@@ -1,11 +1,11 @@
 id: 956892131
-type: way
+type: node
 latitude: 39.98818
 longitude: -104.8
 postcode: "80601"
 city: Brighton
-street: "North 18th Avenue"
-housenumber: 68
-phone: "+1-303-659-3933"
+street: North 18th Avenue
+housenumber: "68"
+phone: +1-303-659-3933
 opening_hours: ""
-website: "https://www.napaonline.com/en/co/brighton/store/24434?cid=pl_yext_gpc_GenuinePartsCompany_24434"
+website: https://www.napaonline.com/en/co/brighton/store/24434?cid=pl_yext_gpc_GenuinePartsCompany_24434

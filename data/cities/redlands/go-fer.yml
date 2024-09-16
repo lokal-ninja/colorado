@@ -1,11 +1,11 @@
 id: 286065715
-type: way
+type: node
 latitude: 39.08703
 longitude: -108.65066
 postcode: "81507"
 city: Redlands
-street: "Broadway"
-housenumber: 2146
+street: Broadway
+housenumber: "2146"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 202242273
-type: way
+type: node
 latitude: 38.82479
 longitude: -104.74779
 postcode: "80916"
 city: Colorado Springs
-street: "Airport Road"
-housenumber: 4335
+street: Airport Road
+housenumber: "4335"
 phone: ""
 opening_hours: ""
 website: ""

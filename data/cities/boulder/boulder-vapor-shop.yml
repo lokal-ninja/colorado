@@ -4,8 +4,8 @@ latitude: 40.00847
 longitude: -105.27641
 postcode: "80302"
 city: Boulder
-street: "13th Street"
-housenumber: 1155
+street: 13th Street
+housenumber: "1155"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-19:00"
-website: "https://bouldervaporhouse.com/"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-19:00
+website: https://bouldervaporhouse.com/

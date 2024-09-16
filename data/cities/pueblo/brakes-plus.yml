@@ -4,8 +4,8 @@ latitude: 38.30692
 longitude: -104.61922
 postcode: "81008"
 city: Pueblo
-street: "US 50"
-housenumber: 900
-phone: "+1-719-543-3200"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: US 50
+housenumber: "900"
+phone: +1-719-543-3200
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.brakesplus.com

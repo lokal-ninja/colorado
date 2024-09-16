@@ -1,11 +1,11 @@
 id: 373357076
-type: way
+type: node
 latitude: 39.28327
 longitude: -106.06274
 postcode: "80420"
 city: Alma
-street: "South Main Street"
-housenumber: 13
-phone: "719-836-1533"
-opening_hours: "Mo-Sa 10:00-18:00; Su 10:00-16:00"
-website: "http://www.southparkhydroponics.com/"
+street: South Main Street
+housenumber: "13"
+phone: 719-836-1533
+opening_hours: Mo-Sa 10:00-18:00; Su 10:00-16:00
+website: http://www.southparkhydroponics.com/

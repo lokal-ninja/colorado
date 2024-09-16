@@ -1,11 +1,11 @@
 id: 42049767
-type: way
+type: node
 latitude: 39.66878
 longitude: -105.09576
 postcode: "80227"
 city: Lakewood
-street: "South Estes Street"
-housenumber: 2641
-phone: "+1 303-989-1943"
+street: South Estes Street
+housenumber: "2641"
+phone: +1 303-989-1943
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/co/lakewood/2641-s.-estes-16068"
+website: https://www.7-eleven.com/locations/co/lakewood/2641-s.-estes-16068

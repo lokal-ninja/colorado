@@ -1,11 +1,11 @@
 id: 386557023
-type: way
+type: node
 latitude: 39.72108
 longitude: -105.02491
-postcode: "80219-1535"
+postcode: 80219-1535
 city: Denver
-street: "Federal Boulevard"
-housenumber: 280
+street: Federal Boulevard
+housenumber: "280"
 phone: ""
 opening_hours: ""
 website: ""

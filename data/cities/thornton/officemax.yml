@@ -1,11 +1,11 @@
 id: 45610957
-type: way
+type: node
 latitude: 39.91678
 longitude: -104.97631
 postcode: "80233"
 city: Thornton
-street: "East 120th Avenue"
-housenumber: 801
-phone: "+1-303-920-3486"
+street: East 120th Avenue
+housenumber: "801"
+phone: +1-303-920-3486
 opening_hours: ""
-website: "https://www.officedepot.com/storelocator/co/thornton/officemax-6708"
+website: https://www.officedepot.com/storelocator/co/thornton/officemax-6708

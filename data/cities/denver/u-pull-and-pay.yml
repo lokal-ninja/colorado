@@ -1,11 +1,12 @@
 id: 364439879
-type: way
+type: node
 latitude: 39.81834
 longitude: -104.9909
 postcode: "80221"
 city: Denver
-street: "West 66th Way"
-housenumber: 390
+street: West 66th Way
+housenumber: "390"
 phone: ""
-opening_hours: "Mo-Su 09:00-17:00; Thanksgiving off; Christmas Day off; New Years's Day off"
+opening_hours: Mo-Su 09:00-17:00; Thanksgiving off; Christmas Day off; New Years's
+    Day off
 website: ""

@@ -1,11 +1,11 @@
 id: 472680067
-type: way
+type: node
 latitude: 40.03436
 longitude: -105.05506
 postcode: "80516"
 city: Erie
-street: "Mitchell Way"
-housenumber: 681
-phone: "+1-303-828-5319"
-opening_hours: "Mo-Su 05:00-22:00"
-website: "https://www.featherpetro.com/erie"
+street: Mitchell Way
+housenumber: "681"
+phone: +1-303-828-5319
+opening_hours: Mo-Su 05:00-22:00
+website: https://www.featherpetro.com/erie

@@ -1,11 +1,11 @@
 id: 1307697212
-type: way
+type: node
 latitude: 39.67286
 longitude: -105.02469
 postcode: "80219"
 city: Denver
-street: "South Federal Boulevard"
-housenumber: 2412
+street: South Federal Boulevard
+housenumber: "2412"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1275121824
-type: way
+type: node
 latitude: 39.74167
 longitude: -105.51964
 postcode: "80452"
 city: Idaho Springs
-street: "13th Avenue"
-housenumber: 115
+street: 13th Avenue
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

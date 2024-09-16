@@ -4,8 +4,8 @@ latitude: 39.72587
 longitude: -104.98402
 postcode: "80203"
 city: Denver
-street: "Grant Street"
-housenumber: 603
+street: Grant Street
+housenumber: "603"
 phone: "+13038930055"
-opening_hours: "Su-Th 10:00-01:00; Fr-Sa 10:00-02:00"
-website: "https://locations.pizzahut.com/co/denver/603-grant-st"
+opening_hours: Su-Th 10:00-01:00; Fr-Sa 10:00-02:00
+website: https://locations.pizzahut.com/co/denver/603-grant-st

@@ -1,11 +1,11 @@
 id: 690098471
-type: way
+type: node
 latitude: 39.65355
 longitude: -105.03189
 postcode: "80110"
 city: Sheridan
-street: "West Hampden Avenue"
-housenumber: 3391
-phone: "+1 303-761-3249"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/sheridan/3391-w-hampden-ave-35604"
+street: West Hampden Avenue
+housenumber: "3391"
+phone: +1 303-761-3249
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/sheridan/3391-w-hampden-ave-35604

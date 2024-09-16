@@ -1,11 +1,11 @@
 id: 497201613
-type: way
+type: node
 latitude: 39.09164
 longitude: -108.58573
 postcode: "81505"
 city: Grand Junction
-street: "Northgate Drive"
-housenumber: 598
+street: Northgate Drive
+housenumber: "598"
 phone: ""
 opening_hours: ""
 website: ""

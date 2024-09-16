@@ -1,11 +1,11 @@
 id: 497023281
-type: way
+type: node
 latitude: 39.07097
 longitude: -108.52679
 postcode: "81501"
 city: Grand Junction
-street: "I 70 Business Loop"
-housenumber: 2844
-phone: "+1-970-243-2720"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.ferrellgas.com/locations/detail/grand-junction-co/204090/"
+street: I 70 Business Loop
+housenumber: "2844"
+phone: +1-970-243-2720
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.ferrellgas.com/locations/detail/grand-junction-co/204090/

@@ -1,11 +1,11 @@
 id: 432472363
-type: way
+type: node
 latitude: 39.79866
 longitude: -104.9062
 postcode: "80022"
 city: Commerce City
-street: "East 56th Avenue"
-housenumber: 7081
+street: East 56th Avenue
+housenumber: "7081"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 61602936
-type: way
+type: node
 latitude: 39.96192
 longitude: -105.17019
 postcode: "80027"
 city: Louisville
-street: "West Dillon Road"
-housenumber: 1200
-phone: "+1 303-661-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/louisville/co/louisville/80027/1506"
+street: West Dillon Road
+housenumber: "1200"
+phone: +1 303-661-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/louisville/co/louisville/80027/1506

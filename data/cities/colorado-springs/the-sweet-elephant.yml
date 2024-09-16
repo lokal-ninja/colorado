@@ -1,11 +1,11 @@
 id: 205260331
-type: way
+type: node
 latitude: 38.84148
 longitude: -104.76609
 postcode: "80909"
 city: Colorado Springs
-street: "North Chelton Road"
-housenumber: 565
+street: North Chelton Road
+housenumber: "565"
 phone: ""
 opening_hours: ""
 website: ""

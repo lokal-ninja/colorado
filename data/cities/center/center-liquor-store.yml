@@ -1,11 +1,11 @@
 id: 786041532
-type: way
+type: node
 latitude: 37.75409
 longitude: -106.10805
 postcode: "81125"
 city: Center
-street: "South Worth Street"
-housenumber: 236
-phone: "+1-719-754-2765"
+street: South Worth Street
+housenumber: "236"
+phone: +1-719-754-2765
 opening_hours: ""
 website: ""

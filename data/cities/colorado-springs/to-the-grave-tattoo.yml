@@ -1,11 +1,11 @@
 id: 307102371
-type: way
+type: node
 latitude: 38.83642
 longitude: -104.8245
 postcode: "80903"
 city: Colorado Springs
-street: "East Bijou Street"
-housenumber: 9
-phone: "+1-719-632-2424"
+street: East Bijou Street
+housenumber: "9"
+phone: +1-719-632-2424
 opening_hours: ""
-website: "http://www.to-the-grave-tattoo.com/"
+website: http://www.to-the-grave-tattoo.com/

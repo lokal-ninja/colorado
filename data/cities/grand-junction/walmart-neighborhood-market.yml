@@ -1,11 +1,11 @@
 id: 510870049
-type: way
+type: node
 latitude: 39.08317
 longitude: -108.47456
 postcode: "81504"
 city: Grand Junction
-street: "Warrior Way"
-housenumber: 541
-phone: "+1-970-208-0042"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/4491-grand-junction-co"
+street: Warrior Way
+housenumber: "541"
+phone: +1-970-208-0042
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/4491-grand-junction-co

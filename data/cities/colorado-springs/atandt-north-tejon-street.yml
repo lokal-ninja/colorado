@@ -1,11 +1,11 @@
 id: 306643244
-type: way
+type: node
 latitude: 38.83694
 longitude: -104.82365
 postcode: "80903"
 city: Colorado Springs
-street: "North Tejon Street"
-housenumber: 202
-phone: "+1-719-219-3087"
+street: North Tejon Street
+housenumber: "202"
+phone: +1-719-219-3087
 opening_hours: ""
-website: "https://www.att.com/"
+website: https://www.att.com/

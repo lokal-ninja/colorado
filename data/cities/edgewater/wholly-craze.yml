@@ -1,11 +1,11 @@
 id: 1289236320
-type: way
+type: node
 latitude: 39.74919
 longitude: -105.05734
 postcode: "80214"
 city: Edgewater
-street: "West 20th Avenue"
-housenumber: 5505
-phone: "+1-720-473-3377"
+street: West 20th Avenue
+housenumber: "5505"
+phone: +1-720-473-3377
 opening_hours: ""
-website: "https://whollycraze.com/"
+website: https://whollycraze.com/

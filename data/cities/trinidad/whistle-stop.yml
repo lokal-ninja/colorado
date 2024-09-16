@@ -1,11 +1,11 @@
 id: 782892844
-type: way
+type: node
 latitude: 37.17035
 longitude: -104.51055
 postcode: "81082"
 city: Trinidad
-street: "Nevada Avenue"
-housenumber: 313
+street: Nevada Avenue
+housenumber: "313"
 phone: ""
 opening_hours: ""
 website: ""

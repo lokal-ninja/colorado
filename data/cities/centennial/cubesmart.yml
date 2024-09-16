@@ -1,11 +1,11 @@
 id: 491976912
-type: way
+type: node
 latitude: 39.58952
 longitude: -104.86297
 postcode: "80112"
 city: Centennial
-street: "South Kenton Street"
-housenumber: 7059
+street: South Kenton Street
+housenumber: "7059"
 phone: ""
 opening_hours: ""
 website: ""

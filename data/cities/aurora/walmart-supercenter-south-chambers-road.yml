@@ -1,11 +1,11 @@
 id: 365353326
-type: way
+type: node
 latitude: 39.61475
 longitude: -104.81202
 postcode: "80015"
 city: Aurora
-street: "South Chambers Road"
-housenumber: 5650
-phone: "+1 303-690-6322"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1689/aurora-co/whats-new"
+street: South Chambers Road
+housenumber: "5650"
+phone: +1 303-690-6322
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1689/aurora-co/whats-new

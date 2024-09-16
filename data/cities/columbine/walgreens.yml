@@ -1,11 +1,11 @@
 id: 256657914
-type: way
+type: node
 latitude: 39.59599
 longitude: -105.07224
 postcode: "80123"
 city: Columbine
-street: "West Coal Mine Avenue"
-housenumber: 6789
+street: West Coal Mine Avenue
+housenumber: "6789"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-6789+w+coal+mine+ave-littleton-co-80123/id=6284"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walgreens.com/locator/walgreens-6789+w+coal+mine+ave-littleton-co-80123/id=6284

@@ -1,11 +1,11 @@
 id: 625612399
-type: way
+type: node
 latitude: 39.08276
 longitude: -108.58475
 postcode: "81505"
 city: Grand Junction
-street: "Bogart Lane"
-housenumber: 533
+street: Bogart Lane
+housenumber: "533"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:00; Fr-Su off"
+opening_hours: Mo-Th 07:00-16:00; Fr-Su off
 website: ""

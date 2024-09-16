@@ -1,11 +1,11 @@
 id: 388931784
-type: way
+type: node
 latitude: 40.08055
 longitude: -104.98221
 postcode: "80516"
 city: Frederick
-street: "Monarch Street"
-housenumber: 3761
+street: Monarch Street
+housenumber: "3761"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-17:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-17:00; Su 10:00-16:00
 website: ""

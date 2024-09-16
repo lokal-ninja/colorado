@@ -1,11 +1,11 @@
 id: 260052625
-type: way
+type: node
 latitude: 39.83161
 longitude: -104.90986
 postcode: "80022"
 city: Commerce City
-street: "State Highway 2"
-housenumber: 7400
-phone: "+1 303 847 0998"
+street: State Highway 2
+housenumber: "7400"
+phone: +1 303 847 0998
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/co/commerce-city/13763"
+website: https://www.dollargeneral.com/store-directory/co/commerce-city/13763

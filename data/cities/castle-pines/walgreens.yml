@@ -1,11 +1,11 @@
 id: 200237470
-type: way
+type: node
 latitude: 39.47042
 longitude: -104.88268
 postcode: "80108"
 city: Castle Pines
-street: "Lagae Road"
-housenumber: 7370
+street: Lagae Road
+housenumber: "7370"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7370+lagae+rd-castle+pines-co-80108/id=7837"
+website: https://www.walgreens.com/locator/walgreens-7370+lagae+rd-castle+pines-co-80108/id=7837

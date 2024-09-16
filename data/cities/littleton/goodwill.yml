@@ -1,11 +1,11 @@
 id: 696796208
-type: way
+type: node
 latitude: 39.62387
 longitude: -105.12773
 postcode: "80127"
 city: Littleton
-street: "West Hialeah Place"
-housenumber: 11561
-phone: "+1 303 904 6804"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-19:00"
-website: "https://www.goodwilldenver.org"
+street: West Hialeah Place
+housenumber: "11561"
+phone: +1 303 904 6804
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-19:00
+website: https://www.goodwilldenver.org

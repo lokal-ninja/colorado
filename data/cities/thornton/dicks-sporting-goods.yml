@@ -1,11 +1,11 @@
 id: 88175733
-type: way
+type: node
 latitude: 39.99641
 longitude: -104.98197
 postcode: "80023"
 city: Thornton
-street: "Washington Street"
-housenumber: 16521
-phone: "+1 303-280-6153"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/co/thornton/254/"
+street: Washington Street
+housenumber: "16521"
+phone: +1 303-280-6153
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/co/thornton/254/

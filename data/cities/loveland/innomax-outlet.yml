@@ -4,8 +4,8 @@ latitude: 40.40894
 longitude: -104.99678
 postcode: "80538"
 city: Loveland
-street: "McWhinney Boulevard"
-housenumber: 5668
+street: McWhinney Boulevard
+housenumber: "5668"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.innomax.com/location-hours/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.innomax.com/location-hours/

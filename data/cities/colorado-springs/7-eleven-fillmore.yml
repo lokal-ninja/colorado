@@ -1,11 +1,11 @@
 id: 192890082
-type: way
+type: node
 latitude: 38.87427
 longitude: -104.80392
-postcode: "80907-6451"
+postcode: 80907-6451
 city: Colorado Springs
-street: "FILLMORE"
-housenumber: 1240
-phone: "+1 719-635-0219"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/colorado-springs/1240-fillmore-22233"
+street: FILLMORE
+housenumber: "1240"
+phone: +1 719-635-0219
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/colorado-springs/1240-fillmore-22233

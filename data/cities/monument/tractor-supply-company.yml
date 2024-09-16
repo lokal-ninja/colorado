@@ -1,11 +1,11 @@
 id: 521933193
-type: way
+type: node
 latitude: 39.06592
 longitude: -104.848
 postcode: "80132"
 city: Monument
-street: "Leather Chaps Drive"
-housenumber: 16760
-phone: "+1 719-488-8844"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Leather Chaps Drive
+housenumber: "16760"
+phone: +1 719-488-8844
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

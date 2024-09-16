@@ -1,11 +1,11 @@
 id: 398292712
-type: way
+type: node
 latitude: 37.65148
 longitude: -105.87066
 postcode: "81146"
 city: Mosca
-street: "State Highway 17"
-housenumber: 5305
+street: State Highway 17
+housenumber: "5305"
 phone: ""
 opening_hours: ""
-website: "https://www.moscapitstop.com/"
+website: https://www.moscapitstop.com/

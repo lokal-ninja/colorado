@@ -1,11 +1,11 @@
 id: 814330206
-type: way
+type: node
 latitude: 40.07916
 longitude: -104.80292
 postcode: "80621"
 city: Fort Lupton
-street: "Dexter Street"
-housenumber: 1300
-phone: "+1 303-857-0136"
+street: Dexter Street
+housenumber: "1300"
+phone: +1 303-857-0136
 opening_hours: ""
-website: "https://local.safeway.com/safeway/co/fort-lupton/1300-dexter-st.html"
+website: https://local.safeway.com/safeway/co/fort-lupton/1300-dexter-st.html

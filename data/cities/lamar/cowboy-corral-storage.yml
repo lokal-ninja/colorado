@@ -1,11 +1,11 @@
 id: 801841822
-type: way
+type: node
 latitude: 38.09073
 longitude: -102.61793
 postcode: "81052"
 city: Lamar
-street: "North 4th Street"
-housenumber: 102
+street: North 4th Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

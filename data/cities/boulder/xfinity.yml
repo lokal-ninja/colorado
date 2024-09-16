@@ -4,8 +4,8 @@ latitude: 39.99987
 longitude: -105.25586
 postcode: "80303"
 city: Boulder
-street: "Baseline Road"
-housenumber: 2900
-phone: "+1-303-930-2000"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-17:00"
-website: "http://www.comcast.com"
+street: Baseline Road
+housenumber: "2900"
+phone: +1-303-930-2000
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-17:00
+website: http://www.comcast.com

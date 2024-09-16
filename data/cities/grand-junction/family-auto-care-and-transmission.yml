@@ -1,11 +1,11 @@
 id: 497022366
-type: way
+type: node
 latitude: 39.077
 longitude: -108.52073
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 2871
-phone: "+1-970-243-9934"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00; Sa-Su off"
-website: "https://www.gjfamilyautocare.com/"
+street: North Avenue
+housenumber: "2871"
+phone: +1-970-243-9934
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00; Sa-Su off
+website: https://www.gjfamilyautocare.com/

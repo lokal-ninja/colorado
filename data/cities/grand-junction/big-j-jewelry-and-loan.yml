@@ -1,11 +1,11 @@
 id: 421355279
-type: way
+type: node
 latitude: 39.06664
 longitude: -108.56039
 postcode: "81501"
 city: Grand Junction
-street: "South 7th Street"
-housenumber: 136
-phone: "+1 970 243 9332"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:00"
-website: "http://www.bigj.com/"
+street: South 7th Street
+housenumber: "136"
+phone: +1 970 243 9332
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00
+website: http://www.bigj.com/

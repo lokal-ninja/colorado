@@ -1,11 +1,11 @@
 id: 48209194
-type: way
+type: node
 latitude: 39.8567
 longitude: -104.95856
 postcode: "80229"
 city: Thornton
-street: "East 88th Avenue"
-housenumber: 2301
-phone: "+1-303-286-1231"
-opening_hours: "24/7"
-website: "http://altaconvenience.com/Gas-Station-6105-Thornton-CO"
+street: East 88th Avenue
+housenumber: "2301"
+phone: +1-303-286-1231
+opening_hours: 24/7
+website: http://altaconvenience.com/Gas-Station-6105-Thornton-CO

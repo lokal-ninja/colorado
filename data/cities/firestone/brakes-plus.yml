@@ -4,8 +4,8 @@ latitude: 40.1601
 longitude: -104.96914
 postcode: "80504"
 city: Firestone
-street: "City Centre Road"
-housenumber: 4555
-phone: "+1-720-892-5960"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: City Centre Road
+housenumber: "4555"
+phone: +1-720-892-5960
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.brakesplus.com

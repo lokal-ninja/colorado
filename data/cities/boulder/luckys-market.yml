@@ -1,11 +1,11 @@
 id: 396615691
-type: way
+type: node
 latitude: 40.0475
 longitude: -105.28127
 postcode: "80304"
 city: Boulder
-street: "Broadway"
-housenumber: 3960
-phone: "(303) 444-0215"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.luckysmarket.com/boulder"
+street: Broadway
+housenumber: "3960"
+phone: (303) 444-0215
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.luckysmarket.com/boulder

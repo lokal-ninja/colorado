@@ -4,8 +4,8 @@ latitude: 39.66908
 longitude: -104.94002
 postcode: "80222"
 city: Denver
-street: "South Colorado Boulevard"
-housenumber: 2594
-phone: "+1-303-756-5500"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-16:00, Su closed"
+street: South Colorado Boulevard
+housenumber: "2594"
+phone: +1-303-756-5500
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-16:00, Su closed
 website: ""

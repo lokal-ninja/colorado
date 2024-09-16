@@ -4,8 +4,8 @@ latitude: 39.76559
 longitude: -105.14024
 postcode: "80033"
 city: Wheat Ridge
-street: "Youngfield Street"
-housenumber: 3600
-phone: "+1 720-699-9451"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/wheat-ridge-co-1267"
+street: Youngfield Street
+housenumber: "3600"
+phone: +1 720-699-9451
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/wheat-ridge-co-1267

@@ -1,11 +1,11 @@
 id: 499816958
-type: way
+type: node
 latitude: 37.96135
 longitude: -104.79432
 postcode: "81004"
 city: Colorado City
-street: "Abbey Road"
-housenumber: 8950
+street: Abbey Road
+housenumber: "8950"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

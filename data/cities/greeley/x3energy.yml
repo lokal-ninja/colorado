@@ -1,11 +1,11 @@
 id: 529566181
-type: way
+type: node
 latitude: 40.40011
 longitude: -104.86711
 postcode: ""
 city: Greeley
-street: "24th Street"
-housenumber: 11701
+street: 24th Street
+housenumber: "11701"
 phone: ""
 opening_hours: ""
 website: ""

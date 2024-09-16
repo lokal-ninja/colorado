@@ -1,11 +1,11 @@
 id: 53144194
-type: way
+type: node
 latitude: 39.9148
 longitude: -104.9792
 postcode: "80233"
 city: Thornton
-street: "East 120th Avenue"
-housenumber: 651
-phone: "+1-303-502-9134"
+street: East 120th Avenue
+housenumber: "651"
+phone: +1-303-502-9134
 opening_hours: ""
-website: "https://www.meineke.com/locations/co/thornton-4226/"
+website: https://www.meineke.com/locations/co/thornton-4226/

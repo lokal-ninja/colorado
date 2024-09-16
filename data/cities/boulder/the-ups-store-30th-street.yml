@@ -1,11 +1,11 @@
 id: 207270157
-type: way
+type: node
 latitude: 40.01519
 longitude: -105.25325
 postcode: "80301"
 city: Boulder
-street: "30th Street"
-housenumber: 1630
+street: 30th Street
+housenumber: "1630"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 10:00-16:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 10:00-16:00
 website: ""

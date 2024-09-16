@@ -1,11 +1,11 @@
 id: 801774915
-type: way
+type: node
 latitude: 40.98686
 longitude: -102.26284
 postcode: "80737"
 city: Julesburg
-street: "Cedar Street"
-housenumber: 111
+street: Cedar Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

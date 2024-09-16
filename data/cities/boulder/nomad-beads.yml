@@ -4,8 +4,8 @@ latitude: 40.01618
 longitude: -105.28379
 postcode: "80302"
 city: Boulder
-street: "9th Street"
-housenumber: 1909
+street: 9th Street
+housenumber: "1909"
 phone: ""
 opening_hours: ""
-website: "https://www.nomadbeads.com/"
+website: https://www.nomadbeads.com/

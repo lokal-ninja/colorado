@@ -1,11 +1,11 @@
 id: 822923336
-type: way
+type: node
 latitude: 39.60787
 longitude: -104.9878
 postcode: "80121"
 city: Littleton
-street: "South Broadway"
-housenumber: 6040
+street: South Broadway
+housenumber: "6040"
 phone: ""
 opening_hours: ""
-website: "https://www.mcdonaldvolvocars.com/"
+website: https://www.mcdonaldvolvocars.com/

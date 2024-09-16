@@ -1,11 +1,11 @@
 id: 496707161
-type: way
+type: node
 latitude: 39.04209
 longitude: -108.55036
 postcode: "81503"
 city: Grand Junction
-street: "Highway 50"
-housenumber: 2707
+street: Highway 50
+housenumber: "2707"
 phone: ""
 opening_hours: ""
 website: ""

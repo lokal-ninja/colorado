@@ -1,11 +1,11 @@
 id: 311866187
-type: way
+type: node
 latitude: 38.8259
 longitude: -104.82369
 postcode: "80903"
 city: Colorado Springs
-street: "South Tejon Street"
-housenumber: 527
+street: South Tejon Street
+housenumber: "527"
 phone: ""
 opening_hours: ""
 website: ""

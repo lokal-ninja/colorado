@@ -1,11 +1,11 @@
 id: 1004279775
-type: way
+type: node
 latitude: 39.74781
 longitude: -104.8512
 postcode: "80010"
 city: Aurora
-street: "Montview Boulevard"
-housenumber: 11701
+street: Montview Boulevard
+housenumber: "11701"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 206054560
-type: way
+type: node
 latitude: 38.82853
 longitude: -104.81939
 postcode: "80903"
 city: Colorado Springs
-street: "South Weber Street"
-housenumber: 327
-phone: "+1-719-748-1799"
+street: South Weber Street
+housenumber: "327"
+phone: +1-719-748-1799
 opening_hours: ""
-website: "https://apexsportsinc.com/"
+website: https://apexsportsinc.com/

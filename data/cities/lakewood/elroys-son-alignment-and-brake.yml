@@ -1,11 +1,11 @@
 id: 920614574
-type: way
+type: node
 latitude: 39.73977
 longitude: -105.05647
 postcode: "80214"
 city: Lakewood
-street: "Chase Street"
-housenumber: 1470
+street: Chase Street
+housenumber: "1470"
 phone: ""
 opening_hours: ""
 website: ""

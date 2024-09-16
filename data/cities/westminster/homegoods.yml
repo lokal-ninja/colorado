@@ -4,8 +4,8 @@ latitude: 39.889
 longitude: -105.07569
 postcode: "80021"
 city: Westminster
-street: "Town Center Drive"
-housenumber: 10456
-phone: "+1 303-466-7324"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.homegoods.com/"
+street: Town Center Drive
+housenumber: "10456"
+phone: +1 303-466-7324
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.homegoods.com/

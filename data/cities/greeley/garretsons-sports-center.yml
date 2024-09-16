@@ -1,11 +1,11 @@
 id: 547793191
-type: way
+type: node
 latitude: 40.42326
 longitude: -104.74231
-postcode: "80634-9998"
+postcode: 80634-9998
 city: Greeley
-street: "West 10th Street"
-housenumber: 3817
+street: West 10th Street
+housenumber: "3817"
 phone: "+9703538068"
 opening_hours: ""
-website: "https://garretson-sports.com/"
+website: https://garretson-sports.com/

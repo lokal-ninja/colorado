@@ -1,11 +1,11 @@
 id: 187756866
-type: way
+type: node
 latitude: 38.84124
 longitude: -104.86508
 postcode: "80904"
 city: Colorado Springs
-street: "Bott Avenue"
-housenumber: 2321
-phone: "+1-719-634-6313"
+street: Bott Avenue
+housenumber: "2321"
+phone: +1-719-634-6313
 opening_hours: ""
-website: "https://www.wimbergers.com/"
+website: https://www.wimbergers.com/

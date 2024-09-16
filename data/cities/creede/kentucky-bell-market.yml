@@ -1,11 +1,12 @@
 id: 555838541
-type: way
+type: node
 latitude: 37.85157
 longitude: -106.92746
 postcode: "81130"
 city: Creede
-street: "West 2nd Street"
-housenumber: 103
+street: West 2nd Street
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00 open summer hours, Su 10:00-16:00 open summer hours; Nov-Feb Mo-Sa 08:00-18:00 open winter hours; Nov-Feb Su closed"
+opening_hours: Mo-Sa 08:00-18:00 open "summer hours", Su 10:00-16:00 open "summer
+    hours"; Nov-Feb Mo-Sa 08:00-18:00 open "winter hours"; Nov-Feb Su closed
 website: ""

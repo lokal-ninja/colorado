@@ -1,11 +1,11 @@
 id: 203936456
-type: way
+type: node
 latitude: 39.69899
 longitude: -105.33038
 postcode: "80401"
 city: Evergreen
-street: "Swede Gulch Road"
-housenumber: 903
-phone: "+1-303-526-3814"
-opening_hours: "24/7"
-website: "https://www.phillips66gas.com/station/P66-TWIN-STAR-ENERGY-LLC-2700546-0000876968"
+street: Swede Gulch Road
+housenumber: "903"
+phone: +1-303-526-3814
+opening_hours: 24/7
+website: https://www.phillips66gas.com/station/P66-TWIN-STAR-ENERGY-LLC-2700546-0000876968

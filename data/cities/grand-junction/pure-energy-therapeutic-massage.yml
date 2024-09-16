@@ -4,8 +4,8 @@ latitude: 39.07657
 longitude: -108.55716
 postcode: "81501"
 city: Grand Junction
-street: "North 9th Street"
-housenumber: 1000
-phone: "+1-970-208-5722"
-opening_hours: "by appointment"
-website: "https://pure-energy-100873.square.site/"
+street: North 9th Street
+housenumber: "1000"
+phone: +1-970-208-5722
+opening_hours: '"by appointment"'
+website: https://pure-energy-100873.square.site/

@@ -4,8 +4,8 @@ latitude: 39.75162
 longitude: -105.0027
 postcode: "80202"
 city: Denver
-street: "15th Street"
-housenumber: 1799
+street: 15th Street
+housenumber: "1799"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

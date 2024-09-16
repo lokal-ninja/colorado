@@ -1,11 +1,11 @@
 id: 431345765
-type: way
+type: node
 latitude: 40.57501
 longitude: -105.0024
 postcode: "80524"
 city: Fort Collins
-street: "Smithfield Drive"
-housenumber: 1036
+street: Smithfield Drive
+housenumber: "1036"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

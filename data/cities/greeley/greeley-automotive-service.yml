@@ -1,11 +1,11 @@
 id: 1020407308
-type: way
+type: node
 latitude: 40.42333
 longitude: -104.73258
 postcode: "80634"
 city: Greeley
-street: "West 10th Street"
-housenumber: 3275
+street: West 10th Street
+housenumber: "3275"
 phone: "+9703021600"
 opening_hours: ""
-website: "https://greeleyautomotiveservice.com/"
+website: https://greeleyautomotiveservice.com/

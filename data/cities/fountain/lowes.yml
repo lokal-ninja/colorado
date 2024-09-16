@@ -1,11 +1,11 @@
 id: 207871569
-type: way
+type: node
 latitude: 38.72103
 longitude: -104.70276
 postcode: "80817"
 city: Fountain
-street: "Fountain Mesa Road"
-housenumber: 7710
-phone: "+1 719-799-2613"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/CO-Fountain/2607"
+street: Fountain Mesa Road
+housenumber: "7710"
+phone: +1 719-799-2613
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/CO-Fountain/2607

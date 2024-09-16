@@ -1,11 +1,11 @@
 id: 105821875
-type: way
+type: node
 latitude: 39.55187
 longitude: -107.32941
 postcode: "81601"
 city: Glenwood Springs
-street: "West 6th Street"
-housenumber: 152
+street: West 6th Street
+housenumber: "152"
 phone: ""
 opening_hours: ""
-website: "https://canyonbikes.com/"
+website: https://canyonbikes.com/

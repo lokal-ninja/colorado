@@ -1,11 +1,11 @@
 id: 223616275
-type: way
+type: node
 latitude: 39.48022
 longitude: -104.76107
 postcode: "80134"
 city: Parker
-street: "South Parker Road"
-housenumber: 12959
-phone: "+1-303-840-1223"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kingsoopers.com/stores/grocery/co/parker/parker/620/00075?cid=loc_62000075_gmb"
+street: South Parker Road
+housenumber: "12959"
+phone: +1-303-840-1223
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kingsoopers.com/stores/grocery/co/parker/parker/620/00075?cid=loc_62000075_gmb

@@ -1,11 +1,11 @@
 id: 497022343
-type: way
+type: node
 latitude: 39.07354
 longitude: -108.5158
 postcode: "81501"
 city: Grand Junction
-street: "I 70 Business Loop"
-housenumber: 2898
-phone: "+1-970-242-0208"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://eedw.net/"
+street: I 70 Business Loop
+housenumber: "2898"
+phone: +1-970-242-0208
+opening_hours: Mo-Fr 08:00-17:00
+website: https://eedw.net/

@@ -4,8 +4,8 @@ latitude: 39.66416
 longitude: -104.93943
 postcode: "80222"
 city: Denver
-street: "South Colorado Boulevard"
-housenumber: 2880
-phone: "+1 303-758-4400"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/co/denver/denver-colorado-blvd/"
+street: South Colorado Boulevard
+housenumber: "2880"
+phone: +1 303-758-4400
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/co/denver/denver-colorado-blvd/

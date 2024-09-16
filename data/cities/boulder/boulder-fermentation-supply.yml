@@ -4,8 +4,8 @@ latitude: 40.02611
 longitude: -105.24368
 postcode: "80301"
 city: Boulder
-street: "47th Street"
-housenumber: 2510
+street: 47th Street
+housenumber: "2510"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa-Su 10:00-18:00"
-website: "https://www.boulderfermentationsupply.com/"
+opening_hours: Mo-Fr 11:00-19:00; Sa-Su 10:00-18:00
+website: https://www.boulderfermentationsupply.com/

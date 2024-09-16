@@ -1,11 +1,11 @@
 id: 439892311
-type: way
+type: node
 latitude: 38.2987
 longitude: -104.60756
 postcode: "81008"
 city: Pueblo
-street: "West 29th Street"
-housenumber: 101
-phone: "+1-719-542-2411"
-opening_hours: "Mo,Tu,Th-Sa 08:30-21:06; We 08:00-21:06; Su 09:00-19:35"
-website: "https://www.naturalgrocers.com/store/pueblo"
+street: West 29th Street
+housenumber: "101"
+phone: +1-719-542-2411
+opening_hours: Mo,Tu,Th-Sa 08:30-21:06; We 08:00-21:06; Su 09:00-19:35
+website: https://www.naturalgrocers.com/store/pueblo

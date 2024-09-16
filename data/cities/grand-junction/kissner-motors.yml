@@ -1,11 +1,11 @@
 id: 497199196
-type: way
+type: node
 latitude: 39.07877
 longitude: -108.57552
 postcode: "81505"
 city: Grand Junction
-street: "US Highway 6 and 50"
-housenumber: 2584
-phone: "+1-970-628-1155"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-18:00; Su off"
-website: "https://www.kissnermotors.com/"
+street: US Highway 6 and 50
+housenumber: "2584"
+phone: +1-970-628-1155
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-18:00; Su off
+website: https://www.kissnermotors.com/

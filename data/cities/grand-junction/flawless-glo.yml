@@ -4,8 +4,8 @@ latitude: 39.07108
 longitude: -108.57274
 postcode: "81501"
 city: Grand Junction
-street: "West Grand Avenue"
-housenumber: 200
-phone: "+1-970-644-5800"
-opening_hours: "Mo-Tu,Th-Sa 09:00-15:00 || by appointment; Su off"
-website: "https://flawlessglogj.com/"
+street: West Grand Avenue
+housenumber: "200"
+phone: +1-970-644-5800
+opening_hours: Mo-Tu,Th-Sa 09:00-15:00 || "by appointment"; Su off
+website: https://flawlessglogj.com/

@@ -1,11 +1,11 @@
 id: 1108451295
-type: way
+type: node
 latitude: 39.57185
 longitude: -105.05545
 postcode: "80128"
 city: Littleton
-street: "South Platte Canyon Road"
-housenumber: 8056
-phone: "303-948-4807"
-opening_hours: "Tu-Fr 9:00-16:00"
-website: "https://www.chatfieldrvstorage.com/"
+street: South Platte Canyon Road
+housenumber: "8056"
+phone: 303-948-4807
+opening_hours: Tu-Fr 9:00-16:00
+website: https://www.chatfieldrvstorage.com/

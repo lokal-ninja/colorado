@@ -1,11 +1,11 @@
 id: 801828829
-type: way
+type: node
 latitude: 38.09395
 longitude: -102.62029
 postcode: "81052"
 city: Lamar
-street: "Main Street"
-housenumber: 421
+street: Main Street
+housenumber: "421"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/co/lamar/autoparts-2906.html"
+website: https://locations.oreillyauto.com/co/lamar/autoparts-2906.html

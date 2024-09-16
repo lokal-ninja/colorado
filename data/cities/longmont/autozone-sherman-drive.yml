@@ -1,11 +1,11 @@
 id: 985009547
-type: way
+type: node
 latitude: 40.15292
 longitude: -105.11602
 postcode: "80501"
 city: Longmont
-street: "Sherman Drive"
-housenumber: 1375
-phone: "+1 303 845 1016"
+street: Sherman Drive
+housenumber: "1375"
+phone: +1 303 845 1016
 opening_hours: ""
-website: "https://www.autozone.com/locations/co/longmont/1375-sherman-dr.html"
+website: https://www.autozone.com/locations/co/longmont/1375-sherman-dr.html

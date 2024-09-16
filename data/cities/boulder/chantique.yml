@@ -4,8 +4,8 @@ latitude: 40.01833
 longitude: -105.28141
 postcode: "80302"
 city: Boulder
-street: "11th Street"
-housenumber: 2020
+street: 11th Street
+housenumber: "2020"
 phone: ""
-opening_hours: "Mo-Sa 12:00-18:00"
-website: "https://www.chantiqueboulder.com"
+opening_hours: Mo-Sa 12:00-18:00
+website: https://www.chantiqueboulder.com

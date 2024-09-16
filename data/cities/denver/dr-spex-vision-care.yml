@@ -4,8 +4,8 @@ latitude: 39.66723
 longitude: -104.91556
 postcode: "80222"
 city: Denver
-street: "East Yale Avenue"
-housenumber: 6460
-phone: "+1-720-316-7739"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00, Su closed"
-website: "http://www.DrSpex.com"
+street: East Yale Avenue
+housenumber: "6460"
+phone: +1-720-316-7739
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-14:00, Su closed
+website: http://www.DrSpex.com

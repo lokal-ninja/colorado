@@ -1,11 +1,11 @@
 id: 1109750176
-type: way
+type: node
 latitude: 39.80825
 longitude: -105.00342
 postcode: "80221"
 city: Denver
-street: "West 62nd Avenue"
-housenumber: 1300
-phone: "303-301-7520"
-opening_hours: "Mo-Fr 06:00-19:00, Sat 08:00-17:00, Sun 08:00-16:00"
+street: West 62nd Avenue
+housenumber: "1300"
+phone: 303-301-7520
+opening_hours: Mo-Fr 06:00-19:00, Sat 08:00-17:00, Sun 08:00-16:00
 website: ""

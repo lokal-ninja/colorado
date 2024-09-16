@@ -1,11 +1,11 @@
 id: 192013158
-type: way
+type: node
 latitude: 39.67637
 longitude: -104.87319
 postcode: "80231"
 city: Denver
-street: "South Parker Road"
-housenumber: 2201
-phone: "+1-303-751-9310"
-opening_hours: "Mo-Sa 08:30-17:00"
-website: "http://www.denverwindowtint.com"
+street: South Parker Road
+housenumber: "2201"
+phone: +1-303-751-9310
+opening_hours: Mo-Sa 08:30-17:00
+website: http://www.denverwindowtint.com

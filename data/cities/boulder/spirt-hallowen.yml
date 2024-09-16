@@ -4,8 +4,8 @@ latitude: 40.01349
 longitude: -105.26096
 postcode: "80302"
 city: Boulder
-street: "Arapahoe Avenue"
-housenumber: 2530
+street: Arapahoe Avenue
+housenumber: "2530"
 phone: ""
-opening_hours: "seasonal(Fall)"
+opening_hours: seasonal(Fall)
 website: ""

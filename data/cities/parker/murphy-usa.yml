@@ -1,11 +1,11 @@
 id: 1220002397
-type: way
+type: node
 latitude: 39.54293
 longitude: -104.77199
 postcode: "80134"
 city: Parker
-street: "South Twenty Mile Road"
-housenumber: 9560
-phone: "+1-720-741-2607"
+street: South Twenty Mile Road
+housenumber: "9560"
+phone: +1-720-741-2607
 opening_hours: ""
-website: "https://www.murphyusa.com/"
+website: https://www.murphyusa.com/

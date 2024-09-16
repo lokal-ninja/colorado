@@ -1,11 +1,11 @@
 id: 196820171
-type: way
+type: node
 latitude: 38.86026
 longitude: -104.75663
 postcode: "80909"
 city: Colorado Springs
-street: "North Academy Boulevard"
-housenumber: 1901
-phone: "+1 719-596-4674"
+street: North Academy Boulevard
+housenumber: "1901"
+phone: +1 719-596-4674
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/co/colorado-springs/1901-n-academy-blvd-39543"
+website: https://www.7-eleven.com/locations/co/colorado-springs/1901-n-academy-blvd-39543

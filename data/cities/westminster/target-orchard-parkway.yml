@@ -1,11 +1,11 @@
 id: 296716550
-type: way
+type: node
 latitude: 39.95975
 longitude: -104.99622
 postcode: "80023"
 city: Westminster
-street: "Orchard Parkway"
-housenumber: 14451
-phone: "+1-303-209-0163"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.target.com/sl/westminster-orchard-parkway/2197"
+street: Orchard Parkway
+housenumber: "14451"
+phone: +1-303-209-0163
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.target.com/sl/westminster-orchard-parkway/2197

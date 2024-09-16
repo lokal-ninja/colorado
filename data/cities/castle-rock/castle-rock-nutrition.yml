@@ -1,11 +1,11 @@
 id: 706439552
-type: way
+type: node
 latitude: 39.3751
 longitude: -104.85833
 postcode: "80104"
 city: Castle Rock
-street: "North Perry Street"
-housenumber: 514
+street: North Perry Street
+housenumber: "514"
 phone: ""
 opening_hours: ""
 website: ""

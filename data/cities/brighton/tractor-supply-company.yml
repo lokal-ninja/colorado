@@ -1,11 +1,11 @@
 id: 818496176
-type: way
+type: node
 latitude: 39.99521
 longitude: -104.82159
 postcode: "80601"
 city: Brighton
-street: "Denver Street"
-housenumber: 147
-phone: "+1 303-659-6405"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com"
+street: Denver Street
+housenumber: "147"
+phone: +1 303-659-6405
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com

@@ -1,11 +1,11 @@
 id: 45760269
-type: way
+type: node
 latitude: 39.59808
 longitude: -104.88411
 postcode: "80111"
 city: Greenwood Village
-street: "East Peakview Avenue"
-housenumber: 9100
-phone: "+1 303-220-8737"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/co-greenwood-village/0311"
+street: East Peakview Avenue
+housenumber: "9100"
+phone: +1 303-220-8737
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/co-greenwood-village/0311

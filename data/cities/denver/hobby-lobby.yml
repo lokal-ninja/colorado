@@ -1,11 +1,11 @@
 id: 597160341
-type: way
+type: node
 latitude: 39.6997
 longitude: -104.91077
 postcode: ""
 city: Denver
-street: "South Monaco Parkway"
-housenumber: 920
-phone: "+1-303-321-3699"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: South Monaco Parkway
+housenumber: "920"
+phone: +1-303-321-3699
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

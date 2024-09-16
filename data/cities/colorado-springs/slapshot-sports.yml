@@ -1,11 +1,11 @@
 id: 306484347
-type: way
+type: node
 latitude: 38.83967
 longitude: -104.82266
 postcode: "80903"
 city: Colorado Springs
-street: "East Boulder Street"
-housenumber: 112
-phone: "+1-719-520-9547"
+street: East Boulder Street
+housenumber: "112"
+phone: +1-719-520-9547
 opening_hours: ""
 website: ""

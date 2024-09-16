@@ -1,11 +1,11 @@
 id: 417424167
-type: way
+type: node
 latitude: 38.82607
 longitude: -104.78103
 postcode: "80910"
 city: Colorado Springs
-street: "Airport Road"
-housenumber: 2588
+street: Airport Road
+housenumber: "2588"
 phone: ""
 opening_hours: ""
-website: "https://www.kumandgo.com/store-locator?details=0676"
+website: https://www.kumandgo.com/store-locator?details=0676

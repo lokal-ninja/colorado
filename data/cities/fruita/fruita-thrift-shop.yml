@@ -1,11 +1,11 @@
 id: 408754064
-type: way
+type: node
 latitude: 39.15812
 longitude: -108.73332
 postcode: ""
 city: Fruita
-street: "South Park Square"
-housenumber: 142
+street: South Park Square
+housenumber: "142"
 phone: ""
-opening_hours: "We 09:30-18:00; Th-Sa 09:30-16:30"
+opening_hours: We 09:30-18:00; Th-Sa 09:30-16:30
 website: ""

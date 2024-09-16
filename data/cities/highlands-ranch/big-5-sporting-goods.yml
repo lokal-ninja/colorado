@@ -1,11 +1,11 @@
 id: 484456289
-type: way
+type: node
 latitude: 39.55862
 longitude: -104.90727
 postcode: "80130"
 city: Highlands Ranch
-street: "South Quebec Street"
-housenumber: 8675
+street: South Quebec Street
+housenumber: "8675"
 phone: ""
 opening_hours: ""
 website: ""

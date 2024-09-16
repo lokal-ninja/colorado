@@ -1,11 +1,11 @@
 id: 73534000
-type: way
+type: node
 latitude: 38.87852
 longitude: -104.71823
 postcode: "80922"
 city: Colorado Springs
-street: "New Center Point"
-housenumber: 3150
-phone: "+1-719-597-9519"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://stores.bestbuy.com/co/colorado-springs/3150-new-center-point-212.html"
+street: New Center Point
+housenumber: "3150"
+phone: +1-719-597-9519
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
+website: https://stores.bestbuy.com/co/colorado-springs/3150-new-center-point-212.html

@@ -1,11 +1,11 @@
 id: 564800124
-type: way
+type: node
 latitude: 38.93991
 longitude: -104.72767
 postcode: "80923"
 city: Colorado Springs
-street: "Duryea Drive"
-housenumber: 7355
-phone: "+1 719 362-5924"
+street: Duryea Drive
+housenumber: "7355"
+phone: +1 719 362-5924
 opening_hours: ""
 website: ""

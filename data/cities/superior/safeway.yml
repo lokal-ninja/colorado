@@ -1,11 +1,11 @@
 id: 186582490
-type: way
+type: node
 latitude: 39.93043
 longitude: -105.14841
 postcode: "80027"
 city: Superior
-street: "Coalton Road"
-housenumber: 1601
-phone: "+1 303-543-1153"
+street: Coalton Road
+housenumber: "1601"
+phone: +1 303-543-1153
 opening_hours: ""
-website: "https://local.safeway.com/safeway/co/superior/1601-coalton-rd.html"
+website: https://local.safeway.com/safeway/co/superior/1601-coalton-rd.html

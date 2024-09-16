@@ -1,11 +1,11 @@
 id: 497201020
-type: way
+type: node
 latitude: 39.07867
 longitude: -108.58213
 postcode: "81505"
 city: Grand Junction
-street: "Ligrani Lane"
-housenumber: 519
-phone: "+1-970-241-9600"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off"
-website: "https://www.brakesplus.com/stores/grand-junction/co/0136/"
+street: Ligrani Lane
+housenumber: "519"
+phone: +1-970-241-9600
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
+website: https://www.brakesplus.com/stores/grand-junction/co/0136/

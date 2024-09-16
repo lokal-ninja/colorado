@@ -1,11 +1,11 @@
 id: 402280924
-type: way
+type: node
 latitude: 38.31994
 longitude: -104.74767
 postcode: "81007"
 city: Pueblo West
-street: "West Idaho Springs Drive"
-housenumber: 193
+street: West Idaho Springs Drive
+housenumber: "193"
 phone: ""
 opening_hours: ""
 website: ""

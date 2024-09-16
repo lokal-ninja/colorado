@@ -1,11 +1,11 @@
 id: 198404746
-type: way
+type: node
 latitude: 38.84037
 longitude: -104.74752
 postcode: "80915"
 city: Colorado Springs
-street: "North Murray Boulevard"
-housenumber: 515
-phone: "+1 719-824-2519"
-opening_hours: "Mo-Fr 05:00-21:00; Sa 06:00-21:00; Su 06:00-20:30"
-website: "https://www.starbucks.com/store-locator/store/1029052"
+street: North Murray Boulevard
+housenumber: "515"
+phone: +1 719-824-2519
+opening_hours: Mo-Fr 05:00-21:00; Sa 06:00-21:00; Su 06:00-20:30
+website: https://www.starbucks.com/store-locator/store/1029052

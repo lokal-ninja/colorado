@@ -1,11 +1,11 @@
 id: 144846705
-type: way
+type: node
 latitude: 39.91885
 longitude: -105.08946
 postcode: "80020"
 city: Broomfield
-street: "Nickel Street"
-housenumber: 137
-phone: "+1-720-756-2385"
-opening_hours: "mo-su 08:00-22:00"
+street: Nickel Street
+housenumber: "137"
+phone: +1-720-756-2385
+opening_hours: mo-su 08:00-22:00
 website: ""

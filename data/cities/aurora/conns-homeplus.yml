@@ -1,11 +1,11 @@
 id: 669181349
-type: way
+type: node
 latitude: 39.71541
 longitude: -104.82603
 postcode: "80012"
 city: Aurora
-street: "South Abilene Street"
-housenumber: 60
-phone: "+1-303-366-9609"
+street: South Abilene Street
+housenumber: "60"
+phone: +1-303-366-9609
 opening_hours: ""
 website: ""

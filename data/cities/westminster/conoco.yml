@@ -1,11 +1,11 @@
 id: 1063693367
-type: way
+type: node
 latitude: 39.8625
 longitude: -105.0637
 postcode: "80031"
 city: Westminster
-street: "Harlan Street"
-housenumber: 9175
-phone: "+1-303-429-8107"
+street: Harlan Street
+housenumber: "9175"
+phone: +1-303-429-8107
 opening_hours: ""
-website: "https://www.conoco.com/station/CON-ER-STORE-INC-0000870135"
+website: https://www.conoco.com/station/CON-ER-STORE-INC-0000870135

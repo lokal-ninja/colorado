@@ -1,11 +1,11 @@
 id: 330175593
-type: way
+type: node
 latitude: 40.39393
 longitude: -104.75198
 postcode: "80634"
 city: Greeley
-street: "Centerplace Drive"
-housenumber: 4520
-phone: "+1 970-506-1611"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 09:00-22:30; Su 09:30-22:00"
+street: Centerplace Drive
+housenumber: "4520"
+phone: +1 970-506-1611
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 09:00-22:30; Su 09:30-22:00
 website: ""

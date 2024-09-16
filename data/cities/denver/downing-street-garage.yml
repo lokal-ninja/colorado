@@ -1,11 +1,11 @@
 id: 664768410
-type: way
+type: node
 latitude: 39.72228
 longitude: -104.97346
 postcode: "80218"
 city: Denver
-street: "Downing Street"
-housenumber: 401
-phone: "+1 303-777-0142"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.downingstreetgarage.com/"
+street: Downing Street
+housenumber: "401"
+phone: +1 303-777-0142
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.downingstreetgarage.com/

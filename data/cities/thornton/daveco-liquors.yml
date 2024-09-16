@@ -1,11 +1,11 @@
 id: 255608461
-type: way
+type: node
 latitude: 39.99506
 longitude: -104.97164
 postcode: "80023"
 city: Thornton
-street: "Washington Street"
-housenumber: 16434
+street: Washington Street
+housenumber: "16434"
 phone: ""
 opening_hours: ""
 website: ""

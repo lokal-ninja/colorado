@@ -1,11 +1,11 @@
 id: 143804507
-type: way
+type: node
 latitude: 39.92282
 longitude: -105.09175
 postcode: "80020"
 city: Broomfield
-street: "Alter Street"
-housenumber: 450
+street: Alter Street
+housenumber: "450"
 phone: ""
 opening_hours: ""
 website: ""

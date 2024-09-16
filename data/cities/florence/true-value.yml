@@ -1,11 +1,11 @@
 id: 335163391
-type: way
+type: node
 latitude: 38.38702
 longitude: -105.10232
 postcode: "81226"
 city: Florence
-street: "East Main Street"
-housenumber: 950
-phone: "+1 719-784-1956"
+street: East Main Street
+housenumber: "950"
+phone: +1 719-784-1956
 opening_hours: ""
-website: "http://ww3.truevalue.com/florencetruevaluehardware/home.aspx"
+website: http://ww3.truevalue.com/florencetruevaluehardware/home.aspx

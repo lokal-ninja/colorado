@@ -1,11 +1,11 @@
 id: 425104370
-type: way
+type: node
 latitude: 39.51648
 longitude: -104.76208
 postcode: "80138"
 city: Parker
-street: "South Pikes Peak Drive"
-housenumber: 11028
+street: South Pikes Peak Drive
+housenumber: "11028"
 phone: ""
 opening_hours: ""
 website: ""

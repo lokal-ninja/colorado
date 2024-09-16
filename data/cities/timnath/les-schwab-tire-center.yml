@@ -1,11 +1,11 @@
 id: 551379232
-type: way
+type: node
 latitude: 40.52381
 longitude: -104.98766
 postcode: "80547"
 city: Timnath
-street: "Weitzel Street"
-housenumber: 4560
+street: Weitzel Street
+housenumber: "4560"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

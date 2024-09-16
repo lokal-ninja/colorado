@@ -1,11 +1,11 @@
 id: 387617196
-type: way
+type: node
 latitude: 38.44574
 longitude: -105.22867
 postcode: "81212"
 city: Cañon City
-street: "Main Street"
-housenumber: 1414
-phone: "+1 719-275-5221"
+street: Main Street
+housenumber: "1414"
+phone: +1 719-275-5221
 opening_hours: ""
-website: "https://local.safeway.com/safeway/co/canon-city/1414-main-st.html"
+website: https://local.safeway.com/safeway/co/canon-city/1414-main-st.html

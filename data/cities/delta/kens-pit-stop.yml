@@ -1,11 +1,11 @@
 id: 678893312
-type: way
+type: node
 latitude: 38.74866
 longitude: -108.07335
 postcode: "81416"
 city: Delta
-street: "Gunnison River Drive"
-housenumber: 188
+street: Gunnison River Drive
+housenumber: "188"
 phone: ""
 opening_hours: ""
 website: ""

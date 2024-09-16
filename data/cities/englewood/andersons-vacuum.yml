@@ -1,11 +1,11 @@
 id: 691320884
-type: way
+type: node
 latitude: 39.65436
 longitude: -104.98746
 postcode: "80113"
 city: Englewood
-street: "South Broadway"
-housenumber: 3424
+street: South Broadway
+housenumber: "3424"
 phone: ""
 opening_hours: ""
-website: "https://www.andersonsvacuum.com/"
+website: https://www.andersonsvacuum.com/

@@ -4,8 +4,8 @@ latitude: 39.71646
 longitude: -104.98731
 postcode: "80209"
 city: Denver
-street: "South Broadway"
-housenumber: 2
+street: South Broadway
+housenumber: "2"
 phone: ""
-opening_hours: "Su-Th 09:00-21:00, Fr-Sa 09:00-22:00"
-website: "https://mutinyinfocafe.com/"
+opening_hours: Su-Th 09:00-21:00, Fr-Sa 09:00-22:00
+website: https://mutinyinfocafe.com/

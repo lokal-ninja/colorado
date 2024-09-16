@@ -1,11 +1,11 @@
 id: 193057457
-type: way
+type: node
 latitude: 38.84064
 longitude: -104.77557
 postcode: "80909"
 city: Colorado Springs
-street: "North Circle Drive"
-housenumber: 555
-phone: "+1-719-434-1493"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://kikakush.com/"
+street: North Circle Drive
+housenumber: "555"
+phone: +1-719-434-1493
+opening_hours: Mo-Su 10:00-19:00
+website: https://kikakush.com/

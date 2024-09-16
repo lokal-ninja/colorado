@@ -4,8 +4,8 @@ latitude: 40.19741
 longitude: -105.10496
 postcode: "80501"
 city: Longmont
-street: "Main Street"
-housenumber: 2151
-phone: "+1 720-815-5045"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://local.biglots.com/co/longmont/2151-main-st"
+street: Main Street
+housenumber: "2151"
+phone: +1 720-815-5045
+opening_hours: Mo-Su 09:00-21:00
+website: https://local.biglots.com/co/longmont/2151-main-st

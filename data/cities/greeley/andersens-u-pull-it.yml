@@ -1,11 +1,11 @@
 id: 241194524
-type: way
+type: node
 latitude: 40.42328
 longitude: -104.65738
 postcode: "80631"
 city: Greeley
-street: "East 8th Street"
-housenumber: 1490
-phone: "+1-970-352-1300"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-15:30"
+street: East 8th Street
+housenumber: "1490"
+phone: +1-970-352-1300
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-15:30
 website: ""

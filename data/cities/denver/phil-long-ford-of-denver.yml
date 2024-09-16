@@ -1,11 +1,11 @@
 id: 560815155
-type: way
+type: node
 latitude: 39.63456
 longitude: -105.08506
 postcode: "80123"
 city: Denver
-street: "West Tufts Avenue"
-housenumber: 7887
+street: West Tufts Avenue
+housenumber: "7887"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 231254158
-type: way
+type: node
 latitude: 39.09366
 longitude: -108.60336
 postcode: "81505"
 city: Grand Junction
-street: "US Highway 6 and 50"
-housenumber: 2424
-phone: "+1 970-361-3017"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/co/grand-junction/1508/"
+street: US Highway 6 and 50
+housenumber: "2424"
+phone: +1 970-361-3017
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/co/grand-junction/1508/

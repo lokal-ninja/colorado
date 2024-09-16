@@ -4,8 +4,8 @@ latitude: 40.0185
 longitude: -105.27648
 postcode: "80302"
 city: Boulder
-street: "Pearl Street"
-housenumber: 1424
+street: Pearl Street
+housenumber: "1424"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00; Sa 10:00-20:00"
-website: "https://www.zuniboulder.com/"
+opening_hours: Mo-Su 10:00-19:00; Sa 10:00-20:00
+website: https://www.zuniboulder.com/

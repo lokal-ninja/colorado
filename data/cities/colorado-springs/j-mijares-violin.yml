@@ -1,11 +1,11 @@
 id: 312718974
-type: way
+type: node
 latitude: 38.8358
 longitude: -104.82302
 postcode: "80903"
 city: Colorado Springs
-street: "North Tejon Street"
-housenumber: 111
+street: North Tejon Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://www.mijaresviolins.com/"
+website: https://www.mijaresviolins.com/

@@ -1,11 +1,11 @@
 id: 1125066811
-type: way
+type: node
 latitude: 38.5247
 longitude: -106.01669
 postcode: "81201"
 city: Salida
-street: "US 50"
-housenumber: 7555
-phone: "+1 719 539 2337"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://salidachamber.org/cellar-wine-and-spirits/"
+street: US 50
+housenumber: "7555"
+phone: +1 719 539 2337
+opening_hours: Mo-Su 09:00-20:00
+website: https://salidachamber.org/cellar-wine-and-spirits/

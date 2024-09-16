@@ -1,11 +1,11 @@
 id: 427869722
-type: way
+type: node
 latitude: 39.15877
 longitude: -108.73237
 postcode: "81521"
 city: Fruita
-street: "East Aspen Avenue"
-housenumber: 202
+street: East Aspen Avenue
+housenumber: "202"
 phone: ""
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://otesports.com/"
+opening_hours: Mo-Su 09:00-18:00
+website: https://otesports.com/

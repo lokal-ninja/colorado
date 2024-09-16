@@ -1,11 +1,11 @@
 id: 651191964
-type: way
+type: node
 latitude: 40.173
 longitude: -105.10358
 postcode: "80501"
 city: Longmont
-street: "Coffman Street"
-housenumber: 818
+street: Coffman Street
+housenumber: "818"
 phone: ""
 opening_hours: ""
 website: ""

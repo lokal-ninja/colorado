@@ -1,11 +1,11 @@
 id: 330311341
-type: way
+type: node
 latitude: 40.553
 longitude: -105.118
 postcode: "80526"
 city: Fort Collins
-street: "West Drake Road"
-housenumber: 2190
+street: West Drake Road
+housenumber: "2190"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-2190+w+drake+rd-fort+collins-co-80526/id=7252"
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-2190+w+drake+rd-fort+collins-co-80526/id=7252

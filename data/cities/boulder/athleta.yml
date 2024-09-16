@@ -4,8 +4,8 @@ latitude: 40.01793
 longitude: -105.28048
 postcode: "80302"
 city: Boulder
-street: "Pearl Street"
-housenumber: 1133
+street: Pearl Street
+housenumber: "1133"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://stores.athleta.net/store-4897/"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://stores.athleta.net/store-4897/

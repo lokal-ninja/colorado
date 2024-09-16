@@ -1,11 +1,11 @@
 id: 782896537
-type: way
+type: node
 latitude: 37.19099
 longitude: -104.49662
 postcode: "81082"
 city: Trinidad
-street: "Independence Road"
-housenumber: 1000
+street: Independence Road
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

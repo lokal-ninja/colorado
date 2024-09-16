@@ -1,11 +1,11 @@
 id: 497021372
-type: way
+type: node
 latitude: 39.07749
 longitude: -108.51023
 postcode: "81504"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 2926
-phone: "+1-970-628-9544"
-opening_hours: "Mo-Fr 07:30-17:30; Su-Su off"
-website: "https://www.caliber.com/find-a-location/grand-junction-east"
+street: North Avenue
+housenumber: "2926"
+phone: +1-970-628-9544
+opening_hours: Mo-Fr 07:30-17:30; Su-Su off
+website: https://www.caliber.com/find-a-location/grand-junction-east

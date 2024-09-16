@@ -4,8 +4,8 @@ latitude: 39.99887
 longitude: -105.25398
 postcode: ""
 city: Boulder
-street: "30th Street"
-housenumber: 671
-phone: "+1-303-415-0075"
-opening_hours: "Mo-Th 12:00-18:00; Fr-Su 12:00-19:00"
-website: "http://www.gameforceboulder.com/"
+street: 30th Street
+housenumber: "671"
+phone: +1-303-415-0075
+opening_hours: Mo-Th 12:00-18:00; Fr-Su 12:00-19:00
+website: http://www.gameforceboulder.com/

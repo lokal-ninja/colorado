@@ -1,11 +1,11 @@
 id: 73534045
-type: way
+type: node
 latitude: 38.87423
 longitude: -104.72274
 postcode: "80917"
 city: Colorado Springs
-street: "North Powers Boulevard"
-housenumber: 2890
-phone: "+1 719-573-4860"
+street: North Powers Boulevard
+housenumber: "2890"
+phone: +1 719-573-4860
 opening_hours: ""
-website: "https://local.safeway.com/safeway/co/colorado-springs/2890-n-powers.html"
+website: https://local.safeway.com/safeway/co/colorado-springs/2890-n-powers.html

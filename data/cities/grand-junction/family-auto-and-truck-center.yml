@@ -1,11 +1,11 @@
 id: 423690970
-type: way
+type: node
 latitude: 39.07718
 longitude: -108.56977
 postcode: "81501"
 city: Grand Junction
-street: "North Avenue"
-housenumber: 139
-phone: "+1 970 424 5455"
-opening_hours: "Mo-Sa 08:30-18:00"
-website: "https://www.familyautoandtruckcenter.com/"
+street: North Avenue
+housenumber: "139"
+phone: +1 970 424 5455
+opening_hours: Mo-Sa 08:30-18:00
+website: https://www.familyautoandtruckcenter.com/

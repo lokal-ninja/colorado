@@ -1,11 +1,11 @@
 id: 284758465
-type: way
+type: node
 latitude: 39.6505
 longitude: -105.00648
 postcode: "80110"
 city: Sheridan
-street: "River Point Parkway"
-housenumber: 3650
-phone: "+1 303-974-6661"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/sheridan/2261"
+street: River Point Parkway
+housenumber: "3650"
+phone: +1 303-974-6661
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/sheridan/2261

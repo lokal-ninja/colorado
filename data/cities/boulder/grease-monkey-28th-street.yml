@@ -1,11 +1,11 @@
 id: 522758243
-type: way
+type: node
 latitude: 40.02586
 longitude: -105.25885
 postcode: "80304"
 city: Boulder
-street: "28th Street"
-housenumber: 2405
+street: 28th Street
+housenumber: "2405"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "http://www.greasemonkeyboulder53.com/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: http://www.greasemonkeyboulder53.com/

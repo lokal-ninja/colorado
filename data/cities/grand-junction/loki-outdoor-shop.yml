@@ -1,11 +1,11 @@
 id: 423706517
-type: way
+type: node
 latitude: 39.06718
 longitude: -108.56342
 postcode: "81501"
 city: Grand Junction
-street: "Main Street"
-housenumber: 537
-phone: "+1 970 697 1227"
-opening_hours: "10:00-18:00"
-website: "https://www.lokiusa.com/"
+street: Main Street
+housenumber: "537"
+phone: +1 970 697 1227
+opening_hours: 10:00-18:00
+website: https://www.lokiusa.com/

@@ -4,8 +4,8 @@ latitude: 39.71515
 longitude: -104.98124
 postcode: "80209"
 city: Denver
-street: "South Pennsylvania Street"
-housenumber: 76
-phone: "+1-303-722-1024"
-opening_hours: "Mo-Su 07:00-13:00"
-website: "https://www.riseandshinedenver.com/index.html"
+street: South Pennsylvania Street
+housenumber: "76"
+phone: +1-303-722-1024
+opening_hours: Mo-Su 07:00-13:00
+website: https://www.riseandshinedenver.com/index.html

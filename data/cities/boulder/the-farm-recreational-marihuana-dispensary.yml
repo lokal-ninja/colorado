@@ -1,11 +1,11 @@
 id: 240893599
-type: way
+type: node
 latitude: 40.03664
 longitude: -105.25723
 postcode: "80301"
 city: Boulder
-street: "Iris Avenue"
-housenumber: 2801
+street: Iris Avenue
+housenumber: "2801"
 phone: ""
 opening_hours: ""
-website: "https://thefarmco.com/"
+website: https://thefarmco.com/

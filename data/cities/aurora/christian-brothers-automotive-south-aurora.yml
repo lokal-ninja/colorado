@@ -1,11 +1,11 @@
 id: 1136470329
-type: way
+type: node
 latitude: 39.63818
 longitude: -104.73642
 postcode: "80015"
 city: Aurora
-street: "East Quincy Avenue"
-housenumber: 21550
+street: East Quincy Avenue
+housenumber: "21550"
 phone: ""
 opening_hours: ""
 website: ""

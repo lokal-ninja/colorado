@@ -1,11 +1,11 @@
 id: 224176438
-type: way
+type: node
 latitude: 39.56174
 longitude: -104.91161
 postcode: "80130"
 city: Highlands Ranch
-street: "Business Center Drive"
-housenumber: 6675
-phone: "+1 303-683-3641"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.walmart.com/store/1252/highlands-ranch-co/whats-new"
+street: Business Center Drive
+housenumber: "6675"
+phone: +1 303-683-3641
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.walmart.com/store/1252/highlands-ranch-co/whats-new

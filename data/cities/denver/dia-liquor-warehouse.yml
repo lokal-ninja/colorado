@@ -1,11 +1,11 @@
 id: 970194967
-type: way
+type: node
 latitude: 39.7827
 longitude: -104.77511
 postcode: "80249"
 city: Denver
-street: "Yampa Street"
-housenumber: 4739
-phone: "+1-303-371-0855"
-opening_hours: "Mo-Su 10:00-00:00"
+street: Yampa Street
+housenumber: "4739"
+phone: +1-303-371-0855
+opening_hours: Mo-Su 10:00-00:00
 website: ""

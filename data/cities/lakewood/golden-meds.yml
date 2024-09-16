@@ -1,11 +1,11 @@
 id: 1148968343
-type: way
+type: node
 latitude: 39.75484
 longitude: -105.142
 postcode: "80215"
 city: Lakewood
-street: "Youngfield Street"
-housenumber: 2636
-phone: "(720) 519-1957"
-opening_hours: "Mon-Sun 8am-9:45pm"
+street: Youngfield Street
+housenumber: "2636"
+phone: (720) 519-1957
+opening_hours: Mon-Sun 8am-9:45pm
 website: ""

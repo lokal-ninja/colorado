@@ -4,8 +4,9 @@ latitude: 40.53721
 longitude: -105.07637
 postcode: "80525"
 city: Fort Collins
-street: "South College Avenue"
-housenumber: 3636
+street: South College Avenue
+housenumber: "3636"
 phone: ""
-opening_hours: "Mo 10:30-21:00; Tu-Th 10:00-21:00; Fr 10:00-20:30; Sa 10:00-21:00; Su 11:00-18:00"
+opening_hours: Mo 10:30-21:00; Tu-Th 10:00-21:00; Fr 10:00-20:30; Sa 10:00-21:00;
+    Su 11:00-18:00
 website: ""

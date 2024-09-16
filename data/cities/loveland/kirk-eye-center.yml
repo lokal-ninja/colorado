@@ -1,11 +1,11 @@
 id: 448213572
-type: way
+type: node
 latitude: 40.40793
 longitude: -105.02378
 postcode: "80538"
 city: Loveland
-street: "East 15th Street"
-housenumber: 3650
+street: East 15th Street
+housenumber: "3650"
 phone: ""
-opening_hours: "Mo-Th 07:30-17:00; Fr 7:30-13:00"
+opening_hours: Mo-Th 07:30-17:00; Fr 7:30-13:00
 website: ""

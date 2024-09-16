@@ -1,11 +1,11 @@
 id: 368903135
-type: way
+type: node
 latitude: 39.75486
 longitude: -105.21739
 postcode: ""
 city: Golden
-street: "Ford Street"
-housenumber: 1401
-phone: "+1-303-279-5674"
+street: Ford Street
+housenumber: "1401"
+phone: +1-303-279-5674
 opening_hours: ""
 website: ""

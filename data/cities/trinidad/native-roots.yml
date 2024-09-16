@@ -1,11 +1,11 @@
 id: 1006630485
-type: way
+type: node
 latitude: 37.13457
 longitude: -104.51988
 postcode: "81082"
 city: Trinidad
-street: "Santa Fe Trail"
-housenumber: 
+street: Santa Fe Trail
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.01804
 longitude: -105.22426
 postcode: "80301"
 city: Boulder
-street: "55th Street"
-housenumber: 1900
+street: 55th Street
+housenumber: "1900"
 phone: ""
 opening_hours: ""
-website: "https://www.legacyautoboulder.com/"
+website: https://www.legacyautoboulder.com/

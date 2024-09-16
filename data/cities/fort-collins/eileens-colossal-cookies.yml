@@ -2,10 +2,10 @@ id: 1223175906
 type: node
 latitude: 40.55118
 longitude: -105.03695
-postcode: "80525-3403"
+postcode: 80525-3403
 city: Fort Collins
-street: "South Timberline Road"
-housenumber: 2614
-phone: "+1-970-226-9151"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "http://eileensfortcollins.com"
+street: South Timberline Road
+housenumber: "2614"
+phone: +1-970-226-9151
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: http://eileensfortcollins.com

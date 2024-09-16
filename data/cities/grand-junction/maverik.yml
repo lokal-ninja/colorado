@@ -1,11 +1,11 @@
 id: 510880977
-type: way
+type: node
 latitude: 39.0925
 longitude: -108.50671
 postcode: "81504"
 city: Grand Junction
-street: "Patterson Road"
-housenumber: 2948
-phone: "+1-970-243-1144"
-opening_hours: "24/7"
-website: "https://locations.maverik.com/co/grand-junction/2948-f-road"
+street: Patterson Road
+housenumber: "2948"
+phone: +1-970-243-1144
+opening_hours: 24/7
+website: https://locations.maverik.com/co/grand-junction/2948-f-road

@@ -1,11 +1,11 @@
 id: 701411871
-type: way
+type: node
 latitude: 39.36186
 longitude: -104.59487
 postcode: "80107"
 city: Elizabeth
-street: "East Kiowa Avenue"
-housenumber: 495
-phone: "+1-303-646-2886"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-15:00"
-website: "https://greenleesproautocare.com/"
+street: East Kiowa Avenue
+housenumber: "495"
+phone: +1-303-646-2886
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-15:00
+website: https://greenleesproautocare.com/

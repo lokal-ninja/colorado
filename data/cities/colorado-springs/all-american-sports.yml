@@ -1,11 +1,11 @@
 id: 199610775
-type: way
+type: node
 latitude: 38.88523
 longitude: -104.75746
 postcode: "80917"
 city: Colorado Springs
-street: "North Academy Boulevard"
-housenumber: 3690
-phone: "+1-719-574-4400"
+street: North Academy Boulevard
+housenumber: "3690"
+phone: +1-719-574-4400
 opening_hours: ""
-website: "https://www.shopallamericansports.com"
+website: https://www.shopallamericansports.com

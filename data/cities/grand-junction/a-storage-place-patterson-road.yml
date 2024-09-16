@@ -1,11 +1,11 @@
 id: 816518000
-type: way
+type: node
 latitude: 39.09489
 longitude: -108.61086
 postcode: "81505"
 city: Grand Junction
-street: "Patterson Road"
-housenumber: 2384
+street: Patterson Road
+housenumber: "2384"
 phone: ""
 opening_hours: ""
 website: ""

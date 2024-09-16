@@ -1,11 +1,11 @@
 id: 203936466
-type: way
+type: node
 latitude: 39.70099
 longitude: -105.32799
 postcode: "80439"
 city: Evergreen
-street: "Swede Gulch Road"
-housenumber: 952
-phone: "+1 303-526-1649"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/2293/evergreen-co/whats-new"
+street: Swede Gulch Road
+housenumber: "952"
+phone: +1 303-526-1649
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/2293/evergreen-co/whats-new

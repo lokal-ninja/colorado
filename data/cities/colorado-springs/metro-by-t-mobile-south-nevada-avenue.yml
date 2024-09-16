@@ -1,11 +1,11 @@
 id: 233701866
-type: way
+type: node
 latitude: 38.81007
 longitude: -104.82182
 postcode: "80905"
 city: Colorado Springs
-street: "South Nevada Avenue"
-housenumber: 1629
-phone: "+1-719-576-4900"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-colorado-springs-co-10329115/"
+street: South Nevada Avenue
+housenumber: "1629"
+phone: +1-719-576-4900
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-colorado-springs-co-10329115/

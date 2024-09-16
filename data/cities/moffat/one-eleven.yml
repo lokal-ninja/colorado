@@ -1,11 +1,11 @@
 id: 777396477
-type: way
+type: node
 latitude: 37.99321
 longitude: -105.90742
 postcode: "81143"
 city: Moffat
-street: "Highway 17"
-housenumber: 17034
-phone: "+1-719-937-7716"
+street: Highway 17
+housenumber: "17034"
+phone: +1-719-937-7716
 opening_hours: ""
-website: "https://www.1-eleven.com/our-dispensary"
+website: https://www.1-eleven.com/our-dispensary

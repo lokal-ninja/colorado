@@ -4,8 +4,8 @@ latitude: 40.02797
 longitude: -105.25893
 postcode: "80304"
 city: Boulder
-street: "28th Street"
-housenumber: 2829
+street: 28th Street
+housenumber: "2829"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:30-18:00"
+opening_hours: Mo-Sa 10:00-19:00; Su 10:30-18:00
 website: ""

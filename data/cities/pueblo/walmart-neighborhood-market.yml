@@ -1,11 +1,11 @@
 id: 682492473
-type: way
+type: node
 latitude: 38.21956
 longitude: -104.64188
 postcode: "81005"
 city: Pueblo
-street: "South Prairie Avenue"
-housenumber: 2730
-phone: "+1 719-696-6149"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/5828/pueblo-co/whats-new"
+street: South Prairie Avenue
+housenumber: "2730"
+phone: +1 719-696-6149
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/5828/pueblo-co/whats-new

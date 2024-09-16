@@ -1,11 +1,11 @@
 id: 540526902
-type: way
+type: node
 latitude: 38.31022
 longitude: -104.61379
 postcode: "81008"
 city: Pueblo
-street: "Carruth Court"
-housenumber: 4030
+street: Carruth Court
+housenumber: "4030"
 phone: ""
 opening_hours: ""
 website: ""

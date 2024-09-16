@@ -1,11 +1,11 @@
 id: 313640214
-type: way
+type: node
 latitude: 39.59454
 longitude: -104.95941
 postcode: "80122"
 city: Centennial
-street: "East Arapahoe Road"
-housenumber: 2410
+street: East Arapahoe Road
+housenumber: "2410"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

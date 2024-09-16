@@ -1,11 +1,11 @@
 id: 565465044
-type: way
+type: node
 latitude: 39.59939
 longitude: -104.709
 postcode: "80016"
 city: Aurora
-street: "East Prospect Avenue"
-housenumber: 23972
+street: East Prospect Avenue
+housenumber: "23972"
 phone: ""
 opening_hours: ""
 website: ""

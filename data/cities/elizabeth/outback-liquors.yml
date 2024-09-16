@@ -1,11 +1,11 @@
 id: 786371658
-type: way
+type: node
 latitude: 39.36126
 longitude: -104.6077
 postcode: "80107"
 city: Elizabeth
-street: "Elizabeth Street"
-housenumber: 113
+street: Elizabeth Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

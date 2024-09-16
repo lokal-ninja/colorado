@@ -1,11 +1,11 @@
 id: 1081536982
-type: way
+type: node
 latitude: 39.59476
 longitude: -104.83165
 postcode: "80112"
 city: Centennial
-street: "South Potomac Street"
-housenumber: 6701
+street: South Potomac Street
+housenumber: "6701"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/co/centennial/6701-s-potomac-st"
+website: https://stores.advanceautoparts.com/co/centennial/6701-s-potomac-st

@@ -4,8 +4,8 @@ latitude: 39.0782
 longitude: -108.53628
 postcode: "81501"
 city: Grand Junction
-street: "North 25th Street"
-housenumber: 1141
-phone: "+1-970-812-5025"
-opening_hours: "Mo-Tu by appointment; We-Su 12:00-18:00"
-website: "https://linktr.ee/PiercingsByTanner"
+street: North 25th Street
+housenumber: "1141"
+phone: +1-970-812-5025
+opening_hours: Mo-Tu "by appointment"; We-Su 12:00-18:00
+website: https://linktr.ee/PiercingsByTanner

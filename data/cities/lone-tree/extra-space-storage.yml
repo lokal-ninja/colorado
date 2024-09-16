@@ -1,11 +1,11 @@
 id: 834356622
-type: way
+type: node
 latitude: 39.55137
 longitude: -104.87965
 postcode: "80124"
 city: Lone Tree
-street: "Teddy Lane"
-housenumber: 9368
+street: Teddy Lane
+housenumber: "9368"
 phone: ""
-opening_hours: "Mo-Sa 10:30-18:00"
+opening_hours: Mo-Sa 10:30-18:00
 website: ""

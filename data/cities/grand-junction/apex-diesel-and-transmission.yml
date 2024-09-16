@@ -1,11 +1,11 @@
 id: 497200090
-type: way
+type: node
 latitude: 39.08015
 longitude: -108.57742
 postcode: "81505"
 city: Grand Junction
-street: "Motor Street"
-housenumber: 1405
-phone: "+1-970-433-7105"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Motor Street
+housenumber: "1405"
+phone: +1-970-433-7105
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

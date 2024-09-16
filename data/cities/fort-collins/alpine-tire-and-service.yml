@@ -1,11 +1,11 @@
 id: 183384901
-type: way
+type: node
 latitude: 40.58438
 longitude: -105.04373
 postcode: "80524"
 city: Fort Collins
-street: "Heath Parkway"
-housenumber: 1817
-phone: "+1-970-221-3555"
-opening_hours: "Mo-Fr 08:30-18:00"
+street: Heath Parkway
+housenumber: "1817"
+phone: +1-970-221-3555
+opening_hours: Mo-Fr 08:30-18:00
 website: ""

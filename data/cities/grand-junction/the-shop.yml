@@ -1,11 +1,11 @@
 id: 564461839
-type: way
+type: node
 latitude: 39.07241
 longitude: -108.52501
 postcode: "81501"
 city: Grand Junction
-street: "Chipeta Avenue"
-housenumber: 2850
-phone: "+1-970-244-5541"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://grandjunctiongifts.com/"
+street: Chipeta Avenue
+housenumber: "2850"
+phone: +1-970-244-5541
+opening_hours: Mo-Fr 09:00-17:00
+website: https://grandjunctiongifts.com/

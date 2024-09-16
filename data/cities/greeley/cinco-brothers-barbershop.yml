@@ -1,11 +1,11 @@
 id: 549624498
-type: way
+type: node
 latitude: 40.42434
 longitude: -104.71225
 postcode: "80631"
 city: Greeley
-street: "9th Street"
-housenumber: 2123
+street: 9th Street
+housenumber: "2123"
 phone: ""
 opening_hours: ""
-website: "https://cincobrothers.com/"
+website: https://cincobrothers.com/

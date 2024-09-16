@@ -1,11 +1,11 @@
 id: 295248286
-type: way
+type: node
 latitude: 39.07498
 longitude: -108.57321
 postcode: "81501"
 city: Grand Junction
-street: "US Highway 6 and 50"
-housenumber: 2582
-phone: "+1-970-523-8086"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.redrocknissan.com/"
+street: US Highway 6 and 50
+housenumber: "2582"
+phone: +1-970-523-8086
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.redrocknissan.com/

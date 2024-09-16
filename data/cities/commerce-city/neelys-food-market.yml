@@ -1,11 +1,11 @@
 id: 259298629
-type: way
+type: node
 latitude: 39.81315
 longitude: -104.91265
 postcode: "80022"
 city: Commerce City
-street: "East 64th Avenue"
-housenumber: 6501
-phone: "+1 303 288 8052"
+street: East 64th Avenue
+housenumber: "6501"
+phone: +1 303 288 8052
 opening_hours: ""
 website: ""

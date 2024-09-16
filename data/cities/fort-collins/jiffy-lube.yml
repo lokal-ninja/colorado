@@ -1,11 +1,11 @@
 id: 125240765
-type: way
+type: node
 latitude: 40.55295
 longitude: -105.07776
 postcode: "80525"
 city: Fort Collins
-street: "South College Avenue"
-housenumber: 2549
+street: South College Avenue
+housenumber: "2549"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-18:00"
-website: "https://www.jiffylube.com/"
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-18:00
+website: https://www.jiffylube.com/

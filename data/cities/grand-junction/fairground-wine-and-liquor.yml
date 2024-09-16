@@ -1,11 +1,11 @@
 id: 496769179
-type: way
+type: node
 latitude: 39.04095
 longitude: -108.53919
 postcode: "81503"
 city: Grand Junction
-street: "B 1/2 Road"
-housenumber: 2771
+street: B 1/2 Road
+housenumber: "2771"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Fr-Sa 10:00-21:00; Su 10:00-18:00"
+opening_hours: Mo-Fr 10:00-20:00; Fr-Sa 10:00-21:00; Su 10:00-18:00
 website: ""

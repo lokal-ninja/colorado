@@ -4,8 +4,8 @@ latitude: 39.70699
 longitude: -104.98899
 postcode: "80209"
 city: Denver
-street: "South Broadway"
-housenumber: 505
-phone: "+1 303-722-2152"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/denver-co-sams-club/6632"
+street: South Broadway
+housenumber: "505"
+phone: +1 303-722-2152
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/denver-co-sams-club/6632

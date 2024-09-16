@@ -1,11 +1,11 @@
 id: 880371049
-type: way
+type: node
 latitude: 39.98698
 longitude: -104.96419
 postcode: "80023"
 city: Broomfield
-street: "East 160th Avenue"
-housenumber: 2021
-phone: "(303) 330-0337"
+street: East 160th Avenue
+housenumber: "2021"
+phone: (303) 330-0337
 opening_hours: ""
 website: ""

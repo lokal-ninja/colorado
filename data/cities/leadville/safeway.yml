@@ -1,11 +1,11 @@
 id: 27637959
-type: way
+type: node
 latitude: 39.25987
 longitude: -106.29347
 postcode: "80461"
 city: Leadville
-street: "North Poplar Street"
-housenumber: 1900
-phone: "+1 719-486-0795"
+street: North Poplar Street
+housenumber: "1900"
+phone: +1 719-486-0795
 opening_hours: ""
-website: "https://local.safeway.com/safeway/co/leadville/1900-n-poplar-way.html"
+website: https://local.safeway.com/safeway/co/leadville/1900-n-poplar-way.html

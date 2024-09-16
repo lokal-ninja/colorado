@@ -1,11 +1,11 @@
 id: 705007062
-type: way
+type: node
 latitude: 39.69924
 longitude: -105.0488
 postcode: "80219"
 city: Denver
-street: "Morrison Road"
-housenumber: 4820
-phone: "+1-303-936-0111"
-opening_hours: "10:00-21:50"
-website: "https://www.thestone.com"
+street: Morrison Road
+housenumber: "4820"
+phone: +1-303-936-0111
+opening_hours: 10:00-21:50
+website: https://www.thestone.com

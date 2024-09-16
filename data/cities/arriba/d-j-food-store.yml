@@ -1,11 +1,11 @@
 id: 804485847
-type: way
+type: node
 latitude: 39.28615
 longitude: -103.26804
 postcode: "80804"
 city: Arriba
-street: "County Road 43"
-housenumber: 207
+street: County Road 43
+housenumber: "207"
 phone: ""
 opening_hours: ""
 website: ""

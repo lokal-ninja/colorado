@@ -1,11 +1,11 @@
 id: 377546141
-type: way
+type: node
 latitude: 40.30437
 longitude: -105.08771
 postcode: "80513"
 city: Berthoud
-street: "Mountain Avenue"
-housenumber: 919
+street: Mountain Avenue
+housenumber: "919"
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
+opening_hours: Mo-Su 06:00-21:00
 website: ""

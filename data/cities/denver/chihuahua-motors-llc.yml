@@ -1,11 +1,11 @@
 id: 333668305
-type: way
+type: node
 latitude: 39.72187
 longitude: -105.02573
 postcode: "80219"
 city: Denver
-street: "Federal Boulevard"
-housenumber: 303
-phone: "303-937-3571"
+street: Federal Boulevard
+housenumber: "303"
+phone: 303-937-3571
 opening_hours: ""
 website: ""

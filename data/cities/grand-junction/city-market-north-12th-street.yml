@@ -1,11 +1,11 @@
 id: 423478172
-type: way
+type: node
 latitude: 39.09122
 longitude: -108.55035
 postcode: "81501"
 city: Grand Junction
-street: "North 12th Street"
-housenumber: 2600
-phone: "+1 970 628 7555"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.citymarket.com/stores/details/620/00444"
+street: North 12th Street
+housenumber: "2600"
+phone: +1 970 628 7555
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.citymarket.com/stores/details/620/00444

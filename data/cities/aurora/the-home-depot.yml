@@ -1,11 +1,11 @@
 id: 115932986
-type: way
+type: node
 latitude: 39.60753
 longitude: -104.71628
 postcode: "80015"
 city: Aurora
-street: "South Gun Club Road"
-housenumber: 6000
-phone: "+1 720-870-8839"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Saddlerock/CO/Aurora/80016/1528"
+street: South Gun Club Road
+housenumber: "6000"
+phone: +1 720-870-8839
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Saddlerock/CO/Aurora/80016/1528

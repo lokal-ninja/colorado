@@ -1,11 +1,11 @@
 id: 224603695
-type: way
+type: node
 latitude: 39.741
 longitude: -104.43487
 postcode: "80102"
 city: Bennett
-street: "South 1st Street"
-housenumber: 1191
-phone: "+1-303-644-3585"
+street: South 1st Street
+housenumber: "1191"
+phone: +1-303-644-3585
 opening_hours: ""
-website: "http://myloves300.com/"
+website: http://myloves300.com/

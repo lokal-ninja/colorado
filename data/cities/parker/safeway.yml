@@ -1,11 +1,11 @@
 id: 229019066
-type: way
+type: node
 latitude: 39.51642
 longitude: -104.76683
 postcode: "80134"
 city: Parker
-street: "South Parker Road"
-housenumber: 11051
-phone: "+1 303-840-1604"
+street: South Parker Road
+housenumber: "11051"
+phone: +1 303-840-1604
 opening_hours: ""
-website: "https://local.safeway.com/safeway/co/parker/11051-s-parker-rd.html"
+website: https://local.safeway.com/safeway/co/parker/11051-s-parker-rd.html

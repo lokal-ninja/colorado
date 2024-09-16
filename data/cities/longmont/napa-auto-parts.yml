@@ -1,11 +1,11 @@
 id: 514869117
-type: way
+type: node
 latitude: 40.15405
 longitude: -105.10226
-postcode: "80501-6423"
+postcode: 80501-6423
 city: Longmont
-street: "South Main Street"
-housenumber: 210
+street: South Main Street
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

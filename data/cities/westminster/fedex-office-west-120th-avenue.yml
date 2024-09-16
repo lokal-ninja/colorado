@@ -4,8 +4,8 @@ latitude: 39.91439
 longitude: -104.99959
 postcode: "80234"
 city: Westminster
-street: "West 120th Avenue"
-housenumber: 1171
-phone: "+1-303-452-6090"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 09:00-18:00, Su 12:00-18:00"
-website: "https://local.fedex.com/en-us/co/westminster/office-0631"
+street: West 120th Avenue
+housenumber: "1171"
+phone: +1-303-452-6090
+opening_hours: Mo-Fr 08:00-20:00, Sa 09:00-18:00, Su 12:00-18:00
+website: https://local.fedex.com/en-us/co/westminster/office-0631

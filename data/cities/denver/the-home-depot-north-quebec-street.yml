@@ -1,11 +1,11 @@
 id: 320155155
-type: way
+type: node
 latitude: 39.77101
 longitude: -104.90209
 postcode: "80207"
 city: Denver
-street: "North Quebec Street"
-housenumber: 3870
-phone: "+1 303-320-3738"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Stapleton/CO/Denver/80207/1532"
+street: North Quebec Street
+housenumber: "3870"
+phone: +1 303-320-3738
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Stapleton/CO/Denver/80207/1532

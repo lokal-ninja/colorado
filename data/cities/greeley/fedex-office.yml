@@ -2,10 +2,10 @@ id: 9738300581
 type: node
 latitude: 40.42341
 longitude: -104.73796
-postcode: "80634-9998"
+postcode: 80634-9998
 city: Greeley
-street: "West 10th Street"
-housenumber: 3607
-phone: "+1-970-356-2664"
+street: West 10th Street
+housenumber: "3607"
+phone: +1-970-356-2664
 opening_hours: ""
-website: "https://local.fedex.com"
+website: https://local.fedex.com

@@ -4,8 +4,8 @@ latitude: 39.77961
 longitude: -104.95851
 postcode: "80216"
 city: Denver
-street: "East 46th Avenue"
-housenumber: 2334
-phone: "+1-303-298-1704"
-opening_hours: "Mo-Sa 10:00-19:30, Su 12:00-17:00"
-website: "https://www.boostmobile.com/"
+street: East 46th Avenue
+housenumber: "2334"
+phone: +1-303-298-1704
+opening_hours: Mo-Sa 10:00-19:30, Su 12:00-17:00
+website: https://www.boostmobile.com/

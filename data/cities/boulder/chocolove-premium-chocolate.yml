@@ -4,8 +4,8 @@ latitude: 40.01895
 longitude: -105.21995
 postcode: "80301"
 city: Boulder
-street: "57th Court South"
-housenumber: 1880
-phone: "+1-303-786-7888"
+street: 57th Court South
+housenumber: "1880"
+phone: +1-303-786-7888
 opening_hours: ""
-website: "https://www.chocolove.com/"
+website: https://www.chocolove.com/

@@ -1,11 +1,11 @@
 id: 626465833
-type: way
+type: node
 latitude: 39.72231
 longitude: -105.02489
 postcode: "80204"
 city: Denver
-street: "Federal Boulevard"
-housenumber: 412
+street: Federal Boulevard
+housenumber: "412"
 phone: ""
 opening_hours: ""
 website: ""

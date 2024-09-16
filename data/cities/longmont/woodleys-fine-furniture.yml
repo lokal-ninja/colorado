@@ -1,11 +1,11 @@
 id: 379216734
-type: way
+type: node
 latitude: 40.14078
 longitude: -105.10132
 postcode: "80501"
 city: Longmont
-street: "South Main Street"
-housenumber: 1400
+street: South Main Street
+housenumber: "1400"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-18:00
 website: ""

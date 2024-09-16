@@ -1,11 +1,11 @@
 id: 484107995
-type: way
+type: node
 latitude: 39.2626
 longitude: -103.68562
 postcode: "80828"
 city: Limon
-street: "Main Street"
-housenumber: 707
+street: Main Street
+housenumber: "707"
 phone: ""
-opening_hours: "00:00-24:00"
+opening_hours: 00:00-24:00
 website: ""

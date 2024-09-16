@@ -1,11 +1,11 @@
 id: 630291251
-type: way
+type: node
 latitude: 40.58393
 longitude: -104.73253
 postcode: "80610"
 city: Ault
-street: "US-85"
-housenumber: 201
+street: US-85
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

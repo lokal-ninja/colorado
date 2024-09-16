@@ -1,11 +1,11 @@
 id: 191650940
-type: way
+type: node
 latitude: 38.80794
 longitude: -104.77928
 postcode: "80910"
 city: Colorado Springs
-street: "Arlington Drive"
-housenumber: 2455
+street: Arlington Drive
+housenumber: "2455"
 phone: ""
 opening_hours: ""
 website: ""

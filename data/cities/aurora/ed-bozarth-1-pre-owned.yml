@@ -1,11 +1,11 @@
 id: 681777377
-type: way
+type: node
 latitude: 39.679
 longitude: -104.86693
 postcode: "80014"
 city: Aurora
-street: "South Havana Street"
-housenumber: 2001
-phone: "888-681-5920"
+street: South Havana Street
+housenumber: "2001"
+phone: 888-681-5920
 opening_hours: ""
-website: "https://edbozarthchevy.com/"
+website: https://edbozarthchevy.com/

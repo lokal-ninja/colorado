@@ -4,8 +4,8 @@ latitude: 38.74898
 longitude: -108.06203
 postcode: "81416"
 city: Delta
-street: "State Highway 92"
-housenumber: 750
-phone: "+1-970-874-4444"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-16:00; Su closed"
-website: "https://www.hellmanmotorco.com/"
+street: State Highway 92
+housenumber: "750"
+phone: +1-970-874-4444
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-16:00; Su closed
+website: https://www.hellmanmotorco.com/

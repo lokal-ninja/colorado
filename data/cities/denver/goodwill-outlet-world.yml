@@ -4,8 +4,8 @@ latitude: 39.77697
 longitude: -104.91822
 postcode: "80216"
 city: Denver
-street: "Kearney Street"
-housenumber: 4355
+street: Kearney Street
+housenumber: "4355"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.goodwilldenver.org"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.goodwilldenver.org

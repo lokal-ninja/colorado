@@ -1,11 +1,11 @@
 id: 311508704
-type: way
+type: node
 latitude: 38.82822
 longitude: -104.81868
 postcode: "80903"
 city: Colorado Springs
-street: "South Wahsatch Avenue"
-housenumber: 330
-phone: "+1-719-473-7800"
+street: South Wahsatch Avenue
+housenumber: "330"
+phone: +1-719-473-7800
 opening_hours: ""
-website: "http://cheetahprinting.net/"
+website: http://cheetahprinting.net/

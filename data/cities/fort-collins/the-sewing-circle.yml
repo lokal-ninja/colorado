@@ -4,8 +4,8 @@ latitude: 40.52767
 longitude: -105.02166
 postcode: "80525"
 city: Fort Collins
-street: "Council Tree Avenue"
-housenumber: 2948
-phone: "+1-970-672-2147"
-opening_hours: "Mo,We,Fr,Sa 09:30-17:00; Tu,Th 09:30-18:00"
-website: "https://the-sewingcircle.com/"
+street: Council Tree Avenue
+housenumber: "2948"
+phone: +1-970-672-2147
+opening_hours: Mo,We,Fr,Sa 09:30-17:00; Tu,Th 09:30-18:00
+website: https://the-sewingcircle.com/

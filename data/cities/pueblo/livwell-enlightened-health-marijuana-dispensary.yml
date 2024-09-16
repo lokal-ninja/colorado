@@ -1,11 +1,11 @@
 id: 974180348
-type: way
+type: node
 latitude: 38.34765
 longitude: -104.62135
 postcode: "81008"
 city: Pueblo
-street: "Interstate 25 North"
-housenumber: 2565
+street: Interstate 25 North
+housenumber: "2565"
 phone: ""
 opening_hours: ""
 website: ""

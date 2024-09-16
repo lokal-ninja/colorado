@@ -1,11 +1,11 @@
 id: 162810154
-type: way
+type: node
 latitude: 39.66716
 longitude: -104.86716
 postcode: "80014"
 city: Aurora
-street: "South Havana Street"
-housenumber: 2727
-phone: "(720) 907-1243"
-opening_hours: "Mo-Sa 08:30-20:00, Su closed"
-website: "https://www.lhmchryslerdodgeramfiatdenver.com/"
+street: South Havana Street
+housenumber: "2727"
+phone: (720) 907-1243
+opening_hours: Mo-Sa 08:30-20:00, Su closed
+website: https://www.lhmchryslerdodgeramfiatdenver.com/

@@ -1,11 +1,11 @@
 id: 200249865
-type: way
+type: node
 latitude: 38.87144
 longitude: -104.83468
 postcode: "80907"
 city: Colorado Springs
-street: "North Chestnut Street"
-housenumber: 2805
+street: North Chestnut Street
+housenumber: "2805"
 phone: ""
 opening_hours: ""
 website: ""

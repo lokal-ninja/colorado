@@ -1,11 +1,11 @@
 id: 201070895
-type: way
+type: node
 latitude: 39.93159
 longitude: -104.90692
 postcode: "80602"
 city: Thornton
-street: "East 128th Avenue"
-housenumber: 7101
-phone: "+1 303-209-4339"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4567/brighton-co/whats-new"
+street: East 128th Avenue
+housenumber: "7101"
+phone: +1 303-209-4339
+opening_hours: 24/7
+website: https://www.walmart.com/store/4567/brighton-co/whats-new

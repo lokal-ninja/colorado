@@ -1,11 +1,11 @@
 id: 61951720
-type: way
+type: node
 latitude: 39.95644
 longitude: -105.16531
 postcode: "80027"
 city: Superior
-street: "McCaslin Boulevard"
-housenumber: 90
-phone: "+1-720-304-3343"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: McCaslin Boulevard
+housenumber: "90"
+phone: +1-720-304-3343
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.brakesplus.com

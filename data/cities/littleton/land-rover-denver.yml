@@ -1,11 +1,11 @@
 id: 823566622
-type: way
+type: node
 latitude: 39.6046
 longitude: -104.9877
 postcode: "80121"
 city: Littleton
-street: "South Broadway"
-housenumber: 6160
+street: South Broadway
+housenumber: "6160"
 phone: ""
 opening_hours: ""
-website: "https://landroverdenver.com"
+website: https://landroverdenver.com

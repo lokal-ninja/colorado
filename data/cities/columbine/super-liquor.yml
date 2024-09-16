@@ -1,11 +1,11 @@
 id: 730268764
-type: way
+type: node
 latitude: 39.59502
 longitude: -105.07241
 postcode: "80128"
 city: Columbine
-street: "South Pierce Street"
-housenumber: 6700
-phone: "+1-(303)-979-3300"
+street: South Pierce Street
+housenumber: "6700"
+phone: +1-(303)-979-3300
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 681533668
-type: way
+type: node
 latitude: 40.15062
 longitude: -106.90921
 postcode: "80483"
 city: Yampa
-street: "Main Street"
-housenumber: 24
+street: Main Street
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://montgomerysstore.com/"
+website: https://montgomerysstore.com/

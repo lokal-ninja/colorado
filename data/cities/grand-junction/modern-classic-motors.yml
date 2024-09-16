@@ -1,11 +1,11 @@
 id: 292436950
-type: way
+type: node
 latitude: 39.08061
 longitude: -108.58161
 postcode: "81505"
 city: Grand Junction
-street: "Independent Avenue"
-housenumber: 975
-phone: "+1-970-245-7671"
-opening_hours: "Mo-Sa 08:30-19:00; Su off"
-website: "https://www.mcmautos.com/"
+street: Independent Avenue
+housenumber: "975"
+phone: +1-970-245-7671
+opening_hours: Mo-Sa 08:30-19:00; Su off
+website: https://www.mcmautos.com/

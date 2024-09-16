@@ -1,11 +1,11 @@
 id: 194528292
-type: way
+type: node
 latitude: 38.81791
 longitude: -104.83526
 postcode: "80905"
 city: Colorado Springs
-street: "Motor City Drive"
-housenumber: 1114
+street: Motor City Drive
+housenumber: "1114"
 phone: ""
 opening_hours: ""
 website: ""

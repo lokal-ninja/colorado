@@ -4,8 +4,8 @@ latitude: 39.0709
 longitude: -108.57303
 postcode: "81501"
 city: Grand Junction
-street: "West Grand Avenue"
-housenumber: 200
-phone: "+1-970-314-9972"
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-19:00"
-website: "https://eclecticgj.company.site/"
+street: West Grand Avenue
+housenumber: "200"
+phone: +1-970-314-9972
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-19:00
+website: https://eclecticgj.company.site/

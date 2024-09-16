@@ -1,11 +1,11 @@
 id: 497201603
-type: way
+type: node
 latitude: 39.08969
 longitude: -108.58796
 postcode: "81505"
 city: Grand Junction
-street: "Industrial Court"
-housenumber: 2508
-phone: "+1-970-242-3813"
+street: Industrial Court
+housenumber: "2508"
+phone: +1-970-242-3813
 opening_hours: ""
 website: ""

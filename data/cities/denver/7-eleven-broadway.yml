@@ -1,11 +1,11 @@
 id: 320487946
-type: way
+type: node
 latitude: 39.82887
 longitude: -104.98691
 postcode: "80221"
 city: Denver
-street: "Broadway"
-housenumber: 7270
-phone: "+1 303-429-0827"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/co/denver/7270-broadway-13157"
+street: Broadway
+housenumber: "7270"
+phone: +1 303-429-0827
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/co/denver/7270-broadway-13157

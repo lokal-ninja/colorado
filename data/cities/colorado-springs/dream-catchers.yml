@@ -1,11 +1,11 @@
 id: 311219987
-type: way
+type: node
 latitude: 38.83193
 longitude: -104.8179
 postcode: "80903"
 city: Colorado Springs
-street: "South Wahsatch Avenue"
-housenumber: 103
-phone: "+1-719-505-5476"
+street: South Wahsatch Avenue
+housenumber: "103"
+phone: +1-719-505-5476
 opening_hours: ""
-website: "http://dreamcatcherscos.com/"
+website: http://dreamcatcherscos.com/

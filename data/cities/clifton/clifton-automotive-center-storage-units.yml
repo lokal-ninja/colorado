@@ -1,11 +1,11 @@
 id: 1305569613
-type: way
+type: node
 latitude: 39.09263
 longitude: -108.45133
 postcode: "81520"
 city: Clifton
-street: "F Road"
-housenumber: 3242
-phone: "+1-970-260-5026"
+street: F Road
+housenumber: "3242"
+phone: +1-970-260-5026
 opening_hours: ""
-website: "https://www.grandjunctionstorageunits.com/"
+website: https://www.grandjunctionstorageunits.com/

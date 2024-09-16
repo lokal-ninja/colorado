@@ -1,11 +1,11 @@
 id: 1170356148
-type: way
+type: node
 latitude: 38.48733
 longitude: -107.85864
 postcode: "81401"
 city: Montrose
-street: "East Main Street"
-housenumber: 1836
-phone: "(970) 249-4116"
+street: East Main Street
+housenumber: "1836"
+phone: (970) 249-4116
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 182295434
-type: way
+type: node
 latitude: 39.56904
 longitude: -104.88042
 postcode: "80112"
 city: Centennial
-street: "South Chester Street"
-housenumber: 8215
+street: South Chester Street
+housenumber: "8215"
 phone: ""
 opening_hours: ""
 website: ""

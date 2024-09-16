@@ -1,11 +1,11 @@
 id: 498966655
-type: way
+type: node
 latitude: 39.73704
 longitude: -104.43528
 postcode: "80102"
 city: Bennett
-street: "I-70 Frontage Road"
-housenumber: 100
+street: I-70 Frontage Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

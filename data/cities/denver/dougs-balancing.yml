@@ -1,11 +1,11 @@
 id: 394756442
-type: way
+type: node
 latitude: 39.71852
 longitude: -105.03477
 postcode: "80219"
 city: Denver
-street: "Lowell Boulevard"
-housenumber: 100
+street: Lowell Boulevard
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

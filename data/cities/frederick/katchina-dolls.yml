@@ -1,11 +1,11 @@
 id: 814000026
-type: way
+type: node
 latitude: 40.09849
 longitude: -104.94011
 postcode: "80530"
 city: Frederick
-street: "5th Street"
-housenumber: 154
+street: 5th Street
+housenumber: "154"
 phone: ""
 opening_hours: ""
 website: ""

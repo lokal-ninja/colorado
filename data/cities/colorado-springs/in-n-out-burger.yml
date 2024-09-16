@@ -1,11 +1,11 @@
 id: 204503021
-type: way
+type: node
 latitude: 38.87183
 longitude: -104.7165
 postcode: "80922"
 city: Colorado Springs
-street: "New Center Point"
-housenumber: 2895
+street: New Center Point
+housenumber: "2895"
 phone: ""
-opening_hours: "Su-Th 10:30-01:00; Fr-Sa 10:30-01:30"
-website: "https://locations.in-n-out.com/371"
+opening_hours: Su-Th 10:30-01:00; Fr-Sa 10:30-01:30
+website: https://locations.in-n-out.com/371

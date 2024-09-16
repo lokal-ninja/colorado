@@ -1,11 +1,11 @@
 id: 497201953
-type: way
+type: node
 latitude: 39.08929
 longitude: -108.59004
 postcode: "81505"
 city: Grand Junction
-street: "Industrial Boulevard"
-housenumber: 2498
+street: Industrial Boulevard
+housenumber: "2498"
 phone: ""
 opening_hours: ""
 website: ""

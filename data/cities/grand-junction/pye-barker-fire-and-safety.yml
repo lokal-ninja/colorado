@@ -1,11 +1,11 @@
 id: 497200095
-type: way
+type: node
 latitude: 39.08009
 longitude: -108.57641
 postcode: "81505"
 city: Grand Junction
-street: "Motor Street"
-housenumber: 1410
-phone: "+1-970-243-2262"
+street: Motor Street
+housenumber: "1410"
+phone: +1-970-243-2262
 opening_hours: ""
-website: "https://pyebarkerfs.com/locations/grand-junction-co/"
+website: https://pyebarkerfs.com/locations/grand-junction-co/

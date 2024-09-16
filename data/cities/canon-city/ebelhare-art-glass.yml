@@ -1,11 +1,11 @@
 id: 419598123
-type: way
+type: node
 latitude: 38.4394
 longitude: -105.24385
 postcode: "81212"
 city: Cañon City
-street: "Main Street"
-housenumber: 227
-phone: "+1-719-275-3535"
+street: Main Street
+housenumber: "227"
+phone: +1-719-275-3535
 opening_hours: ""
-website: "http://www.ebelharepaperweights.com/"
+website: http://www.ebelharepaperweights.com/

@@ -1,11 +1,11 @@
 id: 401538225
-type: way
+type: node
 latitude: 37.46807
 longitude: -105.86645
 postcode: "81101"
 city: Alamosa
-street: "Main Street"
-housenumber: 620
+street: Main Street
+housenumber: "620"
 phone: ""
 opening_hours: ""
-website: "https://mammothalamosa.com"
+website: https://mammothalamosa.com

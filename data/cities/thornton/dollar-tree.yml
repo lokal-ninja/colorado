@@ -1,11 +1,11 @@
 id: 45610954
-type: way
+type: node
 latitude: 39.91629
 longitude: -104.97212
 postcode: "80233"
 city: Thornton
-street: "East 120th Avenue"
-housenumber: 1201
-phone: "+1-303-723-7918"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/co/thornton/4040/"
+street: East 120th Avenue
+housenumber: "1201"
+phone: +1-303-723-7918
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/co/thornton/4040/

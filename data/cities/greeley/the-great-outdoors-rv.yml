@@ -4,8 +4,8 @@ latitude: 40.40549
 longitude: -104.86238
 postcode: "80634"
 city: Greeley
-street: "21st Street"
-housenumber: 11521
-phone: "+1-970-313-4337"
-opening_hours: "Mo-Sa 09:00-14:00"
-website: "https://www.tgorv.com/"
+street: 21st Street
+housenumber: "11521"
+phone: +1-970-313-4337
+opening_hours: Mo-Sa 09:00-14:00
+website: https://www.tgorv.com/

@@ -1,11 +1,11 @@
 id: 1205102054
-type: way
+type: node
 latitude: 39.55672
 longitude: -104.77801
 postcode: "80138"
 city: Parker
-street: "East Cottonwood Drive"
-housenumber: 18374
-phone: "+1 720-851-0549"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/co/parker/309/"
+street: East Cottonwood Drive
+housenumber: "18374"
+phone: +1 720-851-0549
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/co/parker/309/

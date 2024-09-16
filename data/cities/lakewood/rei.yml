@@ -1,11 +1,11 @@
 id: 235193656
-type: way
+type: node
 latitude: 39.62072
 longitude: -105.09264
 postcode: "80123"
 city: Lakewood
-street: "South Wadsworth Boulevard"
-housenumber: 5375
-phone: "+1-303-932-0600"
+street: South Wadsworth Boulevard
+housenumber: "5375"
+phone: +1-303-932-0600
 opening_hours: ""
-website: "https://www.rei.com/stores/lakewood"
+website: https://www.rei.com/stores/lakewood

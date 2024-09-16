@@ -1,11 +1,11 @@
 id: 92737034
-type: way
+type: node
 latitude: 39.74709
 longitude: -105.20915
 postcode: ""
 city: Golden
-street: "Ford Street"
-housenumber: 2401
+street: Ford Street
+housenumber: "2401"
 phone: ""
 opening_hours: ""
 website: ""

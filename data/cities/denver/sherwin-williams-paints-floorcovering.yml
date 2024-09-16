@@ -1,11 +1,11 @@
 id: 318168384
-type: way
+type: node
 latitude: 39.77069
 longitude: -104.84919
 postcode: "80239"
 city: Denver
-street: "Paris Street"
-housenumber: 3841
-phone: "+1-303-375-6802"
+street: Paris Street
+housenumber: "3841"
+phone: +1-303-375-6802
 opening_hours: ""
-website: "http://www.sherwin-williams.com/store-locator/commercial-floorcovering-store/Denver/CO/7385#directions/to:7385"
+website: http://www.sherwin-williams.com/store-locator/commercial-floorcovering-store/Denver/CO/7385#directions/to:7385

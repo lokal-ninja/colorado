@@ -4,8 +4,8 @@ latitude: 40.01929
 longitude: -105.27389
 postcode: "80302"
 city: Boulder
-street: "Pearl Street"
-housenumber: 1643
+street: Pearl Street
+housenumber: "1643"
 phone: ""
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.blissboulder.com/"
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.blissboulder.com/

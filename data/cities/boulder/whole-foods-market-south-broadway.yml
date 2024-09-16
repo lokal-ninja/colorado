@@ -1,11 +1,11 @@
 id: 66866229
-type: way
+type: node
 latitude: 39.98294
 longitude: -105.24883
 postcode: "80305"
 city: Boulder
-street: "South Broadway"
-housenumber: 695
-phone: "+1 303-376-6980"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/bouldertablemesa"
+street: South Broadway
+housenumber: "695"
+phone: +1 303-376-6980
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.wholefoodsmarket.com/stores/bouldertablemesa

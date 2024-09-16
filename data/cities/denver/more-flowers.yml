@@ -4,8 +4,8 @@ latitude: 39.75757
 longitude: -105.0105
 postcode: "80021"
 city: Denver
-street: "15th Street"
-housenumber: 2501
+street: 15th Street
+housenumber: "2501"
 phone: ""
 opening_hours: ""
-website: "https://www.moreflowers.com/"
+website: https://www.moreflowers.com/

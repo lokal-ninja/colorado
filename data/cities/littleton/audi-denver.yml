@@ -1,11 +1,11 @@
 id: 822923333
-type: way
+type: node
 latitude: 39.60687
 longitude: -104.9879
 postcode: "80121"
 city: Littleton
-street: "South Broadway"
-housenumber: 6060
+street: South Broadway
+housenumber: "6060"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://audidenver.com"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://audidenver.com

@@ -1,11 +1,11 @@
 id: 801774921
-type: way
+type: node
 latitude: 40.98697
 longitude: -102.26363
 postcode: "80737"
 city: Julesburg
-street: "West 2nd Street"
-housenumber: 119
+street: West 2nd Street
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

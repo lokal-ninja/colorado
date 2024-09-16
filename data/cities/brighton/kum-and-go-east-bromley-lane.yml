@@ -1,11 +1,11 @@
 id: 708363962
-type: way
+type: node
 latitude: 39.97171
 longitude: -104.74931
 postcode: "80603"
 city: Brighton
-street: "East Bromley Lane"
-housenumber: 5112
-phone: "+1-303-654-3483"
-opening_hours: "24/7"
-website: "https://www.kumandgo.com/store-locator?details=0939"
+street: East Bromley Lane
+housenumber: "5112"
+phone: +1-303-654-3483
+opening_hours: 24/7
+website: https://www.kumandgo.com/store-locator?details=0939
