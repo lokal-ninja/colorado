@@ -1,6 +1,6 @@
 ---
 title: Twin Lakes
 url: /twin-lakes/
-latitude: 39.824
+latitude: 39.828
 longitude: -105.007
 ---
