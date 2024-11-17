@@ -1,6 +1,6 @@
 ---
 title: Cortez
 url: /cortez/
-latitude: 37.349
-longitude: -108.579
+latitude: 37.348
+longitude: -108.573
 ---
