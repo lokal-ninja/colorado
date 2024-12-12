@@ -1,11 +1,11 @@
 id: 11675955832
 type: node
-latitude: 39.67879
-longitude: -104.93009
+latitude: 39.67881
+longitude: -104.93004
 postcode: "80222"
 city: Denver
-street: '4875 E Evans Ave, #102'
-housenumber: ""
+street: '4875 E Evans Ave, #102;East Evans Avenue'
+housenumber: "4875"
 phone: 303-777-1151
 opening_hours: 'Tuesday -Friday: 10:00AM to 6:00PM; Saturday: 9:00AM to 3:00PM'
 website: https://onthegowellnessspa.com
