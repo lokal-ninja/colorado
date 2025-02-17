@@ -1,6 +1,6 @@
 ---
 title: Penrose
 url: /penrose/
-latitude: 38.455
-longitude: -105.088
+latitude: 38.447
+longitude: -105.008
 ---
