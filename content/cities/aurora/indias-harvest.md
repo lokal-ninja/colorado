@@ -1,5 +1,5 @@
 ---
 title: "India's Harvest"
 url: /aurora/indias-harvest/
-shop: supermarket
+shop: convenience
 ---
