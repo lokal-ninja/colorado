@@ -1,5 +1,5 @@
 ---
-title: "Enchanted Realms Games and Gifts"
+title: "Enchanted Realms Games & Gifts"
 url: /colorado-springs/enchanted-realms-games-and-gifts/
 shop: games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EntertainMART"
 url: /grand-junction/entertainmart/
-shop: video
+shop: variety store
 ---

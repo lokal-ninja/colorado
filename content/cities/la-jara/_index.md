@@ -1,6 +1,6 @@
 ---
 title: La Jara
 url: /la-jara/
-latitude: 37.274
+latitude: 37.272
 longitude: -105.962
 ---

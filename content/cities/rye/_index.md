@@ -1,6 +1,6 @@
 ---
 title: Rye
 url: /rye/
-latitude: 38.061
-longitude: -105.094
+latitude: 37.923
+longitude: -104.931
 ---
