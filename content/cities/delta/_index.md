@@ -1,6 +1,6 @@
 ---
 title: Delta
 url: /delta/
-latitude: 38.749
-longitude: -108.062
+latitude: 38.75
+longitude: -108.071
 ---
