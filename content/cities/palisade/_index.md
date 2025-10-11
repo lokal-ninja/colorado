@@ -1,6 +1,6 @@
 ---
 title: Palisade
 url: /palisade/
-latitude: 39.143
-longitude: -108.314
+latitude: 39.112
+longitude: -108.356
 ---
