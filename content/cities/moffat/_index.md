@@ -1,6 +1,6 @@
 ---
 title: Moffat
 url: /moffat/
-latitude: 37.993
-longitude: -105.909
+latitude: 38.006
+longitude: -105.907
 ---
