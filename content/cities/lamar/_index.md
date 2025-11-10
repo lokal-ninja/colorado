@@ -1,6 +1,6 @@
 ---
 title: Lamar
 url: /lamar/
-latitude: 38.202
-longitude: -102.61
+latitude: 38.089
+longitude: -102.616
 ---
