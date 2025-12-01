@@ -7,6 +7,6 @@ city: Denver
 street: East Mississippi Avenue
 housenumber: "7950"
 phone: +1 303-745-4577
-opening_hours: Monday – 9 am–7 pm, Tuesday -  9 am–6 pm Wednesday - 9 am–7 pm Thursday
-    - 9 am–7:30 pm Friday - 9 am–6 pm Saturday - Closed Sunday - 9 am–5 pm
+opening_hours: Mo 09:00-20:00, Tu,Fr 09:00-18:00, We 09:00-19:00, Th 09:00-19:30,
+    Su 09:00-17:00; Sa off
 website: https://www.wiseguysbarbers.com/

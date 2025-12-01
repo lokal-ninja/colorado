@@ -7,6 +7,5 @@ city: Colorado Springs
 street: Bloomington Street
 housenumber: "3737"
 phone: +1 719-390-4351
-opening_hours: Mon 13:00-19:00 Tu 09:00-20:00 Wed 09:00-17:00 Thu 09:00-20:00 Fri
-    09:00-17:00
+opening_hours: Mo 13:00-19:00, Tu,Th 09:00-20:00, We,Fr 09:00-17:00
 website: https://www.stylessalonco.com/

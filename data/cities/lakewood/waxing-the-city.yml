@@ -7,7 +7,5 @@ city: Lakewood
 street: W Virginia Ave
 housenumber: "7660"
 phone: +1-303-202-2012
-opening_hours: Monday 8:00 am - 8:00 pm Tuesday 8:00 am - 8:00 pm Wednesday 8:00 am
-    - 8:00 pm Thursday 8:00 am - 8:00 pm Friday 8:00 am - 8:00 pm Saturday 9:00 am
-    - 6:00 pm Sunday 9:00 am - 4:00 pm
+opening_hours: Mo-Fr 08:00-20:00, Sa 09:00-18:00, Su 09:00-16:00
 website: https://www.waxingthecity.com/locations/w12/us/co/lakewood/
