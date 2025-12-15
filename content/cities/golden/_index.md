@@ -1,6 +1,6 @@
 ---
 title: Golden
 url: /golden/
-latitude: 39.737
-longitude: -105.161
+latitude: 39.741
+longitude: -105.2
 ---
