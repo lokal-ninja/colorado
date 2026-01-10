@@ -1,6 +1,6 @@
 ---
 title: Meeker
 url: /meeker/
-latitude: 40.004
-longitude: -107.233
+latitude: 40.226
+longitude: -107.804
 ---
