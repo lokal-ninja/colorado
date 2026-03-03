@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /denver/family-dollar-east-colfax-avenue/
+url: /craig/family-dollar/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /greeley/safeway-10th-street/
+url: /greeley/safeway-centerplace-drive/
 shop: supermarket
 ---
