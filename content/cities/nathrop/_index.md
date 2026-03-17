@@ -1,6 +1,6 @@
 ---
 title: Nathrop
 url: /nathrop/
-latitude: 38.704
-longitude: -106.345
+latitude: 38.697
+longitude: -106.091
 ---
