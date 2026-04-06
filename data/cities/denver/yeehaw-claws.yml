@@ -7,7 +7,5 @@ city: Denver
 street: West 8th Avenue
 housenumber: "711"
 phone: ""
-opening_hours: Monday  Closed  TUESDAY  10:30 AM - 5:30 PM  WEDNESDAY  10:30 AM -
-    5:30 PM  THURSDAY  10:30 AM - 5 PM  FRIDAY  10:30 AM - 5 PM  SATURDAY  10:30 AM
-    - 4 PM  Sunday  Closed
+opening_hours: Tu,We 10:30-17:30; Th,Fr 10:30-17:00; Sa 10:30-16:00
 website: https://yeehawclaws.glossgenius.com/about
