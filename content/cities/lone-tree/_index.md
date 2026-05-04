@@ -1,6 +1,6 @@
 ---
 title: Lone Tree
 url: /lone-tree/
-latitude: 39.558
-longitude: -104.875
+latitude: 39.565
+longitude: -104.902
 ---
