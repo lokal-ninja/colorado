@@ -1,6 +1,6 @@
 ---
 title: Keenesburg
 url: /keenesburg/
-latitude: 40.112
-longitude: -104.522
+latitude: 40.109
+longitude: -104.516
 ---

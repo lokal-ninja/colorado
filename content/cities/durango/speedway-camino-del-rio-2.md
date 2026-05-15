@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /pagosa-springs/speedway-eagle-drive/
+url: /durango/speedway-camino-del-rio-2/
 shop: convenience
 ---
