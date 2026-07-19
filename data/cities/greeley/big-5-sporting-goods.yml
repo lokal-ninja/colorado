@@ -1,11 +1,12 @@
 id: 992163232
 type: node
-latitude: 40.38991
-longitude: -104.75798
+latitude: 40.38992
+longitude: -104.75805
 postcode: "80634"
 city: Greeley
 street: West 29th Street
 housenumber: "4743"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-We 10:00-20:30; Th 09:30-20:30; Fr 09:00-21:00; Sa 09:00-19:00;
+    Su 09:30-20:00
 website: ""
