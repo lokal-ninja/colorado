@@ -1,5 +1,5 @@
 ---
-title: "Konark Grocers"
+title: "Konark grocers"
 url: /parker/konark-grocers-east-mainstreet/
-shop: supermarket
+shop: greengrocer
 ---
