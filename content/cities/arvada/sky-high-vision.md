@@ -1,5 +1,5 @@
 ---
-title: "Sky high Vision"
+title: "Sky High Vision"
 url: /arvada/sky-high-vision/
 shop: optician
 ---

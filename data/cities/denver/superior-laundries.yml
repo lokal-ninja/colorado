@@ -7,5 +7,5 @@ city: Denver
 street: South Parker Road
 housenumber: "1412"
 phone: ""
-opening_hours: Mo-Su 07:00-22:00 (last wash 21:00)
+opening_hours: Mo-Su 07:00-22:00 "last wash one hour before closing"
 website: ""

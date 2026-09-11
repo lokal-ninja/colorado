@@ -1,6 +1,6 @@
 ---
 title: Conifer
 url: /conifer/
-latitude: 39.519
-longitude: -105.307
+latitude: 39.492
+longitude: -105.348
 ---
