@@ -1,5 +1,5 @@
 ---
-title: "Ergun Tercan European Salon"
+title: "Ergün Tercan European Salon"
 url: /denver/ergun-tercan-european-salon/
 shop: hairdresser
 ---
